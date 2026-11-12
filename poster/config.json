@@ -18,7 +18,7 @@
     "rate": "+12%",
     "pitch": "+4Hz",
     "outro_voice": "en-IN-PrabhatNeural",
-    "note": "Coimbatore 360: Valluvar (free edge-tts) reads every reel; Google voices are never used"
+    "note": "Erode 360: Valluvar (free edge-tts) reads every reel; Google voices are never used"
   },
   "prime_time": {
     "enabled": false,
@@ -33,7 +33,7 @@
       ]
     ],
     "max_wait_hours": 12,
-    "note": "owner 29 Oct (Coimbatore): NO fixed posting times - every reel posts the moment it is made. (enabled=true would make non-urgent reels wait for the windows below.)"
+    "note": "owner 29 Oct (Erode): NO fixed posting times - every reel posts the moment it is made. (enabled=true would make non-urgent reels wait for the windows below.)"
   },
   "reel_punch": false,
   "reel_max_seconds": 88,
@@ -69,7 +69,26 @@
       "sports_culture": "#Sports",
       "other": "#TamilNews"
     },
-    "place_tags": {},
+    "place_tags": {
+      "கோபிசெட்டிபாளைய": "#Gobichettipalayam",
+      "கோபி": "#Gobichettipalayam",
+      "சத்தியமங்கல": "#Sathyamangalam",
+      "பவானிசாக": "#Bhavanisagar",
+      "பவானி": "#Bhavani",
+      "பெருந்துறை": "#Perundurai",
+      "அந்தியூ": "#Anthiyur",
+      "கொடுமுடி": "#Kodumudi",
+      "மொடக்குறிச்சி": "#Modakurichi",
+      "தாளவாடி": "#Thalavadi",
+      "சென்னிமலை": "#Chennimalai",
+      "நம்பியூ": "#Nambiyur",
+      "புளியம்பட்டி": "#Puliyampatti",
+      "கொடிவேரி": "#Kodiveri",
+      "கவுந்தப்பாடி": "#Kavundapadi",
+      "சூரம்பட்டி": "#Surampatti",
+      "கருங்கல்பாளைய": "#Karungalpalayam",
+      "வீரப்பன்சத்திர": "#Veerappanchatram"
+    },
     "extra_tag": "#ErodeDistrict",
     "search_suffix": "Erode news",
     "caption_all_facts": true,
