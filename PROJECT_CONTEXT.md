@@ -81,6 +81,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-12 | `4812b37` | TRIAL: direct reel upload ON for this new page (file instead of Cloudinary link; falls back to the link; never posts twice) |
+| 2026-11-12 | `0a9dce7` | powercut: notices written |
 | 2026-11-12 | `97123ad` | cloudinary: keep the last 48 h only, clean once every 48 h (own workflow; hourly step removed) |
 | 2026-11-12 | `3173d11` | powercut: notices written |
 | 2026-11-12 | `ca299d2` | post: start the next posting run after the 12-minute gap while stories wait (GitHub runs the 5-min schedule ~hourly; Coimbatore had 23 waiting, 1 posted per hour) |
