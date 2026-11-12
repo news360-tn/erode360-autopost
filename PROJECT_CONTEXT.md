@@ -81,6 +81,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-12 | `d09c0b2` | reel: spoken follow line names this page (was 'Follow Coimbatore Three Sixty'); waiting reels rebuilt |
+| 2026-11-12 | `146bd50` | stories shared |
+| 2026-11-12 | `c719175` | powercut: notices written |
+| 2026-11-12 | `a4ccfa7` | powercut: notices written |
 | 2026-11-12 | `4812b37` | TRIAL: direct reel upload ON for this new page (file instead of Cloudinary link; falls back to the link; never posts twice) |
 | 2026-11-12 | `0a9dce7` | powercut: notices written |
 | 2026-11-12 | `97123ad` | cloudinary: keep the last 48 h only, clean once every 48 h (own workflow; hourly step removed) |
