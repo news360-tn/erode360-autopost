@@ -1,11 +1,10 @@
-23:51:36 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
+00:03:15 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
 ::warning title=Held from posting RN-6::held: fact-check problems - not grounded: location 'பகுதி' is not in the article
-23:51:40 story catch-up erode: quota 27/50, 14 recent posts, 13 live stories, owner ids ['17841461695723120', '28992168970439744']
-23:51:40 3 stories in the queue, ready to post: 2
-23:51:40   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-23:51:40    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 12.8 ready= False set_started= True
-23:51:40    RN-15 review= 'Auto' images= 195 spec= 756 pages= ['erode'] links= '' '' age_h= 2.0 ready= True set_started= True
-23:51:40    RN-16 review= 'Auto' images= 195 spec= 888 pages= ['erode'] links= '' '' age_h= 2.0 ready= True set_started= True
-23:51:42 publishing quota erode: 27/50
-23:51:44 instagram duplicate check erode: 14 recent posts read
-23:51:44    RN-16 waits for the 12-minute gap after the last post on ['erode']
+00:03:17 story catch-up erode: quota 29/50, 15 recent posts, 14 live stories, owner ids ['17841461695723120', '28992168970439744']
+00:03:17 2 stories in the queue, ready to post: 1
+00:03:17   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+00:03:17    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 13.0 ready= False set_started= True
+00:03:17    RN-16 review= 'Auto' images= 195 spec= 888 pages= ['erode'] links= '' '' age_h= 2.2 ready= True set_started= True
+00:03:18 publishing quota erode: 29/50
+00:03:19 instagram duplicate check erode: 15 recent posts read
+00:03:19    RN-16 waits for the 12-minute gap after the last post on ['erode']
