@@ -1,6 +1,10 @@
-07:23:54 story catch-up erode: quota 0/50, 0 recent posts, 0 live stories, owner ids ['17841461695723120', '28992168970439744']
-07:23:54 1 stories in the queue, ready to post: 1
-07:23:54   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-07:23:54    RN-1 review= 'Auto' images= 98 spec= 674 pages= ['erode'] links= '' '' age_h= 0.0 ready= True set_started= True
-07:23:56 publishing quota erode: 0/50
-07:23:58 instagram duplicate check erode: 0 recent posts read
+07:32:55 story catch-up erode: quota 2/50, 1 recent posts, 1 live stories, owner ids ['17841461695723120', '28992168970439744']
+07:32:55 3 stories in the queue, ready to post: 3
+07:32:55   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+07:32:55    RN-2 review= 'Auto' images= 98 spec= 694 pages= ['erode'] links= '' '' age_h= 0.1 ready= True set_started= True
+07:32:55    RN-3 review= 'Auto' images= 98 spec= 698 pages= ['erode'] links= '' '' age_h= 0.1 ready= True set_started= True
+07:32:55    RN-4 review= 'Auto' images= 98 spec= 505 pages= ['erode'] links= '' '' age_h= 0.0 ready= True set_started= True
+07:32:57 publishing quota erode: 2/50
+07:32:58 instagram duplicate check erode: 1 recent posts read
+07:32:58    RN-3 waits for the 12-minute gap after the last post on ['erode']
+07:32:58 prebuilding ahead of the set start: ['RN-3']
