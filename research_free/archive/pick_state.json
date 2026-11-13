@@ -226,7 +226,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/13/%E0%AE%9A%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BF%E0%AE%AE%E0%AE%B2%E0%AF%88-%E0%AE%85%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%87-10-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%AA%E0%AE%B1%E0%AE%BF%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D-2-%E0%AE%AA%E0%AF%87%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81"
    ],
-   "listed_at": "2026-11-14T01:49:53.299371+05:30"
+   "listed_at": "2026-11-14T01:49:53.299371+05:30",
+   "picked_at": "2026-11-14T01:51:21.281949+05:30"
   },
   "C2820c0e": {
    "id": "C2820c0e",
@@ -238,7 +239,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-14T01:49:53.299371+05:30"
+   "listed_at": "2026-11-14T01:49:53.299371+05:30",
+   "picked_at": "2026-11-14T01:51:21.281957+05:30"
   },
   "C49e76d9": {
    "id": "C49e76d9",
@@ -253,7 +255,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/13/%E0%AE%90%E0%AE%90%E0%AE%9F%E0%AE%BF-%E0%AE%95%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%BE%E0%AF%8D-%E0%AE%B5%E0%AF%87%E0%AE%B3%E0%AE%BE%E0%AE%B3%E0%AE%BE%E0%AF%8D-%E0%AE%AA%E0%AF%8A%E0%AE%B1%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D-%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%82%E0%AE%B0%E0%AE%BF-%E0%AE%87%E0%AE%9F%E0%AF%88%E0%AE%AF%E0%AF%87-%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BF%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%A3%E0%AE%BE%E0%AF%8D%E0%AE%B5%E0%AF%81-%E0%AE%92%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D"
    ],
-   "listed_at": "2026-11-14T01:49:53.299371+05:30"
+   "listed_at": "2026-11-14T01:49:53.299371+05:30",
+   "picked_at": "2026-11-14T01:51:21.281962+05:30"
   },
   "Cddbc25e": {
    "id": "Cddbc25e",
@@ -567,8 +570,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-14T02:49:53.299371+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "no submit by 02:49 AM - automatic top 3",
+    "ids": [
+     "C09acad4",
+     "C2820c0e",
+     "C49e76d9"
+    ],
+    "at": "2026-11-14T01:51:21.281927+05:30"
+   },
+   "written": [
+    "C09acad4",
+    "C2820c0e",
+    "C49e76d9"
+   ]
   }
  },
  "retry": {}
