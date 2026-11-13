@@ -1,314 +1,296 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 5 recent posts read from the page",
+  "instagram check: 8 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/worker-gets-5-yrs-in-jail-for-snatching-jewellery-from-elderly-woman/4374834",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/young-girl-magic/4374837",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/female-councillor-stages-a-sit-in-protest-at-the-koogalur-town-panchayat-office",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kalingarayan-channel-to-be-opened-from-20th/4374826",
-  "candidate filter: collected=4",
-  "to write: 4 Erode district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Erode; time left 79 min",
+  "manual link added: https://www.dinakaran.com/news/gobichettipalayam-100-day-employment-scheme-worker-car-severe-injuries",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/student-asks-for-explanation-of-mysterious-affair-/4374824",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/dro-responsibility/4374835",
+  "candidate filter: collected=3",
+  "to write: 3 Erode district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 1})",
+  "try (N) manual=True: https://www.dinakaran.com/news/gobichettipalayam-100-day-emp",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 2})",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 3})",
-  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 72 min",
-  "filed: 4 Erode district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 74 min",
+  "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.6-flash (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (22s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (39s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "ok gemini/gemini-3.5-flash (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (28s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "dead for this round: groq/qwen/qwen3.8-27b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சத்தியமங்கலத்தில் 19 வயது இளம்பெண் மாயம்: போலீசார் தேடுதல்",
-   "english_headline": "19-year-old woman missing from Sathyamangalam; police searching",
-   "category": "Crime & Safety",
-   "location": "Alathukombai, Sathyamangalam, Erode district",
+   "tamil_headline": "ஈரோடு மாவட்டத்தின் புதிய டி.ஆர்.ஓ.வாக ஜெயராமன் நேற்று பொறுப்பேற்பு",
+   "english_headline": "Jeyaraman takes charge as new Erode District Revenue Officer (DRO)",
+   "category": "Government & Services",
+   "location": "Erode city, Erode district",
    "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு செய்தி",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோடு புதிய மாவட்ட வருவாய் அலுவலர்",
+    "hl2": "ஜெயராமன் பொறுப்பேற்பு",
+    "slides": [
+     {
+      "title": "பொறுப்பேற்பு",
+      "lines": [
+       "ஈரோடு மாவட்ட <b>DRO</b> ஆக ஜெயராமன் நியமனம்",
+       "நேற்று முறைப்படி பொறுப்பேற்றுக்கொண்டார்"
+      ]
+     },
+     {
+      "title": "பணி இடமாற்றம்",
+      "lines": [
+       "முன்பு பணியாற்றிய சாந்தகுமார் மாற்றம்",
+       "சென்னை மாநகராட்சி துணை ஆணையராக நியமனம்",
+       "ஜெயராமன் திருவள்ளூர் சிறப்பு <b>DRO</b> ஆக இருந்தார்"
+      ]
+     },
+     {
+      "title": "முந்தைய அனுபவம்",
+      "lines": [
+       "கோபியில் வருவாய் கோட்டாட்சியராக பணிபுரிந்தவர்",
+       "பவானிசாகர் பயிற்சி கல்லூரி முதல்வராகவும் பணியாற்றினார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு மாவட்டத்தின் புதிய மாவட்ட வருவாய் அலுவலராக ஜெயராமன் நேற்று பொறுப்பேற்றுக்கொண்டார். ஈரோடு மாவட்ட வருவாய் அலுவலராக பணிபுரிந்த சாந்தகுமார் சென்னை மாநகராட்சி துணை ஆணையராக மாற்றப்பட்டுள்ளார். இவருக்குப் பதிலாக திருவள்ளூர் மாவட்ட சிறப்பு மாவட்ட வருவாய் அலுவலராக பணியாற்றிய ஜெயராமன் நியமிக்கப்பட்டார். நியமிக்கப்பட்ட ஜெயராமன் நேற்று தனது புதிய பொறுப்பை ஏற்றுக்கொண்டார். இவர் ஏற்கனவே கோபியில் வருவாய் கோட்டாட்சியராக பணியாற்றியவர். மேலும் பவானிசாகர் அரசு ஊழியர் பயிற்சி கல்லூரியின் முதல்வராகவும் இவர் பணிபுரிந்துள்ளார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💼 ஈரோடு மாவட்ட புதிய DRO ஆக ஜெயராமன் பொறுப்பேற்பு!\n\n📰 முழு விவரம்:\nஈரோடு மாவட்ட வருவாய் அலுவலராக (DRO) பணியாற்றிய சாந்தகுமார் சென்னை மாநகராட்சி துணை ஆணையராக மாற்றப்பட்டார். இவருக்குப் பதிலாக திருவள்ளூர் மாவட்ட சிறப்பு மாவட்ட வருவாய் அலுவலராக (நெடுஞ்சாலைகள்) பணியாற்றிய ஜெயராமன் ஈரோடு மாவட்ட வருவாய் அலுவலராக நியமிக்கப்பட்டார். நியமிக்கப்பட்ட ஜெயராமன் நேற்று முறைப்படி பொறுப்பேற்றுக்கொண்டார். இவர் ஏற்கனவே கோபியில் வருவாய் கோட்டாட்சியராகவும், பவானிசாகர் அரசு ஊழியர் பயிற்சி கல்லூரி முதல்வராகவும் பணியாற்றிய அனுபவம் உடையவர்.\n\n📍 இடம்: ஈரோடு மாவட்ட ஆட்சியர் அலுவலகம்\n👤 புதிய அதிகாரி: ஜெயராமன் (மாவட்ட வருவாய் அலுவலர்)\n🔄 பணி மாற்றம்: சாந்தகுமார் (சென்னை மாநகராட்சி துணை ஆணையர்)\n\nNew Erode District Revenue Officer Jeyaraman assumes charge | Erode news\n📍 ஈரோடு | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeCollectorate #ErodeDRO #ஈரோடு",
+   "prompts": "A newly appointed District Revenue Officer sits at a large wooden desk inside an official room to assume charge, signing official joining documents. The scene is set inside the spacious District Revenue Office at the Collectorate campus in Erode city, Tamil Nadu, with clean painted walls and large windows typical of Tamil Nadu government office interiors. The official, a man wearing a crisp formal shirt, is captured from a side angle with his face turned away, while two male office staff members in neat trousers and shirts stand respectfully to the side with their backs mostly to the camera. On the polished wooden table lie thick official paper ledgers, dark file covers, a pen holder, and glass paperweights. Diffused daylight fills the room alongside soft indoor ceiling lights. The camera angle is at eye level using a 35mm lens, framed wide enough to show the official desk and office environment. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed close-up shot captures the hands of the District Revenue Officer holding a pen and signing an official joining ledger spread open on a dark wood table inside the office in Erode city. The background shows the softly blurred polished desk surface and edge of a file folder, with no readable text or letters visible anywhere on the page. Only the hand, pen tip, and smooth paper are visible, with no faces in the frame. A pair of reading glasses rests neatly beside the official paper folder on the desk. Bright daylight streams in softly from a nearby window, illuminating the paper surface. The shot is taken from a slightly elevated close-up perspective using a 50mm lens with a shallow depth of field focused on the pen point. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/dro-responsibility/4374835",
+   "published": "2026-11-13T06:18:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794572707/erode360/k9pjgywb3ov14efrcfap.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794572711/erode360/gig8t2kqboyufcbjhpsl.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கோபி அருகே கோர விபத்து: 100 நாள் வேலைத் திட்டப் பணியாளர்கள் மீது கார் மோதி 17 பேர் படுகாயம்",
+   "english_headline": "Car plows into 100-day job scheme workers near Gobichettipalayam; 17 injured",
+   "category": "Crime & Safety",
+   "location": "Gobichettipalayam area, Erode district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மாயம்",
-    "loc": "சத்தியமங்கலம்",
-    "hl1": "சத்தியமங்கலத்தில் இளம்பெண் மாயம்",
-    "hl2": "போலீசார் தேடி வருகின்றனர்",
+    "cat": "கோர விபத்து",
+    "loc": "கோபி",
+    "hl1": "கோபி அருகே கார் மோதி 17 பேர் படுகாயம்",
+    "hl2": "100 நாள் வேலைப் பணியாளர்கள்",
+    "slides": [
+     {
+      "title": "விபத்து விவரம்",
+      "lines": [
+       "கோபி அருகே 100 நாள் பணியாளர்கள் மீது கார் மோதியது",
+       "சாலையோரம் நின்றிருந்த <b>17 பேர்</b> படுகாயமடைந்தனர்"
+      ]
+     },
+     {
+      "title": "எப்படி நடந்தது?",
+      "lines": [
+       "இருசக்கர வாகனத்திற்கு வழிவிடத் திருப்பப்பட்ட கார்",
+       "ஓட்டுநரின் கட்டுப்பாட்டை இழந்து கூட்டத்திற்குள் புகுந்தது"
+      ]
+     },
+     {
+      "title": "சிகிச்சை & வழக்கு",
+      "lines": [
+       "<b>108 ஆம்புலன்ஸ்</b> மூலம் 17 பேரும் மீட்கப்பட்டனர்",
+       "கோபி அரசு மருத்துவமனையில் தீவிர சிகிச்சை",
+       "கோபிசெட்டிப்பாளையம் காவல் துறையினர் விசாரணை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கோபி அருகே கார் மோதி 17 பணியாளர்கள் படுகாயமடைந்தனர். ஈரோடு மாவட்டம் கோபிசெட்டிப்பாளையம் சுற்றியுள்ள பகுதியைச் சேர்ந்த 100 நாள் வேலைத் திட்டப் பணியாளர்கள் பணிக்காகச் சாலையோரம் நின்று கொண்டிருந்தனர். அப்போது அந்த வழியாக வந்த கார், எதிரே வந்த இருசக்கர வாகனத்திற்கு வழிவிடத் திடீரெனத் திருப்பப்பட்டது. இதில் ஓட்டுநரின் கட்டுப்பாட்டை இழந்த கார், சாலையோரம் நின்ற பணியாளர்கள் கூட்டத்திற்குள் புகுந்தது. இந்த விபத்தில் 17 பணியாளர்கள் படுகாயமடைந்தனர். அக்கம்பக்கத்தினரும் மீட்புக் குழுவினரும் 108 ஆம்புலன்ஸ் மூலம் அனைவரையும் மீட்டனர். காயமடைந்த 17 பேரும் சிகிச்சைக்காகக் கோபிசெட்டிப்பாளையம் அரசு மருத்துவமனைக்கு அனுப்பி வைக்கப்பட்டனர். அங்கு அவர்களுக்குத் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. இதுகுறித்து கோபிசெட்டிப்பாளையம் காவல்துறையினர் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கோபி அருகே கார் மோதி 100 நாள் வேலைத் திட்டப் பணியாளர்கள் 17 பேர் படுகாயம்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் கோபிசெட்டிப்பாளையம் சுற்றியுள்ள பகுதியைச் சேர்ந்த மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதித் திட்டப் பணியாளர்கள் பணிக்காகச் சாலையோரம் நின்று கொண்டிருந்தனர். அப்போது வேகமாக வந்த கார், எதிரே வந்த இருசக்கர வாகனத்திற்கு வழிவிடுவதற்காகத் திருப்பப்பட்ட போது கட்டுப்பாட்டை இழந்து பணியாளர்கள் கூட்டத்திற்குள் புகுந்தது. இதில் 17 பணியாளர்கள் படுகாயமடைந்தனர்.\n\n📍 இடம்: கோபிசெட்டிப்பாளையம் சுற்றுவட்டாரப் பகுதி, ஈரோடு மாவட்டம்\n🗓️ நாள்: 13 நவம்பர் 2026\n🚑 மீட்பு: 108 ஆம்புலன்ஸ் மூலம் மீட்கப்பட்டு கோபிசெட்டிப்பாளையம் அரசு மருத்துவமனையில் தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது.\n👮 நடவடிக்கை: கோபிசெட்டிப்பாளையம் காவல்துறையினர் வழக்குப்பதிவு செய்து தீவிர விசாரணை மேற்கொண்டு வருகின்றனர்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nGobichettipalayam car accident 100 days workers injured | Erode news\n📍 கோபி, ஈரோடு | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ஈரோடு #ErodeNews",
+   "prompts": "A white car sits at an angle on the dusty shoulder of a rural road near Gobichettipalayam after veering off the pavement where the 100-day scheme workers were gathered. The road is lined with neem trees and green paddy fields characteristic of the Erode district countryside. In the background, a small crowd of local men in shirts and veshtis, along with two police officers in khaki uniforms, stand at a distance observing the scene. A two-wheeler is parked on the side of the road further away. The scene is captured in bright daylight under a clear sky. The camera is at eye level using a 35mm lens, providing a wide shot that shows the car's position relative to the road and the surrounding rural landscape, with no injured persons visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the damaged front of the car, showing a dented bumper and a shattered headlight resting near the edge of a roadside ditch in the Gobichettipalayam area. On the gravelly ground next to the car's tires, a few stainless steel water pots and small hand tools used by the workers are scattered, signifying the sudden impact. The background is slightly blurred, showing the khaki trousers of a police officer and the wheels of a parked 108 ambulance. The lighting is the harsh, direct light of midday, casting sharp shadows on the dry earth. The camera is at a low angle, focusing tightly on the vehicle's damage and the abandoned objects to tell the story of the accident without showing any people clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/gobichettipalayam-100-day-employment-scheme-worker-car-severe-injuries",
+   "published": "2026-11-13T12:54:17+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794572878/erode360/wnlxyqjozfdlqvuoko2q.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794572882/erode360/ekz8txpnkkqxae2uj4fh.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரசுப் பள்ளி மாணவன் மாயம்: தலைமை ஆசிரியைக்கு விளக்கம் கேட்டு நோட்டீஸ்",
+   "english_headline": "Govt school student missing in Erode; headmistress served notice seeking explanation",
+   "category": "Education",
+   "location": "Erode, Erode district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் பள்ளி மாணவன் மாயம்",
+    "hl2": "தலைமை ஆசிரியைக்கு நோட்டீஸ்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ஆலத்துகோம்பையைச் சேர்ந்த <b>19 வயது</b> தமிழ்செல்வி மாயம்",
-       "நேற்று முன்தினம் வீட்டில் இருந்து காணவில்லை",
-       "பெற்றோர் வேலைக்குச் சென்றிருந்த நேரம்"
+       "லக்காபுரம் அரசு மேல்நிலைப் பள்ளி மாணவன் மாயம்",
+       "எட்டாம் வகுப்பு படிக்கும் <b>13 வயது</b> மாணவன்",
+       "<b>10ம் தேதி</b> காலை மூன்றாவது பாட வேளையில் காணவில்லை"
       ]
      },
      {
-      "title": "யார் இவர்?",
+      "title": "எங்கே",
       "lines": [
-       "டி.ஜி.புதூரில் பனியன் கம்பெனியில் வேலை செய்பவர்",
-       "தந்தை சண்முகத்தின் மகள்",
-       "தாயார் அய்யம்மாள் புகார் கொடுத்துள்ளார்"
+       "ஈரோடு கரூர் பிரதான சாலையில் கொள்ளுக்காடுமேடு அரசு",
+       "கரூர் மாவட்டம் குளித்தலை க.பேட்டையைச் சேர்ந்தவர்",
+       "சக மாணவர்கள் கழிவறைக்குச் சென்றதாகத் தெரிவித்தனர்"
       ]
      },
      {
       "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "சத்தியமங்கலம் போலீசார் தேடி வருகின்றனர்",
-       "தகவல் தெரிந்தவர்கள் போலீசுக்குத் தெரிவிக்கலாம்"
+       "தலைமை ஆசிரியை கலைச்செல்வி மொடக்குறிச்சி போலீசில் புகார்",
+       "போலீசார் வழக்குப் பதிந்து விசாரணை",
+       "பள்ளி கல்வித்துறைக்கும் தகவல் தெரிவிக்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "கல்வித்துறை",
+      "lines": [
+       "தலைமை ஆசிரியை கலைச்செல்விக்கு விளக்கம் கேட்டு நோட்டீஸ்",
+       "நோட்டீஸ் கிடைத்ததும் உரிய நடவடிக்கை",
+       "கல்வித்துறையினர் தெரிவித்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சத்தியமங்கலத்தை அடுத்த ஆலத்துகோம்பையைச் சேர்ந்த 19 வயது தமிழ்செல்வி மாயமாகியுள்ளார். டி ஜி புதூரில் ஒரு பனியன் கம்பெனியில் வேலை செய்யும் இவர், நேற்று முன்தினம் வீட்டில் இல்லாமல் போனார். அன்று பெற்றோர் வேலைக்குச் சென்றிருந்தனர். மாலையில் வீடு திரும்பியபோது மகள் வீட்டில் இல்லை. தாயார் அய்யம்மாள் அளித்த புகாரின்படி சத்தியமங்கலம் போலீசார் தேடி வருகின்றனர். தமிழ்செல்வி குறித்து தகவல் தெரிந்தவர்கள் போலீசுக்குத் தெரிவிக்கலாம். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🔍 சத்தியமங்கலத்தில் 19 வயது இளம்பெண் மாயம்: போலீசார் தேடுதல்\n\n📰 முழு விவரம்:\nசத்தியமங்கலத்தை அடுத்த ஆலத்துகோம்பையைச் சேர்ந்த சண்முகத்தின் மகள் தமிழ்செல்வி (19 வயது), டி.ஜி.புதூரில் ஒரு பனியன் கம்பெனியில் வேலை செய்கிறார். நேற்று முன்தினம் பெற்றோர் வேலைக்குச் சென்றிருந்தனர். மாலையில் வீடு திரும்பியபோது வீட்டில் மகளைக் காணவில்லை. தாயார் அய்யம்மாள் அளித்த புகாரின்படி சத்தியமங்கலம் போலீசார் தேடி வருகின்றனர்.\n📍 இடம்: ஆலத்துகோம்பை, சத்தியமங்கலம்\n👮 நடவடிக்கை: சத்தியமங்கலம் போலீசார் தேடுதல் பணி\nℹ️ மக்கள் கவனத்திற்கு: தமிழ்செல்வி குறித்து தகவல் தெரிந்தவர்கள் போலீசுக்குத் தெரிவிக்கலாம்.\n\nSathyamangalam 19-year-old woman missing, police search | Erode news\n📍 சத்தியமங்கலம், ஈரோடு மாவட்டம் | 13 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #ErodeNews #ஈரோடு",
-   "prompts": "A Tamil Nadu police constable in khaki uniform walks slowly along a narrow mud lane in the village of Alathukombai near Sathyamangalam, searching for a missing 19-year-old woman, while villagers stand in small groups at a distance. Seen from behind, the constable wears a khaki shirt and trousers and carries a torch as the dusk light fades. On one side of the lane stands a modest brick house with a tiled roof and an open wooden door, where a woman in a cotton saree stands at the threshold, seen from far away and slightly blurred. Two men in shirts and veshti talk near a parked two-wheeler, and a Tamil Nadu police jeep is parked at the edge of the lane. Behind the houses, the forest-covered Sathyamangalam hills rise in the background under a soft evening sky. The time is dusk, with warm fading daylight and some house lights just coming on. Camera at eye level, 35 mm, wide enough to show the village lane, houses and hills. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/young-girl-magic/4374837",
-   "published": "2026-11-13T06:19:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஈரோட்டில் அரசுப் பள்ளி மாணவன் மாயமான விவகாரத்தில் தலைமை ஆசிரியைக்கு விளக்கம் கேட்டு நோட்டீஸ் அனுப்பப்பட்டுள்ளது. கொள்ளுக்காடுமேடு அரசு சிறுவர்கள் இல்லத்தில் தங்கியிருந்த 13 வயது மாணவன் விருதகிரி, லக்காபுரம் அரசு மேல்நிலைப் பள்ளியில் எட்டாம் வகுப்பு படித்து வந்தார். கரூர் மாவட்டம் குளித்தலை க.பேட்டையைச் சேர்ந்தவர். அக்டோபர் 10ஆம் தேதி காலை மூன்றாவது பாட வேளையில் அவர் வகுப்பறையில் இல்லை. ஆசிரியர் சாந்தி கேட்டபோது சக மாணவர்கள் கழிவறைக்குச் சென்றதாகத் தெரிவித்தனர். ஆனால் அனுப்பிப் பார்த்தபோதும் மாணவன் கிடைக்கவில்லை. தலைமை ஆசிரியை கலைச்செல்வி மொடக்குறிச்சி போலீசில் புகார் செய்தார். போலீசார் வழக்குப் பதிந்து விசாரணை மேற்கொள்கின்றனர். பள்ளி கல்வித்துறைக்கும் தகவல் தெரிவிக்கப்பட்டது. இதையடுத்து தலைமை ஆசிரியை கலைச்செல்விக்கு விளக்கம் கேட்டு நோட்டீஸ் அனுப்பப்பட்டுள்ளது. நோட்டீஸ் கிடைத்ததும் உரிய நடவடிக்கை எடுக்கப்படும் என்று கல்வித்துறையினர் தெரிவித்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏫 ஈரோட்டில் அரசுப் பள்ளி மாணவன் மாயம்: தலைமை ஆசிரியைக்கு நோட்டீஸ்\n\n📰 முழு விவரம்:\nலக்காபுரம் அரசு மேல்நிலைப் பள்ளியில் எட்டாம் வகுப்பு படிக்கும் 13 வயது மாணவன் விருதகிரி, அக். 10ஆம் தேதி காலை மூன்றாவது பாட வேளையில் வகுப்பறையில் இல்லை.\nஈரோடு கரூர் பிரதான சாலையில் உள்ள கொள்ளுக்காடுமேடு அரசு சிறுவர்கள் இல்லத்தில் தங்கியிருந்தவர். கரூர் மாவட்டம் குளித்தலை க.பேட்டையைச் சேர்ந்தவர்.\nசக மாணவர்கள் கழிவறைக்குச் சென்றதாகத் தெரிவித்தனர். ஆனால் தேடியபோதும் மாணவன் கிடைக்கவில்லை.\nதலைமை ஆசிரியை கலைச்செல்வி மொடக்குறிச்சி போலீசில் புகார் செய்தார். வழக்குப் பதிந்து போலீசார் விசாரணை நடத்துகின்றனர்.\nஇதையடுத்து தலைமை ஆசிரியை கலைச்செல்விக்கு விளக்கம் கேட்டு நோட்டீஸ் அனுப்பப்பட்டுள்ளது.\n\n👮 நடவடிக்கை: மொடக்குறிச்சி போலீசார் வழக்குப் பதிந்து விசாரணை\n🏫 கல்வித்துறை: நோட்டீஸ் கிடைத்ததும் உரிய நடவடிக்கை\n\nErode govt school student missing, headmistress served notice | Erode news\n📍 ஈரோடு | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ஈரோடு",
+   "prompts": "An empty classroom of a Tamil Nadu government school in Erode district stands in the morning light, with rows of wooden benches and desks, and one bench left vacant near the back wall as if a student has just stepped out. A few Class 8 students in the government school uniform, white shirts and navy skirts or trousers, sit at the far end of the room seen from behind, looking toward the door and speaking quietly with one another. A female teacher in a cotton saree stands near the blackboard at the front, her back partly turned, one hand resting on the desk. Chalk writing is on the blackboard but no readable text is shown. Pale daylight comes through tall windows and falls across the floor. The camera is at eye level, shot at 35 mm, wide enough to show the full room, with the people small and blurred from behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a school desk in a government school classroom in Erode, with a wooden bench top showing wear, a small school bag hanging from the hook beneath, and a folded official letter lying on the desk beside a pencil box and a plastic water bottle. The letter is shown only as a folded white paper with no readable text. Behind the desk, slightly out of focus, a window lets in soft morning daylight and the faint outline of a second empty bench. Dust particles drift in the light. The camera is slightly high, 35 mm, shallow depth of field, focused on the bag and letter, with no faces visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/student-asks-for-explanation-of-mysterious-affair-/4374824",
+   "published": "2026-11-13T06:12:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548199/erode360/ijoqoeve4ydxjlndhqog.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "காளிங்கராயன் வாய்க்காலில் 20ம் தேதி முதல் தண்ணீர் திறப்பு?",
-   "english_headline": "Kalingarayan canal water release may start from 20th; farmers demand water as crops suffer",
-   "category": "Weather & Agriculture",
-   "location": "Kalingarayan canal irrigation area, Erode district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பாசனம்",
-    "loc": "காளிங்கராயன் பாசனப் பகுதி",
-    "hl1": "காளிங்கராயன் வாய்க்காலில் 20 முதல்",
-    "hl2": "தினமும் 500 கன அடி பரிந்துரை",
-    "slides": [
-     {
-      "title": "தண்ணீர் நிலவரம்",
-      "lines": [
-       "காளிங்கராயன் பாசனத்தில் <b>15,764 ஏக்கர்</b> நிலம் உள்ளது",
-       "வழக்கமாக ஜூன் 16 முதல் ஏப். 30 வரை தண்ணீர் திறப்பு",
-       "இந்த ஆண்டு பவானிசாகர் அணையில் போதிய தண்ணீர் இல்லை"
-      ]
-     },
-     {
-      "title": "விவசாயிகள்",
-      "lines": [
-       "தென்னை, வாழை, மஞ்சள், நெல் பயிர்கள் பாதிப்பு",
-       "தண்ணீர் திறக்கக் கோரி விவசாயிகள் வலியுறுத்தல்",
-       "சென்னை உயர்நீதிமன்றத்தில் வழக்கும் தொடரப்பட்டது"
-      ]
-     },
-     {
-      "title": "புதிய உறுதி",
-      "lines": [
-       "வரும் <b>20ம் தேதி</b> முதல் ஏப். 5 வரை தண்ணீர் திறப்பு",
-       "தினமும் <b>500 கன அடி</b> திறக்க அரசுக்கு பரிந்துரை",
-       "அரசாணை விரைவில் வெளியாகும் என உறுதி"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "காளிங்கராயன் வாய்க்காலில் வரும் 20ஆம் தேதி முதல் தண்ணீர் திறக்கப்படலாம். ஈரோடு மாவட்டத்தில் காளிங்கராயன் வாய்க்கால் பாசனம் மூலம் 15,764 ஏக்கர் நிலம் பாசனம் பெறுகிறது. வழக்கமாக ஜூன் 16ஆம் தேதி முதல் ஏப்ரல் 30ஆம் தேதி வரை தண்ணீர் திறக்கப்படும். இந்த ஆண்டு பவானிசாகர் அணையில் போதிய தண்ணீர் இல்லை. வாய்க்காலில் நவீன பராமரிப்புப் பணி நடப்பதாகக் கூறி தண்ணீர் திறக்கப்படவில்லை. தண்ணீர் திறக்காததால் தென்னை, வாழை, மஞ்சள், மரவள்ளி கிழங்கு, நெல், மக்காசோளம் பயிர்கள் பாதிக்கப்படுகின்றன. தண்ணீர் திறக்கக் கோரி விவசாயிகள் வலியுறுத்தி வருகின்றனர். தண்ணீர் திறக்கக் கோரி சென்னை உயர்நீதிமன்றத்தில் காளிங்கராயன் மதகு பாசன விவசாயிகள் சபை தலைவர் பழனிகுமார் வழக்கு தொடர்ந்துள்ளார். நேற்று விவசாயிகள் ஈரோடு நீர் வளத்துறை செயற்பொறியாளர் அலுவலகத்தில் முறையிட்டனர். வரும் 20ஆம் தேதி முதல் ஏப்ரல் 5ஆம் தேதி வரை தினமும் 500 கன அடி தண்ணீர் திறக்க அரசுக்கு பரிந்துரை செய்துள்ளதாக அதிகாரிகள் உறுதி அளித்துள்ளனர். விரைவில் அரசாணை வெளியாகும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💧 காளிங்கராயன் வாய்க்காலில் 20ம் தேதி முதல் தண்ணீர் திறப்பு?\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் காளிங்கராயன் வாய்க்கால் பாசனம் மூலம் 15,764 ஏக்கர் நிலம் பாசனம் பெறுகிறது. வழக்கமாக ஜூன் 16 முதல் ஏப். 30 வரை தண்ணீர் திறக்கப்படும்.\nஇந்த ஆண்டு பவானிசாகர் அணையில் போதிய தண்ணீர் இல்லை என்றும், வாய்க்காலில் நவீன பராமரிப்புப் பணி நடப்பதாகவும் கூறி தண்ணீர் திறக்கப்படவில்லை.\nஜூலை 14 முதல் 28 வரை 15 நாட்களுக்கு உயிர்நீராக தண்ணீர் திறக்கப்பட்டது.\nதண்ணீர் திறக்காததால் தென்னை, வாழை, மஞ்சள், மரவள்ளி கிழங்கு, நெல், மக்காசோளம் பயிர்கள் பாதிக்கப்படுவதாக விவசாயிகள் தெரிவித்துள்ளனர்.\nதண்ணீர் திறக்கக் கோரி சென்னை உயர்நீதிமன்றத்தில் காளிங்கராயன் மதகு பாசன விவசாயிகள் சபை எண்-4 தலைவர் பழனிகுமார் வழக்கு தொடுத்துள்ளார்.\nநேற்று பழனிகுமார் தலைமையில் விவசாயிகள் ஈரோடு நீர் வளத்துறை செயற்பொறியாளர் அலுவலகத்தில் முறையிட்டனர்.\nவரும் 20ம் தேதி முதல் ஏப். 5 வரை தினமும் 500 கன அடி தண்ணீர் திறக்க அரசுக்கு பரிந்துரை செய்துள்ளதாக அதிகாரிகள் உறுதி அளித்துள்ளனர். விரைவில் இதற்கான அரசாணை வெளியாகும்.\n\nKalingarayan canal water release from 20th, Erode news\n📍 காளிங்கராயன் பாசனப் பகுதி, ஈரோடு மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #காளிங்கராயன் #ErodeNews",
-   "prompts": "A group of farmers in shirts and veshti stands beside a dry Kalingarayan irrigation canal in Erode district, the canal bed cracked and nearly empty of water. Behind them stretch farm fields where coconut palms, banana plants and turmeric crops look wilted and yellowing under a hazy sky. An old concrete canal sluice gate, the madagu, stands closed at the edge of the channel, with a narrow dry trickle at its base. A few farmers in the group are seen from behind, some holding rolled papers, as they look toward the empty canal. The scene is shot in bright daylight with a dusty, dry atmosphere. Camera at eye level or slightly high, 35 mm, wide enough to show the canal, the sluice and the field crops. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kalingarayan-channel-to-be-opened-from-20th/4374826",
-   "published": "2026-11-13T06:13:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'பகுதி' is not in the article",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548208/erode360/mqioi55l1asaxakxx4sh.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கூகலூர் பேரூராட்சியில் பெண் கவுன்சிலர் தர்னா: சாக்கடை வடிகால் உறுதி, 6 மணி நேரத்தில் போராட்டம் கைவிடப்பட்டது",
-   "english_headline": "Woman councillor stages dharna at Googalur town panchayat office over drainage; 6-hour protest called off after Rs 15 lakh drain promise",
-   "category": "Civic Issues",
-   "location": "Googalur town panchayat, Gobi taluk, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "பேரூராட்சி போராட்டம்",
-    "loc": "கூகலூர், கோபி",
-    "hl1": "கூகலூரில் பெண் கவுன்சிலர் தர்னா",
-    "hl2": "ரூ.15 லட்சம் வடிகால் உறுதி",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கூகலூர் பேரூராட்சி அலுவலகத்தில் பெண் கவுன்சிலர் தர்னா",
-       "15-ஆவது வார்டு கவுன்சிலர் லீலாவதி, கணவர் பாஸ்கருடன்",
-       "செயல் அலுவலரைக் கண்டித்து வியாழக்கிழமை போராட்டம்"
-      ]
-     },
-     {
-      "title": "ஏன் போராட்டம்?",
-      "lines": [
-       "7-க்கும் மேற்பட்ட குறுக்கு வீதிகளில் கழிவுநீர் வடிகால் சேதம்",
-       "மழைக்காலத்தில் மழைநீருடன் கழிவுநீர் வீதிகளில் ஓடுகிறது",
-       "ஓர் ஆண்டாக வலியுறுத்தியும் நடவடிக்கை இல்லை"
-      ]
-     },
-     {
-      "title": "முடிவு என்ன?",
-      "lines": [
-       "ரூ.<b>15 லட்சம்</b> மதிப்பீட்டில் வடிகால் வசதி உறுதி",
-       "உறுதிக் கடிதம் வழங்கப்பட்டது",
-       "சுமார் <b>6 மணி நேரம்</b> கழித்து தர்னா கைவிடப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கோபி அருகே கூகலூர் பேரூராட்சி அலுவலகத்தில் பெண் கவுன்சிலர் தர்னாவில் ஈடுபட்டார். 15-ஆவது வார்டு கவுன்சிலர் லீலாவதி, கணவர் பாஸ்கருடன் வியாழக்கிழமை இந்தப் போராட்டத்தில் ஈடுபட்டார். செயல் அலுவலர் சரவணன் தன்னை ஒருமையில் பேசியதாகவும், மிரட்டல் தொனியில் பேசியதாகவும் அவர் குற்றம் சாட்டினார். அவரது வார்டில் 7-க்கும் மேற்பட்ட குறுக்கு வீதிகளில் கழிவுநீர் வடிகால்கள் சேதமடைந்துள்ளன. மழைக்காலத்தில் மழைநீருடன் கழிவுநீர் வீதிகளில் ஓடுவதால் குடியிருப்புவாசிகள் அவதியடைகின்றனர். இதைச் சரிசெய்யக் கோரி ஓர் ஆண்டாக பேரூராட்சி மன்றக் கூட்டங்களில் வலியுறுத்தியும் நடவடிக்கை எடுக்கப்படவில்லை. முதல்வரின் தனிப்பிரிவு மற்றும் பேரூராட்சித் துறை உதவி இயக்குநருக்கும் மனு அளிக்கப்பட்டது. பின்னர் பேரூராட்சிக்கு வளர்ச்சித் திட்டப் பணிகளுக்கு நிதி ஒதுக்கப்பட்டதை அறிந்து, வடிகால் வசதி கேட்டு மனு அளிக்கச் சென்றபோது இந்தச் சம்பவம் நடந்தது. பேரூராட்சித் துறை உதவி இயக்குநரும், செயல் அலுவலரும் பேச்சுவார்த்தை நடத்தினர். 15-ஆவது வார்டில் குறுக்கு வீதிகளில் ரூ.15 லட்சம் மதிப்பீட்டில் சாக்கடை வடிகால் வசதி ஏற்படுத்தித் தருவதாக உறுதிக் கடிதம் வழங்கப்பட்டது. இதையடுத்து சுமார் 6 மணி நேரம் நடத்திய தர்னாவை கவுன்சிலர் லீலாவதி கைவிட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ கூகலூர் பேரூராட்சி அலுவலகத்தில் பெண் கவுன்சிலர் தர்னா\n\n📰 முழு விவரம்:\nகோபி அருகே கூகலூர் பேரூராட்சி அலுவலகத்தில் 15-ஆவது வார்டு கவுன்சிலர் லீலாவதி, கணவர் பாஸ்கருடன் வியாழக்கிழமை தர்னாவில் ஈடுபட்டார். செயல் அலுவலர் சரவணன் தன்னை ஒருமையிலும் மிரட்டல் தொனியிலும் பேசியதாகக் கூறப்படுகிறது.\nவார்டில் 7-க்கும் மேற்பட்ட குறுக்கு வீதிகளில் கழிவுநீர் வடிகால்கள் சேதமடைந்துள்ளன. மழைக்காலத்தில் மழைநீருடன் கழிவுநீர் வீதிகளில் ஓடுவதால் குடியிருப்புவாசிகள் அவதியடைகின்றனர். ஓர் ஆண்டாக வலியுறுத்தியும் நடவடிக்கை எடுக்கப்படவில்லை. முதல்வரின் தனிப்பிரிவு, பேரூராட்சித் துறை உதவி இயக்குநருக்கும் மனு அளிக்கப்பட்டது.\n🤝 பேச்சுவார்த்தை: பேரூராட்சித் துறை உதவி இயக்குநர், செயல் அலுவலர் ஆகியோர் கவுன்சிலருடன் பேச்சுவார்த்தை நடத்தினர்.\n✅ முடிவு: 15-ஆவது வார்டு குறுக்கு வீதிகளில் ரூ.15 லட்சம் மதிப்பீட்டில் சாக்கடை வடிகால் வசதி ஏற்படுத்தித் தருவதாக உறுதிக் கடிதம் வழங்கப்பட்டது.\n🕘 சுமார் 6 மணி நேரம் நடந்த தர்னா கைவிடப்பட்டது.\n\nGoogalur women councillor dharna over drainage | Erode news\n📍 கூகலூர், கோபி, ஈரோடு மாவட்டம் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
-   "prompts": "A woman councillor sits on the floor in a sit-in protest at the Googalur town panchayat office in Gobi taluk, Erode district, with her husband beside her as officials in shirts stand nearby across the office hall. The office is a plain government building with tube lights, wooden benches, steel almirahs and files stacked on tables, and a portrait-free wall with a fan overhead. Two or three people are seen from behind or far off: the councillor in a cotton saree, her husband in a shirt and veshti, and town panchayat staff in shirts and trousers standing in a half circle. Some residents and women sit along the wall, their faces turned away. It is Thursday daytime, bright daylight coming through the windows, humid Erode weather. Camera at eye level, 35 mm, wide enough to show the whole office hall and the protest group in the middle. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/female-councillor-stages-a-sit-in-protest-at-the-koogalur-town-panchayat-office",
-   "published": "2026-11-12T19:07:22.093Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('கூகலூா் பேரூராட்சி அலுவலகத்தில் பெண் கவுனசிலா் தா்னா') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548216/erode360/cdyqloxbmaxrxkjymvqk.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னிமலையில் மூதாட்டியிடம் நகை பறித்த தொழிலாளிக்கு 5 ஆண்டு சிறை",
-   "english_headline": "Chennimalai: worker who snatched gold chain from elderly woman sentenced to 5 years in prison",
-   "category": "Crime & Safety",
-   "location": "Chennimalai, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "சென்னிமலை",
-    "hl1": "சென்னிமலை: மூதாட்டியிடம் நகை",
-    "hl2": "5 ஆண்டு சிறை, ரூ.5,000",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "சென்னிமலை, மகாலட்சுமி நகரில் வீட்டில் தூங்கிக் கொண்டிருந்த",
-       "<b>2025 மார்ச் 1</b> மதியம் நடந்தது",
-       "முகத்தில் மிளகாய்ப் பொடி தூவி <b>5 பவுன்</b> தங்கச் சங்கிலி பறிப்பு"
-      ]
-     },
-     {
-      "title": "கைது",
-      "lines": [
-       "புகாரின்படி சென்னிமலை போலீசார் விசாரணை",
-       "அதே பகுதியைச் சேர்ந்த <b>41 வயது</b> மணிகண்டன் கைது",
-       "வழக்கு பெருந்துறை நீதித்துறை நடுவர் நீதிமன்றத்தில் நடந்தது"
-      ]
-     },
-     {
-      "title": "தீர்ப்பு",
-      "lines": [
-       "நடுவர் மூர்த்தி நேற்று தீர்ப்பளித்தார்",
-       "மணிகண்டனுக்கு <b>5 ஆண்டு</b> சிறை தண்டனை",
-       "<b>ரூ.5,000</b> அபராதமும் விதிக்கப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னிமலையில் மூதாட்டியிடம் நகை பறித்த தொழிலாளிக்கு 5 ஆண்டு சிறை தண்டனை கிடைத்துள்ளது. 2025 மார்ச் 1ஆம் தேதி மதியம் சென்னிமலை, மகாலட்சுமி நகரில் வீட்டில் தூங்கிக் கொண்டிருந்த 75 வயது ஜெயமணியின் முகத்தில் மிளகாய்ப் பொடி தூவப்பட்டது. அந்த நபர் அவரிடமிருந்து 5 பவுன் தங்கச் சங்கிலியைப் பறித்துச் சென்றார். ஜெயமணியின் மகன் ரவிச்சந்திரன் அளித்த புகாரின்படி சென்னிமலை போலீசார் விசாரணை நடத்தினர். அதே பகுதியைச் சேர்ந்த 41 வயதான மணிகண்டனை போலீசார் கைது செய்தனர். இந்த வழக்கு பெருந்துறை நீதித்துறை நடுவர் நீதிமன்றத்தில் விசாரிக்கப்பட்டது. நேற்று நடுவர் மூர்த்தி தீர்ப்பளித்தார். மணிகண்டனுக்கு 5 ஆண்டு சிறை தண்டனையும், 5,000 ரூபாய் அபராதமும் விதிக்கப்பட்டது. அரசு தரப்பில் வக்கீல் ஜெயந்தி ஆஜரானார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ சென்னிமலையில் மூதாட்டியிடம் நகை பறித்தவருக்கு 5 ஆண்டு சிறை\n\n📰 முழு விவரம்:\n2025 மார்ச் 1ஆம் தேதி மதியம் சென்னிமலை, மகாலட்சுமி நகரில் வீட்டில் தூங்கிக் கொண்டிருந்த 75 வயது ஜெயமணியின் முகத்தில் மிளகாய்ப் பொடி தூவி, 5 பவுன் தங்கச் சங்கிலி பறிக்கப்பட்டது.\nமகன் ரவிச்சந்திரன் அளித்த புகாரின்படி சென்னிமலை போலீசார் விசாரித்து, அதே பகுதியைச் சேர்ந்த 41 வயதான மணிகண்டனைக் கைது செய்தனர்.\nஇந்த வழக்கு பெருந்துறை நீதித்துறை நடுவர் நீதிமன்றத்தில் விசாரிக்கப்பட்டது. நேற்று நடுவர் மூர்த்தி தீர்ப்பளித்து, மணிகண்டனுக்கு 5 ஆண்டு சிறை தண்டனையும், 5,000 ரூபாய் அபராதமும் விதித்தார். அரசு தரப்பில் வக்கீல் ஜெயந்தி ஆஜரானார்.\n\n📍 இடம்: சென்னிமலை, ஈரோடு மாவட்டம்\n🗓️ நடந்த நாள்: 2025 மார்ச் 1\n👮 நடவடிக்கை: குற்றவாளி கைது, 5 ஆண்டு சிறை, ரூ.5,000 அபராதம்\n\nChennimalai chain snatching, 5 years jail | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
-   "prompts": "A khaki-uniformed Tamil Nadu police constable stands at the gate of a quiet residential street in Chennimalai, Erode district, escorting a man in a plain shirt and trousers seen from behind, his hands tied in front of him, toward a parked police jeep. The street is lined with modest concrete houses with tiled roofs, a few two-wheelers parked along the road, and a mild haze over the fields in the background of the Chennimalai hills. Corporation trees and a small electric pole stand at the roadside. Daylight, midday sun casting short shadows. Camera at eye level, 35 mm lens, wide enough to show the street and the police vehicle, people shown from behind and far away. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/worker-gets-5-yrs-in-jail-for-snatching-jewellery-from-elderly-woman/4374834",
-   "published": "2026-11-13T06:17:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script writes ages as newspaper shorthand (தண்டனையும், 5,); say it as a news reader: '12 வயது மகன் ராஜா', 'கவுசிக் (14 வயது)' -> '14 வயதான கவுசிக்'; caption misses facts of the article (put every one in 📰 முழு விவரம்): 1010 ('சென்னிமலை:சென்னிமலை 1010 நெசவாளர் காலனி, மகாலட்சுமி நகரை சேர')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794548245/erode360/dzuuacbw45msmwirx3wd.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794572905/erode360/jva4uenav21ltth6flza.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794572908/erode360/fqnaxcyh4dqz6b1zycqq.jpg"
    ]
   }
  ]
