@@ -1,221 +1,277 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 11 recent posts read from the page",
+  "instagram check: 16 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/asp-stuns-in-shooting-competition/4375471",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/demand-to-bring-the-new-solur-bus-stand-into-full-operation",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/road-workers-stage-protest/4374825",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/13/சென்னிமலை-அருகே-10-கிலோ-கஞ்சா-பறிமுதல்-2-போ்-கைது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/13/பவானிசாகா்-அணை-நீா்மட்டம்-7824-அடியை-எட்டியது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/13/ஐஐடி-கான்பூா்-வேளாளா்-பொறியியல்-கல்லூரி-இடையே-புரிந்துணா்வு-ஒப்பந்தம்",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/asp-stuns-in-",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "NOT filed (N) துப்பாக்கி சுடும் போட்டி ஏ.எஸ்.பி., அசத்தல்: not Erode district news (the story's first lines name another place and no Erode place)",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
-  "filed: 2 Erode district stories (target 3), reels only",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
+  "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (16s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3.5-flash (20s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (2s)",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சோலார் புதிய பேருந்து நிலையத்தை முழுமையாகப் பயன்படுத்தக் கோரிக்கை: ஆட்சியரிடம் மனு",
-   "english_headline": "Lakkapuram residents petition Erode Collector to fully operationalise Solar new bus stand and vegetable complex",
-   "category": "Civic Issues",
-   "location": "Solar, Erode district",
+   "tamil_headline": "சென்னிமலை அருகே 10 கிலோ கஞ்சா பறிமுதல்: 2 பேர் கைது",
+   "english_headline": "10 kg cannabis seized near Chennimalai: 2 arrested",
+   "category": "Crime & Safety",
+   "location": "Chennimalai, Erode district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பேருந்து நிலையம்",
-    "loc": "சோலார், ஈரோடு",
-    "hl1": "சோலார் புதிய பேருந்து நிலையம் முழு",
-    "hl2": "ஆட்சியரிடம் பொதுமக்கள் மனு",
+    "cat": "கஞ்சா பறிமுதல்",
+    "loc": "சென்னிமலை, ஈங்கூர்",
+    "hl1": "சென்னிமலை அருகே 10 கிலோ கஞ்சா பறிமுதல்",
+    "hl2": "2 பேர் கைது",
     "slides": [
      {
-      "title": "ஆட்சியரிடம் மனு",
+      "title": "பறிமுதல் விவரம்",
       "lines": [
-       "<b>சோலார்</b> புதிய பேருந்து நிலையத்தை",
-       "லக்காபுரம் மக்கள் ஆட்சியர் ச.கந்தசாமியிடம் வியாழக்கிழமை மனு",
-       "<b>20 ஏக்கரில்</b> அமைக்கப்பட்ட பேருந்து நிலையம்"
+       "சென்னிமலை அருகே <b>10 கிலோ</b> கஞ்சா பறிமுதல்",
+       "ஈங்கூர் அருகே சிப்காட் பகுதியில் நடந்தது",
+       "விற்பனைக்காக கஞ்சா வைத்திருந்தனர்"
       ]
      },
      {
-      "title": "பேருந்து சேவை",
+      "title": "கைது விவரம்",
       "lines": [
-       "கரூர், திருச்சி, மதுரை, வெள்ளக்கோவில் பேருந்துகள் மட்டும்",
-       "கோவை, சேலம், நாமக்கல், கோபி, மேட்டூர், பழனி பேருந்துகள்",
-       "தனியார் பேருந்துகளும் இயக்கப்படாததால் பயணிகள் சிரமம்"
+       "ஒடிசா மாநிலத்தைச் சேர்ந்த <b>2 பேர்</b> கைது",
+       "வெள்ளிக்கிழமை ரோந்து பணியில் கைது",
+       "சந்தேகத்திற்கு இடமளிக்கும் வகையில் நின்றனர்"
       ]
      },
      {
-      "title": "காய்கறி வளாகம்",
+      "title": "நடவடிக்கை",
       "lines": [
-       "பேருந்து நிலையம் அருகே <b>10 ஏக்கரில்</b> காய்கறி வளாகம்",
-       "<b>99 சதவீத</b> பணிகள் முடிந்தும் திறக்கப்படவில்லை",
-       "காய்கறி வளாகத்தையும் திறக்க மக்கள் கோரிக்கை"
+       "பெருந்துறை மாஜிஸ்திரேட் முன்பு ஆஜர்படுத்தினர்",
+       "சிறையில் அடைக்கப்பட்டனர்",
+       "சென்னிமலை போலீஸார் நடவடிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு சோலார் புதிய பேருந்து நிலையத்தை முழுமையாகப் பயன்படுத்தக் கோரி ஆட்சியரிடம் மனு அளிக்கப்பட்டுள்ளது. லக்காபுரம் பகுதி மக்கள் ஈரோடு மாவட்ட ஆட்சியர் ச.கந்தசாமியிடம் வியாழக்கிழமை மனு அளித்தனர். ஈரோடு மக்களின் நீண்டநாள் கோரிக்கையான சோலார் புதிய பேருந்து நிலையம் 20 ஏக்கர் பரப்பில் கட்டப்பட்டு தற்போது இயங்கி வருகிறது. ஆனால், தென் மாவட்டங்களான கரூர், திருச்சி, மதுரை மற்றும் வெள்ளக்கோவில் மார்க்கப் பேருந்துகள் மட்டுமே இயக்கப்படுகின்றன. கோவை, சேலம், நாமக்கல், கோபி, மேட்டூர், பழனி மார்க்கப் பேருந்துகளும், தனியார் பேருந்துகளும் இயக்கப்படுவதில்லை. இதனால் நேரடி பேருந்து வசதி இல்லாமல் பயணிகள் சிரமப்படுகின்றனர். மேலும் பேருந்து நிலையம் அருகே 10 ஏக்கர் பரப்பில் 99 சதவீத பணிகள் முடிந்த காய்கறி விற்பனை வளாகத்தையும் உடனடியாகத் திறக்க மக்கள் வலியுறுத்தியுள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 ஈரோடு சோலார் பேருந்து நிலையத்தை முழு பயன்பாட்டிற்கு கொண்டுவர கோரிக்கை\n\n📰 முழு விவரம்:\nஈரோடு சோலார் பகுதியில் 20 ஏக்கர் பரப்பில் அமைக்கப்பட்ட புதிய பேருந்து நிலையத்தை முழுமையாக மக்கள் பயன்பாட்டுக்கு கொண்டுவர வலியுறுத்தி லக்காபுரம் பகுதி மக்கள் ஆட்சியர் ச.கந்தசாமியிடம் வியாழக்கிழமை மனு அளித்தனர்.\n\nதற்போது கரூர், திருச்சி, மதுரை மற்றும் வெள்ளக்கோவில் மார்க்கமாக செல்லும் பேருந்துகள் மட்டுமே இயக்கப்படுகின்றன. கோவை, சேலம், நாமக்கல், கோபி, மேட்டூர், பழனி மார்க்க பேருந்துகளும், தனியார் பேருந்துகளும் இயக்கப்படாததால் பயணிகள் சிரமப்படுகின்றனர்.\n\nமேலும், பேருந்து நிலையம் அருகே 10 ஏக்கர் பரப்பில் 99 சதவீத பணிகள் முடிவடைந்த புதிய காய்கறி விற்பனை மற்றும் சேமிப்பு வளாகத்தையும் உடனடியாக பயன்பாட்டுக்கு கொண்டுவரக் கோரிக்கை விடுக்கப்பட்டுள்ளது.\n\n📍 இடம்: சோலார், ஈரோடு மாவட்டம்\n🗓️ நாள்: வியாழக்கிழமை (மனு அளிக்கப்பட்டது)\n👮 நடவடிக்கை: ஆட்சியர் ச.கந்தசாமியிடம் மக்கள் மனு\nℹ️ மக்கள் கவனத்திற்கு: முக்கிய வழித்தடப் பேருந்துகள் மற்றும் காய்கறி வளாகத்தை இயக்கக் கோரிக்கை\n\nமுக்கியமான இந்தச் செய்தியை மற்றவர்களுக்கும் Share செய்யுங்கள்.\n\nErode Solar new bus stand demand for full operation | Erode news\n📍 சோலார், ஈரோடு | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Solar #ErodeNews #ஈரோடு",
-   "prompts": "A group of Lakkapuram residents hand a petition folder to the Erode Collector at the newly built Solar bus stand. The scene is set at the open‑air bus terminal with a concrete shelter and a few idle intercity buses parked nearby. The residents stand in a line, seen from behind, wearing casual shirts and sarees, while the collector, in khaki, receives the folder from a younger resident. The backdrop shows the partially finished vegetable complex enclosure with construction fences. Daylight, clear sky, no distinctive weather. Shot at eye level with a 35 mm lens, wide enough to capture the stand, the petition exchange and the idle buses. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of one of the idle intercity buses parked at the Solar bus stand, its doors closed and windows reflecting the sky. The bus is a standard white TNSTC coach with a visible route number plate (blurred to avoid legibility). In the foreground, a wooden table holds the petition folder, its edges visible but text unreadable, alongside a few pens. The ground is paved, with a faint dust layer suggesting limited use. The shot is taken slightly high, focusing on the bus and the table, daylight illuminating the scene, no people’s faces shown. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/demand-to-bring-the-new-solur-bus-stand-into-full-operation",
-   "published": "2026-11-12T22:16:00.000Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "சென்னிமலை அருகே 10 கிலோ கஞ்சா பறிமுதல் செய்து 2 பேரை கைது செய்துள்ளனர். சென்னிமலை அடுத்த ஈங்கூர் அருகே சிப்காட் பகுதியில் இது நடந்தது. சென்னிமலை போலீஸார் வெள்ளிக்கிழமை ரோந்து பணியில் ஈடுபட்டிருந்தனர். அப்போது சந்தேகத்திற்கு இடமளிக்கும் வகையில் நின்றிருந்த இருவரைப் பிடித்து விசாரணை மேற்கொண்டனர். விசாரணையில் அவர்கள் ஒடிசா மாநிலத்தைச் சேர்ந்த நிலம்பார் கம்பா (25 வயது) மற்றும் சுஷில் ஹரிபால் (30 வயது) என்பது தெரியவந்தது. அவர்கள் விற்பனைக்காக 10 கிலோ கஞ்சா வைத்திருந்ததும் தெரியவந்தது. அவர்களிடம் இருந்து கஞ்சாவை பறிமுதல் செய்த போலீஸார் இருவரையும் கைது செய்தனர். பின்னர் பெருந்துறை மாஜிஸ்திரேட் முன்பு ஆஜர்படுத்தி சிறையில் அடைத்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சென்னிமலை அருகே 10 கிலோ கஞ்சா பறிமுதல்: 2 பேர் கைது\n\n📰 முழு விவரம்:\nசென்னிமலை அடுத்த ஈங்கூர் அருகே சிப்காட் பகுதியில் சென்னிமலை போலீஸார் வெள்ளிக்கிழமை ரோந்து பணியில் ஈடுபட்டனர். அப்போது சந்தேகத்திற்கு இடமளிக்கும் வகையில் நின்றிருந்த இருவரைப் பிடித்து விசாரணை மேற்கொண்டனர். விசாரணையில் அவர்கள் ஒடிசா மாநிலத்தைச் சேர்ந்த நிலம்பார் கம்பா (25 வயது) மற்றும் சுஷில் ஹரிபால் (30 வயது) என்பது தெரியவந்தது. அவர்கள் விற்பனைக்காக 10 கிலோ கஞ்சா வைத்திருந்ததும் தெரியவந்தது. அவர்களிடம் இருந்து கஞ்சாவை பறிமுதல் செய்த போலீஸார் இருவரையும் கைது செய்தனர். பின்னர் பெருந்துறை மாஜிஸ்திரேட் முன்பு ஆஜர்படுத்தி சிறையில் அடைத்தனர்.\n\n📍 இடம்: சென்னிமலை அடுத்த ஈங்கூர், சிப்காட் பகுதி\n🗓️ நாள்: வெள்ளிக்கிழமை\n👮 நடவடிக்கை: 10 கிலோ கஞ்சா பறிமுதல், 2 பேர் கைது, சிறையில் அடைப்பு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nCannabis seizure near Chennimalai | Erode news\n📍 Chennimalai, Erode | 13 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
+   "prompts": "Two Tamil Nadu police constables in khaki uniform stand beside a roadside patch near the SIPCOT industrial area at Ingoor, Chennimalai, Erode district, where a police patrol has just seized about 10 kg of ganja from two men. Seen from behind and far away, the two detained men from Odisha sit on the roadside edge with their hands behind them, wearing plain shirts and trousers. Along the road stand a few plain-looking industrial sheds with corrugated roofs and a parked police jeep, with a few two-wheelers on the road beyond. A large sealed bundle of dried ganja sits on a plastic sheet on the ground in front of the police. The scene is in bright daylight with a dusty road and dry patches of ground. Camera at eye level, 35 mm, wide enough to show the industrial road and the police presence. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of about 10 kg of seized cannabis (ganja) laid out on a plain white cloth or plastic sheet on the bonnet of a Tamil Nadu police jeep, dried green-brown leaves and stems in tied bundles and packets, with a khaki uniformed sleeve of a police constable visible at the edge of the frame. Behind it, slightly blurred, the dusty road and a row of corrugated industrial shed roofs in the SIPCOT area of Ingoor, Chennimalai. Daylight, mid-afternoon, warm sunlight. Camera slightly high, close-up at about 35 mm, focused on the seized ganja pile with the industrial road softly out of focus behind it. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/13/சென்னிமலை-அருகே-10-கிலோ-கஞ்சா-பறிமுதல்-2-போ்-கைது",
+   "published": "2026-11-13T18:25:11.077Z",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794586960/erode360/gm3ndhui44ykolnuh2yl.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794586971/erode360/b4pes8vmchsc1sswhs0s.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794601422/erode360/ypktenn47goluhxzrwjt.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794601424/erode360/rusowm2qqyvoww5cbfto.jpg"
    ]
   },
   {
-   "tamil_headline": "சாலை பணியாளர்கள் நூதன ஆர்ப்பாட்டம்: ஈரோட்டில் கண்ணில் கருப்புத் துணியுடன் போராட்டம்",
-   "english_headline": "Road workers stage unique protest in Erode with black cloth over eyes and scales in hand",
-   "category": "Government & Services",
-   "location": "Moolapalayam, Erode, Erode district",
+   "tamil_headline": "ஐஐடி கான்பூர் – வேளாளர் பொறியியல் கல்லூரி இடையே புரிந்துணர்வு ஒப்பந்தம்",
+   "english_headline": "IIT Kanpur and Velalar Engineering College sign MoU for Satee learning centre in Erode",
+   "category": "Education",
+   "location": "Velalar Engineering and Technology College, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு பணி",
-    "loc": "மூலப்பாளையம், ஈரோடு",
-    "hl1": "ஈரோட்டில் சாலை பணியாளர்கள் நூதன",
-    "hl2": "கண்ணில் கருப்புத் துணி",
+    "cat": "கல்வி",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் ஐஐடி கான்பூர் கற்றல் மையம்",
+    "hl2": "சத்தீ செயலி மூலம்",
     "slides": [
      {
-      "title": "போராட்டம் எங்கே?",
+      "title": "என்ன நிகழ்வு?",
       "lines": [
-       "ஈரோடு மூலப்பாளையத்தில் நெடுஞ்சாலை கண்காணிப்பு பொறியாளர்",
-       "சாலை பணியாளர் சங்கத்தின் கோட்டத் தலைவர் முருகவேல் தலைமையில்",
-       "போராட்டத்தில் பலர் பங்கேற்றனர்"
+       "ஈரோடு வேளாளர் பொறியியல் கல்லூரியில் சத்தீ மையத் தொடக்க விழா",
+       "ஐஐடி கான்பூரும் வேளாளர் கல்லூரியும் இணைந்து நடத்தின",
+       "வெள்ளிக்கிழமை விழா நடைபெற்றது"
       ]
      },
      {
-      "title": "முக்கிய",
+      "title": "சத்தீ செயலி",
       "lines": [
-       "41 மாத பணி நீக்க காலத்தை பணிக்காலமாக முறைப்படுத்த வேண்டும்",
-       "அரசு மேல்முறையீட்டு மனுவைத் திரும்பப் பெற வேண்டும்",
-       "கருணை அடிப்படை பணிக்கு விண்ணப்பித்து காத்திருப்போருக்கு"
+       "நீட், ஜெஇஇ, எஸ்எஸ்சி போன்ற தேர்வுகளுக்கு இணையவழிக் கற்றல்",
+       "பொருளாதாரத்தில் பின்தங்கிய மாணவர்கள் செலவின்றிப் பயிலலாம்",
+       "தாய்மொழியில் தரமான கல்வி வளங்கள் கிடைக்கும்"
       ]
      },
      {
-      "title": "ஊதிய கோரிக்கைகள்",
+      "title": "ஒப்பந்தம், பரிசு",
       "lines": [
-       "ஊதியத்தில் 10 சதவீத ஆபத்துப்படி வழங்க வேண்டும்",
-       "சீருடை, சலவைப்படி வழங்க வேண்டும்",
-       "நிரந்தர பயணப்படி வழங்க வேண்டும்"
-      ]
-     },
-     {
-      "title": "நூதன போராட்டம்",
-      "lines": [
-       "அனைவரும் கண்ணில் கருப்புத் துணி கட்டி பங்கேற்றனர்",
-       "கையில் தராசை பிடித்தபடி போராட்டம் நடத்தினர்",
-       "ஜாகீர் உசேன், ராஜா உட்பட நிர்வாகிகள் பங்கேற்றனர்"
+       "ஐஐடி கான்பூர் – வேளாளர் கல்லூரி புரிந்துணர்வு ஒப்பந்தம்",
+       "சத்தீ தேர்வில் வெற்றிபெற்ற",
+       "வேளாளர் கல்வி அறக்கட்டளைத் தலைவர் எஸ்.டி.சந்திரசேகர் தலைமை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோட்டில் சாலை பணியாளர்கள் கண்ணில் கருப்புத் துணி கட்டி, கையில் தராசை பிடித்தபடி நூதன ஆர்ப்பாட்டம் நடத்தினர். ஈரோடு மூலப்பாளையத்தில் உள்ள நெடுஞ்சாலை துறை கண்காணிப்பு பொறியாளர் அலுவலகம் முன் இந்தப் போராட்டம் நடந்தது. தமிழ்நாடு நெடுஞ்சாலை துறை சாலை பணியாளர் சங்கத்தின் கோட்டத் தலைவர் முருகவேல் தலைமையில் இது நடைபெற்றது. சாலை பணியாளர்களின் 41 மாத பணி நீக்க காலம் குறித்த சென்னை உயர்நீதிமன்ற தீர்ப்புக்கு எதிரான மேல்முறையீட்டு மனுவை அரசு திரும்பப் பெற வேண்டும் என்பது முக்கிய கோரிக்கை. அந்த 41 மாத காலத்தை பணிக்காலமாக முறைப்படுத்தி ஆணையிட வேண்டும் என்றும் வலியுறுத்தப்பட்டது. உயிரிழந்த சாலை பணியாளர்களின் குடும்பத்துக்கு கருணை அடிப்படையில் பணி வழங்கக் கோரி விண்ணப்பித்து காத்திருப்போருக்கு வேலை வழங்க வேண்டும் என்றும் கேட்கப்பட்டது. ஊதியத்தில் 10 சதவீத ஆபத்துப்படி, சீருடை, சலவைப்படி, நிரந்தர பயணப்படி வழங்கவும் வலியுறுத்தப்பட்டது. நிர்வாகிகள் ஜாகீர் உசேன், ராஜா, கதிரவன், முருகன், மணிகண்டன், மயில்சாமி, செந்தில்நாதன் உட்பட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "✊ ஈரோட்டில் சாலை பணியாளர்கள் நூதன ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nதமிழ்நாடு நெடுஞ்சாலை துறை சாலை பணியாளர் சங்கத்தின் சார்பில், ஈரோடு மூலப்பாளையத்தில் உள்ள நெடுஞ்சாலை துறை கண்காணிப்பு பொறியாளர் அலுவலகம் முன் கோட்டத் தலைவர் முருகவேல் தலைமையில் ஆர்ப்பாட்டம் நடைபெற்றது.\nசாலை பணியாளர்களின் 41 மாத பணி நீக்க காலம் குறித்த சென்னை உயர்நீதிமன்ற தீர்ப்புக்கு எதிரான மேல்முறையீட்டு மனுவை அரசு திரும்பப் பெற்று, அந்தக் காலத்தை பணிக்காலமாக முறைப்படுத்தி ஆணையிட வேண்டும் என கோரப்பட்டது.\nகருணை அடிப்படையில் பணி நியமனம் கோரி விண்ணப்பித்து காத்திருக்கும் அனைவருக்கும் பணி வழங்க வேண்டும் என்றும் வலியுறுத்தப்பட்டது.\nஊதியத்தில் 10 சதவீத ஆபத்துப்படி, சீருடை, சலவைப்படி, நிரந்தர பயணப்படி வழங்கவும் கோரிக்கை வைக்கப்பட்டது.\nஅனைவரும் கண்ணில் கருப்புத் துணி கட்டி, கையில் தராசை பிடித்தபடி பங்கேற்றனர்.\n\nErode road workers protest with black cloth over eyes | Erode news\n📍 மூலப்பாளையம், ஈரோடு | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு",
-   "prompts": "A group of Tamil Nadu road workers stands in a line outside the Highways Department Superintending Engineer's office in Moolapalayam, Erode, each with a black cloth tied over the eyes and a weighing scale (tharasu) held up in both hands as a silent protest. The setting is a government office compound with a plain concrete building front, a roadside with a few parked two-wheelers and a town bus passing at the edge of the frame, and a paved road with daylight falling evenly across the scene. The workers are men in plain shirts and trousers, shown from behind and at a distance, their faces hidden by the black cloth, some holding small placards at chest level. Daytime, clear sky, soft natural light. Camera at eye level, 35 mm lens, wide enough to show the office building, the line of protesters and the roadside vehicles. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of the protest: two or three road workers' hands gripping metal weighing scales (tharasu) with black cloth tied over the eyes just visible at the edge of the frame, while in the background the office building wall and a roadside with a parked two-wheeler sit softly out of focus. The scale pans and chain are sharp in the foreground, showing the symbolic 'blind justice' gesture. The workers' faces are not visible, only their hands, sleeves of plain shirts and the black cloth. Daylight, natural and even, neutral background. Camera slightly high, 50 mm lens, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/road-workers-stage-protest/4374825",
-   "published": "2026-11-13T06:13:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஈரோட்டில் பொருளாதாரத்தில் பின்தங்கிய மாணவர்கள் செலவின்றி தேருக்குத் தயாராகலாம். ஐஐடி கான்பூரும் ஈரோடு வேளாளர் பொறியியல் மற்றும் தொழில்நுட்பக் கல்லூரியும் இணைந்து சத்தீ ஒருங்கிணைப்பு மற்றும் பயிற்சி மையத்தைத் தொடங்கின. கல்லூரியில் வெள்ளிக்கிழமை நடைபெற்ற தொடக்க விழாவில் இது நடந்தது. சத்தீ செயலி நீட், ஜெஇஇ, எஸ்எஸ்சி போன்ற நுழைவுத் தேர்வுகளுக்கு இணையவழியில் கற்க உதவுகிறது. மாணவர்கள் தங்கள் தாய்மொழியில் தரமான கல்வி வளங்களைப் பெறலாம். இதைத் தொடர்ந்து ஐஐடி கான்பூர் மற்றும் வேளாளர் கல்லூரி இடையே புரிந்துணர்வு ஒப்பந்தம் கையொப்பமிடப்பட்டது. சத்தீ தேர்வில் வெற்றிபெற்ற பள்ளி மாணவர்களுக்குப் பாராட்டுச் சான்றிதழ்கள் வழங்கப்பட்டன. வேளாளர் கல்வி அறக்கட்டளையின் செயலாளர் எஸ் டி சந்திரசேகர் தலைமை வகித்தார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎓 ஈரோட்டில் ஐஐடி கான்பூர் சத்தீ கற்றல் மையம் தொடக்கம்\n\n📰 முழு விவரம்:\nஈரோடு வேளாளர் பொறியியல் மற்றும் தொழில்நுட்பக் கல்லூரியில் ஐஐடி கான்பூரும் கல்லூரியும் இணைந்து சத்தீ ஒருங்கிணைப்பு மற்றும் பயிற்சி மையத்தைத் தொடங்கின. வெள்ளிக்கிழமை நடைபெற்ற விழாவில் சத்தீ செயலி நீட், ஜெஇஇ, எஸ்எஸ்சி போன்ற தேர்வுகளுக்கு இணையவழிக் கற்றலுக்கு உதவுவது விளக்கப்பட்டது. பொருளாதாரத்தில் பின்தங்கிய மாணவர்கள் செலவின்றித் தயாராகலாம்.\n📝 ஐஐடி கான்பூர் – வேளாளர் கல்லூரி இடையே கற்றல் மைய ஒப்பந்தம் கையொப்பமானது.\n🏆 சத்தீ தேர்வில் வெற்றிபெற்ற பள்ளி மாணவர்கள், இரண்டாம் இடம் பெற்றவர்கள், மாவட்ட அளவில் வெற்றிபெற்றவர்களுக்குப் பாராட்டுச் சான்றிதழ்கள் வழங்கப்பட்டன.\n👥 வேளாளர் கல்வி அறக்கட்டளைச் செயலாளர் எஸ்.டி.சந்திரசேகர் தலைமை வகித்தார்.\n\nIIT Kanpur Satee learning centre Erode | Erode education news\n📍 ஈரோடு | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #கல்வி",
+   "prompts": "A row of school students in Tamil Nadu school uniform stands on a stage in a college auditorium in Erode, receiving certificates from a group of seated officials as the audience applauds. Seen from behind the audience, the students are lined up in front of a plain stage with a microphone and a table draped in a cloth. The people on the stage wear formal shirts and sarees, a few holding papers in their hands. The hall has rows of plastic chairs filled with parents, teachers and college staff, and the stage lights give the room a warm, even glow. The setting is a modern engineering college campus in Erode city, with a long hall, polished floor and banners kept out of focus. The time is midday, with indoor light and no weather visible. Camera at eye level, 35 mm, wide enough to show the stage, the students and the full audience. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table on a college stage where two documents are being signed, with a pen resting beside them and a stack of printed certificates set nearby. Two sets of hands, one in a formal sleeve and one in a sari sleeve, are partly visible at the edge of the frame, with no faces shown. A glass water jug and a small bouquet sit on the cloth-covered table, and a microphone stands in the background. The room is a college auditorium in Erode, with rows of chairs blurred behind the table and daylight entering from high windows. The moment captures the signing of an academic partnership between a national institute and a local engineering college. Camera slightly high, 35 mm, shallow focus on the table and documents. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/13/ஐஐடி-கான்பூா்-வேளாளா்-பொறியியல்-கல்லூரி-இடையே-புரிந்துணா்வு-ஒப்பந்தம்",
+   "published": "2026-11-13T18:25:42.167Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 82 words; need 88-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794586988/erode360/m2q6f5s5osf85p5cz1fr.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794587022/erode360/avavh2vu5otefuo4remh.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794601431/erode360/sjoeth1urhce1l4vk1uu.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794601434/erode360/nkay9i92kmvq03zzyecw.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பவானிசாகர் அணை நீர்மட்டம் 78.24 அடியை எட்டியது",
+   "english_headline": "Bhavanisagar dam water level reaches 78.24 feet as inflow rises from rain in the Nilgiris catchment",
+   "category": "Weather & Agriculture",
+   "location": "Bhavanisagar dam, Erode district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அணை நிலவரம்",
+    "loc": "பவானிசாகர்",
+    "hl1": "பவானிசாகர் அணை நீர்மட்டம் உயர்வு",
+    "hl2": "நீர்மட்டம் 78.24 அடி",
+    "slides": [
+     {
+      "title": "நீர்மட்டம்",
+      "lines": [
+       "வெள்ளிக்கிழமை மாலை நிலவரப்படி <b>78.24 அடி</b>",
+       "அணையில் நீர் இருப்பு <b>14.77 டிஎம்சி</b>",
+       "அணையின் உயரம் 105 அடி"
+      ]
+     },
+     {
+      "title": "ஏன் நீர்வரத்து",
+      "lines": [
+       "நீர்ப்பிடிப்பு பகுதியான நீலகிரி மலையில் பரவலாக மழை",
+       "சுற்றுவட்டார மழைநீர் ஓடைகள் வழியாக பவானி ஆற்றில் கலப்பு",
+       "நீர்வரத்து அதிகரித்து நீர்மட்டம் உயர்ந்தது"
+      ]
+     },
+     {
+      "title": "விவசாயிகளுக்கு",
+      "lines": [
+       "ஈரோடு, திருப்பூர், கரூர் மாவட்ட பாசனப் பகுதிகள்",
+       "பாசனப் பகுதி விவசாயிகள் மகிழ்ச்சி அடைந்துள்ளனர்",
+       "குடிநீருக்காக ஆற்றில் திறக்கப்பட்ட நீர் முழுவதும் நிறுத்தம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பவானிசாகர் அணையின் நீர்மட்டம் 78.24 அடியை எட்டியுள்ளது. நீர்ப்பிடிப்பு பகுதிகளில் பரவலாக மழை பெய்ததால் நீர்வரத்து அதிகரித்துள்ளது. வெள்ளிக்கிழமை மாலை நிலவரப்படி அணையில் நீர் இருப்பு 14.77 டிஎம்சி ஆக உள்ளது. அணையின் நீர்ப்பிடிப்பு பகுதியான நீலகிரி மலைப்பகுதியில் பரவலாக மழை பெய்து வருகிறது. சுற்றுவட்டார மழைநீர் ஓடைகள் வழியாக பவானி ஆற்றில் கலப்பதால், குடிநீர் தேவைக்காக அணையில் இருந்து பவானி ஆற்றில் திறந்துவிடப்பட்ட நீர் முற்றிலும் நிறுத்தப்பட்டுள்ளது. தமிழகத்தில் மேட்டூருக்கு அடுத்தபடியாக இரண்டாவது பெரிய நீர்த்தேக்கமான இந்த அணையின் உயரம் 105 அடி, கொள்ளளவு 32.8 டிஎம்சி. இந்த அணையின் மூலம் ஈரோடு, திருப்பூர் மற்றும் கரூர் மாவட்டங்களில் 2 லட்சத்து 47 ஆயிரம் ஏக்கர் நிலங்கள் பாசன வசதி பெறுகின்றன. நீர்மட்டம் உயர்ந்துள்ளதால் பாசனப் பகுதி விவசாயிகள் மகிழ்ச்சி அடைந்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💧 பவானிசாகர் அணை நீர்மட்டம் 78.24 அடியை எட்டியது\n\n📰 முழு விவரம்:\nபவானிசாகர் அணையின் நீர்ப்பிடிப்பு பகுதிகளில் பரவலாக மழை பெய்து வருவதால் நீர்வரத்து அதிகரித்துள்ளது. வெள்ளிக்கிழமை மாலை நிலவரப்படி அணையின் நீர்மட்டம் 78.24 அடியாக உயர்ந்துள்ளது. அணையில் 14.77 டிஎம்சி நீர் இருப்பு உள்ளது.\nநீலகிரி மலைப்பகுதியில் பெய்யும் மழைநீர் ஓடைகள் வழியாக பவானி ஆற்றில் கலப்பதால் நீர்வரத்து உயர்ந்துள்ளது. குடிநீர் தேவைக்காக அணையில் இருந்து பவானி ஆற்றில் திறந்துவிடப்பட்ட நீர் முற்றிலும் நிறுத்தப்பட்டுள்ளது.\nதமிழகத்தில் மேட்டூருக்கு அடுத்தபடியாக இரண்டாவது பெரிய நீர்த்தேக்கமான இந்த அணை 105 அடி உயரமும், 32.8 டிஎம்சி கொள்ளளவும் கொண்டது. இதன் மூலம் ஈரோடு, திருப்பூர், கரூர் மாவட்டங்களில் 2 லட்சத்து 47 ஆயிரம் ஏக்கர் நிலங்கள் பாசன வசதி பெறுகின்றன. நீர்மட்டம் உயர்ந்துள்ளதால் பாசனப் பகுதி விவசாயிகள் மகிழ்ச்சி அடைந்துள்ளனர்.\n📍 இடம்: பவானிசாகர், ஈரோடு மாவட்டம்\n🗓️ நாள்: 14 நவம்பர் 2026\n\nBhavanisagar dam water level 78.24 feet | Erode news\n📍 பவானிசாகர், ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavanisagar #ErodeNews #ஈரோடு",
+   "prompts": "A broad, calm reservoir stretches between green Nilgiris hills at the Bhavanisagar dam in Erode district, its water rising after heavy rain in the catchment. The dark monsoon clouds of a Friday evening hang over the forested slopes, and fresh rainwater shines on the surface of the lake. Along the edge of the dam wall, a few men in shirts and veshti stand far away, seen from behind, watching the water level. Concrete barricades and the long dam structure, with its spillway gates closed, run across the frame, and a few rural farmers' two-wheelers are parked near the walkway. The light is soft and grey in the rain, and the scene is shot at eye level with a 35 mm lens, wide enough to show the whole reservoir, the hills and the dam wall. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the dam's spillway and gate structure at Bhavanisagar, with the water level visibly high against the concrete wall, showing the rise after rain. Rainwater runs down the wet concrete and steel of the gate area, and the reservoir water is calm and full behind it. In the background, a thin line of Nilgiris hills and rain clouds fills the sky. A farmer in a shirt and veshti stands far off, seen from behind, looking at the water. It is a Friday evening in rain, the light is dim and grey, and the shot is taken at eye level with a 35 mm lens, focusing on the gates and the water level. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/13/பவானிசாகா்-அணை-நீா்மட்டம்-7824-அடியை-எட்டியது",
+   "published": "2026-11-13T18:26:18.365Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794601468/erode360/ajdpvvtrebgumoizaxw1.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794601471/erode360/jbb6meebk3bkhhmssqkm.jpg"
    ]
   }
  ]
