@@ -81,6 +81,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `3a063bd` | reel: premium story panel (owner 13 Nov) - photo top 60 %, emerald panel with the headline and captions, champagne gold, ivory cards, serif Tamil headline, no black; district map + town pin (OpenStreetMap), word-by-word headline, count-up numbers, news-type layer (power-cut time bar / accident / rain / police), smooth loop, light sound effects. Voice, timing and facts unchanged |
+| 2026-11-13 | `6503a13` | powercut: notices written |
+| 2026-11-13 | `6359f98` | pick: written and posted |
+| 2026-11-13 | `5678aa3` | pick: picked news saved |
+| 2026-11-13 | `8540bdd` | pick: picked news saved |
+| 2026-11-13 | `31e60fb` | pick: list sent |
 | 2026-11-13 | `46deccb` | 2 pictures per reel (owner 13 Nov): the news article's own photos first (vision-checked), one photo -> a closer crop as the second, none -> 2 AI pictures |
 | 2026-11-13 | `3e70e88` | powercut: notices written |
 | 2026-11-13 | `ae0efeb` | powercut: notices written |
@@ -105,10 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-13 | `55cedb6` | powercut: notices written |
 | 2026-11-13 | `1b655b2` | powercut: notices written |
 | 2026-11-13 | `418a85a` | reel: new Erode 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
-| 2026-11-13 | `9d99464` | powercut: notices written |
-| 2026-11-13 | `0825d67` | powercut: notices written |
-| 2026-11-13 | `e3cdf61` | pick: written and posted |
-| 2026-11-13 | `bcd05ee` | stories shared |
-| 2026-11-13 | `a3e797e` | rasipalan posted |
-| 2026-11-13 | `f62b7d5` | pick: picked news saved |
 <!-- recent-changes:end -->
