@@ -1,0 +1,223 @@
+writing [N]: செஞ்சி சிறுமி வழக்கு: 2 இன்ஸ்பெக்டர்கள் கூடுதலாக நியமனம் - D
+writing [N]: மகன் தாக்கியதில் தந்தை உயிரிழப்பு
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+dead for this round: groq/qwen/qwen3.8-27b
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+writing [N]: நிரம்பிய தடுப்பணை
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 49 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  source/outlet name or link appears: ஆதாரம்
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  slide 1 line 1 longer than 60 characters
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok gemini/gemini-3-flash-preview (15s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 8 ('கூலித்தொழிலாளியான இவா் மதுப் பழக்கத்துக்கு அடிமையானவா்..இந்ந')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): பவானி ('செஞ்சி: விழுப்புரம் மாவட்டம், செஞ்சி அருகே ஆலம்பூண்டி ஊராட்ச'); சத்தியமங்கலம் ('இதுகுறித்த புகாரின்பேரில் சத்தியமங்கலம் போலீசார் வழக்குப்பதி')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  source/outlet name or link appears: ஆதாரம்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  reel_script says the son was arrested on the day of the report context but the article says police arrested him on Thursday; the draft omits that the arrest was made on Thursday (missing date detail for the arrest)
+  reel_script and slides_spec describe the attack as 'in drunken attack' with the father being 'அப்துல் ரஹீம் (75 வயது) ... மூன்றாவது மகன்' — the article states the son was intoxicated; the draft's line 'தாக்கியவர் மதுபோதையில் இருந்தார்' is supported, but the caption adds the English tagline 'Erode son arrested for killing father in drunken attack', which describes a killing and drunken attack not stated in the article's wording ('கொலை செய்த' is said, so acceptable), while the caption's 'Erode news' tag is not from the article
+  caption states 'சபிக் ... கூலித்தொழிலாளி' and 'மதுப் பழக்கத்துக்கு அடிமையானவர்' correctly, but the caption's 'Erode son arrested for killing father in drunken attack' English line is a mixed-language summary not drawn from the article's Tamil text and includes an invented framing ('drunken attack')
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: reel_script says the son was arrested on the day of the report context but the article says police arrested him on Thursday; the draft omits that the arrest was made on Thursday (missing date detail for the arrest)
+  fact-check: reel_script and slides_spec describe the attack as 'in drunken attack' with the father being 'அப்துல் ரஹீம் (75 வயது) ... மூன்றாவது மகன்' — the article states the son was intoxicated; the draft's line 'தாக்கியவர் மதுபோதையில் இருந்தார்' is supported, but the caption adds the English tagline 'Erode son arrested for killing father in drunken attack', which describes a killing and drunken attack not stated in the article's wording ('கொலை செய்த' is said, so acceptable), while the caption's 'Erode news' tag is not from the article
+  fact-check: caption states 'சபிக் ... கூலித்தொழிலாளி' and 'மதுப் பழக்கத்துக்கு அடிமையானவர்' correctly, but the caption's 'Erode son arrested for killing father in drunken attack' English line is a mixed-language summary not drawn from the article's Tamil text and includes an invented framing ('drunken attack')
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+imagegen: cloudflare black-forest-labs/flux-1-schnell 429: {"errors":[{"message":"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like 
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 3 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The reel_script and caption say the father was 'killed' (கொலை செய்யப்பட்டார்), but the article only says he died after being beaten; the article's own headline and the police arrest context describe it as a fatal assault, so the wording 'கொலை' is a stronger claim than the article's 'உயிரிழப்பு' framing and is not a neutral restatement.
+  The reel_script says the son attacked the father 'at home' (வீட்டுக்கு வந்தார்) and the attack is said to have happened at the home, but the article does not state the attack location; the phrase 'வீட்டுக்கு வந்தார்' adds a detail not in the article.
+  The reel_script and slides say the son was arrested 'வியாழக்கிழமை' and also that the police are investigating; this is accurate, but the reel_script omits that the son was arrested by Erode South police specifically in the sentence where the arrest is first mentioned, which is a minor completeness gap rather than an error.
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The reel_script and caption say the father was 'killed' (கொலை செய்யப்பட்டார்), but the article only says he died after being beaten; the article's own headline and the police arrest context describe it as a fatal assault, so the wording 'கொலை' is a stronger claim than the article's 'உயிரிழப்பு' framing and is not a neutral restatement.
+  fact-check: The reel_script says the son attacked the father 'at home' (வீட்டுக்கு வந்தார்) and the attack is said to have happened at the home, but the article does not state the attack location; the phrase 'வீட்டுக்கு வந்தார்' adds a detail not in the article.
+  fact-check: The reel_script and slides say the son was arrested 'வியாழக்கிழமை' and also that the police are investigating; this is accurate, but the reel_script omits that the son was arrested by Erode South police specifically in the sentence where the arrest is first mentioned, which is a minor completeness gap rather than an error.
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The caption says the father 'was attacked' by his son, which matches the article, but the reel_script adds '(75 வயது)' and '(36 வயது)' ages as written, which is fine; however the caption's 'நேரம்' line states 'புதன்கிழமை இரவு' as the time of the incident, which the article supports, so no issue there — the actual problem: the reel_script says the son 'கூலித்தொழிலாளி, மதுப் பழக்கத்துக்கு அடிமையானவர்' which is accurate, but the reel_script omits that the son's own arrest was made by Erode South police specifically on Thursday as the article states; this is present, so no omission there
+  The caption's English footer line 'Erode father dies after son's assault, son arrested | Erode news' is an English summary not present in the article, but it is part of the caption footer and is excluded from checks
+  The slides_spec 'hl2' and tamil_headline say 'மகன் கைது' while slide text 'தாக்கப்பட்டவர் அப்துல் ரஹீம் (75 வயது), பூ வியாபாரி' is accurate; no mismatch found
+  The reel_script sentence 'ஈரோட்டில் மகன் தாக்கியதில் தந்தை உயிரிழந்தார். ஈரோடு புதுமை காலனியைச் சேர்ந்த பூ வியாபாரி அப்துல் ரஹீம் (75 வயது) என்பவர் உயிரிழந்தார்.' repeats the death twice in consecutive sentences without new information, which is redundant but not a factual error
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The caption says the father 'was attacked' by his son, which matches the article, but the reel_script adds '(75 வயது)' and '(36 வயது)' ages as written, which is fine; however the caption's 'நேரம்' line states 'புதன்கிழமை இரவு' as the time of the incident, which the article supports, so no issue there — the actual problem: the reel_script says the son 'கூலித்தொழிலாளி, மதுப் பழக்கத்துக்கு அடிமையானவர்' which is accurate, but the reel_script omits that the son's own arrest was made by Erode South police specifically on Thursday as the article states; this is present, so no omission there
+  fact-check: The caption's English footer line 'Erode father dies after son's assault, son arrested | Erode news' is an English summary not present in the article, but it is part of the caption footer and is excluded from checks
+  fact-check: The slides_spec 'hl2' and tamil_headline say 'மகன் கைது' while slide text 'தாக்கப்பட்டவர் அப்துல் ரஹீம் (75 வயது), பூ வியாபாரி' is accurate; no mismatch found
+  fact-check: The reel_script sentence 'ஈரோட்டில் மகன் தாக்கியதில் தந்தை உயிரிழந்தார். ஈரோடு புதுமை காலனியைச் சேர்ந்த பூ வியாபாரி அப்துல் ரஹீம் (75 வயது) என்பவர் உயிரிழந்தார்.' repeats the death twice in consecutive sentences without new information, which is redundant but not a factual error
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+imagegen: HTTPSConnectionPool(host='ai.api.nvidia.com', port=443): Read timed out. (read timeout=150) 504 timeout
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 1 for 'Iratta Palli check dam at Palani Goundan'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-0723","first":"RN-1"}
+posting job started at once
+writing [N]: மாணவிக்கு பாலியல் தொல்லை: 
+பொக்லைன் ஓட்டுநா் கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+real photo: vision check resting (free quota busy)
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  slides must have 3 or 4 items
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The article says the excavator operator was 'பொக்லைன் ஓட்டுநர்' - fine - but the slides_spec line 'ஈரோடு 360 மூலம் உள்ளூர் செய்திகளைத் தொடருங்கள்' uses a different page name ('ஈரோடு த்ரீ சிக்ஸ்டி' in the reel_script) — inconsistent, though this is a footer-like line; not counted as a problem.
+  The caption says 'ஈரோடு 360' page name is not in the article - not a factual claim, not counted.
+  reel_script and caption state the accused is 'பொக்லைன் ஓட்டுநராகப் பணியாற்றுகிறார்' (currently works as an operator); the article only says he is a excavator operator, so this tense/detail is an unsupported addition.
+  reel_script says 'தொல்லை கொடுத்த' and headline says 'பாலியல் தொல்லை' - consistent, but the article says 'பாலியல் கொடுத்ததாக' (a typo for 'தொல்லை') so no issue there.
+  Slide 1 line 'பொக்லைன் ஓட்டுநர் ஹரிகோபாலகிருஷ்ணன் (28) மீது புகார்' mixes the complaint against him with his arrest in a separate slide - acceptable, but the slide says the parents filed a complaint with the police station while line 3 of slide 1 repeats it; no factual error.
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The article says the excavator operator was 'பொக்லைன் ஓட்டுநர்' - fine - but the slides_spec line 'ஈரோடு 360 மூலம் உள்ளூர் செய்திகளைத் தொடருங்கள்' uses a different page name ('ஈரோடு த்ரீ சிக்ஸ்டி' in the reel_script) — inconsistent, though this is a footer-like line; not counted as a problem.
+  fact-check: The caption says 'ஈரோடு 360' page name is not in the article - not a factual claim, not counted.
+  fact-check: reel_script and caption state the accused is 'பொக்லைன் ஓட்டுநராகப் பணியாற்றுகிறார்' (currently works as an operator); the article only says he is a excavator operator, so this tense/detail is an unsupported addition.
+  fact-check: reel_script says 'தொல்லை கொடுத்த' and headline says 'பாலியல் தொல்லை' - consistent, but the article says 'பாலியல் கொடுத்ததாக' (a typo for 'தொல்லை') so no issue there.
+  fact-check: Slide 1 line 'பொக்லைன் ஓட்டுநர் ஹரிகோபாலகிருஷ்ணன் (28) மீது புகார்' mixes the complaint against him with his arrest in a separate slide - acceptable, but the slide says the parents filed a complaint with the police station while line 3 of slide 1 repeats it; no factual error.
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
+  reel_script must end with exactly: மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.
+  reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 1 for 'Senji girl case: 2 more inspectors appoi'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-0726","first":"RN-2"}
+real photo skipped (photo uploaded 2026-08-04 (older than the news)): https://media.dinamani.com/dinamani/2026-08-04/uqig2r8c/%E0%AE%AA%E0%AE%B2%E0%AE%BF
+real photo skipped (photo uploaded 2026-08-04 (older than the news)): https://media.dinamani.com/dinamani/2026-08-04/uqig2r8c/பலி?w=1200&h=675&auto=format%2Ccom
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 1 for 'Son arrested for beating his 75-year-old'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-0728","first":"RN-3"}
+real photo skipped (photo uploaded 2026-09-16 (older than the news)): https://media.dinamani.com/dinamani/2026-09-16/rf5a6fhw/%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%
+real photo skipped (photo uploaded 2026-09-16 (older than the news)): https://media.dinamani.com/dinamani/2026-09-16/rf5a6fhw/கைது?w=1200&h=675&auto=format%2Cco
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+imagegen: black-forest-labs/flux.1-dev 500: Internal Server Error
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 1 for 'Bokline operator arrested under POCSO Ac'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261113-0731","first":"RN-4"}
+earlier stories still waiting for images: []
+instagram check: 0 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/sexual-harassment-of-a-female-studentpoclain-operator-arrested
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/father-dies-after-being-attacked-by-son
+manual link added: https://www.dinakaran.com/news/gingee_girl_case_inspectors_appointed
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/a-full-fledged-barrage/4374829
+candidate filter: collected=4
+to write: 4 Erode district candidates (max 4 stories)
+round: top 4 of 4 candidates
+candidates waiting: 4 Erode; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
+try (N) manual=True: https://www.dinakaran.com/news/gingee_girl_case_inspectors_a
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 1})
+posting job started at once
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 2})
+auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 3})
+auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 4})
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 66 min
+filed: 4 Erode district stories (target 4), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":4,"updated":0} 
+stories: 4

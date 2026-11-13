@@ -1,0 +1,320 @@
+{
+ "log": [
+  "earlier stories still waiting for images: []",
+  "instagram check: 0 recent posts read from the page",
+  "pick round: only the picked links are written (research_free/pick.py)",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/sexual-harassment-of-a-female-studentpoclain-operator-arrested",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/father-dies-after-being-attacked-by-son",
+  "manual link added: https://www.dinakaran.com/news/gingee_girl_case_inspectors_appointed",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/a-full-fledged-barrage/4374829",
+  "candidate filter: collected=4",
+  "to write: 4 Erode district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinakaran.com/news/gingee_girl_case_inspectors_a",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 1})",
+  "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 2})",
+  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 3})",
+  "auto images: 1 of 1 stories ({'fal-ai/flux/schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 66 min",
+  "filed: 4 Erode district stories (target 4), reels only",
+  "queue: 0 news waiting to be written",
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+ ],
+ "llm": [
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "dead for this round: groq/qwen/qwen3.8-27b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
+ ],
+ "stories": [
+  {
+   "tamil_headline": "ஈரோடு அருகே பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
+   "english_headline": "Iratta Palli check dam at Palani Goundanpalayam near Erode is full after recent rain; surplus water flows into Perumpallam stream",
+   "category": "Weather & Agriculture",
+   "location": "Palani Goundanpalayam, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "தடுப்பணை",
+    "loc": "பழனி கவுண்டன்பாளையம்",
+    "hl1": "பழனி கவுண்டன்பாளையத்தில் தடுப்பணை",
+    "hl2": "உபரி நீர் பெரும்பள்ளம்",
+    "slides": [
+     {
+      "title": "தடுப்பணை நிலை",
+      "lines": [
+       "ஈரோட்டை அடுத்த பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி",
+       "சில தினங்களாகப் பெய்த மழையால் தடுப்பணை நிரம்பியது",
+       "தடுப்பணையின் பரப்பு <b>3.75 ஏக்கர்</b>"
+      ]
+     },
+     {
+      "title": "நீர் வரத்து",
+      "lines": [
+       "தடுப்பணைக்கு கீழ்பவானி வாய்க்கால் கசிவு நீர், மழை நீர்",
+       "நிரம்பிய தடுப்பணையில் இருந்து உபரி நீர் வெளியேறுகிறது",
+       "உபரி நீர் பெரும்பள்ளம் ஓடையில் சங்கமிக்கிறது"
+      ]
+     },
+     {
+      "title": "மக்கள் மகிழ்ச்சி",
+      "lines": [
+       "தடுப்பணை நிரம்பியதால் மக்கள் மகிழ்ச்சி அடைந்துள்ளனர்",
+       "ஈரோடு மாவட்டத்தில் சில தினங்களாக மழை பெய்தது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டை அடுத்த பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியுள்ளது. ஈரோடு மாவட்டத்தில் சில தினங்களாக மழை பெய்ததால் இந்தத் தடுப்பணை நிரம்பியது. 3.75 ஏக்கர் பரப்பளவு கொண்ட இந்தத் தடுப்பணைக்கு கீழ்பவானி வாய்க்கால் கசிவு நீர் மற்றும் மழை நீர் பிரதான நீர் ஆதாரமாக உள்ளது. தடுப்பணை நிரம்பியதால் உபரி நீர் வெளியேறி பெரும்பள்ளம் ஓடையில் சங்கமிக்கிறது. இதனால் பகுதி மக்கள் மகிழ்ச்சி அடைந்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது\n\n📰 முழு விவரம்:\nஈரோட்டை அடுத்த பழனி கவுண்டன்பாளையத்தில் உள்ள இரட்டைப்பள்ளி தடுப்பணை நிரம்பியுள்ளது. ஈரோடு மாவட்டத்தில் சில தினங்களாகப் பெய்த மழையால் இந்தத் தடுப்பணை நிரம்பியது. 3.75 ஏக்கர் பரப்பிலான இந்தத் தடுப்பணைக்கு கீழ்பவானி வாய்க்கால் கசிவு நீர், மழை நீர் ஆகியவை பிரதான நீர் ஆதாரமாக உள்ளன.\n💦 தடுப்பணை நிரம்பியதால் உபரி நீர் வெளியேறி பெரும்பள்ளம் ஓடையில் சங்கமிக்கிறது.\n😊 இதனால் பகுதி மக்கள் மகிழ்ச்சி அடைந்துள்ளனர்.\n\n📍 இடம்: பழனி கவுண்டன்பாளையம், ஈரோடு மாவட்டம்\n\nPalani Goundanpalayam check dam full, Erode news\n📍 பழனி கவுண்டன்பாளையம், ஈரோடு | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ErodeRain",
+   "prompts": "A full check dam spills surplus rainwater over its outlet wall at Palani Goundanpalayam near Erode, and the water runs down a channel toward the Perumpallam stream. The 3.75-acre dam stretches wide across flat village land, its surface brim-full and calm, with paddy and dry scrub fields around the edges and a few palm trees on the far bank. Thin sheets of water glisten where the overflow sheets over the stone spillway. Two villagers, a man in a white shirt and veshti and a woman in a cotton saree, stand far off on the embankment, seen from behind and slightly blurred, watching the water. Early morning after rain, soft overcast light with wet, green ground. Camera at eye level, 35 mm, wide enough to show the whole dam and the spillway flowing into the stream. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/a-full-fledged-barrage/4374829",
+   "published": "2026-11-13T06:15:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 53 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534803/erode360/sgqkxznkklfdkgs2vwcc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "செஞ்சி சிறுமி வழக்கு: 2 இன்ஸ்பெக்டர்கள் கூடுதலாக நியமனம்",
+   "english_headline": "Senji girl case: 2 more inspectors appointed to speed up CB-CID probe",
+   "category": "Crime & Safety",
+   "location": "Nadupattu village, Senji, Villupuram district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றம்",
+    "loc": "செஞ்சி",
+    "hl1": "செஞ்சி சிறுமி வழக்கு தீவிரம்",
+    "hl2": "2 இன்ஸ்பெக்டர்கள் நியமனம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "செஞ்சி அருகே நடுப்பட்டு கிராமச் சிறுமி மாயம்",
+       "வடிவேல் - பவானி தம்பதியின் <b>7 வயது</b> மகள் ஹேமலதா",
+       "<b>கடந்த மாதம் 11</b> இரவு தூங்கிய பின் மாயமானார்"
+      ]
+     },
+     {
+      "title": "வழக்கு நிலை",
+      "lines": [
+       "சத்தியமங்கலம் போலீசார் வழக்குப்பதிவு செய்தனர்",
+       "கடந்த மாதம் <b>22</b> சிபிசிஐடி போலீசாரிடம் ஒப்படைப்பு",
+       "இதுவரை குறிப்பிடத்தக்க துப்பு கிடைக்கவில்லை"
+      ]
+     },
+     {
+      "title": "புதிய நடவடிக்கை",
+      "lines": [
+       "சிபிசிஐடி டிஐஜி விக்ரமன் சிறுமியின் வீட்டில் விசாரணை",
+       "இன்ஸ்பெக்டர்கள் குமார், சாஸ்தா கூடுதலாக நியமனம்",
+       "விசாரணையை தீவிரப்படுத்த இந்த ஏற்பாடு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "செஞ்சி அருகே நடுப்பட்டு கிராமச் சிறுமி மாயமான வழக்கில் இரண்டு இன்ஸ்பெக்டர்கள் கூடுதலாக நியமிக்கப்பட்டுள்ளனர். ஆலம்பூண்டி ஊராட்சிக்கு உட்பட்ட நடுப்பட்டு கிராமத்தைச் சேர்ந்த வடிவேல் - பவானி தம்பதியின் இரண்டாவது மகள் ஹேமலதா, 7 வயது. கடந்த மாதம் 11ஆம் தேதி இரவு வீட்டில் தூங்கிக் கொண்டிருந்த சிறுமி, மறுநாள் அதிகாலையில் மாயமானார். இதுகுறித்த புகாரின்பேரில் சத்தியமங்கலம் போலீசார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வந்தனர். கடந்த மாதம் 22ஆம் தேதி இந்த வழக்கு சிபிசிஐடி போலீசாரிடம் ஒப்படைக்கப்பட்டது. சிபிசிஐடி டிஎஸ்பிக்கள் கீதா, வேல்முருகன் தலைமையிலான போலீசார் பல்வேறு கோணங்களில் விசாரணை நடத்தி வருகின்றனர். ஆனாலும் இதுவரை குறிப்பிடத்தக்க துப்பு எதுவும் கிடைக்கவில்லை. இந்நிலையில், சிபிசிஐடி டிஐஜி விக்ரமன் சிறுமியின் வீட்டுக்கு நேரில் சென்று விசாரணை நடத்தினார். வழக்கு தொடர்பாக போலீசாருடன் ஆலோசனையும் மேற்கொண்டார். இதையடுத்து, விசாரணையை தீவிரப்படுத்த சிபிசிஐடி இன்ஸ்பெக்டர்கள் குமார், சாஸ்தா ஆகியோர் கூடுதலாக நியமிக்கப்பட்டுள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 செஞ்சி சிறுமி வழக்கு: 2 சிபிசிஐடி இன்ஸ்பெக்டர்கள் கூடுதலாக நியமனம்\n\n📰 முழு விவரம்:\nவிழுப்புரம் மாவட்டம், செஞ்சி அருகே ஆலம்பூண்டி ஊராட்சிக்கு உட்பட்ட நடுப்பட்டு கிராமத்தைச் சேர்ந்த வடிவேல் - பவானி தம்பதியின் இரண்டாவது மகள் ஹேமலதா (7 வயது) கடந்த மாதம் 11ஆம் தேதி இரவு வீட்டில் தூங்கிக் கொண்டிருந்தபோது மறுநாள் அதிகாலையில் மாயமானார்.\nஇதுகுறித்த புகாரின்பேரில் சத்தியமங்கலம் போலீசார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வந்தனர். கடந்த மாதம் 22ஆம் தேதி இந்த வழக்கு சிபிசிஐடி போலீசாரிடம் ஒப்படைக்கப்பட்டது.\nசிபிசிஐடி டிஎஸ்பிக்கள் கீதா, வேல்முருகன் தலைமையிலான போலீசார் பல்வேறு கோணங்களில் விசாரணை நடத்தி வருகின்றனர். இதுவரை குறிப்பிடத்தக்க துப்பு எதுவும் கிடைக்கவில்லை.\nஇந்நிலையில் சிபிசிஐடி டிஐஜி விக்ரமன் சிறுமியின் வீட்டுக்கு நேரில் சென்று விசாரணை நடத்தி, போலீசாருடன் ஆலோசனை மேற்கொண்டார்.\nஇதையடுத்து விசாரணையை தீவிரப்படுத்த சிபிசிஐடி இன்ஸ்பெக்டர்கள் குமார், சாஸ்தா ஆகியோர் கூடுதலாக நியமிக்கப்பட்டுள்ளனர்.\n\nSenji girl missing case: 2 CB-CID inspectors appointed | Villupuram news\n📍 செஞ்சி, விழுப்புரம் மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Senji #ErodeNews #ஈரோடு",
+   "prompts": "A group of Tamil Nadu police officers in khaki uniform stand in a discussion outside a modest tiled-roof village house in Nadupattu, Senji, as a senior CB-CID officer reviews the case with them. The scene is a quiet rural lane in Villupuram district, with a mud-and-brick house, a low compound wall, a few plastic chairs in the front yard, and a dusty village street with a parked two-wheeler. The officers are seen from behind or from a distance, one holding a notebook, their faces not visible. Morning light, soft and clear, with a bare-branched neem tree and a few palm trees behind the house. The camera is at eye level, 35 mm, wide enough to show the house, the lane, and the officers together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/gingee_girl_case_inspectors_appointed",
+   "published": "2026-11-13T03:29:03+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794534973/erode360/bj3kkiztwnytvyjyhbcs.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் தந்தையை அடித்துக் கொலை செய்த மகன்: போதையில் நேர்ந்த கொடூரம்",
+   "english_headline": "Son arrested for beating his 75-year-old father to death in Erode Pudumai Colony",
+   "category": "Crime & Safety",
+   "location": "Pudumai Colony, Erode city, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் சம்பவம்",
+    "loc": "புதுமை காலனி, ஈரோடு",
+    "hl1": "ஈரோட்டில் தந்தையை கொன்ற மகன்",
+    "hl2": "போதையில் தாக்கியதால்",
+    "slides": [
+     {
+      "title": "யார்?",
+      "lines": [
+       "ஈரோடு புதுமை காலனியைச் சேர்ந்த <b>75 வயது</b> முதியவர்",
+       "பூ வியாபாரம் செய்து வந்தவர் உயிரிழப்பு",
+       "தாக்கிய <b>36 வயது</b> மகனை போலீஸார் கைது செய்தனர்"
+      ]
+     },
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "நவம்பர் 11 புதன்கிழமை இரவு மகன் மதுபோதையில் வந்தார்",
+       "போதையில் வந்த மகனை தந்தை கண்டித்துள்ளார்",
+       "ஆத்திரமடைந்த மகன் தந்தையை கொடூரமாகத் தாக்கினார்"
+      ]
+     },
+     {
+      "title": "நடவடிக்கை",
+      "lines": [
+       "படுகாயமடைந்த முதியவர் அரசு மருத்துவமனையில் அனுமதி",
+       "சிகிச்சை பலனின்றி வியாழக்கிழமை அதிகாலை உயிரிழந்தார்",
+       "ஈரோடு தெற்கு போலீஸார் மகனைக் கைது செய்தனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் போதையில் வந்த மகன் தனது தந்தையை அடித்துக் கொலை செய்தார். ஈரோடு புதுமை காலனியைச் சேர்ந்த 75 வயது முதியவர் பூ வியாபாரம் செய்து வந்தார். இவரது 36 வயது மகன் கூலித்தொழிலாளியாக வேலை செய்து வருகிறார். மதுப் பழக்கத்திற்கு அடிமையான அந்த மகன் கடந்த 8 மாதங்களாக மனைவியைப் பிரிந்து தந்தையுடன் வசித்து வந்தார். நவம்பர் 11ஆம் தேதி புதன்கிழமை இரவு மகன் அளவுக்கு அதிகமான மதுபோதையில் வீட்டிற்கு வந்துள்ளார். இதனை தந்தை கண்டித்ததால் ஆத்திரமடைந்த மகன் தந்தையை கடுமையாகத் தாக்கினார். அலறல் சத்தம் கேட்டு வந்த அக்கம் பக்கத்தினர் படுகாயமடைந்த முதியவரை மீட்டனர். அவரை ஈரோடு அரசு தலைமை மருத்துவமனையில் சிகிச்சைக்காக அனுமதித்தனர். ஆனால் சிகிச்சை பலனின்றி நவம்பர் 12ஆம் தேதி வியாழக்கிழமை அதிகாலை அவர் உயிரிழந்தார். இது குறித்து ஈரோடு தெற்கு போலீஸார் வழக்குப் பதிவு செய்து மகனைக் கைது செய்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோட்டில் தந்தையை அடித்துக் கொலை செய்த மகன்\n\n📰 முழு விவரம்:\nஈரோடு புதுமை காலனியைச் சேர்ந்த 75 வயது பூ வியாபாரி, தனது மகனால் அடித்துக் கொலை செய்யப்பட்டார். 36 வயதுடைய அந்த மகன் மதுப் பழக்கத்திற்கு அடிமையானவர். நவம்பர் 11 புதன்கிழமை இரவு அவர் போதையில் வந்ததை தந்தை கண்டித்துள்ளார். இதனால் ஆத்திரமடைந்த மகன் தந்தையை கொடூரமாகத் தாக்கினார். படுகாயமடைந்த முதியவர் ஈரோடு அரசு தலைமை மருத்துவமனையில் அனுமதிக்கப்பட்டார். அங்கு சிகிச்சை பலனின்றி நவம்பர் 12 வியாழக்கிழமை அதிகாலை அவர் உயிரிழந்தார்.\n\n📍 இடம்: புதுமை காலனி, ஈரோடு\n🗓️ நாள்: நவம்பர் 11 இரவு (சம்பவம்)\n👮 நடவடிக்கை: ஈரோடு தெற்கு போலீஸார் மகனைக் கைது செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nErode man arrested for killing father in Pudumai Colony | Erode news\n📍 Pudumai Colony, Erode | 13 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #CrimeNews #ErodeNews #ஈரோடு",
+   "prompts": "A pair of Tamil Nadu police in khaki stand at the doorway of a modest two-storey house on a narrow residential street in Pudumai Colony, Erode city, as a head constable leads a handcuffed man in a plain shirt toward a police jeep parked at the kerb. The street is lined with concrete houses, tiled sunshades and hanging electric wires on concrete poles, with a few neighbours standing at a distance in sarees and lungis, seen from behind. Dim evening light after Wednesday night, with a warm street lamp glowing above. A pile of unsold flower baskets rests against a wall by the gate, and a two-wheeler is parked near the door. Camera at eye level, 35 mm, wide enough to show the entire house facade and the police jeep, people kept small and far away, no readable signboards or text. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/father-dies-after-being-attacked-by-son",
+   "published": "2026-11-12T18:53:41.880Z",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 8 ('கூலித்தொழிலாளியான இவா் மதுப் பழக்கத்துக்கு அடிமையானவா்..இந்ந')",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794535116/erode360/rcbpcbxsggxonunruqa8.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அம்மாபேட்டையில் மாணவிக்கு பாலியல் தொல்லை: பொக்லைன் ஓட்டுநர் கைது",
+   "english_headline": "Bokline operator arrested under POCSO Act for sexually harassing a 16-year-old school girl near Ammapettai",
+   "category": "Crime & Safety",
+   "location": "Ammapettai, Erode district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "அம்மாபேட்டை",
+    "hl1": "அம்மாபேட்டையில் மாணவிக்கு தொல்லை",
+    "hl2": "போக்சோ சட்டத்தில் வழக்கு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அம்மாபேட்டை அருகே பள்ளி மாணவிக்கு பாலியல் தொல்லை",
+       "16 வயது மாணவியின் பெற்றோர் பவானி மகளிர் காவல் நிலையத்தில்",
+       "போக்சோ சட்டத்தில் வழக்குப் பதிவு"
+      ]
+     },
+     {
+      "title": "யார் கைது?",
+      "lines": [
+       "பூனாச்சி, ராமச்சந்திராபுரத்தைச் சேர்ந்த ஹரிகோபாலகிருஷ்ணன்",
+       "பொக்லைன் ஓட்டுநர்",
+       "வியாழக்கிழமை கைது, நீதிமன்றக் காவலுக்கு அனுப்பப்பட்டார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அம்மாபேட்டை அருகே பள்ளி மாணவிக்கு பாலியல் தொல்லை கொடுத்த பொக்லைன் ஓட்டுநர் போலீசாரால் கைது செய்யப்பட்டுள்ளார். பூனாச்சி, ராமச்சந்திராபுரத்தைச் சேர்ந்த ஹரிகோபாலகிருஷ்ணன், 28 வயது, பொக்லைன் ஓட்டுநராகப் பணியாற்றி வருகிறார். 16 வயது பள்ளி மாணவிக்கு இவர் பாலியல் தொல்லை கொடுத்ததாக, அந்த மாணவியின் பெற்றோர் பவானி அனைத்து மகளிர் காவல் நிலையத்தில் புகார் அளித்தனர். இதையடுத்து போலீசார் போக்சோ சட்டத்தில் வழக்குப் பதிவு செய்தனர். வியாழக்கிழமை ஹரிகோபாலகிருஷ்ணனை கைது செய்த போலீசார், நீதிமன்றக் காவலுக்கு அனுப்பி வைத்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அம்மாபேட்டையில் 16 வயது மாணவிக்கு பாலியல் தொல்லை: ஓட்டுநர் கைது\n\n📰 முழு விவரம்:\nஅம்மாபேட்டை அருகே பள்ளி மாணவிக்கு பாலியல் தொல்லை கொடுத்ததாக பொக்லைன் ஓட்டுநர் போலீசாரால் போக்சோ சட்டத்தில் கைது செய்யப்பட்டார்.\nபூனாச்சி, ராமச்சந்திராபுரத்தைச் சேர்ந்த முருகேசன் மகன் ஹரிகோபாலகிருஷ்ணன் (28 வயது) கைது செய்யப்பட்டார்.\n16 வயது மாணவியின் பெற்றோர் பவானி அனைத்து மகளிர் காவல் நிலையத்தில் புகார் அளித்தனர்.\nவியாழக்கிழமை கைது செய்யப்பட்ட அவர், நீதிமன்றக் காவலுக்கு அனுப்பப்பட்டார்.\n\n📍 இடம்: அம்மாபேட்டை அருகே, ஈரோடு மாவட்டம்\n🗓️ நாள்: வியாழக்கிழமை\n👮 நடவடிக்கை: போக்சோ சட்டத்தில் வழக்குப் பதிவு, கைது, நீதிமன்றக் காவல்\n\nAmmapettai POCSO arrest, school girl harassment | Erode news\n📍 அம்மாபேட்டை, ஈரோடு மாவட்டம் | 12 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Ammapettai #ErodeNews #ஈரோடு",
+   "prompts": "A police officer in khaki uniform walks a young man, seen only from behind, toward a police jeep parked outside a women's police station in Ammapettai, Erode district, Tamil Nadu. The accused, a 28-year-old backhoe (poclain) operator, is shown from behind in a plain shirt and trousers with his hands held, while a yellow backhoe loader stands parked on a dusty road nearby to mark his occupation. The setting is a modest government police station compound with a low concrete building, a tiled verandah, a few plastic chairs and a neem tree, with rural houses and a few two-wheelers visible along the roadside. Daylight, a clear afternoon sky, soft natural light. Camera at eye level, 35 mm, wide enough to show the station building, the jeep and the backhoe, with the people kept small and far away and no faces visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/sexual-harassment-of-a-female-studentpoclain-operator-arrested",
+   "published": "2026-11-12T19:00:30.733Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides must have 3 or 4 items; sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/bgk9wm1u/image/upload/v1794535266/erode360/eji5npw2scohmie13co3.jpg"
+   ]
+  }
+ ]
+}
