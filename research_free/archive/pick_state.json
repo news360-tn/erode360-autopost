@@ -12,7 +12,8 @@
    "score": 6.8,
    "power_cut": false,
    "listed_at": "2026-11-13T07:11:11.534861+05:30",
-   "picked_at": "2026-11-13T21:51:10.140059+05:30"
+   "picked_at": "2026-11-13T21:51:10.140059+05:30",
+   "posted": true
   },
   "Cd3e7549": {
    "id": "Cd3e7549",
@@ -25,7 +26,8 @@
    "score": 6.8,
    "power_cut": false,
    "listed_at": "2026-11-13T07:11:11.534861+05:30",
-   "picked_at": "2026-11-13T21:51:10.140061+05:30"
+   "picked_at": "2026-11-13T21:51:10.140061+05:30",
+   "posted": true
   },
   "C7168fe8": {
    "id": "C7168fe8",
@@ -272,7 +274,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-13T21:50:26.291479+05:30",
-   "picked_at": "2026-11-13T21:51:10.140052+05:30"
+   "picked_at": "2026-11-13T21:51:10.140052+05:30",
+   "refused": "not filed: not Erode district news (the story's first lines name another place and no Erode place)"
   }
  },
  "rounds": {
@@ -527,7 +530,10 @@
     "C54edc60",
     "Cbfee92f",
     "Cd3e7549"
-   ]
+   ],
+   "refused": {
+    "Cbfee92f": "not filed: not Erode district news (the story's first lines name another place and no Erode place)"
+   }
   }
  },
  "retry": {}
