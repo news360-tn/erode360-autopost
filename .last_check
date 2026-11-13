@@ -1,14 +1,17 @@
-21:29:02 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
+21:53:19 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
 ::warning title=Held from posting RN-6::held: fact-check problems - not grounded: location 'பகுதி' is not in the article
-21:29:03 story catch-up erode: quota 21/50, 11 recent posts, 10 live stories, owner ids ['17841461695723120', '28992168970439744']
-21:29:03 4 stories in the queue, ready to post: 3
-21:29:03   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-21:29:03    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 10.4 ready= False set_started= True
-21:29:03    RN-12 review= 'Auto' images= 195 spec= 695 pages= ['erode'] links= '' '' age_h= 1.2 ready= True set_started= True
-21:29:03    RN-13 review= 'Auto' images= 195 spec= 576 pages= ['erode'] links= '' '' age_h= 1.2 ready= True set_started= True
-21:29:03    RN-14 review= 'Auto' images= 195 spec= 672 pages= ['erode'] links= '' '' age_h= 1.2 ready= True set_started= True
-21:29:05 publishing quota erode: 21/50
-21:29:06 instagram duplicate check erode: 11 recent posts read
-21:29:06    RN-12 waits for posting start (08:00 IST)
-21:29:06    RN-13 waits for posting start (08:00 IST)
-21:29:06    RN-14 waits for posting start (08:00 IST)
+21:53:21 story catch-up erode: quota 21/50, 11 recent posts, 10 live stories, owner ids ['17841461695723120', '28992168970439744']
+21:53:21 5 stories in the queue, ready to post: 4
+21:53:21   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+21:53:21    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 10.8 ready= False set_started= True
+21:53:21    RN-12 review= 'Auto' images= 195 spec= 695 pages= ['erode'] links= '' '' age_h= 1.6 ready= True set_started= True
+21:53:21    RN-13 review= 'Auto' images= 195 spec= 576 pages= ['erode'] links= '' '' age_h= 1.6 ready= True set_started= True
+21:53:21    RN-14 review= 'Auto' images= 195 spec= 672 pages= ['erode'] links= '' '' age_h= 1.6 ready= True set_started= True
+21:53:21    RN-15 review= 'Auto' images= 195 spec= 756 pages= ['erode'] links= '' '' age_h= 0.0 ready= True set_started= True
+21:53:22 publishing quota erode: 21/50
+21:53:24 instagram duplicate check erode: 11 recent posts read
+21:53:24    RN-12 waits for posting start (08:00 IST)
+21:53:24    RN-13 waits for posting start (08:00 IST)
+21:53:24    RN-14 waits for posting start (08:00 IST)
+21:53:24    RN-15 waits for posting start (08:00 IST)
+21:53:24 prebuilding ahead of the set start: ['RN-15']
