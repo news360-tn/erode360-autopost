@@ -3,123 +3,84 @@
   "earlier stories still waiting for images: []",
   "instagram check: 11 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/cake-monitoring-officer-inspects-school-children/4374827",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/2-day-special-class-for-1632-students/4374828",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/public-distribution-system-grievance-redressal-camp/4374833",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/asp-stuns-in-shooting-competition/4375471",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/demand-to-bring-the-new-solur-bus-stand-into-full-operation",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/road-workers-stage-protest/4374825",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
-  "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/asp-stuns-in-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
-  "filed: 3 Erode district stories (target 3), reels only",
+  "NOT filed (N) துப்பாக்கி சுடும் போட்டி ஏ.எஸ்.பி., அசத்தல்: not Erode district news (the story's first lines name another place and no Erode place)",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
+  "filed: 2 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (52s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (16s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3.5-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (3s)",
+  "ok groq/openai/gpt-oss-120b (2s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
@@ -127,188 +88,134 @@
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோடு மாவட்டத்தில் நவ. 14 அன்று பொது விநியோக திட்ட குறைதீர் முகாம்",
-   "english_headline": "Public Distribution System grievance camp on 14 Nov in one ration shop of every taluk in Erode district",
-   "category": "Government & Services",
-   "location": "Kalingarayanpalayam, Erode taluk and 9 other taluk towns, Erode district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு சேவை",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "நவ. 14 ரேஷன் குறைதீர் முகாம்",
-    "hl2": "ஒவ்வொரு தாலுகாவிலும்",
-    "slides": [
-     {
-      "title": "எப்போது, எங்கே?",
-      "lines": [
-       "நவ. <b>14</b> அன்று முகாம்",
-       "ஒவ்வொரு தாலுகாவிலும் ஒரு ரேஷன் கடையில்",
-       "ஈரோடு: காளிங்கராயன்பாளையம் மேட்டுநாசுவம்பாளையம்"
-      ]
-     },
-     {
-      "title": "தாலுகா வாரியாக",
-      "lines": [
-       "பெருந்துறை: பெத்தாம்பாளையம்",
-       "மொடக்குறிச்சி: விளக்கேத்தி",
-       "கொடுமுடி: ஆவுடையார்பாறை"
-      ]
-     },
-     {
-      "title": "தாலுகா வாரியாக",
-      "lines": [
-       "நம்பியூர்: பொலவபாளையம்",
-       "பவானி: ஒலகடம்",
-       "அந்தியூர்: மூங்கில்பட்டி"
-      ]
-     },
-     {
-      "title": "என்ன செய்யலாம்?",
-      "lines": [
-       "புதிய ரேஷன் கார்டு பெற மனு கொடுக்கலாம்",
-       "நகல் கார்டு, பெயர் சேர்த்தல், நீக்கம், மொபைல் எண் இணைத்தல்",
-       "முகாமிலேயே தீர்வு பெறலாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டத்தில் நவம்பர் 14ஆம் தேதி பொது விநியோக திட்ட குறைதீர் முகாம் நடைபெறவுள்ளது. ஒவ்வொரு தாலுகாவிலும் தலா ஒரு ரேஷன் கடையில் இந்த முகாம் அமைக்கப்படுகிறது. இதில் புதிய ரேஷன் கார்டு பெறுதல், நகல் ரேஷன் கார்டு பெறுதல், ரேஷன் கார்டில் பெயர் சேர்த்தல் மற்றும் நீக்குதல், மொபைல் எண் இணைத்தல் ஆகிய கோரிக்கைகளுக்கு மனுக்கள் வழங்கி முகாமிலேயே தீர்வு பெறலாம். ஈரோடு தாலுகாவில் காளிங்கராயன்பாளையம் மேட்டுநாசுவம்பாளையம் ரேஷன் கடையில் முகாம் நடைபெறுகிறது. இதையடுத்து, பெருந்துறையில் பெத்தாம்பாளையம், மொடக்குறிச்சியில் விளக்கேத்தி, கொடுமுடியில் ஆவுடையார்பாறை ரேஷன் கடைகளில் முகாம் நடைபெறுகிறது. மேலும், கோபியில் ஊஞ்சபாளையம் ஓடையக்கவுண்டன்பாளையம், நம்பியூரில் பொலவபாளையம் ரேஷன் கடைகளில் முகாம் நடைபெறுகிறது. பவானியில் ஒலகடம், அந்தியூரில் மூங்கில்பட்டி ரேஷன் கடைகளில் முகாம் நடைபெறுகிறது. சத்தியமங்கலத்தில் அய்யம்பாளையம் பெரியகள்ளிப்பட்டி, தாளவாடியில் மல்லன்குழி ரேஷன் கடைகளில் முகாம் நடைபெறுகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛒 ஈரோடு மாவட்டத்தில் நவ. 14 ரேஷன் குறைதீர் முகாம்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் பொது விநியோக திட்ட குறைதீர் முகாம் நவம்பர் 14ஆம் தேதி நடைபெறவுள்ளது. ஒவ்வொரு தாலுகாவிலும் தலா ஒரு ரேஷன் கடையில் முகாம் நடைபெறும். புதிய ரேஷன் கார்டு பெறுதல், நகல் ரேஷன் கார்டு பெறுதல், ரேஷன் கார்டில் பெயர் சேர்த்தல் அல்லது நீக்குதல், மொபைல் எண் இணைத்தல் உள்ளிட்ட கோரிக்கைகளுக்கு மனுக்கள் வழங்கி, முகாமிலேயே தீர்வு பெறலாம்.\n🗓️ நாள்: நவம்பர் 14\n📍 இடங்கள்:\nஈரோடு: காளிங்கராயன்பாளையம் மேட்டுநாசுவம்பாளையம்\nபெருந்துறை: பெத்தாம்பாளையம்\nமொடக்குறிச்சி: விளக்கேத்தி\nகொடுமுடி: ஆவுடையார்பாறை\nகோபி: ஊஞ்சபாளையம் ஓடையக்கவுண்டன்பாளையம்\nநம்பியூர்: பொலவபாளையம்\nபவானி: ஒலகடம்\nஅந்தியூர்: மூங்கில்பட்டி\nசத்தியமங்கலம்: அய்யம்பாளையம் பெரியகள்ளிப்பட்டி\nதாளவாடி: மல்லன்குழி\n\nErode ration card grievance camp 14 Nov | Erode news\n📍 ஈரோடு மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ரேஷன்கார்டு",
-   "prompts": "A line of villagers, mostly women in sarees and elderly men in shirts with veshti, stand in an orderly queue outside a small ration shop in Kalingarayanpalayam, Erode taluk, holding petition papers and folded ration card booklets in their hands. The shop is a single-storey concrete building with a roll-up shutter half open and a wooden counter visible inside where a ration shop staff member sits behind a table stacked with forms and registers. Erode city look: a quiet taluk-town street with two-wheelers parked at the kerb and a few paddy fields visible at the edge of the village. The people are seen from behind and at a distance, their faces not visible. It is bright daylight with soft sunshine and a light breeze. Camera at eye level, 35 mm lens, wide enough to show the shop front, the queue and the street. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden counter inside a ration shop where a stack of petition forms and a few ration card booklets lie beside a hand holding a pen, with a cloth bag and a folded sheet of papers resting on the table. The background shows the shelves of the fair price shop slightly blurred and a corner of the open shutter letting in daylight. Only the hands and papers are in focus, no faces shown. The surface is plain and worn, reflecting the everyday office of a village ration shop in Erode district. Daylight, slightly warm tones. Camera slightly high, 35 mm lens, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/public-distribution-system-grievance-redressal-camp/4374833",
-   "published": "2026-11-13T06:17:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794581391/erode360/x5ugbicyngfdb67mnlx1.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794581395/erode360/noqb19mhyiiq4geblahw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "10ம் வகுப்பு சுமாரான மதிப்பெண் மாணவர்களுக்கு இன்றும் நாளையும் சிறப்பு வகுப்பு",
-   "english_headline": "Special classes for 1,632 Class 10 students with average marks in Erode district today and tomorrow",
-   "category": "Education",
-   "location": "Erode district (15 government schools, one per union)",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்வி",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "10ம் வகுப்பு மாணவர்களுக்கு சிறப்பு",
-    "hl2": "இன்றும் நாளையும்",
-    "slides": [
-     {
-      "title": "யாருக்கு?",
-      "lines": [
-       "அரசு பள்ளி 10ம் வகுப்பு மாணவ, மாணவியர்",
-       "சுமாரான மதிப்பெண் பெறுவோருக்கு",
-       "மொத்தம் <b>1,632</b> மாணவர்கள் பங்கேற்பு"
-      ]
-     },
-     {
-      "title": "எங்கே நடக்கிறது?",
-      "lines": [
-       "ஒவ்வொரு ஒன்றியத்திலும் ஒரு பள்ளி",
-       "மாவட்டம் முழுவதும் <b>15 பள்ளிகளில்</b>",
-       "அனைத்துப் பாடங்களுக்கும் வகுப்பு"
-      ]
-     },
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "இன்று (<b>13 நவம்பர்</b>) மற்றும் நாளை",
-       "இரு நாட்கள் சிறப்பு வகுப்புகள்",
-       "பள்ளி கல்வித்துறையின் முடிவு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டத்தில் 10ம் வகுப்பு மாணவர்களுக்கு இரு நாட்கள் சிறப்பு வகுப்புகள் நடைபெறுகின்றன. அரசு பள்ளிகளில் சுமாரான மதிப்பெண் பெறும் 10ம் வகுப்பு மாணவ, மாணவியருக்காக இந்த வகுப்புகளை நடத்த பள்ளி கல்வித்துறை முடிவு செய்தது. ஒவ்வொரு ஒன்றியத்திலும் ஒரு பள்ளி வீதம் மாவட்டம் முழுவதும் 15 பள்ளிகளில் சிறப்பு வகுப்புகள் நடக்கின்றன. இன்றும் நாளையும் அனைத்துப் பாடங்களுக்கும் வகுப்புகள் நடைபெறுகின்றன. மொத்தம் 1,632 மாணவ, மாணவியர் இதில் பங்கேற்க உள்ளதாக பள்ளி கல்வித்துறையினர் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📚 ஈரோடு மாவட்டத்தில் 1,632 மாணவர்களுக்கு 2 நாள் சிறப்பு வகுப்பு\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் அரசு பள்ளிகளில் 10ம் வகுப்பு பயிலும் மாணவ, மாணவியரில் சுமாரான மதிப்பெண் பெறுவோருக்குச் சிறப்பு வகுப்பு நடத்த பள்ளி கல்வித்துறை முடிவு செய்துள்ளது.\nஒவ்வொரு ஒன்றியத்திலும் ஒரு பள்ளி என, மாவட்டம் முழுவதும் இரு நாட்கள் சிறப்பு வகுப்புகள் நடத்தப்படுகின்றன.\nஇன்றும் நாளையும் அனைத்துப் பாடங்களுக்கும் சிறப்பு வகுப்புகள் நடைபெறுகின்றன.\n15 பள்ளிகளில் நடக்கும் இந்த வகுப்புகளில் 1,632 மாணவ, மாணவியர் பங்கேற்க உள்ளனர் என பள்ளி கல்வித்துறையினர் தெரிவித்துள்ளனர்.\n\n📍 இடம்: ஈரோடு மாவட்டம் (15 அரசுப் பள்ளிகள்)\n🗓️ நாள்: 13 நவம்பர் 2026 (இன்று) மற்றும் நாளை\n👥 யாருக்கு: 10ம் வகுப்பு, சுமாரான மதிப்பெண் பெறும் மாணவ, மாணவியர்\n\nErode 10th standard special classes 1,632 students | Erode news\n📍 ஈரோடு மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #கல்வி #ஈரோடு",
-   "prompts": "Students in Tamil Nadu government school uniform sit at wooden benches in a bright classroom during a special extra class, while a teacher stands at the blackboard taking the lesson. The room is a typical government school classroom in Erode district, with a plain painted wall, a large green board, wooden desks and benches arranged in rows, and open windows letting in daylight. Around 30 students, mostly girls in white and blue uniforms and some boys in shirts and trousers, sit with open notebooks and textbooks on their desks, pens in hand, some looking up toward the front. The teacher wears a cotton saree or shirt and trousers and points at the board with chalk. Seen from the back of the room at eye level, shot on a 35 mm lens wide enough to show the full classroom, mid-morning daylight, a calm study atmosphere. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of open Class 10 textbooks and notebooks lying on a wooden school desk, with a student's hand holding a pen writing in the notebook. Visible are the pages filled with handwritten notes and a pencil box beside them, the wooden desk surface worn from use, and the edge of a school bench in the background. The pages show no readable text, only blurred lines of writing. Soft natural daylight from a classroom window falls across the desk, shallow depth of field, shot at eye level with a 35 mm lens, focus on the notebook and hand, a quiet study moment inside an Erode government school. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/2-day-special-class-for-1632-students/4374828",
-   "published": "2026-11-13T06:15:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794581415/erode360/o50n3mkmdupozpcoe0ky.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794581419/erode360/rlvly5pkjcxjhl6gmyqt.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பெருந்துறையில் பள்ளி மாணவர்களுக்கு கேக் வழங்கும் ஏற்பாடுகள் ஆய்வு",
-   "english_headline": "Cake distribution arrangements for school students inspected in Perundurai, Erode district",
-   "category": "Education",
-   "location": "Perundurai, Erode district",
+   "tamil_headline": "சோலார் புதிய பேருந்து நிலையத்தை முழுமையாகப் பயன்படுத்தக் கோரிக்கை: ஆட்சியரிடம் மனு",
+   "english_headline": "Lakkapuram residents petition Erode Collector to fully operationalise Solar new bus stand and vegetable complex",
+   "category": "Civic Issues",
+   "location": "Solar, Erode district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பள்ளி மாணவர்கள்",
-    "loc": "பெருந்துறை",
-    "hl1": "பெருந்துறையில் கேக் வழங்கும் ஏற்பாடு",
-    "hl2": "குழந்தைகள் தினத்தை",
+    "cat": "பேருந்து நிலையம்",
+    "loc": "சோலார், ஈரோடு",
+    "hl1": "சோலார் புதிய பேருந்து நிலையம் முழு",
+    "hl2": "ஆட்சியரிடம் பொதுமக்கள் மனு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "ஆட்சியரிடம் மனு",
       "lines": [
-       "கண்காணிப்பு அலுவலர் வெங்கடேஷ் ஆய்வு செய்தார்",
-       "குழந்தைகள் தினத்தை முன்னிட்டு மாணவர்களுக்கு கேக்",
-       "தமிழக அரசு சார்பில் வழங்கப்படவுள்ளது"
+       "<b>சோலார்</b> புதிய பேருந்து நிலையத்தை",
+       "லக்காபுரம் மக்கள் ஆட்சியர் ச.கந்தசாமியிடம் வியாழக்கிழமை மனு",
+       "<b>20 ஏக்கரில்</b> அமைக்கப்பட்ட பேருந்து நிலையம்"
       ]
      },
      {
-      "title": "சேமிப்பு கிடங்கு",
+      "title": "பேருந்து சேவை",
       "lines": [
-       "பெருந்துறை சேமிப்பு கிடங்கை பார்வையிட்டார்",
-       "கேக்குகளின் இருப்பு விவரம் கேட்டறிந்தார்",
-       "வினியோக ஏற்பாடுகளையும் ஆய்வு செய்தார்"
+       "கரூர், திருச்சி, மதுரை, வெள்ளக்கோவில் பேருந்துகள் மட்டும்",
+       "கோவை, சேலம், நாமக்கல், கோபி, மேட்டூர், பழனி பேருந்துகள்",
+       "தனியார் பேருந்துகளும் இயக்கப்படாததால் பயணிகள் சிரமம்"
       ]
      },
      {
-      "title": "குடிநீர் பணி ஆய்வு",
+      "title": "காய்கறி வளாகம்",
       "lines": [
-       "பெருந்துறை நகராட்சி 12ஆவது வார்டில் ஆய்வு",
-       "அம்ரூத் 2.0 திட்டப் குடிநீர் மேம்பாட்டுப் பணி",
-       "வீடுகளுக்கான குடிநீர் இணைப்புப் பணியும் பார்வை"
+       "பேருந்து நிலையம் அருகே <b>10 ஏக்கரில்</b> காய்கறி வளாகம்",
+       "<b>99 சதவீத</b> பணிகள் முடிந்தும் திறக்கப்படவில்லை",
+       "காய்கறி வளாகத்தையும் திறக்க மக்கள் கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பெருந்துறையில் பள்ளி மாணவர்களுக்கு வழங்கப்படும் கேக் ஏற்பாடுகள் ஆய்வு செய்யப்பட்டன. ஈரோடு மாவட்டக் கண்காணிப்பு அலுவலர் வெங்கடேஷ் இந்த ஆய்வை நேற்று மேற்கொண்டார். குழந்தைகள் தினத்தை முன்னிட்டு, தமிழக அரசு சார்பில் பள்ளி மாணவர்களுக்குக் கேக் வழங்கப்படவுள்ளது. பெருந்துறையில் உள்ள சேமிப்பு கிடங்கில் கேக்குகளின் இருப்பு மற்றும் வினியோக ஏற்பாடுகளை அவர் பார்வையிட்டார். பின்னர், பெருந்துறை நகராட்சி 12ஆவது வார்டில் அம்ரூத் 2.0 திட்டத்தில் நடைபெறும் குடிநீர் வழங்கல் மேம்பாட்டுப் பணியை ஆய்வு செய்தார். வீடுகளுக்கான குடிநீர் இணைப்புப் பணிகளையும் அவர் பார்வையிட்டார். ஆய்வின்போது மாவட்ட முதன்மைக் கல்வி அலுவலர் மான்விழி மற்றும் கலெக்டரின் நேர்முக உதவியாளர் (வளர்ச்சி) ரமேஷ் கிருஷ்ணன் உடனிருந்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎂 பெருந்துறையில் மாணவர்களுக்கு கேக் வழங்கும் ஏற்பாடுகள் ஆய்வு\n\n📰 முழு விவரம்:\nஈரோடு மாவட்ட கண்காணிப்பு அலுவலர் வெங்கடேஷ் நேற்று மாவட்டத்தில் பல இடங்களில் ஆய்வு மேற்கொண்டார். குழந்தைகள் தினத்தை முன்னிட்டு பள்ளி மாணவ, மாணவிகளுக்கு தமிழக அரசு சார்பில் கேக் வழங்கப்படவுள்ளது. பெருந்துறை சேமிப்பு கிடங்கில் கேக்குகளின் இருப்பு மற்றும் வினியோக ஏற்பாடுகளை பார்வையிட்டு விவரம் கேட்டறிந்தார். பின்னர் பெருந்துறை நகராட்சி 12ஆவது வார்டில் அம்ரூத் 2.0 திட்டத்தில் நடைபெறும் குடிநீர் வழங்கல் மேம்பாட்டுப் பணி மற்றும் வீடுகளுக்கான குடிநீர் இணைப்புப் பணிகளை பார்வையிட்டார். ஆய்வின்போது ஈரோடு மாவட்ட முதன்மை கல்வி அலுவலர் மான்விழி, கலெக்டரின் நேர்முக உதவியாளர் (வளர்ச்சி) ரமேஷ் கிருஷ்ணன் உட்பட துறை சார்ந்த அலுவலர்கள் உடனிருந்தனர்.\n\nPerundurai cake distribution for school students inspected | Erode news\n📍 பெருந்துறை, ஈரோடு மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
-   "prompts": "Inside a government storage warehouse in Perundurai, a row of officials in shirts and trousers stand near tall stacks of cardboard cake boxes piled on wooden pallets, examining the stock. One senior official in a white shirt gestures toward the boxes while a district education officer in a sari holds a clipboard beside him. Concrete warehouse walls, tube lights overhead and a metal shutter door open to daylight behind them. Seen from slightly behind and far off, faces not visible. Bright daylight through the shutter, neutral tones. Camera at eye level, 35 mm, wide enough to show the stacked cake boxes and the group of officers. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of brown cardboard cake boxes on a wooden pallet in a government storage warehouse in Perundurai, with a plain concrete floor and a blue plastic sheet beneath. In the soft background, the blurred legs and feet of officials in trousers and sandals stand while looking at the stock. Dust motes in shafts of daylight from an open shutter. No readable labels on the boxes. Camera slightly high, 35 mm, shallow depth of field focusing on the box edges and stacked layers. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/cake-monitoring-officer-inspects-school-children/4374827",
-   "published": "2026-11-13T06:14:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 1 line 2 is cut off mid-phrase ('ு மாணவர்களுக்கு கேக்') - write a complete short phrase; known issue card_cut_mid_phrase: card cut off mid-phrase ('ிட்டு மாணவர்களுக்கு கேக்') - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "reel_script": "ஈரோடு சோலார் புதிய பேருந்து நிலையத்தை முழுமையாகப் பயன்படுத்தக் கோரி ஆட்சியரிடம் மனு அளிக்கப்பட்டுள்ளது. லக்காபுரம் பகுதி மக்கள் ஈரோடு மாவட்ட ஆட்சியர் ச.கந்தசாமியிடம் வியாழக்கிழமை மனு அளித்தனர். ஈரோடு மக்களின் நீண்டநாள் கோரிக்கையான சோலார் புதிய பேருந்து நிலையம் 20 ஏக்கர் பரப்பில் கட்டப்பட்டு தற்போது இயங்கி வருகிறது. ஆனால், தென் மாவட்டங்களான கரூர், திருச்சி, மதுரை மற்றும் வெள்ளக்கோவில் மார்க்கப் பேருந்துகள் மட்டுமே இயக்கப்படுகின்றன. கோவை, சேலம், நாமக்கல், கோபி, மேட்டூர், பழனி மார்க்கப் பேருந்துகளும், தனியார் பேருந்துகளும் இயக்கப்படுவதில்லை. இதனால் நேரடி பேருந்து வசதி இல்லாமல் பயணிகள் சிரமப்படுகின்றனர். மேலும் பேருந்து நிலையம் அருகே 10 ஏக்கர் பரப்பில் 99 சதவீத பணிகள் முடிந்த காய்கறி விற்பனை வளாகத்தையும் உடனடியாகத் திறக்க மக்கள் வலியுறுத்தியுள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 ஈரோடு சோலார் பேருந்து நிலையத்தை முழு பயன்பாட்டிற்கு கொண்டுவர கோரிக்கை\n\n📰 முழு விவரம்:\nஈரோடு சோலார் பகுதியில் 20 ஏக்கர் பரப்பில் அமைக்கப்பட்ட புதிய பேருந்து நிலையத்தை முழுமையாக மக்கள் பயன்பாட்டுக்கு கொண்டுவர வலியுறுத்தி லக்காபுரம் பகுதி மக்கள் ஆட்சியர் ச.கந்தசாமியிடம் வியாழக்கிழமை மனு அளித்தனர்.\n\nதற்போது கரூர், திருச்சி, மதுரை மற்றும் வெள்ளக்கோவில் மார்க்கமாக செல்லும் பேருந்துகள் மட்டுமே இயக்கப்படுகின்றன. கோவை, சேலம், நாமக்கல், கோபி, மேட்டூர், பழனி மார்க்க பேருந்துகளும், தனியார் பேருந்துகளும் இயக்கப்படாததால் பயணிகள் சிரமப்படுகின்றனர்.\n\nமேலும், பேருந்து நிலையம் அருகே 10 ஏக்கர் பரப்பில் 99 சதவீத பணிகள் முடிவடைந்த புதிய காய்கறி விற்பனை மற்றும் சேமிப்பு வளாகத்தையும் உடனடியாக பயன்பாட்டுக்கு கொண்டுவரக் கோரிக்கை விடுக்கப்பட்டுள்ளது.\n\n📍 இடம்: சோலார், ஈரோடு மாவட்டம்\n🗓️ நாள்: வியாழக்கிழமை (மனு அளிக்கப்பட்டது)\n👮 நடவடிக்கை: ஆட்சியர் ச.கந்தசாமியிடம் மக்கள் மனு\nℹ️ மக்கள் கவனத்திற்கு: முக்கிய வழித்தடப் பேருந்துகள் மற்றும் காய்கறி வளாகத்தை இயக்கக் கோரிக்கை\n\nமுக்கியமான இந்தச் செய்தியை மற்றவர்களுக்கும் Share செய்யுங்கள்.\n\nErode Solar new bus stand demand for full operation | Erode news\n📍 சோலார், ஈரோடு | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Solar #ErodeNews #ஈரோடு",
+   "prompts": "A group of Lakkapuram residents hand a petition folder to the Erode Collector at the newly built Solar bus stand. The scene is set at the open‑air bus terminal with a concrete shelter and a few idle intercity buses parked nearby. The residents stand in a line, seen from behind, wearing casual shirts and sarees, while the collector, in khaki, receives the folder from a younger resident. The backdrop shows the partially finished vegetable complex enclosure with construction fences. Daylight, clear sky, no distinctive weather. Shot at eye level with a 35 mm lens, wide enough to capture the stand, the petition exchange and the idle buses. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of one of the idle intercity buses parked at the Solar bus stand, its doors closed and windows reflecting the sky. The bus is a standard white TNSTC coach with a visible route number plate (blurred to avoid legibility). In the foreground, a wooden table holds the petition folder, its edges visible but text unreadable, alongside a few pens. The ground is paved, with a faint dust layer suggesting limited use. The shot is taken slightly high, focusing on the bus and the table, daylight illuminating the scene, no people’s faces shown. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/demand-to-bring-the-new-solur-bus-stand-into-full-operation",
+   "published": "2026-11-12T22:16:00.000Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794581431/erode360/ivkjvgbkbmq6mjb5vbz2.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794581435/erode360/m1oe6earwp48w98cctjx.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794586960/erode360/gm3ndhui44ykolnuh2yl.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794586971/erode360/b4pes8vmchsc1sswhs0s.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சாலை பணியாளர்கள் நூதன ஆர்ப்பாட்டம்: ஈரோட்டில் கண்ணில் கருப்புத் துணியுடன் போராட்டம்",
+   "english_headline": "Road workers stage unique protest in Erode with black cloth over eyes and scales in hand",
+   "category": "Government & Services",
+   "location": "Moolapalayam, Erode, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசு பணி",
+    "loc": "மூலப்பாளையம், ஈரோடு",
+    "hl1": "ஈரோட்டில் சாலை பணியாளர்கள் நூதன",
+    "hl2": "கண்ணில் கருப்புத் துணி",
+    "slides": [
+     {
+      "title": "போராட்டம் எங்கே?",
+      "lines": [
+       "ஈரோடு மூலப்பாளையத்தில் நெடுஞ்சாலை கண்காணிப்பு பொறியாளர்",
+       "சாலை பணியாளர் சங்கத்தின் கோட்டத் தலைவர் முருகவேல் தலைமையில்",
+       "போராட்டத்தில் பலர் பங்கேற்றனர்"
+      ]
+     },
+     {
+      "title": "முக்கிய",
+      "lines": [
+       "41 மாத பணி நீக்க காலத்தை பணிக்காலமாக முறைப்படுத்த வேண்டும்",
+       "அரசு மேல்முறையீட்டு மனுவைத் திரும்பப் பெற வேண்டும்",
+       "கருணை அடிப்படை பணிக்கு விண்ணப்பித்து காத்திருப்போருக்கு"
+      ]
+     },
+     {
+      "title": "ஊதிய கோரிக்கைகள்",
+      "lines": [
+       "ஊதியத்தில் 10 சதவீத ஆபத்துப்படி வழங்க வேண்டும்",
+       "சீருடை, சலவைப்படி வழங்க வேண்டும்",
+       "நிரந்தர பயணப்படி வழங்க வேண்டும்"
+      ]
+     },
+     {
+      "title": "நூதன போராட்டம்",
+      "lines": [
+       "அனைவரும் கண்ணில் கருப்புத் துணி கட்டி பங்கேற்றனர்",
+       "கையில் தராசை பிடித்தபடி போராட்டம் நடத்தினர்",
+       "ஜாகீர் உசேன், ராஜா உட்பட நிர்வாகிகள் பங்கேற்றனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் சாலை பணியாளர்கள் கண்ணில் கருப்புத் துணி கட்டி, கையில் தராசை பிடித்தபடி நூதன ஆர்ப்பாட்டம் நடத்தினர். ஈரோடு மூலப்பாளையத்தில் உள்ள நெடுஞ்சாலை துறை கண்காணிப்பு பொறியாளர் அலுவலகம் முன் இந்தப் போராட்டம் நடந்தது. தமிழ்நாடு நெடுஞ்சாலை துறை சாலை பணியாளர் சங்கத்தின் கோட்டத் தலைவர் முருகவேல் தலைமையில் இது நடைபெற்றது. சாலை பணியாளர்களின் 41 மாத பணி நீக்க காலம் குறித்த சென்னை உயர்நீதிமன்ற தீர்ப்புக்கு எதிரான மேல்முறையீட்டு மனுவை அரசு திரும்பப் பெற வேண்டும் என்பது முக்கிய கோரிக்கை. அந்த 41 மாத காலத்தை பணிக்காலமாக முறைப்படுத்தி ஆணையிட வேண்டும் என்றும் வலியுறுத்தப்பட்டது. உயிரிழந்த சாலை பணியாளர்களின் குடும்பத்துக்கு கருணை அடிப்படையில் பணி வழங்கக் கோரி விண்ணப்பித்து காத்திருப்போருக்கு வேலை வழங்க வேண்டும் என்றும் கேட்கப்பட்டது. ஊதியத்தில் 10 சதவீத ஆபத்துப்படி, சீருடை, சலவைப்படி, நிரந்தர பயணப்படி வழங்கவும் வலியுறுத்தப்பட்டது. நிர்வாகிகள் ஜாகீர் உசேன், ராஜா, கதிரவன், முருகன், மணிகண்டன், மயில்சாமி, செந்தில்நாதன் உட்பட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "✊ ஈரோட்டில் சாலை பணியாளர்கள் நூதன ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nதமிழ்நாடு நெடுஞ்சாலை துறை சாலை பணியாளர் சங்கத்தின் சார்பில், ஈரோடு மூலப்பாளையத்தில் உள்ள நெடுஞ்சாலை துறை கண்காணிப்பு பொறியாளர் அலுவலகம் முன் கோட்டத் தலைவர் முருகவேல் தலைமையில் ஆர்ப்பாட்டம் நடைபெற்றது.\nசாலை பணியாளர்களின் 41 மாத பணி நீக்க காலம் குறித்த சென்னை உயர்நீதிமன்ற தீர்ப்புக்கு எதிரான மேல்முறையீட்டு மனுவை அரசு திரும்பப் பெற்று, அந்தக் காலத்தை பணிக்காலமாக முறைப்படுத்தி ஆணையிட வேண்டும் என கோரப்பட்டது.\nகருணை அடிப்படையில் பணி நியமனம் கோரி விண்ணப்பித்து காத்திருக்கும் அனைவருக்கும் பணி வழங்க வேண்டும் என்றும் வலியுறுத்தப்பட்டது.\nஊதியத்தில் 10 சதவீத ஆபத்துப்படி, சீருடை, சலவைப்படி, நிரந்தர பயணப்படி வழங்கவும் கோரிக்கை வைக்கப்பட்டது.\nஅனைவரும் கண்ணில் கருப்புத் துணி கட்டி, கையில் தராசை பிடித்தபடி பங்கேற்றனர்.\n\nErode road workers protest with black cloth over eyes | Erode news\n📍 மூலப்பாளையம், ஈரோடு | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு",
+   "prompts": "A group of Tamil Nadu road workers stands in a line outside the Highways Department Superintending Engineer's office in Moolapalayam, Erode, each with a black cloth tied over the eyes and a weighing scale (tharasu) held up in both hands as a silent protest. The setting is a government office compound with a plain concrete building front, a roadside with a few parked two-wheelers and a town bus passing at the edge of the frame, and a paved road with daylight falling evenly across the scene. The workers are men in plain shirts and trousers, shown from behind and at a distance, their faces hidden by the black cloth, some holding small placards at chest level. Daytime, clear sky, soft natural light. Camera at eye level, 35 mm lens, wide enough to show the office building, the line of protesters and the roadside vehicles. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of the protest: two or three road workers' hands gripping metal weighing scales (tharasu) with black cloth tied over the eyes just visible at the edge of the frame, while in the background the office building wall and a roadside with a parked two-wheeler sit softly out of focus. The scale pans and chain are sharp in the foreground, showing the symbolic 'blind justice' gesture. The workers' faces are not visible, only their hands, sleeves of plain shirts and the black cloth. Daylight, natural and even, neutral background. Camera slightly high, 50 mm lens, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/road-workers-stage-protest/4374825",
+   "published": "2026-11-13T06:13:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794586988/erode360/m2q6f5s5osf85p5cz1fr.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794587022/erode360/avavh2vu5otefuo4remh.jpg"
    ]
   }
  ]
