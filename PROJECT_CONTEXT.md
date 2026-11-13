@@ -81,6 +81,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `d9f7108` | reel: same design as Coimbatore 360 (colours, shapes, fonts) - per-page themes removed; end card keeps 'Source:' (owner 12 Nov); waiting reels rebuilt |
+| 2026-11-13 | `4811716` | pick: written and posted |
+| 2026-11-13 | `8908090` | stories shared |
+| 2026-11-13 | `70fdac8` | powercut: notices written |
+| 2026-11-13 | `039898d` | pick: picked news saved |
+| 2026-11-13 | `3a7d8bd` | pick: picked news saved |
+| 2026-11-13 | `b95ce57` | pick: list sent |
+| 2026-11-13 | `0c73507` | powercut: notices written |
+| 2026-11-13 | `55cedb6` | powercut: notices written |
+| 2026-11-13 | `1b655b2` | powercut: notices written |
 | 2026-11-13 | `418a85a` | reel: new Erode 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
 | 2026-11-13 | `9d99464` | powercut: notices written |
 | 2026-11-13 | `0825d67` | powercut: notices written |
@@ -101,14 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-12 | `c719175` | powercut: notices written |
 | 2026-11-12 | `a4ccfa7` | powercut: notices written |
 | 2026-11-12 | `4812b37` | TRIAL: direct reel upload ON for this new page (file instead of Cloudinary link; falls back to the link; never posts twice) |
-| 2026-11-12 | `0a9dce7` | powercut: notices written |
-| 2026-11-12 | `97123ad` | cloudinary: keep the last 48 h only, clean once every 48 h (own workflow; hourly step removed) |
-| 2026-11-12 | `3173d11` | powercut: notices written |
-| 2026-11-12 | `ca299d2` | post: start the next posting run after the 12-minute gap while stories wait (GitHub runs the 5-min schedule ~hourly; Coimbatore had 23 waiting, 1 posted per hour) |
-| 2026-11-12 | `98bfb9d` | bridge: create the News tab (31 column names) when the new Log Sheet does not have it - pick failed 12 Nov with getLastRow of null |
-| 2026-11-12 | `90030b1` | Erode 360 live (owner 12 Nov) |
-| 2026-11-12 | `a5aa13b` | Cloudinary clean-up: this page's files older than 3 days deleted every hour (at 50% of the free limit reels older than 26 h too); a deleted prebuilt reel is uploaded again; rasipalan pictures in the page folder. keys-check: test-only workflow (manual), prints OK/FAIL per secret |
-| 2026-11-12 | `b11b568` | erode 360: local news for the district - Tamil papers only (Dinamalar, Dinamani + Dinakaran / OneIndia where fresh), district towns and searches, power-cut searches, writer rules, town hashtags; whole district; tests updated |
-| 2026-11-12 | `5dff998` | erode 360: Sheet and Drive folder ids set (its own Sheet and folder) |
-| 2026-11-12 | `8d79da1` | erode 360: Instagram handle erode360.official |
 <!-- recent-changes:end -->
