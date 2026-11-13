@@ -1,14 +1,16 @@
 {
- "updated": "2026-11-14T02:57+05:30",
- "posts_measured": 16,
+ "updated": "2026-11-14T05:28+05:30",
+ "posts_measured": 18,
  "topic_weight": {
-  "education": -0.3
+  "crime": 0.37,
+  "education": -0.16,
+  "weather": 0.35
  },
  "best_hours_ist": [
   18,
   7,
   11,
-  23
+  2
  ],
  "top_openings": [
   "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
@@ -16,11 +18,14 @@
   "🚨 கோபிச்செட்டிப்பாளையம் அருகே கார் மோதி 100 நாள் வேலைத் திட்டப் பணியாளர்கள் 17 ப",
   "🚨 செஞ்சி சிறுமி வழக்கு: 2 சிபிசிஐடி இன்ஸ்பெக்டர்கள் கூடுதலாக நியமனம்"
  ],
- "avg_watch_s": 3.2,
+ "avg_watch_s": 3.1,
  "best_topics": [
+  "crime",
+  "weather",
   "education"
  ],
  "weak_topics": [
-  "education"
+  "education",
+  "weather"
  ]
 }
