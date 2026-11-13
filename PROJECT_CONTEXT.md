@@ -81,6 +81,18 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-13 | `418a85a` | reel: new Erode 360 footer logo (same size and format as Namakkal/Rasipuram, transparent surround); waiting reels rebuilt |
+| 2026-11-13 | `9d99464` | powercut: notices written |
+| 2026-11-13 | `0825d67` | powercut: notices written |
+| 2026-11-13 | `e3cdf61` | pick: written and posted |
+| 2026-11-13 | `bcd05ee` | stories shared |
+| 2026-11-13 | `a3e797e` | rasipalan posted |
+| 2026-11-13 | `f62b7d5` | pick: picked news saved |
+| 2026-11-13 | `82ce3df` | powercut: notices written |
+| 2026-11-13 | `535cc76` | pick: picked news saved |
+| 2026-11-13 | `30b381e` | pick: list sent |
+| 2026-11-13 | `0bbdc93` | powercut: notices written |
+| 2026-11-12 | `a1476bf` | powercut: notices written |
 | 2026-11-12 | `e975b17` | voice: numbers read the way people say them - English names in English (பிளஸ் டூ, குரூப் ஃபோர், டி ட்வென்டி, ஃபைவ் ஜி), endings joined (நாற்பதுக்கும், ...ஒன்றில், ரூபாய்க்கு), நெ. -> எண் |
 | 2026-11-12 | `a6739bb` | voice: 'பிளஸ் 2' is read 'பிளஸ் டூ' (was 'பிளஸ் இரண்டு', RN-534); 'பிளஸ் 1' -> 'பிளஸ் ஒன்' |
 | 2026-11-12 | `a664752` | direct upload: create the resumable container on a versioned Instagram API (Salem RN-1: unversioned call wanted video_url; fell back to the link correctly) |
@@ -99,9 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-12 | `b11b568` | erode 360: local news for the district - Tamil papers only (Dinamalar, Dinamani + Dinakaran / OneIndia where fresh), district towns and searches, power-cut searches, writer rules, town hashtags; whole district; tests updated |
 | 2026-11-12 | `5dff998` | erode 360: Sheet and Drive folder ids set (its own Sheet and folder) |
 | 2026-11-12 | `8d79da1` | erode 360: Instagram handle erode360.official |
-| 2026-11-12 | `24e908b` | reel end card: 'Source: <paper> (<date>)' instead of 'ஆதாரம்' (owner 12 Nov) |
-| 2026-11-12 | `62552fe` | erode 360: own hashtags (page, area, news, Tamil tag, rain/power-cut topic tags); Coimbatore town tags removed; source line stays at the end of every caption |
-| 2026-11-12 | `f8bb4e5` | erode 360 comments: only critical comments (fake-news / doubt claim, complaint, abuse) are e-mailed; emoji and normal comments recorded as ignored; comment check every 2 hours |
-| 2026-11-12 | `3c7cf84` | erode 360: own reel look (style per page), own footer and logo, page town in the end card and ticker; one picture per reel, 12 news a day; still NOT live |
-| 2026-11-12 | `db44ed9` | erode 360: code from the Salem 360 setup - page identity, logo, 12 news a day (4+4+4), one picture per reel; NOT live (no LIVE file, no secrets) |
 <!-- recent-changes:end -->
