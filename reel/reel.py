@@ -18,7 +18,7 @@ FS = NM / "@fontsource"
 ICONS = NM / "@fortawesome" / "fontawesome-free" / "svgs" / "solid"
 # Erode 360: ONE page (no second page). Page name / handle / logo in this one place.
 PAGES = {
-    "erode": {"logo": "logo_erode.png", "style": "E", "name": "ஈரோடு 360", "handle": "erode360.official", "tagline": "நம்ம ஈரோடு செய்திகள்", "follow": "ஈரோடு மாவட்டச்<br>செய்திகளுக்கு",
+    "erode": {"logo": "logo_erode.png", "name": "ஈரோடு 360", "handle": "erode360.official", "tagline": "நம்ம ஈரோடு செய்திகள்", "follow": "ஈரோடு மாவட்டச்<br>செய்திகளுக்கு",
                    "ticker": "ஈரோடு 360  •  ஈரோடு மாவட்டச் செய்திகள்  •  Follow செய்யுங்கள்", "footer": "footer_erode.png", "hashtag": "#Erode360"},
 }
 PAGE = PAGES["erode"]
