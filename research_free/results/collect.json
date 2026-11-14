@@ -1,25 +1,25 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 30 recent posts read from the page",
+  "instagram check: 33 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/weather/4376070",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/gundas-on-youth-arrested-in-molestation-case/4376077",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/secretary-to-government-reviews-day-2/4375790",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/prevention-of-atrocities-law-protection-committee-consultation/4376072",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/power-outage-tomorrow-arachaloor-kasturiba-gramam",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/தொடா்ந்து-பெய்த-மழையால்-பசுமைக்கு-மாறிய-கடம்பூா்-மலைப்-பகுதி",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/கோபி-அருகே-காா்-மோதி-முதியவா்-உயிரிழப்பு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/மாடியிலிருந்து-மயங்கி-விழுந்த-இளம்பெண்-உயிரிழப்பு",
   "candidate filter: collected=4",
   "to write: 4 Erode district candidates (max 4 stories)",
   "round: top 4 of 4 candidates",
   "candidates waiting: 4 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/prevention-of",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/gundas-on-you",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/weather/43760",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
   "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
   "filed: 4 Erode district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
@@ -28,343 +28,335 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (26s)",
+  "ok gemini/gemini-3.6-flash (23s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (34s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (20s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (30s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (6s)",
+  "ok gemini/gemini-3.5-flash (17s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (44s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (30s)",
+  "ok gemini/gemini-3.6-flash (47s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "ok gemini/gemini-3-flash-preview (13s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (5s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "டி.என்.பாளையம், கோபியில் 2வது நாளாக அரசு முதன்மை செயலர் வெங்கடேஷ் ஆய்வு",
-   "english_headline": "Erode district monitoring officer Venkatesh inspects development works in T.N. Palayam and Gobichettipalayam for second day",
-   "category": "Government & Services",
-   "location": "T.N. Palayam and Gobichettipalayam, Erode district",
+   "tamil_headline": "கொடுமுடியில் மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழப்பு",
+   "english_headline": "23-year-old woman dies after fainting and falling from rooftop in Sultanpettai near Kodumudi",
+   "category": "Crime & Safety",
+   "location": "Kodumudi, Erode district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு ஆய்வு",
-    "loc": "டி.என்.பாளையம், கோபி",
-    "hl1": "டி.என்.பாளையம், கோபியில் அரசு ஆய்வு",
-    "hl2": "செயலர் வெங்கடேஷ் நேரில்",
+    "cat": "சோகச் சம்பவம்",
+    "loc": "கொடுமுடி",
+    "hl1": "கொடுமுடியில் 23 வயது பெண் பலி",
+    "hl2": "மாடியில் மயங்கி விழுந்தார்",
     "slides": [
      {
-      "title": "அரசு செயலர் ஆய்வு",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "ஈரோடு கண்காணிப்பு அலுவலர் வெங்கடேஷ் ஆய்வு",
-       "டி.என்.பாளையம், கோபி பகுதிகளில் 2வது நாள் நேரில் ஆய்வு"
+       "கொடுமுடி சுல்தான்பேட்டையைச் சேர்ந்த <b>23 வயது</b> பெண்",
+       "வீட்டின் மாடிக்குச் சென்றபோது மயங்கி கீழே விழுந்தார்",
+       "சேலம் மருத்துவமனையில் சிகிச்சை பலனின்றி பலி"
       ]
      },
      {
-      "title": "என்னென்ன பணிகள்?",
+      "title": "பின்னணி என்ன?",
       "lines": [
-       "டி.என்.பாளையம் அரசு ஆரம்ப சுகாதார நிலையத்தில் ஆய்வு",
-       "கணக்கம்பாளையத்தில் <b>94.19 லட்சம்</b> ரூபாயில் தார்ச்சாலை பணி",
-       "வேதபாறை - சின்னகாளியூர் பகவதி அம்மன் கோவில் சாலை விரிவாக்கம்"
+       "<b>6 ஆண்டுகளுக்கு</b> முன் திருமணம், <b>2 குழந்தைகள்</b> உள்ளனர்",
+       "<b>3 ஆண்டுகள்</b> முன் இருசக்கர வாகன விபத்தில் தலையில் காயம்",
+       "அதன்பின் அடிக்கடி மயக்கம் ஏற்படும் நிலை இருந்தது"
       ]
      },
      {
-      "title": "நாற்றங்கால் பண்ணை",
+      "title": "போலீஸ் விசாரணை",
       "lines": [
-       "கோபி பொலவக்காளிபாளையத்தில் ஆய்வு",
-       "கெங்கமுத்து பண்ணையில் <b>7.56 லட்சம்</b> ரூபாயில் நாற்றங்கால்",
-       "பணிகளின் விவரங்களை அதிகாரிகளிடம் கேட்டறிந்தார்"
+       "வெள்ளிக்கிழமை மாடியில் மயங்கி விழுந்த சம்பவம்",
+       "ஈரோடு, சேலம் அரசு மருத்துவமனைகளில் சிகிச்சை",
+       "தந்தை புகாரின் பேரில் கொடுமுடி காவல்துறை விசாரணை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு டி என் பாளையம், கோபி பகுதிகளில் அரசு செயலர் ஆய்வு செய்தார். மாவட்ட கண்காணிப்பு அலுவலர் வெங்கடேஷ் 2வது நாளாக நேற்று ஆய்வு நடத்தினார். முதலில் டி என் பாளையம் அரசு ஆரம்ப சுகாதார நிலையத்தை நேரில் பார்வையிட்டார். முதலமைச்சரின் கிராம சாலைகள் மேம்பாட்டு திட்டத்தில் பணிகள் நடக்கின்றன. கணக்கம்பாளையம் பஞ்சாயத்தில் 94.19 லட்சம் ரூபாயில் தார்ச்சாலை பணி செய்யப்படுகிறது. வேதபாறை சாலை முதல் சின்னகாளியூர் பகவதி அம்மன் கோவில் சாலை வரை விரிவாக்கம் செய்யப்படுகிறது. இந்த சாலை பணிகளின் விவரங்களை அவர் நேரில் கேட்டறிந்தார். தொடர்ந்து கோபி பொலவக்காளிபாளையம் பஞ்சாயத்து கெங்கமுத்து நாற்றுப்பண்ணையில் ஆய்வு செய்தார். அங்கு 7.56 லட்சம் ரூபாயில் அமைக்கப்பட்டுள்ள நாற்றங்கால் பண்ணையைப் பார்வையிட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ டி.என்.பாளையம், கோபியில் அரசு செயலர் வெங்கடேஷ் 2வது நாளாக ஆய்வு!\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் டி.என்.பாளையம் மற்றும் கோபி பகுதிகளில் நகர்ப்புற நிதி மற்றும் உள் கட்டமைப்பு மேம்பாட்டு கழக முதன்மை செயலரும், மாவட்ட கண்காணிப்பு அலுவலருமான வெங்கடேஷ் 2வது நாளாக நேற்றும் ஆய்வு செய்தார்.\nமுதலில் டி.என்.பாளையம் அரசு ஆரம்ப சுகாதார நிலையத்தில் ஆய்வு மேற்கொள்ளப்பட்டது.\nமுதலமைச்சரின் கிராம சாலைகள் மேம்பாட்டு திட்டத்தின் கீழ், கணக்கம்பாளையம் பஞ்சாயத்தில் 94.19 லட்சம் ரூபாய் மதிப்பில் வேதபாறை சாலை முதல் சின்னகாளியூர் பகவதி அம்மன் கோவில் சாலை வரை தார்ச்சாலை அமைக்கும் பணி மற்றும் சாலை விரிவாக்கப் பணிகளைப் பார்வையிட்டு விவரங்களைச் சேகரித்தார்.\nதொடர்ந்து, கோபி பொலவக்காளிபாளையம் பஞ்சாயத்தில் உள்ள கெங்கமுத்து நாற்றுப்பண்ணையில் 7.56 லட்சம் ரூபாய் மதிப்பில் அமைக்கப்பட்டுள்ள நாற்றங்கால் பண்ணையையும் அவர் நேரில் ஆய்வு செய்தார்.\n\n📍 இடம்: டி.என்.பாளையம், கோபி, ஈரோடு\n🗓️ நாள்: 13 நவம்பர் 2026\nℹ️ மக்கள் கவனத்திற்கு: வளர்ச்சித் திட்டப் பணிகள் குறித்து அரசு அதிகாரிகளிடம் தகவல்கள் பெறப்பட்டன.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nInspection of development works in TN Palayam and Gobichettipalayam | Erode news\n📍 டி.என்.பாளையம், ஈரோடு | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
-   "prompts": "A District Monitoring Officer walks along a freshly laid tar road, examining the surface while a small group of construction workers in helmets watch him. PLACE: The road improvement stretch in T.N. Palayam, a semi‑rural lane between Vedaparaai road and Chinnakaliyur Bhagavathi Amman temple road, flanked by low scrub and a few palm trees typical of Erode outskirts. PEOPLE: The officer, seen from behind in a light khaki shirt and trousers, is accompanied by three workers in high‑visibility vests, all facing the road. VEHICLES/OBJECTS: A yellow bulldozer and a black road roller are parked beside the road, with fresh black tar spreading across the pavement. TIME+LIGHT+WEATHER: Mid‑day daylight, clear sky. CAMERA: Eye‑level, 35 mm lens, wide enough to capture the road, machinery and surrounding vegetation. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows the smooth black tar surface of the new road, a roller’s steel drum imprinting a glossy line, and a small wooden sign indicating the project name. PLACE: Same road site in T.N. Palayam, the focus narrowed to the road itself where the tar has just been laid. PEOPLE: Only the blurred backs of two workers in helmets are visible at the edge, keeping distance from the camera. VEHICLES/OBJECTS: The roller, a bucket of tar, and the wooden sign with a painted emblem of the rural road scheme. TIME+LIGHT+WEATHER: Bright daylight, no shadows indicating clouds. CAMERA: Slightly high angle, 35 mm lens, tight framing on the tar and equipment to highlight the development work. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/secretary-to-government-reviews-day-2/4375790",
-   "published": "2026-11-14T06:43:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
+   "reel_script": "கொடுமுடி அருகே வீட்டின் மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழந்தார். ஈரோடு மாவட்டம் கொடுமுடி சுல்தான்பேட்டையில் இந்தச் சம்பவம் நடந்துள்ளது. 23 வயது பெண் ஒருவருக்கு 6 ஆண்டுகளுக்கு முன் திருமணம் ஆகி 2 குழந்தைகள் உள்ளனர். கடந்த 3 ஆண்டுகளுக்கு முன் இருசக்கர வாகன விபத்தில் இவருக்கு தலையில் காயம் ஏற்பட்டது. இதனால் இவருக்கு அடிக்கடி மயக்கம் ஏற்படுவது வழக்கமாக இருந்தது. இந்நிலையில் வெள்ளிக்கிழமை வீட்டின் மாடிக்குச் சென்றபோது மயங்கி கீழே விழுந்தார். உறவினர்கள் அவரை மீட்டு ஈரோடு அரசு மருத்துவமனைக்குக் கொண்டு சென்றனர். பின்னர் மேல் சிகிச்சைக்காக சேலம் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்க்கப்பட்டார். அங்கு அவர் சிகிச்சைப் பலனின்றி உயிரிழந்தார். இது குறித்து பெண்ணின் தந்தை கொடுத்த புகாரின் பேரில் கொடுமுடி காவல்துறையினர் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கொடுமுடியில் சோகம்: மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழப்பு\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் கொடுமுடி சுல்தான்பேட்டையில் 23 வயது பெண் வீட்டின் மாடியிலிருந்து மயங்கி கீழே விழுந்து உயிரிழந்தார். இவருக்கு 6 ஆண்டுகளுக்கு முன் திருமணமாகி 2 குழந்தைகள் உள்ளனர்.\n3 ஆண்டுகளுக்கு முன் நடந்த இருசக்கர வாகன விபத்தில் தலையில் காயம் ஏற்பட்டதால், அவருக்கு அடிக்கடி மயக்கம் ஏற்பட்டு வந்தது. வெள்ளிக்கிழமை வீட்டின் மாடிக்குச் சென்றபோது மயங்கி கீழே விழுந்தார்.\nஉறவினர்கள் அவரை ஈரோடு அரசு மருத்துவமனைக்குக் கொண்டு சென்றனர். பின்னர் சேலம் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் அனுமதிக்கப்பட்ட அவர் சிகிச்சை பலனின்றி உயிரிழந்தார்.\nஇது குறித்து பெண்ணின் தந்தை அளித்த புகாரின் பேரில் கொடுமுடி காவல்துறையினர் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: சுல்தான்பேட்டை, கொடுமுடி, ஈரோடு மாவட்டம்\n🗓️ நாள்: வெள்ளிக்கிழமை (சம்பவம்)\n👮 நடவடிக்கை: கொடுமுடி காவல்துறையினர் விசாரணை\n\nKodumudi Sultanpettai woman faints and falls from terrace dies | Erode news\n📍 கொடுமுடி, ஈரோடு | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Kodumudi #ErodeNews #ஈரோடு",
+   "prompts": "A woman in a simple salwar‑saree, seen from behind, collapses on the tiled rooftop of a modest house, her body tilting forward as she loses consciousness. PLACE: The scene is on the flat roof of a typical residential home in Sultanpettai, a neighbourhood of Kodumudi, with the surrounding houses and a narrow lane visible in the background. PEOPLE: Below, a few relatives stand at the edge of the roof, their backs to the camera, reaching out with hands raised, while two police officers in khaki uniforms stand a short distance away, observing. VEHICLES/OBJECTS: The house’s concrete walls, a rusted metal railing along the roof edge, and a small torn cloth bag lying on the tiles hint at the fall. TIME+LIGHT+WEATHER: Late morning daylight casts clear shadows; the sky is clear. CAMERA: Eye‑level shot, 35 mm lens, wide enough to capture the rooftop, the falling figure, and the onlookers below. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of the rooftop’s edge shows a rusted metal railing with a small torn cloth bag draped over the tiles, the bag’s fabric slightly stained, suggesting it fell with the victim. PLACE: The same residential rooftop in Sultan Pettai, Kodumudi, with the house’s corrugated roof and a glimpse of the neighboring homes in the blurred background. PEOPLE: No people are in frame, focusing attention on the object that tells the story. VEHICLES/OBJECTS: The metal railing, the torn bag, and the cracked tiles are the only visible items, emphasizing the point of impact. TIME+LIGHT+WEATHER: Bright daylight highlights the texture of the metal and fabric, with no rain or shadows obscuring details. CAMERA: Slightly high angle, 35 mm lens, tight framing to isolate the railing and bag as the decisive detail of the incident. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/மாடியிலிருந்து-மயங்கி-விழுந்த-இளம்பெண்-உயிரிழப்பு",
+   "published": "2026-11-14T19:16:11.085Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672553/erode360/brz2wejc5pqtwtjanadz.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672610/erode360/gehcl5x6bd26ffgiklan.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686877/erode360/rsc3crzg7jnunnhjtaey.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686880/erode360/nydndqegbnjbp0yqyfpa.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோட்டில் அடிதடி வழக்கில் வாலிபர் மீது குண்டாஸ்",
-   "english_headline": "Erode youth booked under Goondas Act after repeated fights",
-   "category": "Crime & Safety",
-   "location": "Mulapalayam, Erode, Erode district",
+   "tamil_headline": "கடம்பூர் மலைப் பகுதியில் தொடர் மழை: வறட்சி நீங்கி பசுமையான கிராமங்கள்",
+   "english_headline": "Continuous rain turns Kadambur hill area green; 5,000 acres of maize crop thriving, harvest expected after two more rains",
+   "category": "Weather & Agriculture",
+   "location": "Kadambur hill area, Sathyamangalam Tiger Reserve, Sathyamangalam taluk, Erode district",
    "importance": "Medium",
    "scope": "",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் வாலிபர் மீது குண்டாஸ்",
-    "hl2": "10க்கும் மேற்பட்ட வழக்குகள்",
+    "cat": "வேளாண்மை",
+    "loc": "கடம்பூர் மலை, சத்தியமங்கலம்",
+    "hl1": "கடம்பூர் மலை பசுமைக்கு மாறியது",
+    "hl2": "5,000 ஏக்கரில் மக்காச்சோளம்",
     "slides": [
      {
-      "title": "யார்?",
+      "title": "எங்கே?",
       "lines": [
-       "மூலப்பாளையம் விநாயகர் கோவில் வீதி, ஈரோடு",
-       "பூபதி, <b>26</b> வயது",
-       "போலீஸ் பதிவில் ரவுடி எனப் பதிவு"
+       "சத்தியமங்கலம் புலிகள் காப்பகத்துக்குள்பட்ட கடம்பூர்",
+       "50-க்கும் மேற்பட்ட கிராமங்களில் வறட்சி நீங்கியது",
+       "பச்சைப்பசேல் என பசுமையாக காட்சியளிக்கிறது"
       ]
      },
      {
-      "title": "என்ன வழக்கு?",
+      "title": "என்ன பயிர்?",
       "lines": [
-       "<b>10க்கும்</b> மேற்பட்ட அடிதடி வழக்குகள் உள்ளன",
-       "ஈரோடு தாலுகா போலீசார் கைது செய்தனர்",
-       "மாவட்ட சிறையில் அடைக்கப்பட்டிருந்தார்"
+       "விவசாயிகள் மானாவாரியாக மக்காச்சோளம் பயிரிட்டுள்ளனர்",
+       "சுமார் <b>5,000 ஏக்கர்</b> பரப்பில் பயிர்கள் நன்கு செழித்து",
+       "தொடர் மழையால் பயிர்கள் நன்கு வளர்ந்தன"
       ]
      },
      {
-      "title": "குண்டாஸ் நடவடிக்கை",
+      "title": "அறுவடை எப்போது?",
       "lines": [
-       "போலீசார் கலெக்டருக்குப் பரிந்துரைத்தனர்",
-       "கலெக்டர் கந்தசாமி பரிசீலனையை ஏற்றார்",
-       "கோவை மத்திய சிறையில் அடைக்கப்பட்டார்"
+       "இன்னும் <b>இரண்டு மழை</b> பெய்தால் அறுவடைக்குத் தயாராகும்",
+       "மலைக் கிராம விவசாயிகள் மகிழ்ச்சி தெரிவித்துள்ளனர்",
+       "மழை தொடர வேண்டும் என எதிர்பார்ப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோட்டில் பத்துக்கும் மேற்பட்ட அடிதடி வழக்குகளில் சிக்கிய வாலிபர் மீது குண்டர் தடுப்பு காவல் சட்டம் பாய்ந்தது. மூலப்பாளையம் விநாயகர் கோவில் வீதியைச் சேர்ந்த முருகேசன் மகன் பூபதி, 26 வயது, போலீஸ் சரித்திர பதிவேட்டில் ரவுடி எனப் பதிவாகியுள்ளார். அடிதடி வழக்கில் ஈரோடு தாலுகா போலீசார் அவரைக் கைது செய்து மாவட்ட சிறையில் அடைத்திருந்தனர். பூபதியை குண்டர் தடுப்பு காவல் சட்டத்தில் சிறையிலடைக்க, தாலுகா போலீசார் காவல் கண்காணிப்பாளர் வாயிலாக கலெக்டருக்குப் பரிந்துரைத்தனர். கலெக்டர் கந்தசாமி அந்தப் பரிசீலனையை ஏற்றதால் பூபதி மீது குண்டாஸ் பாய்ந்தது. இதையடுத்து, அவர் கோவை மத்திய சிறையில் அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஈரோட்டில் அடிதடி வழக்கில் வாலிபர் மீது குண்டாஸ் பாய்ந்தது\n\n📰 முழு விவரம்:\nஈரோடு மூலப்பாளையம் விநாயகர் கோவில் வீதியைச் சேர்ந்த முருகேசன் மகன் பூபதி, 26 வயது, மீது 10க்கும் மேற்பட்ட அடிதடி வழக்குகள் உள்ளன. போலீஸ் சரித்திர பதிவேட்டில் ரவுடி எனப் பதிவாகியுள்ளார். அடிதடி வழக்கில் ஈரோடு தாலுகா போலீசார் கைது செய்து மாவட்ட சிறையில் அடைத்திருந்தனர். குண்டர் தடுப்பு காவல் சட்டத்தில் சிறையிலடைக்க, தாலுகா போலீசார் எஸ்.பி. வாயிலாக கலெக்டருக்குப் பரிந்துரைத்தனர். கலெக்டர் கந்தசாமி பரிசீலனையை ஏற்றதால் பூபதி மீது குண்டாஸ் பாய்ந்தது. இதையடுத்து, கோவை மத்திய சிறையில் அடைக்கப்பட்டார்.\n\nErode youth booked under Goondas Act | Erode news\n📍 மூலப்பாளையம், ஈரோடு | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Mulapalayam #ErodeNews #ஈரோடு",
-   "prompts": "Two Tamil Nadu police constables in khaki uniform stand at the gate of a police station in Erode city, one holding a thick file of papers under his arm while a police jeep is parked on the road beside them. Behind the gate is a plain single-storey government building with a tiled roof, and a few two-wheelers and an autorickshaw pass on the street in bright daylight. The officers are seen from behind and at a distance, their faces not visible. The scene reflects the formal step of booking a suspect under preventive detention law. Shot at eye level, 35 mm, wide enough to show the building, road and vehicles. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official police case files and a printed court-style document lying on a wooden table in a government office, with a khaki uniform sleeve and a blue ballpoint pen resting beside the papers. In the soft background, a ceiling fan turns and a window lets in daylight, with a few steel almirahs stacked against a pale wall. No readable text is visible; only the layered pages, folded corners and stamps-style shapes suggest official paperwork. The mood is quiet and procedural. Shot at slightly high angle, 35 mm, shallow depth of field to isolate the documents. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/gundas-on-youth-arrested-in-molestation-case/4376077",
-   "published": "2026-11-14T18:23:04+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "reel_script": "கடம்பூர் மலைப் பகுதியில் தொடர் மழையால் வறட்சி நீங்கி பசுமை திரும்பியுள்ளது. சத்தியமங்கலம் புலிகள் காப்பகத்துக்குள்பட்ட கடம்பூர் மலைப் பகுதியில் உள்ள 50-க்கும் மேற்பட்ட கிராமங்களில் இந்த நிலை காணப்படுகிறது. இங்கு வசிக்கும் விவசாயிகள் மழை பெய்ததால் தங்கள் நிலத்தில் மானாவாரியாக மக்காச்சோளம் பயிரிட்டுள்ளனர். தொடர் மழையால் சுமார் 5,000 ஏக்கர் பரப்பில் பயிரிடப்பட்டுள்ள மக்காச்சோளப் பயிர்கள் நன்கு செழித்து வளர்ந்துள்ளன. இதனால் மலைப் பகுதியில் கண்ணுக்கு எட்டும் தூரம் வரை பச்சைப்பசேல் என பசுமையாகக் காட்சியளிக்கிறது. இன்னும் இரண்டு மழை பெய்தால் மக்காச்சோளப் பயிர் அறுவடைக்குத் தயாராகும் என மலைக் கிராம விவசாயிகள் மகிழ்ச்சி தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌽 கடம்பூர் மலைப் பகுதியில் தொடர் மழை: வறட்சி நீங்கி பசுமையான கிராமங்கள்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம், சத்தியமங்கலம் புலிகள் காப்பகத்துக்குள்பட்ட கடம்பூர் மலைப் பகுதியில் தொடர் மழை பெய்ததால் கிராமங்களில் வறட்சி நீங்கி பசுமையாகக் காணப்படுகிறது.\nஅங்குள்ள 50-க்கும் மேற்பட்ட கிராமங்களில் வசிக்கும் விவசாயிகள் மானாவாரியாக மக்காச்சோளம் பயிரிட்டுள்ளனர்.\nசுமார் 5,000 ஏக்கர் பரப்பில் பயிரிடப்பட்டுள்ள மக்காச்சோளப் பயிர்கள் நன்கு செழித்து வளர்ந்துள்ளன.\nமலைப் பகுதியில் கண்ணுக்கு எட்டும் தூரம் வரை பச்சைப்பசேல் என பசுமை காட்சியளிக்கிறது.\nஇன்னும் இரண்டு மழை பெய்தால் மக்காச்சோளம் அறுவடைக்குத் தயாராகும் என மலைக் கிராம விவசாயிகள் மகிழ்ச்சி தெரிவித்துள்ளனர்.\n\nKadambur hill maize crop green after rain | Erode news\n📍 கடம்பூர் மலை, சத்தியமங்கலம், ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #ErodeNews #ஈரோடு",
+   "prompts": "A hill farmer in a white veshti and shirt stands at the edge of a vast green maize field on the Kadambur hill slopes, looking over the lush plants stretching to the horizon. The setting is an open hillside inside the Sathyamangalam Tiger Reserve, with dense forest-covered hills behind and a few mud-and-tile village houses far below in the valley. Maize plants, around 5,000 acres of them, fill the frame in rows of deep green leaves, freshly washed by continuous rain, and the earth is damp and dark between the rows. The farmer is seen from behind, far away, and a few other farmers in turbans are scattered among the rows. It is a soft, cloudy morning after rain, with light mist hanging over the distant hills. Shot at eye level with a 35 mm lens, wide enough to show the full green sweep of the hills and the village below. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/தொடா்ந்து-பெய்த-மழையால்-பசுமைக்கு-மாறிய-கடம்பூா்-மலைப்-பகுதி",
+   "published": "2026-11-14T19:26:06.709Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('கடம்பூா் மலைப் பகுதியில் பெய்த தொடா் மழையால் கிராமங்களில் வற')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672625/erode360/xlcqp6wygatua4elqktt.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672639/erode360/turhfb8jw6ppsuswrqsp.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686909/erode360/uegugoxvgvbv2lgbeqai.jpg"
    ]
   },
   {
-   "tamil_headline": "தமிழகத்தில் வன்கொடுமை வழக்குகளில் தண்டனை குறைவு: ஈரோட்டில் ஆலோசனைக் கூட்டம்",
-   "english_headline": "Low conviction in SC/ST atrocity cases in Tamil Nadu; advisory meeting held in Erode",
+   "tamil_headline": "கோபி அருகே கார் மோதி முதியவர் உயிரிழப்பு",
+   "english_headline": "Elderly man killed after car hits him near Gobichettipalayam",
    "category": "Crime & Safety",
-   "location": "Erode town, Erode district",
+   "location": "Gobichettipalayam, Erode district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சட்டம் & பாதுகாப்பு",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் வன்கொடுமை தடுப்பு ஆலோசனை",
-    "hl2": "தண்டனை 3 சதவீதம் மட்டுமே",
+    "cat": "விபத்து",
+    "loc": "கோபி, ஈரோடு மாவட்டம்",
+    "hl1": "கோபி அருகே கார் மோதி முதியவர் உயிரிழப்பு",
+    "hl2": "சனிக்கிழமை இரவு நடந்தது",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ஈரோட்டில் எஸ்.சி., எஸ்.டி. வன்கொடுமை தடுப்பு சட்ட",
-       "ஒருங்கிணைப்பாளர் வடிவேல் தலைமை வகித்தார்",
-       "சட்ட ஆலோசகர் மோகன் பேசினார்"
+       "கோபி அருகே கார் மோதியதில் <b>80 வயது</b> முதியவர் உயிரிழந்தார்",
+       "கவுண்டன்புதூரைச் சேர்ந்த பெருமாள் கோயில் காவலாளி",
+       "சனிக்கிழமை இரவு சாலையைக் கடக்க முயன்றபோது விபத்து"
       ]
      },
      {
-      "title": "புள்ளிவிவரம்",
+      "title": "எங்கே நடந்தது?",
       "lines": [
-       "2015 முதல் 2025 வரை <b>11 ஆயிரத்து 117</b> வழக்குகள் பதிவு",
-       "<b>3,611</b> வழக்குகளில் குற்றம் சாட்டப்பட்டோர் விடுவிக்கப்பட்டனர்",
-       "உயர் நீதிமன்றத்தில் <b>13</b> மேல்முறையீட்டு மனுக்கள்"
+       "கருங்கரடு பகுதியில், கோயிலுக்கு அருகில்",
+       "பேக்கரிக்குச் செல்ல சாலையைக் கடந்தபோது",
+       "காரை ஓட்டியவர் சவண்டப்பூரைச் சேர்ந்த சபரிகுபேந்திரன்"
       ]
      },
      {
-      "title": "கோரிக்கைகள்",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "3 சதவீத வழக்குகளில் மட்டுமே தண்டனை வழங்கப்பட்டுள்ளது",
-       "போலீஸ் அதிகாரிகள் காரணங்களைக் கண்டறிய வேண்டும்",
-       "தமிழகத்தில் தனி நீதிமன்றங்கள் அமைக்க வேண்டும்"
-      ]
-     },
-     {
-      "title": "அடுத்த நடவடிக்கை",
-      "lines": [
-       "வரும் <b>28</b>ஆம் தேதி ஈரோட்டில் கருத்தரங்கு நடத்த தீர்மானம்",
-       "மாநில அளவில் எஸ்.சி., எஸ்.டி. அனைத்துப் பிரிவு தலைவர்களை",
-       "சட்ட பாதுகாப்பை உறுதி செய்ய வலியுறுத்தல்"
+       "அக்கம்பக்கத்தினர் மீட்டு ஆம்புலன்ஸில் கோபி அரசு",
+       "மருத்துவர்கள் அவர் ஏற்கெனவே இறந்துவிட்டதாகக் கூறினர்",
+       "போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்துகின்றனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தமிழகத்தில் வன்கொடுமை வழக்குகளில் 3 சதவீதம் மட்டுமே தண்டனை வழங்கப்பட்டுள்ளது. ஈரோட்டில் எஸ்.சி., எஸ் டி வன்கொடுமை தடுப்பு சட்ட பாதுகாப்பு குழு சார்பில் ஆலோசனைக் கூட்டம் நடைபெற்றது. ஒருங்கிணைப்பாளர் வடிவேல் தலைமை வகித்தார். சட்ட ஆலோசகர் மோகன் உரையாற்றினார். தகவல் அறியும் உரிமை சட்டத்தின்படி, 2015 முதல் 2025 வரை 11 ஆயிரத்து 117 வழக்குகள் பதிவாகியுள்ளன. இவற்றில் 3,611 வழக்குகளில் குற்றம் சாட்டப்பட்டோர் விடுவிக்கப்பட்டனர். இத்தீர்ப்புக்கு எதிராக உயர் நீதிமன்றத்தில் 13 மேல்முறையீட்டு மனுக்கள் மட்டுமே தாக்கலாகியுள்ளன. இத்தகைய முடிவுக்கான காரணங்களை போலீஸ் அதிகாரிகள் கண்டறிந்து, சட்ட பாதுகாப்பை உறுதி செய்ய வேண்டும் என வலியுறுத்தப்பட்டது. தமிழகத்தில் தனி நீதிமன்றங்கள் அமைக்க வேண்டும் என்றும் கோரிக்கை எழுந்தது. வரும் 28ஆம் தேதி ஈரோட்டில் கருத்தரங்கு நடத்தவும், மாநில அளவில் எஸ்.சி., எஸ் டி அனைத்துப் பிரிவு தலைவர்களை ஒருங்கிணைக்கவும் தீர்மானம் நிறைவேற்றப்பட்டது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚖️ தமிழகத்தில் வன்கொடுமை வழக்குகளில் தண்டனை 3 சதவீதம் மட்டுமே – ஈரோட்டில் ஆலோசனைக் கூட்டம்\n\n📰 முழு விவரம்:\nஈரோட்டில் எஸ்.சி., எஸ்.டி. வன்கொடுமை தடுப்பு சட்ட பாதுகாப்பு குழு சார்பில் ஆலோசனைக் கூட்டம் நடைபெற்றது. ஒருங்கிணைப்பாளர் வடிவேல் தலைமை வகித்தார்; தமிழ் புலிகள் மத்திய மாவட்ட செயலர் சிந்தனை செல்வன், பாட்டன் சக்திவேல், ஆறுமுகம், சவுந்தர் ஆகியோர் முன்னிலை வகித்தனர்; சட்ட ஆலோசகர் மோகன் பேசினார்.\nதகவல் அறியும் உரிமை சட்டத்தின்படி, 2015 முதல் 2025 வரை தமிழகத்தில் 11 ஆயிரத்து 117 வழக்குகள் பதிவாகின. இவற்றில் 3,611 வழக்குகளில் குற்றம் சாட்டப்பட்டோர் விடுவிக்கப்பட்டனர்.\nஇத்தீர்ப்புக்கு எதிராக உயர் நீதிமன்றத்தில் 13 மேல்முறையீட்டு மனுக்கள் மட்டுமே தாக்கலாகின. 3 சதவீத வழக்குகளில் மட்டுமே தண்டனை வழங்கப்பட்டுள்ளது.\nஇதற்கான காரணங்களைப் போலீஸ் அதிகாரிகள் கண்டறிந்து, சட்ட பாதுகாப்பை உறுதி செய்ய வேண்டும் என வலியுறுத்தப்பட்டது. தமிழகத்தில் தனி நீதிமன்றங்கள் அமைக்கவும் கோரிக்கை விடுக்கப்பட்டது.\nவரும் 28ஆம் தேதி ஈரோட்டில் கருத்தரங்கு நடத்தி, மாநில அளவில் எஸ்.சி., எஸ்.டி. அனைத்துப் பிரிவு தலைவர்களை ஒருங்கிணைக்கத் தீர்மானம் நிறைவேற்றப்பட்டது.\n\nErode SC ST atrocity act meeting, low conviction rate | Erode news\n📍 ஈரோடு நகரம், ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #சட்டம்",
-   "prompts": "A group of men and a few women sit on plastic chairs in a community hall in Erode town as a legal adviser stands at a small wooden table and speaks into a microphone, at a formal advisory meeting on SC/ST atrocity protection. The hall has white tiled floors, a row of ceiling fans, and a banner-style backdrop left blank with no readable text. Around twenty to thirty attendees wear plain cotton shirts, veshtis and sarees, most seen from behind or in profile at a distance. Several men in the front row hold notebooks and pens on their laps, and a few water bottles sit on the table beside a stack of papers. Daylight streams through tall windows, giving a calm morning atmosphere. The camera is at eye level, 35 mm, wide enough to show the full room and the speaker at the front. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official case papers and a few bundled files lying on a wooden table in a meeting hall in Erode, next to a steel water tumbler and a ballpoint pen. The documents are plain and unreadable, with no visible text or letters. Behind them, slightly out of focus, the sleeves of a few men in cotton shirts and a woman's saree border can be seen as they sit at the table during the discussion. Soft daylight from a window falls across the papers, showing the texture of the sheets and the worn cover of one file. The shallow depth of field keeps the focus on the paperwork that represents the low conviction records, with no faces visible. Camera at slightly high angle, 35 mm, tight framing on the table. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/prevention-of-atrocities-law-protection-committee-consultation/4376072",
-   "published": "2026-11-14T18:22:52+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'ஈரோடு' and the news itself, e.g. 'ஈரோடு-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "reel_script": "கோபி அருகே கார் மோதியதில் 80 வயது முதியவர் உயிரிழந்தார். கவுண்டன்புதூர் பகுதியைச் சேர்ந்த பெருமாள் கோயில் காவலாளியாக வேலை பார்த்து வந்தார். சனிக்கிழமை இரவு கருங்கரடு பகுதியில் கோயிலுக்கு அருகில் உள்ள பேக்கரிக்குச் செல்ல சாலையைக் கடக்க முயன்றார். அப்போது சவண்டப்பூரைச் சேர்ந்த சபரிகுபேந்திரன் ஓட்டி வந்த கார் அவர் மீது மோதியது. பலத்த காயமடைந்த பெருமாளை அக்கம்பக்கத்தினர் மீட்டு ஆம்புலன்ஸ் மூலம் கோபி அரசு மருத்துவமனைக்கு அனுப்பினர். அங்கு பரிசோதித்த மருத்துவர்கள் அவர் ஏற்கெனவே இறந்துவிட்டதாகக் கூறினர். சடலம் உடற்கூறாய்வுக்கு அனுப்பப்பட்டது. இந்த விபத்து குறித்து கோபி போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கோபி அருகே கார் மோதி 80 வயது முதியவர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகோபி அருகே உள்ள கவுண்டன்புதூர் பகுதியைச் சேர்ந்த பெருமாள் (80 வயது), கோயிலில் காவலாளியாக வேலை பார்த்து வந்தார். சனிக்கிழமை இரவு கருங்கரடு பகுதியில் கோயிலுக்கு அருகில் உள்ள பேக்கரிக்குச் செல்ல சாலையைக் கடக்க முயன்றபோது, சவண்டப்பூரைச் சேர்ந்த சபரிகுபேந்திரன் ஓட்டி வந்த கார் அவர் மீது மோதியது. பலத்த காயமடைந்த அவரை அக்கம்பக்கத்தினர் மீட்டு ஆம்புலன்ஸ் மூலம் கோபி அரசு மருத்துவமனைக்கு அனுப்பினர். அங்கு மருத்துவர்கள் அவர் ஏற்கெனவே இறந்துவிட்டதாகக் கூறினர். சடலம் உடற்கூறாய்வுக்கு அனுப்பப்பட்டது.\n📍 இடம்: கருங்கரடு பகுதி, கோபி அருகே, ஈரோடு மாவட்டம்\n🗓️ நாள்: சனிக்கிழமை இரவு\n👮 நடவடிக்கை: கோபி போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nGobichettipalayam car accident elderly man dies | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A Tamil Nadu police jeep stands with its headlights on at the edge of a night-time road in Gobichettipalayam, near a small temple with a gopuram in the background and a lit bakery shop front down the street. Two or three police officers in khaki uniform stand at a distance, seen from behind, while a few onlookers watch from the roadside. A white car is parked slightly off the road with its front pushed in, its damage kept in shadow. The road is dark tarmac with a painted centre line, shops on both sides of the street with their lights on, and a few two-wheelers parked near the footpath. It is late Saturday night with the streetlights and shop lights as the only light, and the air is quiet and still. The camera is at eye level, slightly high, a 35 mm wide view showing the whole street and temple, people kept small and far away. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/கோபி-அருகே-காா்-மோதி-முதியவா்-உயிரிழப்பு",
+   "published": "2026-11-14T19:15:19.573Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672644/erode360/zsqws8fzinjuksg9l2c7.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672646/erode360/teu15xigwdneqpym6qhx.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686916/erode360/pmx8jca3dwmvywzonowc.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோடு 31–23 டிகிரி; கோவை 30–21; சென்னை 32–24 – மாநில வெப்பநிலை நிலவரம்",
-   "english_headline": "Erode 31–23, Coimbatore 30–21, Chennai 32–24: state temperature readings",
-   "category": "Weather & Agriculture",
-   "location": "Erode, Erode district",
-   "importance": "Low",
-   "scope": "district",
+   "tamil_headline": "அறச்சலூர், கஸ்தூரிபா கிராம பகுதிகளில் நாளை மின்தடை: காலை 9 முதல் பிற்பகல் 2 மணி வரை",
+   "english_headline": "Power cut tomorrow in Arachalur and Kasthuripa Gramam substation areas, 9 AM to 2 PM on Monday 16 November",
+   "category": "மின் தடை",
+   "location": "Arachalur and Kasthuripa Gramam substation areas, Erode district",
+   "importance": "High",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வானிலை",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோடு 31–23, கோவை 30–21",
-    "hl2": "தமிழகத்தின் வெப்பநிலை",
+    "cat": "மின் தடை",
+    "loc": "அறச்சலூர், கஸ்தூரிபா கிராமம்",
+    "hl1": "அறச்சலூர், கஸ்தூரிபா கிராமத்தில் நாளை",
+    "hl2": "காலை 9 – பிற்பகல் 2 மணி வரை",
     "slides": [
      {
-      "title": "ஈரோடு நிலவரம்",
+      "title": "எப்போது?",
       "lines": [
-       "ஈரோடு – <b>31–23</b>",
-       "மேல் எண் அதிகபட்ச வெப்பநிலை, கீழ் எண் குறைந்தபட்சம்",
-       "சேலம் – 31–22"
+       "நாளை <b>16 நவம்பர்</b> (திங்கள்கிழமை)",
+       "காலை <b>9 மணி</b> முதல் பிற்பகல் <b>2 மணி</b> வரை",
+       "பராமரிப்புப் பணிகள் காரணமாக மின் விநியோகம் இருக்காது"
       ]
      },
      {
-      "title": "மாநில நகரங்கள்",
+      "title": "கஸ்தூரிபா கிராமம்",
       "lines": [
-       "சென்னை – <b>32–24</b>",
-       "மதுரை – 33–23",
-       "கோவை – 30–21"
+       "தொட்டி கிணத்துப்புதூர், தம்பிரான்வலசு, நல்லுத்தூப்பாளையம்",
+       "எடக்காட்டுவலசு, வாழைத்தோட்டவலசு, கொல்லன்வலசு, குமாரபாளையம்",
+       "சகாயபுரம், காசிபாளையம், கந்தசாமிபாளையம், தண்டாம்பாளையம்"
       ]
      },
      {
-      "title": "மலைப் பகுதிகள்",
+      "title": "மேலும் பகுதிகள்",
       "lines": [
-       "ஊட்டி – <b>17–09</b>",
-       "கொடைக்கானல் – 18–10",
-       "பெங்களூரு – 30–17"
+       "பெரிச்சிபாளையம், எலவநத்தம், ஞானபுரம், பி.ஜி.வலசு",
+       "வெங்கமேடு, கருமாண்டம்பாளையம், ஜெயராமபுரம், வடபழனி",
+       "புதுவலசு, கூத்தம்பட்டி, நாச்சிவலசு, சில்லாங்காட்டுப்புதூர்"
       ]
      },
      {
-      "title": "தென் பகுதி",
+      "title": "அறச்சலூர்",
       "lines": [
-       "கன்னியாகுமரி – <b>33–27</b>",
-       "ராமேஸ்வரம் – 32–27",
-       "புதுடில்லி – 25–18"
+       "ஊசிப்பாளையம், அறச்சலூர், தலவுமலை, சி.கே.பாளையம், வெலங்குட்டை",
+       "தச்சங்காட்டுவலசு, வடுகப்பட்டிபுதூர், கத்தக்கொடிகாடு",
+       "நடுப்பாளையம், பச்சாக்குட்டை, பத்தியம்பாளையம்புதூர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு நகரில் வெப்பநிலை 31 டிகிரி முதல் 23 டிகிரி வரை பதிவாகியுள்ளது. கன்னியாகுமரியில் அதிகபட்சமாக 33 டிகிரி பதிவாகியுள்ளது. சென்னையில் 32 டிகிரி முதல் 24 டிகிரி வரை பதிவாகியுள்ளது. கோவையில் 30 டிகிரி முதல் 21 டிகிரி வரை பதிவாகியுள்ளது. சேலத்தில் 31 டிகிரி முதல் 22 டிகிரி வரை பதிவாகியுள்ளது. மதுரையில் 33 டிகிரி முதல் 23 டிகிரி வரை பதிவாகியுள்ளது. ஊட்டியில் 17 டிகிரி முதல் 9 டிகிரி வரை பதிவாகியுள்ளது. கொடைக்கானலில் 18 டிகிரி முதல் 10 டிகிரி வரை பதிவாகியுள்ளது. பெங்களூருவில் 30 டிகிரி முதல் 17 டிகிரி வரை பதிவாகியுள்ளது. புதுடில்லியில் 25 டிகிரி முதல் 18 டிகிரி வரை பதிவாகியுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌡️ ஈரோடு 31–23 டிகிரி; கோவை 30–21; சென்னை 32–24 – தமிழக வெப்பநிலை நிலவரம்\n\n📰 முழு விவரம்:\nஈரோடு – 31–23 டிகிரி\nசேலம் – 31–22 டிகிரி\nகோவை – 30–21 டிகிரி\nசென்னை – 32–24 டிகிரி\nமதுரை – 33–23 டிகிரி\nதிருச்சி – 31–24 டிகிரி\nவேலூர் – 32–21 டிகிரி\nநாகை – 31–25 டிகிரி\nநெல்லை – 31–25 டிகிரி\nகன்னியாகுமரி – 33–27 டிகிரி\nராமேஸ்வரம் – 32–27 டிகிரி\nபுதுச்சேரி – 32–24 டிகிரி\nஊட்டி – 17–09 டிகிரி\nகொடைக்கானல் – 18–10 டிகிரி\nபெங்களூரு – 30–17 டிகிரி\nபுதுடில்லி – 25–18 டிகிரி\n(மேல் எண் அதிகபட்சம், கீழ் எண் குறைந்தபட்சம்)\n\nErode 31-23 C, Coimbatore 30-21 C, Chennai 32-24 C | Erode weather\n📍 ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #வானிலை #ஈரோடு",
-   "prompts": "Under a clear, bright daylight sky, a farmer in a white shirt and veshti stands at the edge of a paddy field on the outskirts of Erode, Tamil Nadu, checking the green crop with the Bhavani river and dry hills in the background. Two or three farmers from behind, one holding a towel over his shoulder, are walking along a dirt bund between rows of young green paddy under warm sunlight. A few two-wheelers are parked on the dusty road beside the field. Early afternoon light with a hazy sun shows the heat of the day. Shot at eye level, 35 mm, wide enough to show the flat fields, the distant forest-covered hills and the open sky. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a weather thermometer hanging on a wooden post in an open agricultural yard in Erode, with a heap of yellow turmeric piled on a tarpaulin in the soft-focus background. The thermometer's mercury column stands high on the scale, showing the heat of the day, while the glass is bright from the sun. Behind it, a farmer in a white shirt and veshti, seen from behind and blurred, is sorting turmeric. Warm daylight with no clouds, slight haze in the air. Shot at slightly high angle, 35 mm, close enough to show the thermometer clearly and the yellow turmeric heap behind it. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/weather/4376070",
-   "published": "2026-11-14T18:22:48+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: only 29% of the words come from the article (e.g. நகரில், வெப்பநிலை, டிகிரி, முதல், டிகிரி); use the article's own words and facts",
+   "reel_script": "அறச்சலூர் மற்றும் கஸ்தூரிபா கிராமம் பகுதிகளில் நாளை காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை மின் விநியோகம் இருக்காது. வரும் திங்கள்கிழமை, நவம்பர் 16ஆம் தேதி இந்த மின்தடை அமலுக்கு வரும். பராமரிப்புப் பணிகள் காரணமாக இந்த மின்தடை செய்யப்படுவதாக தெரிவிக்கப்பட்டுள்ளது. கஸ்தூரிபா கிராம துணை மின் நிலையத்திலிருந்து மின்சாரம் பெறும் தொட்டி கிணத்துப்புதூர், தம்பிரான்வலசு, நல்லுத்தூப்பாளையம், எடக்காட்டுவலசு, வாழைத்தோட்டவலசு, கொல்லன்வலசு, குமாரபாளையம், சகாயபுரம், காசிபாளையம், கந்தசாமிபாளையம், தண்டாம்பாளையம், சத்திரகாட்டுவலசு, பெரிச்சிபாளையம், எலவநத்தம், ஞானபுரம், பி ஜி வலசு, வெங்கமேடு, கருமாண்டம்பாளையம், ஜெயராமபுரம், வடபழனி, புதுவலசு, கூத்தம்பட்டி, நாச்சிவலசு, சில்லாங்காட்டுப்புதூர் பகுதிகளில் மின் விநியோகம் நிறுத்தப்படும். அறச்சலூர் துணை மின் நிலையத்திலிருந்து மின்சாரம் பெறும் ஊசிப்பாளையம், அறச்சலூர், தலவுமலை, சி கே பாளையம், வெலங்குட்டை, தச்சங்காட்டுவலசு, வடுகப்பட்டிபுதூர், கத்தக்கொடிகாடு, நடுப்பாளையம், பச்சாக்குட்டை, பத்தியம்பாளையம்புதூர் பகுதிகளிலும் மின் விநியோகம் இருக்காது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚡ அறச்சலூர், கஸ்தூரிபா கிராமத்தில் நாளை மின்தடை: காலை 9 – பிற்பகல் 2 மணி வரை\n\n📰 முழு விவரம்:\nபராமரிப்புப் பணிகள் காரணமாக அறச்சலூர் மற்றும் கஸ்தூரிபா கிராம துணை மின் நிலையங்களில் இருந்து மின்சாரம் பெறும் பகுதிகளில் நாளை (நவ. 16, திங்கள்கிழமை) காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை மின் விநியோகம் இருக்காது.\n\n🕘 நேரம்: காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை\n🏘️ கஸ்தூரிபா கிராமம் துணை மின் நிலையம்: தொட்டி கிணத்துப்புதூர், தம்பிரான்வலசு, நல்லுத்தூப்பாளையம், எடக்காட்டுவலசு, காந்தி நகர், வாழைத்தோட்டவலசு, கொல்லன்வலசு, குமாரபாளையம், சகாயபுரம், காசிபாளையம், கந்தசாமிபாளையம், தண்டாம்பாளையம், சத்திரகாட்டுவலசு, பெரிச்சிபாளையம், எலவநத்தம், ஞானபுரம், பி.ஜி.வலசு, வெங்கமேடு, கருமாண்டம்பாளையம், ஜெயராமபுரம், வடபழனி, புதுவலசு, கூத்தம்பட்டி, நாச்சிவலசு, சில்லாங்காட்டுப்புதூர்\n🏘️ அறச்சலூர் துணை மின் நிலையம்: ஊசிப்பாளையம், அறச்சலூர், தலவுமலை, சி.கே.பாளையம், வெலங்குட்டை, தச்சங்காட்டுவலசு, வடுகப்பட்டிபுதூர், கத்தக்கொடிகாடு, நடுப்பாளையம், பச்சாக்குட்டை, பத்தியம்பாளையம்புதூர்\n\nArachalur and Kasthuripa Gramam power cut tomorrow 9 AM to 2 PM | Erode news\n📍 அறச்சலூர், கஸ்தூரிபா கிராமம், ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Arachalur #மின்தடை #ErodePowerCut",
+   "prompts": "A TNEB lineman in a safety helmet and uniform stands on a ladder against a concrete pole, repairing overhead power lines during a scheduled maintenance shutdown in a village near Arachalur, Erode district. Behind him a rural road runs past small houses, shops and a few two-wheelers parked at the roadside, with the lights of the shop fronts switched off. A second lineman on the ground, seen from behind, holds a tool bag. Green paddy fields and the low forest hills of Sathyamangalam form the background under bright daylight of late morning. Tamil Nadu village street with concrete poles and tangled wires overhead. Men wear shirts and veshti, one woman in a cotton saree walks past with a steel vessel. Camera at eye level, 35 mm, wide enough to show the pole, the road and the village houses together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a transformer mounted on a concrete pole in a village near Kasthuripa Gramam, Erode district, with its high-voltage fuse and insulators clearly visible, while a TNEB lineman's gloved hand adjusts a cable clamp on the pole during the planned daytime power shutdown. Behind the pole a dusty village lane, a dry patch of roadside grass and a closed tea stall with an unlit bulb hanging inside. Bright morning sunlight, clear sky, no wind. Men in khaki-coloured work uniform and helmets are blurred in the far background, seen from behind. Camera slightly high, 35 mm, shallow depth of field to focus on the transformer and the lineman's hands. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/power-outage-tomorrow-arachaloor-kasturiba-gramam",
+   "published": "2026-11-14T19:17:15.490Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672668/erode360/yre6xixbeuoxuu93sg4b.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672671/erode360/phag1lqn7krrmocyhnnb.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686952/erode360/jeor43zn5aczc5qyrmm0.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686956/erode360/oomqarldrdamsjkdhdzx.jpg"
    ]
   }
  ]
