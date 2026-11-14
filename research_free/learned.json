@@ -1,21 +1,22 @@
 {
- "updated": "2026-11-15T01:32+05:30",
- "posts_measured": 30,
+ "updated": "2026-11-15T02:46+05:30",
+ "posts_measured": 32,
  "topic_weight": {
-  "crime": 0.0,
-  "weather": 0.26,
-  "civic": -0.28,
-  "accident": 0.69,
-  "education": -0.38
+  "crime": 0.05,
+  "weather": 0.31,
+  "civic": -0.34,
+  "accident": 0.43,
+  "education": -0.27
  },
  "topic_n": {
   "crime": 6,
   "weather": 3,
   "civic": 4,
-  "accident": 3,
+  "accident": 4,
   "education": 6,
   "temple": 2,
-  "politics": 2
+  "politics": 2,
+  "power_cut": 1
  },
  "best_hours_ist": [
   17,
@@ -36,7 +37,7 @@
   "crime"
  ],
  "weak_topics": [
-  "education",
-  "civic"
+  "civic",
+  "education"
  ]
 }
