@@ -1,19 +1,17 @@
-14:04:41 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
-14:04:42 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
+14:16:54 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
+14:16:56 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
 ::warning title=Held from posting RN-20::held: fact-check problems - numbers not found in the article: 25
-14:04:44 SKIP RN-22 held: fact-check problems - numbers not found in the article: 8
+14:16:58 SKIP RN-22 held: fact-check problems - numbers not found in the article: 8
 ::warning title=Held from posting RN-22::held: fact-check problems - numbers not found in the article: 8
-14:04:45 story catch-up erode: quota 30/50, 24 recent posts, 14 live stories, owner ids ['17841461695723120', '28992168970439744']
-14:05:17 story catch-up erode: post 18082526624449577 not shared (Instagram container 17954172495056525 ERROR) - tried again next run
-14:05:17 5 stories in the queue, ready to post: 2
-14:05:17   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-14:05:17    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 27.0 ready= False set_started= True
-14:05:17    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 8.5 ready= False set_started= True
-14:05:17    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 4.2 ready= False set_started= True
-14:05:17    RN-25 review= 'Auto' images= 195 spec= 709 pages= ['erode'] links= '' '' age_h= 0.2 ready= True set_started= True
-14:05:17    RN-26 review= 'Auto' images= 195 spec= 728 pages= ['erode'] links= '' '' age_h= 0.2 ready= True set_started= True
-14:05:19 publishing quota erode: 30/50
-14:05:20 instagram duplicate check erode: 24 recent posts read
-14:05:20    RN-26 waits for the 12-minute gap after the last post on ['erode']
-14:05:20    RN-25 waits for the 12-minute gap after the last post on ['erode']
-14:05:20 prebuilding ahead of the set start: ['RN-25', 'RN-26']
+14:17:00 story catch-up erode: quota 30/50, 24 recent posts, 14 live stories, owner ids ['17841461695723120', '28992168970439744']
+14:17:34 story catch-up erode: post 18082526624449577 not shared (Instagram container 17954174859056525 ERROR) - tried again next run
+14:17:34 5 stories in the queue, ready to post: 2
+14:17:34   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+14:17:34    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 27.2 ready= False set_started= True
+14:17:34    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 8.7 ready= False set_started= True
+14:17:34    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 4.4 ready= False set_started= True
+14:17:34    RN-25 review= 'Auto' images= 195 spec= 709 pages= ['erode'] links= '' '' age_h= 0.4 ready= True set_started= True
+14:17:34    RN-26 review= 'Auto' images= 195 spec= 728 pages= ['erode'] links= '' '' age_h= 0.4 ready= True set_started= True
+14:17:36 publishing quota erode: 30/50
+14:17:37 instagram duplicate check erode: 24 recent posts read
+14:17:37    RN-25 waits for the 12-minute gap after the last post on ['erode']
