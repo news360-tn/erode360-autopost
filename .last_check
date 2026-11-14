@@ -1,25 +1,25 @@
-02:10:01 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
-02:10:04 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
+02:21:45 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
+02:21:46 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
 ::warning title=Held from posting RN-20::held: fact-check problems - numbers not found in the article: 25
-02:10:07 SKIP RN-22 held: fact-check problems - numbers not found in the article: 8
+02:21:48 SKIP RN-22 held: fact-check problems - numbers not found in the article: 8
 ::warning title=Held from posting RN-22::held: fact-check problems - numbers not found in the article: 8
-02:10:07 SKIP RN-30 held: location is only the district - the town from the article is missing
+02:21:48 SKIP RN-30 held: location is only the district - the town from the article is missing
 ::warning title=Held from posting RN-30::held: location is only the district - the town from the article is missing
-02:10:10 SKIP RN-31 held: fact-check problems - numbers not found in the article: 100
+02:21:49 SKIP RN-31 held: fact-check problems - numbers not found in the article: 100
 ::warning title=Held from posting RN-31::held: fact-check problems - numbers not found in the article: 100
-02:10:10 SKIP RN-35 held: fact-check problems - not grounded: only 29% of the words come from the article (e.g. நகரில், வெப்பநிலை, டிகிரி, முதல், டிகிரி)
+02:21:49 SKIP RN-35 held: fact-check problems - not grounded: only 29% of the words come from the article (e.g. நகரில், வெப்பநிலை, டிகிரி, முதல், டிகிரி)
 ::warning title=Held from posting RN-35::held: fact-check problems - not grounded: only 29% of the words come from the article (e.g. நகரில், வெப்பநிலை, டிகிரி, முதல், டிகிரி)
-02:10:12 story catch-up erode: quota 27/50, 35 recent posts, 11 live stories, owner ids ['17841461695723120', '28992168970439744']
-02:10:12 8 stories in the queue, ready to post: 2
-02:10:12   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-02:10:12    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 39.1 ready= False set_started= True
-02:10:12    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 20.6 ready= False set_started= True
-02:10:12    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 16.3 ready= False set_started= True
-02:10:12    RN-30 review= 'Auto' images= 195 spec= 903 pages= ['erode'] links= '' '' age_h= 8.5 ready= False set_started= True
-02:10:12    RN-31 review= 'Auto' images= 195 spec= 675 pages= ['erode'] links= '' '' age_h= 8.5 ready= False set_started= True
-02:10:12    RN-35 review= 'Auto' images= 195 spec= 554 pages= ['erode'] links= '' '' age_h= 4.5 ready= False set_started= True
-02:10:12    RN-37 review= 'Auto' images= 98 spec= 718 pages= ['erode'] links= '' '' age_h= 0.5 ready= True set_started= True
-02:10:12    RN-38 review= 'Auto' images= 98 spec= 737 pages= ['erode'] links= '' '' age_h= 0.5 ready= True set_started= True
-02:10:13 publishing quota erode: 27/50
-02:10:14 instagram duplicate check erode: 35 recent posts read
-02:10:14    RN-37 waits for the 12-minute gap after the last post on ['erode']
+02:21:51 story catch-up erode: quota 27/50, 36 recent posts, 11 live stories, owner ids ['17841461695723120', '28992168970439744']
+02:22:24 story catch-up erode: post 18127794065298206 not shared (Instagram container 17954308659056525 ERROR) - tried again next run
+02:22:24 7 stories in the queue, ready to post: 1
+02:22:24   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+02:22:24    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 39.3 ready= False set_started= True
+02:22:24    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 20.8 ready= False set_started= True
+02:22:24    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 16.5 ready= False set_started= True
+02:22:24    RN-30 review= 'Auto' images= 195 spec= 903 pages= ['erode'] links= '' '' age_h= 8.7 ready= False set_started= True
+02:22:24    RN-31 review= 'Auto' images= 195 spec= 675 pages= ['erode'] links= '' '' age_h= 8.7 ready= False set_started= True
+02:22:24    RN-35 review= 'Auto' images= 195 spec= 554 pages= ['erode'] links= '' '' age_h= 4.7 ready= False set_started= True
+02:22:24    RN-37 review= 'Auto' images= 98 spec= 718 pages= ['erode'] links= '' '' age_h= 0.7 ready= True set_started= True
+02:22:26 publishing quota erode: 27/50
+02:22:27 instagram duplicate check erode: 36 recent posts read
+02:22:27    RN-37 waits for the 12-minute gap after the last post on ['erode']
