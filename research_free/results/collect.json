@@ -1,24 +1,23 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 20 recent posts read from the page",
+  "instagram check: 23 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/woman-labourer-killed/4375788",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/municipal-corporation-peoples-petition-for-basic-facilities/4375777",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/mla-assures-people-that-tasmac-store-will-be-closed/4375781",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/died-while-undergoing-treatment/4375791",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/-machine-malfunction-at-urban-wellness-centre/4375785",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/aidm-comes-third-as-kumbhakarna-pays-obeisance/4375155",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/aidm-comes-th",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "real photo from the source (Dinamalar) for 'Sittode TASMAC shop to be permanently cl'",
-  "auto images: 1 of 1 stories ({})",
-  "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 74 min",
   "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
@@ -26,32 +25,71 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.5-flash (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (14s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.6-flash (20s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (22s)",
+  "ok gemini/gemini-3.6-flash (23s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (8s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
@@ -64,230 +102,206 @@
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (55s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சித்தோடு டாஸ்மாக் கடை நிரந்தரமாக மூடப்படும்: எம்.எல்.ஏ. உறுதி",
-   "english_headline": "Sittode TASMAC shop to be permanently closed, MLA assures residents after protest",
-   "category": "Civic Issues",
-   "location": "Sittode, Bhavani, Erode district",
+   "tamil_headline": "சிகிச்சையில் இருந்த போலீஸ் ஏட்டு சுரேந்திரன் உயிரிழப்பு",
+   "english_headline": "Police head constable Surendran dies while under treatment at a private hospital in Gobi",
+   "category": "Crime & Safety",
+   "location": "Punjai Puliyampatti, Erode district",
+   "importance": "Medium",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் செய்தி",
+    "loc": "புன்செய்புளியம்பட்டி",
+    "hl1": "போலீஸ் ஏட்டு சுரேந்திரன் உயிரிழப்பு",
+    "hl2": "நேற்று மாலை உயிரிழப்பு",
+    "slides": [
+     {
+      "title": "யார்?",
+      "lines": [
+       "கூகலூரைச் சேர்ந்த சுரேந்திரன், <b>59</b>",
+       "பவானிசாகர் போலீஸ் ஸ்டேஷன் தலைமை காவலர்",
+       "உயர் ரத்த அழுத்தத்தால் பாதிப்பு"
+      ]
+     },
+     {
+      "title": "சிகிச்சை",
+      "lines": [
+       "<b>10ஆம் தேதி</b> முதல் கோபி தனியார் மருத்துவமனையில் சிகிச்சை",
+       "நேற்று மாலை உயிரிழந்தார்"
+      ]
+     },
+     {
+      "title": "குடும்பம்",
+      "lines": [
+       "மனைவி மோகனாம்பாள், <b>50</b>",
+       "மகன் சூரிய பிரசாந்த், <b>28</b>"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "போலீஸ் ஏட்டு ஒருவர் சிகிச்சையில் இருந்தபோது உயிரிழந்தார். புன்செய்புளியம்பட்டியில் வசித்த சுரேந்திரன் (59 வயது), பவானிசாகர் போலீஸ் ஸ்டேஷனில் தலைமை காவலராகப் பணிபுரிந்தார். கோபி அடுத்த கூகலூரைச் சேர்ந்தவர். அவர் உயர் ரத்த அழுத்தத்தால் பாதிக்கப்பட்டிருந்தார். 10ஆம் தேதி முதல் கோபி தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வந்தார். நேற்று மாலை அவர் உயிரிழந்தார். அவருக்கு மனைவி மோகனாம்பாள் (50 வயது), மற்றும் மகன் சூரிய பிரசாந்த் (28 வயது), உள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚔 சிகிச்சையில் இருந்த போலீஸ் ஏட்டு சுரேந்திரன் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகோபி அடுத்த கூகலூரைச் சேர்ந்த சுரேந்திரன் (59 வயது), பவானிசாகர் போலீஸ் ஸ்டேஷனில் தலைமை காவலராகப் பணிபுரிந்தவர்.\nஉயர் ரத்த அழுத்தத்தால் பாதிக்கப்பட்ட அவர், 10ஆம் தேதி முதல் கோபி தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வந்தார்.\nநேற்று மாலை அவர் உயிரிழந்தார்.\nஅவருக்கு மனைவி மோகனாம்பாள் (50 வயது), மகன் சூரிய பிரசாந்த் (28 வயது), உள்ளனர்.\n\nErode police head constable dies in Gobi hospital | Erode news\n📍 புன்செய்புளியம்பட்டி, ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobi #ErodeNews #ஈரோடு",
+   "prompts": "A private hospital entrance in Gobi town at dusk, with a police head constable's khaki uniform cap resting on a bench near the entrance, showing this is a police officer's death in hospital. The hospital is a multi-storey concrete building with a covered porch and an ambulance parked at the gate, and a few people in shirts and sarees walk at a distance, seen from behind. Erode district's typical roadside with two-wheelers and an autorickshaw passes on the road outside. The evening light is soft and fading, with a few hospital lights already on. Shot at eye level, 35 mm, wide enough to show the whole hospital facade and the road, with the khaki cap in the lower foreground. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a folded khaki police uniform shirt with the peaked cap laid on a wooden bench in a quiet hospital waiting area. Beside it sits a pair of black police shoes and a small pile of folded papers, suggesting personal belongings left behind. Behind them, a blurred corridor of a private hospital in Gobi shows a few people in sarees and shirts seen from behind, far away. Soft fluorescent evening light from the ceiling, no sunlight. Shot at slightly high angle, 35 mm, focusing on the cap and uniform with the background softly out of focus. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/died-while-undergoing-treatment/4375791",
+   "published": "2026-11-14T06:44:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 58 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); hl1 (the first headline on screen) must name the place 'புன்செய்புளியம்பட்டி', e.g. 'புன்செய்புளியம்பட்டி: ...' or 'புன்செய்புளியம்பட்டி-இல் ...' - viewers share news of their own area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794644701/erode360/onocmvb112jdduzjadaa.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794644721/erode360/c8arjtj2ggmqkpglhfok.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கும்பகர்ணன் தூக்கம்: அ.தி.மு.க. மூன்றாமிடத்துக்குச் சென்றது என்கிறார் செங்கோட்டையன்",
+   "english_headline": "Sengottaiyan says AIADMK slipped to third place due to 'Kumbakarnan sleep' during the last assembly election",
+   "category": "Government & Services",
+   "location": "Gobichettipalayam, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பொதுமக்கள் போராட்டம்",
-    "loc": "சித்தோடு, பவானி",
-    "hl1": "சித்தோட்டில் டாஸ்மாக் கடை நிரந்தரமாக",
-    "hl2": "எம்.எல்.ஏ. உறுதி",
+    "cat": "அரசியல்",
+    "loc": "கோபி",
+    "hl1": "கோபியில் செங்கோட்டையன் பேட்டி",
+    "hl2": "கும்பகர்ண தூக்கம்",
+    "slides": [
+     {
+      "title": "என்ன கூறினார்?",
+      "lines": [
+       "கும்பகர்ண தூக்கம் போட்டதால் அ.தி.மு.க.",
+       "கடந்த சட்டசபைத் தேர்தலில் இது நடந்தது",
+       "இனி எந்தத் தேர்தல் வந்தாலும் த.வெ.க. வெற்றி பெறும்"
+      ]
+     },
+     {
+      "title": "பள்ளியில்",
+      "lines": [
+       "பங்களாப்புதூர் அரசு மேல்நிலைப்பள்ளியில் நிகழ்ச்சி",
+       "<b>1.23 கோடி ரூபாயில்</b> கட்டிய கூடுதல் வகுப்பறை திறப்பு",
+       "குழந்தைகள் தினவிழாவில் மாணவர்களுக்குக் கேக் வழங்கினார்"
+      ]
+     },
+     {
+      "title": "பிற கருத்துகள்",
+      "lines": [
+       "அ.தி.மு.க.வில் இருந்து எம்.எல்.ஏ.க்கள் வருவர் என்று",
+       "விஜயபாஸ்கர் மீது சி.பி.ஐ. இன்னும் குற்றப்பத்திரிக்கை பதிவு",
+       "செந்தில்பாலாஜி குறித்து ஏன் கேள்வி கேட்கவில்லை என்றும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கோபி-இல் அமைச்சர் செங்கோட்டையன், அ தி மு க மூன்றாமிடத்துக்குச் சென்றது கும்பகர்ண தூக்கத்தால் என்றார். வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் இந்தக் கருத்தை நிருபர்களிடம் தெரிவித்தார். அவர் பங்களாப்புதூர் அரசு மேல்நிலைப்பள்ளியில் 1.23 கோடி ரூபாயில் கட்டப்பட்ட கூடுதல் வகுப்பறைக் கட்டடத்தை இன்று (நவம்பர் 13) திறந்து வைத்தார். அதே நிகழ்ச்சியில் குழந்தைகள் தினவிழாவை முன்னிட்டு மாணவர்களுக்குக் கேக் வழங்கினார். கடந்த சட்டசபைத் தேர்தலில் அ தி மு க மூன்றாமிடத்துக்குச் சென்றதற்கு கும்பகர்ண தூக்கமே காரணம் என்றார். இனி எந்தத் தேர்தல் வந்தாலும் த வெ க வெற்றி பெறும் என்றும் கூறினார். அ தி மு க வில் இருந்து சட்டமன்ற உறுப்பினர்க்கள் வருவர் என்று தான் எங்கும் கூறவில்லை என்று விளக்கம் அளித்தார். த வெ க வில் இணைந்த முன்னாள் அமைச்சர் விஜயபாஸ்கர் மீது சி பி ஐ இன்னும் குற்றப்பத்திரிக்கை பதிவு செய்யவில்லை என்றும், அதன் பின்னரே கேள்வி கேட்க வேண்டும் என்றும் கூறினார். தி மு க முன்னாள் அமைச்சர் செந்தில்பாலாஜி பற்றி ஏன் கேள்வி கேட்கப்படுவதில்லை என்றும் கேட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🗣️ கோபியில் அமைச்சர் செங்கோட்டையன்: அ.தி.மு.க. மூன்றாமிடத்துக்குச் சென்றது கும்பகர்ண தூக்கத்தால்\n\n📰 முழு விவரம்:\nவருவாய்த்துறை அமைச்சர் செங்கோட்டையன், கும்பகர்ண தூக்கம் போட்டதால்தான் அ.தி.மு.க. மூன்றாமிடத்துக்குச் சென்றது என்று கூறினார். கடந்த சட்டசபைத் தேர்தலில் இது நடந்தது என்றார்.\nஇனி எந்தத் தேர்தல் வந்தாலும் த.வெ.க. வெற்றி பெறும் என்றும் தெரிவித்தார்.\nஅ.தி.மு.க.வில் இருந்து எம்.எல்.ஏ.க்கள் வருவர் என்று தான் எங்கும் கூறவில்லை என்று விளக்கம் அளித்தார். த.வெ.க.வில் இணைந்த முன்னாள் அமைச்சர் விஜயபாஸ்கர் மீது சி.பி.ஐ. இன்னும் குற்றப்பத்திரிக்கை பதிவு செய்யவில்லை என்றும், அதன் பின்னரே அது குறித்துக் கேள்வி கேட்க வேண்டும் என்றும் கூறினார். தி.மு.க. முன்னாள் அமைச்சர் செந்தில்பாலாஜி பற்றி ஏன் கேள்வி கேட்பதில்லை என்றும் கேட்டார்.\n🏫 பங்களாப்புதூர் அரசு மேல்நிலைப்பள்ளியில் 1.23 கோடி ரூபாயில் கட்டிய கூடுதல் வகுப்பறைக் கட்டடத்தை இன்று (நவ. 13) திறந்து வைத்தார். குழந்தைகள் தினவிழாவை முன்னிட்டு மாணவர்களுக்குக் கேக் வழங்கினார்.\n\nKoomba-karnan remark Sengottaiyan Gobichettipalayam AIADMK | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 13 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A Revenue Minister in a white shirt stands at a microphone cluster in front of a newly built classroom block at a government higher secondary school in Bhavanipudur, Gobichettipalayam, Erode district, speaking to a group of reporters while school children gather behind him. The school campus has a freshly painted two-storey concrete classroom building with rows of windows, a tiled walkway, neem trees and a small flagpole. Press persons stand in a loose semicircle holding microphones and cameras, seen from behind and slightly to one side. Several students in Tamil Nadu school uniform, boys in white shirts and dark trousers, girls in uniform skirts or half-saree style dress, are lined up near the entrance, some holding paper plates with cake pieces. It is bright daytime on a November morning, with soft sunlight and a clear sky. Shot at eye level with a 35 mm lens, wide enough to show the new building and the crowd, no faces visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a white cake box lid opened on a school desk, with several cut pieces of cake on paper plates beside a small pair of scissors and a stack of unmarked paper cups, placed in front of a row of school children's hands reaching in from the side. Behind the table a fresh, pale-painted classroom wall and a window frame with a few students in Tamil Nadu school uniform are slightly out of focus. Daylight streams through the window onto the table. Shot at a slightly high angle with a 35 mm lens, shallow depth of field, no readable text or labels anywhere in frame. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/aidm-comes-third-as-kumbhakarna-pays-obeisance/4375155",
+   "published": "2026-11-13T18:18:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794644745/erode360/kqfhtb193pphtuxhhncb.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794644747/erode360/zdy62b0ztzmfjfsjbpbt.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோடு நகர்ப்புற நலவாழ்வு மையத்தில் இ.சி.ஜி. இயந்திரம் ஓராண்டாகப் பழுது",
+   "english_headline": "Erode urban health centre ECG machine broken for over a year; heart patients forced to go elsewhere",
+   "category": "Health",
+   "location": "R.K.V. Road, 36th ward, Erode Corporation, Erode district",
+   "importance": "Medium",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மருத்துவம்",
+    "loc": "ஈரோடு, 36வது வார்டு",
+    "hl1": "ஈரோட்டில் இ.சி.ஜி. இயந்திரம் பழுது",
+    "hl2": "ஓராண்டுக்கு மேல் சரி",
     "slides": [
      {
       "title": "என்ன பிரச்சினை?",
       "lines": [
-       "சித்தோட்டில் ஆவின் பால் பண்ணை எதிரில் டாஸ்மாக் கடை உள்ளது",
-       "போதையில் சாலையில் புகுவதால் விபத்துகள் தொடர்கின்றன",
-       "கடையை இடமாற்றக் கோரி பலமுறை புகார் கொடுக்கப்பட்டது"
+       "ஈரோடு, 36வது வார்டு ஆர்.கே.வி. ரோட்டில் அரசு நகர்ப்புற",
+       "மையத்தில் உள்ள <b>இ.சி.ஜி. இயந்திரம்</b> பழுதடைந்துள்ளது",
+       "ஓராண்டுக்கு மேலாகியும் சரி செய்யப்படவில்லை"
       ]
      },
      {
-      "title": "மக்கள் போராட்டம்",
+      "title": "யாருக்குப்",
       "lines": [
-       "நேற்று மக்கள் டாஸ்மாக் கடையை முற்றுகையிட்டனர்",
-       "சித்தோடு போலீசார் பேச்சுவார்த்தையில் ஈடுபட்டனர்",
-       "ஈரோடு மேற்கு த.வெ.க. எம்.எல்.ஏ. ஆனந்த மோகனும் பங்கேற்றார்"
+       "இதய நோயாளிகள் வேறு மருத்துவமனையைத் தேடிச் செல்லும் நிலை",
+       "மையத்தில் போதிய தண்ணீர் வசதியும் இல்லை",
+       "மையத்தில் காய்ச்சல், அவசர சிகிச்சை, தடுப்பூசி சேவைகள்"
       ]
      },
      {
-      "title": "முடிவு",
+      "title": "மக்கள் கோரிக்கை",
       "lines": [
-       "டாஸ்மாக் கடை நிரந்தரமாக மூடப்படும் என எம்.எல்.ஏ. கூறினார்",
-       "இதையடுத்து மக்கள் கலைந்து சென்றனர்"
+       "இ.சி.ஜி. இயந்திரத்தைச் சரி செய்ய வேண்டும்",
+       "மையத்துக்குப் போதிய தண்ணீர் வசதி வேண்டும்",
+       "மாநகராட்சி நிர்வாகம் உரிய நடவடிக்கை எடுக்க மக்கள் கோரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சித்தோட்டில் டாஸ்மாக் கடை நிரந்தரமாக மூடப்படும் என சட்டமன்ற உறுப்பினர் உறுதியளித்துள்ளார். சித்தோட்டில் ஆவின் பால் பண்ணை எதிரில் டாஸ்மாக் கடை உள்ளது. இதனால் மது போதையில் வரும் நபர்களின் அட்டகாசம் அதிகரித்துள்ளது. போதையில் சாலையில் திடீரென புகுவதால் சாலை விபத்துகளும் தொடர்கின்றன. கடையை இடமாற்றம் செய்ய வலியுறுத்தி அதிகாரிகளிடம் மக்கள் பலமுறை புகார் கொடுத்தனர். ஆனால் பலன் கிடைக்கவில்லை. இந்நிலையில் நேற்று மக்கள் டாஸ்மாக் கடையை முற்றுகையிட்டனர். சித்தோடு போலீசார் மற்றும் ஈரோடு மேற்கு த வெ க சட்டமன்ற உறுப்பினர் ஆனந்த மோகன் ஆகியோர் பேச்சுவார்த்தையில் ஈடுபட்டனர். டாஸ்மாக் கடை நிரந்தரமாக மூடப்படும் என சட்டமன்ற உறுப்பினர் கூறியதை அடுத்து மக்கள் கலைந்து சென்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚫 சித்தோட்டில் டாஸ்மாக் கடை நிரந்தரமாக மூடப்படும்: எம்.எல்.ஏ. உறுதி\n\n📰 முழு விவரம்:\nசித்தோட்டில் ஆவின் பால் பண்ணை எதிரில் உள்ள டாஸ்மாக் கடையால் மது போதையில் வருவோரின் அட்டகாசம் அதிகரித்துள்ளது. போதையில் சாலையில் திடீரென புகுவதால் சாலை விபத்துகளும் தொடர்கின்றன. கடையை இடமாற்றம் செய்யக் கோரி அதிகாரிகளிடம் மக்கள் பலமுறை புகார் கொடுத்தும் பலன் கிடைக்கவில்லை. நேற்று மக்கள் டாஸ்மாக் கடையை முற்றுகையிட்டனர். சித்தோடு போலீசார் மற்றும் ஈரோடு மேற்கு த.வெ.க. எம்.எல்.ஏ. ஆனந்த மோகன் ஆகியோர் பேச்சுவார்த்தை நடத்தினர். டாஸ்மாக் கடை நிரந்தரமாக மூடப்படும் என எம்.எல்.ஏ. கூறியதை அடுத்து மக்கள் கலைந்து சென்றனர்.\n\n📍 இடம்: சித்தோடு, பவானி, ஈரோடு மாவட்டம்\n🗓️ நாள்: 14 நவம்பர் 2026 (செய்தி வெளியான நாள்)\n\nSittode TASMAC shop closure MLA assurance | Erode news\n📍 சித்தோடு, பவானி, ஈரோடு | நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #ErodeNews #ஈரோடு",
-   "prompts": "A crowd of Sittode residents gathers outside a TASMAC liquor shop on a busy roadside in Bhavani taluk, Erode district, blocking its entrance while Tamil Nadu police in khaki stand at the edge of the crowd and an MLA in a white shirt and veshti speaks with them. The setting is a small town road in Sittode with a plain concrete shop front and a shutter, a few two-wheelers and an autorickshaw parked along the kerb, and the Aavin milk farm building visible across the road. Men in shirts and veshti and women in sarees stand together, some holding up their hands in appeal, seen from behind or from a distance. The scene is in daylight under a clear sky, shot at eye level or slightly high with a 35 mm wide lens to show the shop, the road and the crowd together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the TASMAC liquor shop's metal shutter and entrance on a Sittode roadside, with a few empty liquor bottles stacked against the wall and a worn concrete kerb in front, showing the spot where drunken customers spill onto the road. A small patch of road in the foreground shows a few two-wheeler tyre marks and loose gravel near the shop entrance. Daylight, no people in sharp focus, shot at eye level with a 35 mm lens to highlight the shop entrance and its immediate surroundings as the source of the problem. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/mla-assures-people-that-tasmac-store-will-be-closed/4375781",
-   "published": "2026-11-14T06:38:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஈரோடு நகர்ப்புற நலவாழ்வு மையத்தில் இ சி ஜி இயந்திரம் ஓராண்டுக்கு மேலாகப் பழுதாக உள்ளது. ஈரோடு மாநகராட்சி 36வது வார்டு ஆர் கே வி ரோட்டில் உள்ள இந்த அரசு மையம் கடந்த ஆட்சியில் கட்டப்பட்டது. இங்கு காய்ச்சல், அவசர சிகிச்சை, குழந்தை பிறப்புக்குப் பிறகான பராமரிப்பு, குழந்தை ஆரோக்கியம், தடுப்பூசி மற்றும் தேசிய சுகாதாரத் திட்டங்கள் உள்ளிட்ட பல்வேறு மருத்துவ சேவைகள் வழங்கப்படுகின்றன. இ சி ஜி இயந்திரம் பழுதடைந்து ஓராண்டுக்கு மேலாகியும் சரி செய்யப்படவில்லை. இதனால் இதய நோயாளிகள் வேறு மருத்துவமனையைத் தேடிச் செல்லும் நிலை ஏற்பட்டுள்ளது. மேலும் மையத்தில் போதிய தண்ணீர் வசதியும் இல்லை. இதையடுத்து, மாநகராட்சி நிர்வாகம் உரிய நடவடிக்கை எடுக்க வேண்டும் என்று மக்கள் தரப்பில் கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🫀 ஈரோட்டில் இ.சி.ஜி. இயந்திரம் ஓராண்டாகப் பழுது: இதய நோயாளிகள் அவதி\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சி 36வது வார்டு ஆர்.கே.வி. ரோட்டில் உள்ள அரசு நகர்ப்புற நலவாழ்வு மையத்தில் இ.சி.ஜி. இயந்திரம் பழுதடைந்துள்ளது. ஓராண்டுக்கு மேலாகியும் அது சரி செய்யப்படவில்லை. இதனால் இதய நோயாளிகள் வேறு மருத்துவமனையைத் தேடிச் செல்லும் நிலை ஏற்பட்டுள்ளது. மையத்தில் போதிய தண்ணீர் வசதியும் இல்லை. மாநகராட்சி நிர்வாகம் உரிய நடவடிக்கை எடுக்க வேண்டும் என மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: ஈரோடு மாநகராட்சி, 36வது வார்டு, ஆர்.கே.வி. ரோடு\n🏥 சேவைகள்: காய்ச்சல், அவசர சிகிச்சை, குழந்தை பராமரிப்பு, தடுப்பூசி, தேசிய சுகாதாரத் திட்டங்கள்\n\nErode urban health centre ECG machine broken for a year | Erode news\n📍 ஈரோடு மாநகராட்சி, ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #மருத்துவம்",
+   "prompts": "An elderly man and a woman, seen from behind, walk slowly out of the entrance of a small government urban health centre on R.K.V. Road in Erode city, carrying a folded paper slip, after being told that the ECG machine inside has been broken for over a year. The health centre is a plain single-storey concrete government building with a simple verandah and a few plastic chairs, with the roadside of an Erode city street and two-wheelers and an autorickshaw parked nearby. The man wears a shirt and veshti, the woman a cotton saree, and they are visibly tired and disappointed rather than in distress. It is daylight under a clear sky. Camera at eye level, 35 mm, wide enough to show the building entrance, the road and the people from behind or at a distance. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the ECG machine inside a government health centre consultation room in Erode city, its screen dark and its electrode leads coiled and unused on a metal side table beside a patient bed. Behind it, a plain white wall and a small empty water pot on the floor show the lack of basic facilities at the centre. The light is soft daylight from a barred window, and the scene looks quiet and abandoned. No people are visible, and no text or labels are shown. Camera slightly high, 35 mm, focused on the machine and table, with the room behind slightly soft. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/-machine-malfunction-at-urban-wellness-centre/4375785",
+   "published": "2026-11-14T06:41:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794630094/erode360/d3bjglyhhqsvhfxyhtcu.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794630095/erode360/mwd7zqjjeuy3oghogmfp.jpg"
-   ],
-   "real_photo": "Dinamalar"
-  },
-  {
-   "tamil_headline": "ஈரோடு எல்.வி.ஆர்.காலனி மக்கள் அடிப்படை வசதி கோரி மனு",
-   "english_headline": "LVR Colony residents in Erode corporation ward 8 petition commissioner for basic facilities",
-   "category": "Civic Issues",
-   "location": "LVR Colony, Erode Corporation ward 8, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அடிப்படை வசதி",
-    "loc": "எல்.வி.ஆர்.காலனி, ஈரோடு",
-    "hl1": "எல்.வி.ஆர்.காலனியில் குடிநீர், சாக்கடை",
-    "hl2": "மாநகராட்சி ஆணையரிடம் மனு",
-    "slides": [
-     {
-      "title": "யார் மனு?",
-      "lines": [
-       "ஈரோடு மாநகராட்சி எட்டாவது வார்டு மக்கள்",
-       "எல்.வி.ஆர்.காலனி குடியிருப்புவாசிகள்",
-       "நேற்று மாநகராட்சி ஆணையரிடம் மனு அளித்தனர்"
-      ]
-     },
-     {
-      "title": "என்ன பிரச்சனை?",
-      "lines": [
-       "200க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன",
-       "முறையான குடிநீர் இணைப்பு வழங்கப்படவில்லை",
-       "போர்வெல் தண்ணீரை பயன்படுத்துகின்றனர்"
-      ]
-     },
-     {
-      "title": "இன்னும் பாதிப்பு",
-      "lines": [
-       "சில வீடுகளில் நிலத்தடி நீர் இல்லை",
-       "பணம் கொடுத்து தண்ணீர் வாங்குகின்றனர்",
-       "சாக்கடை வசதி இல்லாததால் கழிவுநீர் தேங்குகிறது"
-      ]
-     },
-     {
-      "title": "புகார்கள்",
-      "lines": [
-       "பலமுறை புகார் தெரிவித்தும் நடவடிக்கை இல்லை",
-       "முறையான குடிநீர், சாக்கடை வசதி தேவை",
-       "மாநகராட்சி நடவடிக்கை எடுக்குமா என மக்கள் எதிர்பார்ப்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "எல் வி ஆர் காலனியில் குடிநீர், சாக்கடை வசதி கேட்டு மக்கள் மனு அளித்தனர். ஈரோடு மாநகராட்சி எட்டாவது வார்டு மக்கள் நேற்று மாநகராட்சி ஆணையரிடம் மனு கொடுத்தனர். எல் வி ஆர் காலனியில் 200க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன. மாநகராட்சி சார்பில் முறையான குடிநீர் இணைப்பு வழங்கப்படவில்லை. அதனால் மக்கள் போர்வெல் தண்ணீரை பயன்படுத்தி வருகின்றனர். சில வீடுகளில் நிலத்தடி நீர் இல்லாததால் பணம் கொடுத்து தண்ணீர் வாங்குகின்றனர். சாக்கடை வசதி இல்லாததால் வீடுகளின் முன்பு கழிவுநீர் தேங்கி நிற்கிறது. இது தொடர்பாக பலமுறை புகார் தெரிவித்தும் நடவடிக்கை எடுக்கப்படவில்லை என மக்கள் கூறினர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚰 ஈரோடு எல்.வி.ஆர்.காலனியில் குடிநீர், சாக்கடை வசதி கோரி மனு\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சி எட்டாவது வார்டு எல்.வி.ஆர்.காலனி மக்கள் நேற்று மாநகராட்சி ஆணையரிடம் மனு அளித்தனர். அங்கு 200க்கும் மேற்பட்ட குடியிருப்புகள் உள்ளன. மாநகராட்சி சார்பில் முறையான குடிநீர் இணைப்பு வழங்கப்படாததால் போர்வெல் தண்ணீரை பயன்படுத்துகின்றனர். சில வீடுகளில் நிலத்தடி நீர் இல்லாததால் பணம் கொடுத்து தண்ணீர் வாங்குகின்றனர். சாக்கடை வசதி இல்லாததால் வீடுகளின் முன்பு கழிவுநீர் தேங்கி நிற்கிறது. இது தொடர்பாக பலமுறை புகார் தெரிவித்தும் நடவடிக்கை இல்லை என மக்கள் தெரிவித்தனர்.\n\n📍 இடம்: எல்.வி.ஆர்.காலனி, ஈரோடு மாநகராட்சி எட்டாவது வார்டு\n🗓️ நாள்: நேற்று\n\nErode LVR Colony water and drainage petition | Erode news\n📍 ஈரோடு மாநகராட்சி, ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Corporation",
-   "prompts": "A group of Erode residents, mostly women in sarees and men in shirts and trousers, walk in a line along a narrow residential street in LVR Colony, Erode, carrying a bundle of petition papers toward a corporation office gate. Behind them, a low-rise row of concrete houses with tiled roofs and small front verandahs lines the lane. Sewage water stands in a shallow stretch of the road in front of the houses, and a few plastic water pots sit on a doorstep. A corporation office building with a flat roof stands at the end of the street. Daylight, mild and overcast, with dust in the air. Shot from behind and slightly to the side at eye level, 35 mm lens, wide enough to show the colony street and the people, no faces visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of stagnant grey sewage water pooled on a cracked concrete road in front of a house in Erode's LVR Colony, with a crumbling open drain edge and a small stack of plastic water pots on a doorstep behind it. A bare borewell pipe with a rusty hand pump rises from a small cement platform at the side of the lane. Daylight, overcast, slight haze. Camera low at street level, 35 mm, shallow depth of field so the water and pots are sharp and the background houses soften, no people in frame, no readable text. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/municipal-corporation-peoples-petition-for-basic-facilities/4375777",
-   "published": "2026-11-14T06:35:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 8",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794630132/erode360/cqhamw7vuanpznosinjw.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794630136/erode360/ali1p313zx6gaugkulwp.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அந்தியூர் அருகே வாகனம் மோதி பெண் தொழிலாளி பலி",
-   "english_headline": "Woman labourer killed after unidentified four-wheeler hits her near Anthiyur; police searching using CCTV footage",
-   "category": "Roads & Transport",
-   "location": "Alamaram bus stop near Sanichandhai, Anthiyur, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "அந்தியூர்",
-    "hl1": "அந்தியூர் அருகே வாகனம் மோதி பெண் பலி",
-    "hl2": "வாகனத்தை போலீசார்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "அந்தியூர், சனிச்சந்தை அருகே ஆலமரம் பேருந்து நிறுத்தம்",
-       "நேற்று முன்தினம் இரவு <b>9:30 மணிக்கு</b> நடந்து சென்ற பெண்",
-       "வாகனம் மோதியதில் சத்யா தூக்கி வீசப்பட்டார்"
-      ]
-     },
-     {
-      "title": "யார் இவர்?",
-      "lines": [
-       "வெள்ளித்திருப்பூர் அருகே முரளி குடியிருப்பைச் சேர்ந்தவர்",
-       "சித்தன் மனைவி சத்யா, <b>45</b> வயது",
-       "கூலி தொழிலாளி"
-      ]
-     },
-     {
-      "title": "பலி எப்படி?",
-      "lines": [
-       "சாலையில் விழுந்தவர் மீது அதே வாகனம் ஏறிச் சென்றது",
-       "இதில் சத்யா பலியானார்",
-       "வாகனத்தின் அடையாளம் தெரியவில்லை"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "விபத்து ஏற்படுத்திய வாகனத்தை வெள்ளித்திருப்பூர் போலீசார்",
-       "அப்பகுதி சிசிடிவி கேமரா காட்சிகளின் அடிப்படையில் தேடுதல்",
-       "வாகனம் பற்றி தகவல் இருந்தால் போலீசுக்குத் தெரிவிக்கலாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "அந்தியூர் அருகே வாகனம் மோதி கூலித் தொழிலாளி சத்யா பலியானார். நேற்று முன்தினம் இரவு 9:30 மணிக்கு அந்தியூர், சனிச்சந்தை அருகே ஆலமரம் பேருந்து நிறுத்தம் அருகில் சத்யா நடந்து சென்றார். அப்போது அடையாளம் தெரியாத நான்கு சக்கர வாகனம் அவர் மீது மோதியது. வாகனம் மோதியதில் சத்யா தூக்கி வீசப்பட்டார். சாலையில் விழுந்தவர் மீது அதே வாகனம் ஏறிச் சென்றது. இதில் அவர் பலியானார். சத்யா வெள்ளித்திருப்பூர் அருகேயுள்ள முரளி குடியிருப்பைச் சேர்ந்தவர். அவர் சித்தன் மனைவி, 45 வயது கூலி தொழிலாளி. விபத்து ஏற்படுத்திய வாகனத்தை அப்பகுதி சிசிடிவி கேமரா காட்சிகளின் அடிப்படையில் வெள்ளித்திருப்பூர் போலீசார் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அந்தியூர் அருகே வாகனம் மோதி பெண் தொழிலாளி பலி\n\n📰 முழு விவரம்:\nஅந்தியூர், சனிச்சந்தை அருகே ஆலமரம் பேருந்து நிறுத்தம் அருகில் நேற்று முன்தினம் இரவு 9:30 மணிக்கு நடந்து சென்ற சித்தன் மனைவி சத்யா (45 வயது), மீது அடையாளம் தெரியாத நான்கு சக்கர வாகனம் மோதியது.\nவாகனம் மோதியதில் சத்யா தூக்கி வீசப்பட்டார். சாலையில் விழுந்தவர் மீது அதே வாகனம் ஏறிச் சென்றதில் அவர் பலியானார்.\nசத்யா வெள்ளித்திருப்பூர் அருகேயுள்ள முரளி குடியிருப்பைச் சேர்ந்த கூலித் தொழிலாளி ஆவார்.\n👮 நடவடிக்கை: விபத்து ஏற்படுத்திய வாகனத்தை அப்பகுதி சிசிடிவி கேமரா காட்சிகளின் அடிப்படையில் வெள்ளித்திருப்பூர் போலீசார் தேடி வருகின்றனர்.\n\nAnthiyur woman labourer killed by hit-and-run vehicle | Erode news\n📍 அந்தியூர், ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Anthiyur #ErodeNews #ஈரோடு",
-   "prompts": "A dim night scene at the Alamaram bus stop on the outskirts of Anthiyur in Erode district, Tamil Nadu. A quiet two-lane village road runs past a small open-sided bus stop shelter with a concrete bench, lit only by a single street lamp and a few weak yellow lights from nearby shops. Rural paddy fields and dark silhouettes of trees stretch behind. On the road, a few Tamil Nadu police in khaki stand at a distance beside a parked police jeep, their backs to the camera, while two or three villagers in shirts and veshti watch quietly from the roadside. A single two-wheeler is parked near the shelter. The time is late night, around 9:30 pm, with cool darkness and light mist in the air. Shot at eye level with a 35 mm lens, wide enough to show the road, the shelter and the surrounding fields, people seen from behind and far away. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a roadside CCTV camera mounted on a concrete pole beside the Alamaram bus stop in Anthiyur, Erode district. The camera's lens points down toward the empty tarmac road, lit by a faint street lamp at night. Behind the pole, the edge of the bus stop shelter and its concrete bench are visible, with dark paddy fields beyond. The road surface shows faint tyre marks and a patch of dampness, suggesting the spot where the vehicle passed. No people are in focus, only a blurred police khaki sleeve at the edge of the frame. Night, around 9:30 pm, with cool darkness and light mist. Shot with a 35 mm lens at a slightly low angle to emphasise the camera as the key evidence of the investigation. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/woman-labourer-killed/4375788",
-   "published": "2026-11-14T06:42:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794630141/erode360/bkujpd8wu5dvwsm6hgpa.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794630143/erode360/i5pcpgvfui3hqsqv97yc.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794644771/erode360/e4uyl15s5bkiejs4byij.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794644806/erode360/dg3uh7sksuboml26fwsp.jpg"
    ]
   }
  ]
