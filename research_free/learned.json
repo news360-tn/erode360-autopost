@@ -1,11 +1,21 @@
 {
- "updated": "2026-11-14T13:49+05:30",
- "posts_measured": 20,
+ "updated": "2026-11-14T17:35+05:30",
+ "posts_measured": 23,
  "topic_weight": {
   "crime": -0.5,
-  "education": -0.5,
-  "weather": 1.4,
-  "accident": 1.5
+  "weather": 0.9,
+  "civic": 0.0,
+  "accident": 0.92,
+  "education": -0.5
+ },
+ "topic_n": {
+  "crime": 5,
+  "weather": 3,
+  "civic": 3,
+  "accident": 3,
+  "education": 4,
+  "temple": 1,
+  "politics": 1
  },
  "best_hours_ist": [
   18,
@@ -17,13 +27,13 @@
   "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
   "🔍 சத்தியமங்கலத்தில் 19 வயது இளம்பெண் மாயம்: போலீசார் தேடுதல்",
   "💼 ஈரோடு மாவட்ட புதிய DRO ஆக ஜெயராமன் பொறுப்பேற்பு!",
-  "🚨 அந்தியூர் அருகே வாகனம் மோதிய பெண் தொழிலாளி பலி"
+  "🚨 கோபிச்செட்டிப்பாளையம் அருகே கார் மோதி 100 நாள் வேலைத் திட்டப் பணியாளர்கள் 17 ப"
  ],
- "avg_watch_s": 4.1,
+ "avg_watch_s": 4.7,
  "best_topics": [
   "accident",
   "weather",
-  "crime"
+  "civic"
  ],
  "weak_topics": [
   "crime",
