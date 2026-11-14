@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-15T02:46+05:30",
- "posts_measured": 32,
+ "updated": "2026-11-15T05:26+05:30",
+ "posts_measured": 34,
  "topic_weight": {
   "crime": 0.05,
-  "weather": 0.31,
-  "civic": -0.34,
-  "accident": 0.43,
-  "education": -0.27
+  "weather": -0.34,
+  "civic": -0.33,
+  "accident": 0.13,
+  "education": -0.25
  },
  "topic_n": {
   "crime": 6,
-  "weather": 3,
+  "weather": 4,
   "civic": 4,
-  "accident": 4,
+  "accident": 5,
   "education": 6,
   "temple": 2,
   "politics": 2,
@@ -26,18 +26,18 @@
  ],
  "top_openings": [
   "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
+  "ஈரோடு திண்டல் முருகன் கோவில் கந்த சஷ்டி விழா 🔱",
   "🚆 சபரிமலை சீசன்: ஈரோடு வழியாக சிறப்பு ரெயில்கள் இயக்கம்!",
-  "🚨 கோபிச்செட்டிப்பாளையம் அருகே கார் மோதி 100 நாள் வேலைத் திட்டப் பணியாளர்கள் 17 ப",
-  "🚨 ஈரோட்டில் அடிதடி வழக்கில் வாலிபர் மீது குண்டாஸ் பாய்ந்தது"
+  "🚨 கோபிச்செட்டிப்பாளையம் அருகே கார் மோதி 100 நாள் வேலைத் திட்டப் பணியாளர்கள் 17 ப"
  ],
- "avg_watch_s": 5.7,
+ "avg_watch_s": 5.8,
  "best_topics": [
   "accident",
-  "weather",
-  "crime"
+  "crime",
+  "education"
  ],
  "weak_topics": [
-  "civic",
-  "education"
+  "weather",
+  "civic"
  ]
 }

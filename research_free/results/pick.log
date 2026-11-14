@@ -1,80 +1,13 @@
-01:32:24 round 2026-11-15_01: news published 14 Nov 21:36 -> 15 Nov 01:32 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Erode)
-01:32:24 insights 2026-11-15T01:32+05:30 (30 reels): topic weights {'crime': 0.0, 'weather': 0.26, 'civic': -0.28, 'accident': 0.69, 'education': -0.38}; best openings ['💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது', '🚆 சபரிமலை சீசன்: ஈரோடு வழியாக சிறப்பு ரெயில்கள் இயக்கம்!']
-01:34:26 78 links on the two papers' Erode pages
-01:35:55 skipped: not Erode district=34, published before this window=16, already posted=10, same event already posted=3
-01:35:55 list: 7 new + 3 earlier news not posted yet
-01:35:55    1. [மின்தடை] நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்! (தினமணி)
-01:35:55    2. [மழை / வானிலை] தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி (தினமணி)
-01:35:55    3. [விபத்து] கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு (தினமணி)
-01:35:55    4. [விபத்து] மாடியிலிருந்து மயங்கி விழுந்த இளம்பெண் உயிரிழப்பு (தினமணி)
-01:35:55    5. [பொது] பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்கும் ஈரோடு (தினமணி)
-01:35:55    6. [பொது] சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு விற்பனை (தினமணி)
-01:35:55    7. [பொது] கந்தசஷ்டி நிறைவு நாளில் மலைப் பாதை வழியாக சென்னிமலை முருகன் கோயிலுக்கு (தினமணி)
-01:35:55    8. [பொது] தகாதபடி நடக்க முயற்சி - மிரட்டல் விதவைப்பெண் எஸ்.பி.,யிடம் புகார் (தினமலர்) (earlier)
-01:35:55    9. [பொது] பயிர் விளைச்சல் போட்டி விவசாயிகளுக்கு அழைப்பு (தினமலர்) (earlier)
-01:35:55   10. [பொது] கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல் (தினமலர்) (earlier)
-01:35:55 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-15_01
-01:35:57 round 2026-11-15_01 (at least 2, up to 3 more of well-watched topics): 10 news to choose from (0 from earlier rounds), ranked by this page's insights
-01:35:57   PICK   1.  18.0 [power_cut +1.50 pattern] நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்!
-01:35:57   PICK   2.  14.7 [weather +0.80 pattern] தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-01:35:57   PICK   3.  14.4 [accident +0.90 pattern] கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு
-01:35:57   EXTRA  4.  14.4 [accident +0.90 pattern] மாடியிலிருந்து மயங்கி விழுந்த இளம்பெண் உயிரிழப்பு
-01:35:57          5.   8.0 [other +0.00 pattern] பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-01:35:57          6.   7.0 [other +0.00 pattern] சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-01:35:57          7.   5.0 [other +0.00 pattern] கந்தசஷ்டி நிறைவு நாளில் மலைப் பாதை வழியாக சென்னிமலை முருகன் 
-01:35:57          8.   1.0 [other +0.00 pattern] தகாதபடி நடக்க முயற்சி - மிரட்டல் விதவைப்பெண் எஸ்.பி.,யிடம் ப
-01:35:57          9.   1.0 [other +0.00 pattern] கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-01:35:57         10.   0.1 [poultry_agri -0.30 pattern] பயிர் விளைச்சல் போட்டி விவசாயிகளுக்கு அழைப்பு
-01:35:57 decided: automatic: top 2 of 10 by insights + 1 more well-watched + 1 power cut -> 4 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/power-outage-tomorrow-arachaloor-kasturiba-gramam https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/தொடா்ந்து-பெய்த-மழையால்-பசுமைக்கு-மாறிய-கடம்பூா்-மலைப்-பகுதி https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/கோபி-அருகே-காா்-மோதி-முதியவா்-உயிரிழப்பு https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/மாடியிலிருந்து-மயங்கி-விழுந்த-இளம்பெண்-உயிரிழப்பு
-01:39:22 4 listed news now in the Sheet
-01:39:30 instagram duplicate check erode: 33 recent posts read
-01:39:30 verify 2026-11-15_01: 0 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-01:39:30    NOT POSTED C1eb3a00: queued RN-36 (Queued) - மாடியிலிருந்து மயங்கி விழுந்த இளம்பெண் உயிரிழப்பு
-01:39:30    NOT POSTED C3c294ef: queued RN-39 (Queued) - நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்!
-01:39:30    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-01:39:30    NOT POSTED Cdd4df43: queued RN-38 (Queued) - கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு
-01:44:36 instagram duplicate check erode: 33 recent posts read
-01:44:36 verify 2026-11-15_01: 0 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-01:44:36    NOT POSTED C1eb3a00: queued RN-36 (Queued) - மாடியிலிருந்து மயங்கி விழுந்த இளம்பெண் உயிரிழப்பு
-01:44:36    NOT POSTED C3c294ef: queued RN-39 (Queued) - நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்!
-01:44:36    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-01:44:36    NOT POSTED Cdd4df43: queued RN-38 (Queued) - கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு
-01:49:41 instagram duplicate check erode: 34 recent posts read
-01:49:41 verify 2026-11-15_01: 1 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-01:49:41    NOT POSTED C3c294ef: queued RN-39 (Queued) - நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்!
-01:49:41    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-01:49:41    NOT POSTED Cdd4df43: queued RN-38 (Queued) - கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு
-01:54:48 instagram duplicate check erode: 35 recent posts read
-01:54:48 verify 2026-11-15_01: 2 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-01:54:48    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-01:54:48    NOT POSTED Cdd4df43: queued RN-38 (Queued) - கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு
-01:59:54 instagram duplicate check erode: 35 recent posts read
-01:59:54 verify 2026-11-15_01: 2 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-01:59:54    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-01:59:54    NOT POSTED Cdd4df43: queued RN-38 (Queued) - கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு
-02:05:00 instagram duplicate check erode: 35 recent posts read
-02:05:00 verify 2026-11-15_01: 2 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:05:00    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-02:05:00    NOT POSTED Cdd4df43: queued RN-38 (Queued) - கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு
-02:10:06 instagram duplicate check erode: 35 recent posts read
-02:10:06 verify 2026-11-15_01: 2 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:10:06    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-02:10:06    NOT POSTED Cdd4df43: queued RN-38 (Queued) - கோபி அருகே காா் மோதி முதியவா் உயிரிழப்பு
-02:15:12 instagram duplicate check erode: 36 recent posts read
-02:15:12 verify 2026-11-15_01: 3 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:15:12    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-02:20:18 instagram duplicate check erode: 36 recent posts read
-02:20:18 verify 2026-11-15_01: 3 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:20:18    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-02:25:24 instagram duplicate check erode: 36 recent posts read
-02:25:24 verify 2026-11-15_01: 3 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:25:24    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-02:30:30 instagram duplicate check erode: 36 recent posts read
-02:30:30 verify 2026-11-15_01: 3 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:30:30    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-02:35:37 instagram duplicate check erode: 36 recent posts read
-02:35:37 verify 2026-11-15_01: 3 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:35:37    NOT POSTED C9fdd2b1: queued RN-37 (Queued) - தொடா்ந்து பெய்த மழையால் பசுமைக்கு மாறிய கடம்பூா் மலைப் பகுதி
-02:40:42 verify 2026-11-15_01: 4 of 4 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+05:26:53 round 2026-11-15_05: news published 15 Nov 01:32 -> 15 Nov 05:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Erode)
+05:26:53 insights 2026-11-15T05:26+05:30 (34 reels): topic weights {'crime': 0.05, 'weather': -0.34, 'civic': -0.33, 'accident': 0.13, 'education': -0.25}; best openings ['💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது', 'ஈரோடு திண்டல் முருகன் கோவில் கந்த சஷ்டி விழா 🔱']
+05:27:06 42 links on the two papers' Erode pages
+05:27:47 skipped: published before this window=16, already posted=11, not Erode district=3, same event already posted=2
+05:27:47 list: 0 new + 6 earlier news not posted yet
+05:27:47    1. [பொது] பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்கும் ஈரோடு (தினமணி) (earlier)
+05:27:47    2. [பொது] சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு விற்பனை (தினமணி) (earlier)
+05:27:47    3. [பொது] கந்தசஷ்டி நிறைவு நாளில் மலைப் பாதை வழியாக சென்னிமலை முருகன் கோயிலுக்கு (தினமணி) (earlier)
+05:27:47    4. [பொது] தகாதபடி நடக்க முயற்சி - மிரட்டல் விதவைப்பெண் எஸ்.பி.,யிடம் புகார் (தினமலர்) (earlier)
+05:27:47    5. [பொது] பயிர் விளைச்சல் போட்டி விவசாயிகளுக்கு அழைப்பு (தினமலர்) (earlier)
+05:27:47    6. [பொது] கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல் (தினமலர்) (earlier)
+05:27:47 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-15_05
