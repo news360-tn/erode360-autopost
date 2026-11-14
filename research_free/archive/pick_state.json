@@ -15,7 +15,8 @@
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/12/chariot-procession-at-the-sri-maha-mariamman-temple-in-murungathozhuvu"
    ],
    "listed_at": "2026-11-13T07:11:11.534861+05:30",
-   "picked_at": "2026-11-14T05:29:00.356144+05:30"
+   "picked_at": "2026-11-14T05:29:00.356144+05:30",
+   "refused": "not filed: stale: says 'today' but was published 13 Nov"
   },
   "C107e290": {
    "id": "C107e290",
@@ -28,7 +29,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-13T07:11:11.534861+05:30",
-   "picked_at": "2026-11-14T05:29:00.356146+05:30"
+   "picked_at": "2026-11-14T05:29:00.356146+05:30",
+   "posted": true
   },
   "C003dd7f": {
    "id": "C003dd7f",
@@ -128,7 +130,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-13T17:51:23.486256+05:30",
-   "picked_at": "2026-11-14T05:29:00.356140+05:30"
+   "picked_at": "2026-11-14T05:29:00.356140+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C7557df9": {
    "id": "C7557df9",
@@ -557,7 +560,11 @@
     "C107e290",
     "C2da3549",
     "C7356f1d"
-   ]
+   ],
+   "refused": {
+    "C2da3549": "not filed: stale: says 'today' but was published 13 Nov",
+    "C7356f1d": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
