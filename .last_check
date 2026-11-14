@@ -1,10 +1,10 @@
-05:33:40 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
+05:34:27 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
 ::warning title=Held from posting RN-6::held: fact-check problems - not grounded: location 'பகுதி' is not in the article
-05:33:43 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
+05:34:28 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
 ::warning title=Held from posting RN-20::held: fact-check problems - numbers not found in the article: 25
-05:33:46 story catch-up erode: quota 35/50, 19 recent posts, 16 live stories, owner ids ['17841461695723120', '28992168970439744']
-05:34:00 story catch-up erode: post 18082526624449577 not shared (Instagram container 17954093637056525 ERROR) - tried again next run
-05:34:00 2 stories in the queue, ready to post: 0
-05:34:00   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-05:34:00    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 18.5 ready= False set_started= True
-05:34:00    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 0.0 ready= False set_started= True
+05:34:31 story catch-up erode: quota 35/50, 19 recent posts, 16 live stories, owner ids ['17841461695723120', '28992168970439744']
+05:35:47 story catch-up erode: post 18082526624449577 not shared (Instagram container 17954093838056525 ERROR) - tried again next run
+05:35:47 2 stories in the queue, ready to post: 0
+05:35:47   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+05:35:47    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 18.5 ready= False set_started= True
+05:35:47    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 0.0 ready= False set_started= True
