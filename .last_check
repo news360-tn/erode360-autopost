@@ -1,11 +1,14 @@
-15:34:49 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
-15:34:51 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
+17:38:13 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
+17:38:15 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
 ::warning title=Held from posting RN-20::held: fact-check problems - numbers not found in the article: 25
-15:34:52 SKIP RN-22 held: fact-check problems - numbers not found in the article: 8
+17:38:16 SKIP RN-22 held: fact-check problems - numbers not found in the article: 8
 ::warning title=Held from posting RN-22::held: fact-check problems - numbers not found in the article: 8
-15:34:55 story catch-up erode: quota 34/50, 26 recent posts, 16 live stories, owner ids ['17841461695723120', '28992168970439744']
-15:34:55 3 stories in the queue, ready to post: 0
-15:34:55   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-15:34:55    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 28.5 ready= False set_started= True
-15:34:55    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 10.0 ready= False set_started= True
-15:34:55    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 5.7 ready= False set_started= True
+17:38:18 story catch-up erode: quota 34/50, 26 recent posts, 16 live stories, owner ids ['17841461695723120', '28992168970439744']
+17:38:18 4 stories in the queue, ready to post: 1
+17:38:18   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+17:38:18    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 30.5 ready= False set_started= True
+17:38:18    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 12.1 ready= False set_started= True
+17:38:18    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 7.8 ready= False set_started= True
+17:38:18    RN-27 review= 'Auto' images= 195 spec= 790 pages= ['erode'] links= '' '' age_h= 0.0 ready= True set_started= True
+17:38:20 publishing quota erode: 34/50
+17:38:21 instagram duplicate check erode: 26 recent posts read
