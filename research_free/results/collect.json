@@ -1,440 +1,370 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 26 recent posts read from the page",
+  "instagram check: 30 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/gram-sabha-meeting-today/4375778",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/inauguration-of-buildings-worth-rs34-crores/4375784",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/childrens-day/4375787",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/the-idea-of-growing-a-rabbit-with-a-subsidy/4375789",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/special-trains-via-erode-for-sabarimala-devotees",
-  "candidate filter: collected=5",
-  "to write: 5 Erode district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/special-trains-v",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/weather/4376070",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/gundas-on-youth-arrested-in-molestation-case/4376077",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/secretary-to-government-reviews-day-2/4375790",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/prevention-of-atrocities-law-protection-committee-consultation/4376072",
+  "candidate filter: collected=4",
+  "to write: 4 Erode district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/prevention-of",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/gundas-on-you",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/weather/43760",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Erode district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
+  "filed: 4 Erode district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (15s)",
+  "ok gemini/gemini-3.6-flash (26s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (34s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (4s)",
+  "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (19s)",
+  "ok gemini/gemini-3.5-flash (44s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (30s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (20s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (31s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "not available on this plan: groq/qwen/qwen3.8-27b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "சபரிமலை சீசன்: ஈரோடு வழியாக இயக்கப்படும் சிறப்பு ரெயில்கள் - சேலம் கோட்டம் அறிவிப்பு",
-   "english_headline": "Sabarimala season: Special trains announced via Erode Junction by Salem Railway Division",
-   "category": "Roads & Transport",
-   "location": "Erode Railway Station, Erode district",
-   "importance": "High",
+   "tamil_headline": "டி.என்.பாளையம், கோபியில் 2வது நாளாக அரசு முதன்மை செயலர் வெங்கடேஷ் ஆய்வு",
+   "english_headline": "Erode district monitoring officer Venkatesh inspects development works in T.N. Palayam and Gobichettipalayam for second day",
+   "category": "Government & Services",
+   "location": "T.N. Palayam and Gobichettipalayam, Erode district",
+   "importance": "Medium",
    "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சிறப்பு ரெயில்",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோடு வழியாக சபரிமலை சிறப்பு ரெயில்கள்",
-    "hl2": "சேலம் கோட்டம் அறிவிப்பு",
+    "cat": "அரசு ஆய்வு",
+    "loc": "டி.என்.பாளையம், கோபி",
+    "hl1": "டி.என்.பாளையம், கோபியில் அரசு ஆய்வு",
+    "hl2": "செயலர் வெங்கடேஷ் நேரில்",
     "slides": [
      {
-      "title": "நாந்தேட் - கொல்லம்",
+      "title": "அரசு செயலர் ஆய்வு",
       "lines": [
-       "வண்டி எண் <b>07189</b> சிறப்பு ரெயில்",
-       "ஞாயிற்றுக்கிழமை புறப்படுகிறது",
-       "திங்கள் இரவு <b>9.15</b> மணிக்கு ஈரோடு வரும்"
+       "ஈரோடு கண்காணிப்பு அலுவலர் வெங்கடேஷ் ஆய்வு",
+       "டி.என்.பாளையம், கோபி பகுதிகளில் 2வது நாள் நேரில் ஆய்வு"
       ]
      },
      {
-      "title": "கொல்லம்",
+      "title": "என்னென்ன பணிகள்?",
       "lines": [
-       "வண்டி எண் <b>07190</b> சிறப்பு ரெயில்",
-       "<b>17-ந்தேதி</b> இயக்கப்படுகிறது",
-       "இரவு <b>8.20</b> மணிக்கு ஈரோடு வந்து சேரும்"
+       "டி.என்.பாளையம் அரசு ஆரம்ப சுகாதார நிலையத்தில் ஆய்வு",
+       "கணக்கம்பாளையத்தில் <b>94.19 லட்சம்</b> ரூபாயில் தார்ச்சாலை பணி",
+       "வேதபாறை - சின்னகாளியூர் பகவதி அம்மன் கோவில் சாலை விரிவாக்கம்"
       ]
      },
      {
-      "title": "வாராந்திர ரெயில் 1",
+      "title": "நாற்றங்கால் பண்ணை",
       "lines": [
-       "சாரளப்பள்ளி - கொல்லம் (<b>07180</b>)",
-       "நவம்பர் <b>20</b> முதல் அடுத்த மாதம் வரை",
-       "வாரந்தோறும் வெள்ளிக்கிழமை இயங்கும்"
-      ]
-     },
-     {
-      "title": "வாராந்திர ரெயில் 2",
-      "lines": [
-       "கொல்லம் - சாரளப்பள்ளி (<b>07181</b>)",
-       "நவம்பர் <b>22</b> முதல் டிசம்பர் <b>27</b> வரை",
-       "வாரந்தோறும் ஞாயிற்றுக்கிழமை இயங்கும்"
+       "கோபி பொலவக்காளிபாளையத்தில் ஆய்வு",
+       "கெங்கமுத்து பண்ணையில் <b>7.56 லட்சம்</b> ரூபாயில் நாற்றங்கால்",
+       "பணிகளின் விவரங்களை அதிகாரிகளிடம் கேட்டறிந்தார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சபரிமலை பக்தர்களின் வசதிக்காக ஈரோடு வழியாக சிறப்பு ரெயில்கள் இயக்கப்படுகின்றன. நாந்தேட் முதல் கொல்லம் செல்லும் 07189 எண் சிறப்பு ரெயில் ஞாயிற்றுக்கிழமை புறப்படுகிறது. இந்த ரெயில் திங்கட்கிழமை இரவு 9.15 மணிக்கு ஈரோடு வந்து சேரும். கொல்லம் முதல் சாரளப்பள்ளி செல்லும் 07190 எண் சிறப்பு ரெயில் 17ஆம் தேதி இயக்கப்படுகிறது. இந்த ரெயில் இரவு 8.20 மணிக்கு ஈரோடு வந்து சேரும். சாரளப்பள்ளி - கொல்லம் 07180 எண் வாராந்திர ரெயில் நவம்பர் 20ஆம் தேதி முதல் டிசம்பர் வரை வெள்ளிக்கிழமை தோறும் இயக்கப்படும். கொல்லம் - சாரளப்பள்ளி 07181 எண் வாராந்திர ரெயில் நவம்பர் 22ஆம் தேதி முதல் டிசம்பர் 27ஆம் தேதி வரை ஞாயிற்றுக்கிழமை தோறும் இயக்கப்படும். இத்தகவலை சேலம் கோட்ட ரெயில்வே நிர்வாகம் தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 சபரிமலை சீசன்: ஈரோடு வழியாக சிறப்பு ரெயில்கள் இயக்கம்!\n\n📰 முழு விவரம்:\nசபரிமலை சீசனை முன்னிட்டு பக்தர்களின் வசதிக்காக ஈரோடு வழியாக சிறப்பு ரெயில்களை இயக்க சேலம் கோட்ட ரெயில்வே நிர்வாகம் நடவடிக்கை எடுத்துள்ளது.\n\nரெயில் விவரங்கள்:\n1️⃣ நாந்தேட் - கொல்லம் (07189): ஞாயிற்றுக்கிழமை இயக்கப்பட்டு திங்கட்கிழமை இரவு 9.15 மணிக்கு ஈரோடு வரும்.\n2️⃣ கொல்லம் - சாரளப்பள்ளி (07190): நவம்பர் 17-ந்தேதி இயக்கப்பட்டு இரவு 8.20 மணிக்கு ஈரோடு வரும்.\n3️⃣ சாரளப்பள்ளி - கொல்லம் (07180): நவம்பர் 20 முதல் டிசம்பர் வரை வாரந்தோறும் வெள்ளிக்கிழமை இயங்கும்.\n4️⃣ கொல்லம் - சாரளப்பள்ளி (07181): நவம்பர் 22 முதல் டிசம்பர் 27 வரை வாரந்தோறும் ஞாயிற்றுக்கிழமை இயங்கும்.\n\n📍 இடம்: ஈரோடு ரெயில் நிலையம்\nℹ️ மக்கள் கவனத்திற்கு: சபரிமலை செல்லும் ஐயப்ப பக்தர்கள் இந்த சிறப்பு ரெயில் சேவையைப் பயன்படுத்திக் கொள்ளலாம்.\n\nசபரிமலை செல்லும் பக்தர்களுக்கு Share செய்யுங்கள்!\n\nSabarimala special trains via Erode Junction schedule | Erode news\n📍 ஈரோடு ரெயில் நிலையம், ஈரோடு | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeRailwayStation #Sabarimala #ErodeNews",
-   "prompts": "A long Indian Railways train with blue coaches pulls into a platform at Erode Junction railway station during the night. The platform is illuminated by bright overhead floodlights, showing the characteristic concrete roofing and yellow pillars of the station. A group of Sabarimala devotees, seen from behind and dressed in traditional black and saffron dhotis, stand ready with their luggage as the train slows down. The scene captures the busy atmosphere of the station with the electric overhead lines visible above the tracks. The camera is at eye level, using a 35mm lens to capture the wide perspective of the platform and the approaching locomotive. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on several Irumudi sacred bundles placed on a station bench at Erode Junction. The bundles, made of hand-knotted cloth in shades of blue and saffron, are the primary signifier of the Sabarimala pilgrimage season. In the blurred background, the legs of devotees wearing black dhotis and the lower part of a stationary train coach are visible. The lighting is the warm, artificial yellow glow of the railway station at night. The camera is positioned at a slightly high angle, focusing sharply on the texture of the sacred bags while keeping the surrounding station environment in a soft blur. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/special-trains-via-erode-for-sabarimala-devotees",
-   "published": "2026-11-13T22:50:34Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஈரோடு டி என் பாளையம், கோபி பகுதிகளில் அரசு செயலர் ஆய்வு செய்தார். மாவட்ட கண்காணிப்பு அலுவலர் வெங்கடேஷ் 2வது நாளாக நேற்று ஆய்வு நடத்தினார். முதலில் டி என் பாளையம் அரசு ஆரம்ப சுகாதார நிலையத்தை நேரில் பார்வையிட்டார். முதலமைச்சரின் கிராம சாலைகள் மேம்பாட்டு திட்டத்தில் பணிகள் நடக்கின்றன. கணக்கம்பாளையம் பஞ்சாயத்தில் 94.19 லட்சம் ரூபாயில் தார்ச்சாலை பணி செய்யப்படுகிறது. வேதபாறை சாலை முதல் சின்னகாளியூர் பகவதி அம்மன் கோவில் சாலை வரை விரிவாக்கம் செய்யப்படுகிறது. இந்த சாலை பணிகளின் விவரங்களை அவர் நேரில் கேட்டறிந்தார். தொடர்ந்து கோபி பொலவக்காளிபாளையம் பஞ்சாயத்து கெங்கமுத்து நாற்றுப்பண்ணையில் ஆய்வு செய்தார். அங்கு 7.56 லட்சம் ரூபாயில் அமைக்கப்பட்டுள்ள நாற்றங்கால் பண்ணையைப் பார்வையிட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ டி.என்.பாளையம், கோபியில் அரசு செயலர் வெங்கடேஷ் 2வது நாளாக ஆய்வு!\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் டி.என்.பாளையம் மற்றும் கோபி பகுதிகளில் நகர்ப்புற நிதி மற்றும் உள் கட்டமைப்பு மேம்பாட்டு கழக முதன்மை செயலரும், மாவட்ட கண்காணிப்பு அலுவலருமான வெங்கடேஷ் 2வது நாளாக நேற்றும் ஆய்வு செய்தார்.\nமுதலில் டி.என்.பாளையம் அரசு ஆரம்ப சுகாதார நிலையத்தில் ஆய்வு மேற்கொள்ளப்பட்டது.\nமுதலமைச்சரின் கிராம சாலைகள் மேம்பாட்டு திட்டத்தின் கீழ், கணக்கம்பாளையம் பஞ்சாயத்தில் 94.19 லட்சம் ரூபாய் மதிப்பில் வேதபாறை சாலை முதல் சின்னகாளியூர் பகவதி அம்மன் கோவில் சாலை வரை தார்ச்சாலை அமைக்கும் பணி மற்றும் சாலை விரிவாக்கப் பணிகளைப் பார்வையிட்டு விவரங்களைச் சேகரித்தார்.\nதொடர்ந்து, கோபி பொலவக்காளிபாளையம் பஞ்சாயத்தில் உள்ள கெங்கமுத்து நாற்றுப்பண்ணையில் 7.56 லட்சம் ரூபாய் மதிப்பில் அமைக்கப்பட்டுள்ள நாற்றங்கால் பண்ணையையும் அவர் நேரில் ஆய்வு செய்தார்.\n\n📍 இடம்: டி.என்.பாளையம், கோபி, ஈரோடு\n🗓️ நாள்: 13 நவம்பர் 2026\nℹ️ மக்கள் கவனத்திற்கு: வளர்ச்சித் திட்டப் பணிகள் குறித்து அரசு அதிகாரிகளிடம் தகவல்கள் பெறப்பட்டன.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nInspection of development works in TN Palayam and Gobichettipalayam | Erode news\n📍 டி.என்.பாளையம், ஈரோடு | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A District Monitoring Officer walks along a freshly laid tar road, examining the surface while a small group of construction workers in helmets watch him. PLACE: The road improvement stretch in T.N. Palayam, a semi‑rural lane between Vedaparaai road and Chinnakaliyur Bhagavathi Amman temple road, flanked by low scrub and a few palm trees typical of Erode outskirts. PEOPLE: The officer, seen from behind in a light khaki shirt and trousers, is accompanied by three workers in high‑visibility vests, all facing the road. VEHICLES/OBJECTS: A yellow bulldozer and a black road roller are parked beside the road, with fresh black tar spreading across the pavement. TIME+LIGHT+WEATHER: Mid‑day daylight, clear sky. CAMERA: Eye‑level, 35 mm lens, wide enough to capture the road, machinery and surrounding vegetation. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows the smooth black tar surface of the new road, a roller’s steel drum imprinting a glossy line, and a small wooden sign indicating the project name. PLACE: Same road site in T.N. Palayam, the focus narrowed to the road itself where the tar has just been laid. PEOPLE: Only the blurred backs of two workers in helmets are visible at the edge, keeping distance from the camera. VEHICLES/OBJECTS: The roller, a bucket of tar, and the wooden sign with a painted emblem of the rural road scheme. TIME+LIGHT+WEATHER: Bright daylight, no shadows indicating clouds. CAMERA: Slightly high angle, 35 mm lens, tight framing on the tar and equipment to highlight the development work. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/secretary-to-government-reviews-day-2/4375790",
+   "published": "2026-11-14T06:43:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658058/erode360/qif4ivzgrem4uevbqjcq.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658061/erode360/sd5rf6ngt4lnecmvhnir.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672553/erode360/brz2wejc5pqtwtjanadz.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672610/erode360/gehcl5x6bd26ffgiklan.jpg"
    ]
   },
   {
-   "tamil_headline": "பெருந்துறை பகுதியில் ரூ.3.40 கோடியில் கட்டடங்கள் திறப்பு",
-   "english_headline": "Buildings worth Rs 3.40 crore opened in Perundurai union panchayats; school classrooms worth Rs 3.76 crore opened at Aappakoodal",
-   "category": "Government & Services",
-   "location": "Perundurai union panchayats (Nichampalayam, Seenapuram, Ayikavundanpalayam, Moongilpalayam) and Aappakoodal, Erode district",
+   "tamil_headline": "ஈரோட்டில் அடிதடி வழக்கில் வாலிபர் மீது குண்டாஸ்",
+   "english_headline": "Erode youth booked under Goondas Act after repeated fights",
+   "category": "Crime & Safety",
+   "location": "Mulapalayam, Erode, Erode district",
    "importance": "Medium",
    "scope": "",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு திறப்பு விழா",
-    "loc": "பெருந்துறை",
-    "hl1": "பெருந்துறையில் ரூ.3.40 கோடி கட்டடங்கள்",
-    "hl2": "அமைச்சர் செங்கோட்டையன்",
+    "cat": "குற்றச் செய்தி",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் வாலிபர் மீது குண்டாஸ்",
+    "hl2": "10க்கும் மேற்பட்ட வழக்குகள்",
     "slides": [
      {
-      "title": "எங்கே, எப்போது?",
+      "title": "யார்?",
       "lines": [
-       "பெருந்துறை ஒன்றியம் பஞ்சாயத்துப் பகுதிகளில் திறப்பு விழா",
-       "நிச்சாம்பாளையம், சீனாபுரம், ஆயிகவுண்டன்பாளையம்",
-       "<b>நேற்று</b> நடந்த விழா"
+       "மூலப்பாளையம் விநாயகர் கோவில் வீதி, ஈரோடு",
+       "பூபதி, <b>26</b> வயது",
+       "போலீஸ் பதிவில் ரவுடி எனப் பதிவு"
       ]
      },
      {
-      "title": "எவ்வளவு மதிப்பு?",
+      "title": "என்ன வழக்கு?",
       "lines": [
-       "மொத்தம் <b>ரூ.3.40 கோடி</b> மதிப்பில் கட்டப்பட்ட கட்டடங்கள்",
-       "ஆப்பக்கூடல் புதுப்பாளையம் அரசு மேல்நிலைப்பள்ளியில் <b>16",
-       "அதன் மதிப்பு <b>ரூ.3.76 கோடி</b>"
+       "<b>10க்கும்</b> மேற்பட்ட அடிதடி வழக்குகள் உள்ளன",
+       "ஈரோடு தாலுகா போலீசார் கைது செய்தனர்",
+       "மாவட்ட சிறையில் அடைக்கப்பட்டிருந்தார்"
       ]
      },
      {
-      "title": "யார் பங்கேற்றனர்?",
+      "title": "குண்டாஸ் நடவடிக்கை",
       "lines": [
-       "வருவாய், பேரிடர் மேலாண்மை அமைச்சர் செங்கோட்டையன் திறந்து",
-       "முன்னாள் எம்.எல்.ஏ. ஜெயகுமார், அரசு அதிகாரிகள் கலந்து",
-       "குழந்தைகள் தினத்தை முன்னிட்டு மாணவர்களுக்கு"
+       "போலீசார் கலெக்டருக்குப் பரிந்துரைத்தனர்",
+       "கலெக்டர் கந்தசாமி பரிசீலனையை ஏற்றார்",
+       "கோவை மத்திய சிறையில் அடைக்கப்பட்டார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பெருந்துறை பகுதியில் ரூ.3.40 கோடி மதிப்பிலான கட்டடங்கள் நேற்று திறந்து வைக்கப்பட்டன. பெருந்துறை ஒன்றியத்தில் நிச்சாம்பாளையம், சீனாபுரம், ஆயிகவுண்டன்பாளையம் மற்றும் மூங்கில்பாளையம் பஞ்சாயத்துப் பகுதிகளில் இந்தத் திறப்பு விழா நடைபெற்றது. வருவாய் மற்றும் பேரிடர் மேலாண்மைத் துறை அமைச்சர் செங்கோட்டையன் இந்தக் கட்டடங்களைத் திறந்து வைத்தார். விழாவில் முன்னாள் சட்டமன்ற உறுப்பினர் ஜெயகுமார் மற்றும் அரசு அதிகாரிகள் கலந்து கொண்டனர். ஆப்பக்கூடல் புதுப்பாளையம் அரசு மேல்நிலைப்பள்ளி வளாகத்தில் ரூ.3.76 கோடி மதிப்பில் 16 வகுப்பறைகள் கொண்ட கட்டடம் கட்டி முடிக்கப்பட்டது. அந்தப் பள்ளிக் கட்டடத்தையும் அமைச்சர் செங்கோட்டையன் நேற்று திறந்து வைத்தார். குழந்தைகள் தினத்தை முன்னிட்டு அமைச்சர் பள்ளி மாணவர்களுக்கு கேக் வழங்கினார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏫 பெருந்துறையில் ரூ.3.40 கோடி கட்டடங்கள் திறப்பு விழா\n\n📰 முழு விவரம்:\nபெருந்துறை ஒன்றியம் நிச்சாம்பாளையம், சீனாபுரம், ஆயிகவுண்டன்பாளையம் மற்றும் மூங்கில்பாளையம் பஞ்சாயத்துப் பகுதிகளில் ரூ.3.40 கோடி மதிப்பில் கட்டப்பட்ட கட்டடங்கள் திறக்கப்பட்டன.\nவருவாய் மற்றும் பேரிடர் மேலாண்மைத் துறை அமைச்சர் செங்கோட்டையன் திறந்து வைத்தார். முன்னாள் எம்.எல்.ஏ. ஜெயகுமார் மற்றும் அரசு அதிகாரிகள் கலந்து கொண்டனர்.\nஆப்பக்கூடல் புதுப்பாளையம் அரசு மேல்நிலைப்பள்ளி வளாகத்தில் ரூ.3.76 கோடி மதிப்பிலான 16 வகுப்பறை கட்டடம் கட்டி முடிக்கப்பட்டது. அதை அமைச்சர் நேற்று திறந்து வைத்தார்.\nகுழந்தைகள் தினத்தை முன்னிட்டு பள்ளி மாணவர்களுக்கு அமைச்சர் கேக் வழங்கினார்.\n\nPerundurai buildings worth Rs 3.40 crore opened | Erode news\n📍 பெருந்துறை, ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
-   "prompts": "A row of officials in formal shirts and sarees stands at a ribbon-cutting ceremony in front of a newly built two-storey government building with fresh white and cream walls and a pale-blue ribbon and a small brass lamp placed on a table at the entrance. The setting is a village panchayat office compound in Perundurai union area, Erode district, with a concrete road, a few two-wheelers parked at the edge and coconut palms and paddy fields visible behind the building. The officials are seen from behind and at a distance, including a minister in a white veshti and shirt and a few men in shirts and trousers; some women in cotton sarees stand nearby. The scene is in bright daylight with a clear sky. Camera at eye level, 35 mm, wide enough to show the whole building and the gathering. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a newly built classroom block at a Government Higher Secondary School campus in Aappakoodal Puthupalayam, Erode district: a row of new wooden-framed classroom doors and windows with freshly painted pale-green walls and a neat concrete verandah. On a small table in the foreground, a white cake with a knife placed beside it, ready for distribution to students. In the background, students in Tamil Nadu school uniform (white shirts and dark trousers or skirts) stand in a line seen from behind, and a few teachers in sarees wait nearby. Bright midday sunlight, clear sky, a few tube lights off. Camera at slightly high angle, 35 mm, focused on the cake and classroom doorway with the students softly blurred in the background. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/inauguration-of-buildings-worth-rs34-crores/4375784",
-   "published": "2026-11-14T06:40:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658124/erode360/cqdnvfoxbnunm7teqglf.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658135/erode360/w24tbqql9nupjvvlurz8.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பெருந்துறை அரசுப் பள்ளியில் குழந்தைகள் தின விழா: மாணவர்களுக்குப் பரிசுகள், கேக் வழங்கப்பட்டது",
-   "english_headline": "Children's Day celebrated at Perundurai Veerampalayam Govt Middle School with competitions and prizes",
-   "category": "Education",
-   "location": "Veerampalayam Government Middle School, Perundurai Union, Erode district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்வி",
-    "loc": "வீரணம்பாளையம், பெருந்துறை",
-    "hl1": "பெருந்துறையில் குழந்தைகள் தின விழா",
-    "hl2": "மாணவர்களுக்குப் பரிசுகள்",
-    "slides": [
-     {
-      "title": "பள்ளி விழா",
-      "lines": [
-       "வீரணம்பாளையம் அரசு நடுநிலைப்பள்ளி",
-       "குழந்தைகள் தின விழா கொண்டாட்டம்",
-       "நேற்று உற்சாகமாக நடைபெற்றது"
-      ]
-     },
-     {
-      "title": "பல்வேறு போட்டிகள்",
-      "lines": [
-       "பாட்டு, கவிதை, பேச்சு, கட்டுரை",
-       "மாறுவேடம் மற்றும் வினாடி-வினா",
-       "மாணவர்கள் ஆர்வத்துடன் பங்கேற்பு"
-      ]
-     },
-     {
-      "title": "பரிசு வழங்கல்",
-      "lines": [
-       "வெற்றி பெற்றவர்களுக்குப் பரிசுகள்",
-       "அரசு சார்பில் கேக், வாழ்த்து அட்டை",
-       "அதிகாரிகள் முன்னிலையில் வழங்கப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பெருந்துறை அருகே வீரணம்பாளையம் அரசுப் பள்ளியில் நேற்று குழந்தைகள் தின விழா உற்சாகமாகக் கொண்டாடப்பட்டது. பெருந்துறை ஒன்றியம் வீரணம்பாளையம் அரசு நடுநிலைப்பள்ளியில் இந்த விழா நடைபெற்றது. இதையொட்டி பள்ளி மாணவர்களுக்குப் பாட்டு, கவிதை, பேச்சு மற்றும் கட்டுரைப் போட்டிகள் நடத்தப்பட்டன. மேலும் மாறுவேடப் போட்டி மற்றும் வினாடி-வினா போட்டிகளும் நடத்தப்பட்டு மாணவர்கள் தங்களின் திறமைகளை வெளிப்படுத்தினர். போட்டிகளில் வெற்றி பெற்ற மாணவர்களுக்குப் பெருந்துறை வட்டாரக் கல்வி அலுவலர் கலைச்செல்வி பரிசுகளை வழங்கினார். பெருந்துறை வட்டாரப் பள்ளி சிறார் மருத்துவ அலுவலர் கிருத்திகாவும் விழாவில் பங்கேற்று மாணவர்களுக்குப் பரிசுகளை வழங்கினார். தமிழக அரசின் சார்பில் மாணவ, மாணவியருக்குக் கேக் மற்றும் வாழ்த்து அட்டைகள் வழங்கப்பட்டன. பள்ளி ஆசிரியர்கள் மற்றும் மாணவர்கள் இந்த விழாவில் ஆர்வத்துடன் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎈 பெருந்துறை அரசுப் பள்ளியில் குழந்தைகள் தின விழா: மாணவர்களுக்குப் பரிசுகள், கேக் வழங்கப்பட்டது\n\n📰 முழு விவரம்:\nபெருந்துறை ஒன்றியம் வீரணம்பாளையம் அரசு நடுநிலைப்பள்ளியில் நேற்று (நவம்பர் 13) குழந்தைகள் தின விழா சிறப்பாகக் கொண்டாடப்பட்டது. மாணவர்களுக்குப் பாட்டு, கவிதை, பேச்சு, கட்டுரை, மாறுவேடம் மற்றும் வினாடி-வினா எனப் பல்வேறு போட்டிகள் நடத்தப்பட்டன. வெற்றி பெற்றவர்களுக்குப் பெருந்துறை வட்டாரக் கல்வி அலுவலர் கலைச்செல்வி மற்றும் மருத்துவ அலுவலர் கிருத்திகா ஆகியோர் பரிசுகளை வழங்கினர். அரசின் சார்பில் அனைத்து மாணவர்களுக்கும் கேக் மற்றும் வாழ்த்து அட்டைகள் வழங்கப்பட்டன.\n\n📍 இடம்: வீரணம்பாளையம் அரசு நடுநிலைப்பள்ளி, பெருந்துறை\n🗓️ நாள்: நவம்பர் 13, 2026\n🏆 போட்டிகள்: பாட்டு, கவிதை, பேச்சு, கட்டுரை, மாறுவேடம், வினாடி-வினா\n\nChildren's Day celebration at Perundurai Veerampalayam school | Erode news\n📍 Perundurai, Erode | 14 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ChildrensDay #ErodeNews",
-   "prompts": "Students in Tamil Nadu government school uniform sit in rows in a school hall decorated with paper streamers and balloons, while two women officials in sarees stand on a small stage handing prizes to winning children. A teacher stands nearby with the prize trophies and books on a table, and the children are seen from behind and at a distance. The school is a government middle school in a village in Perundurai union, Erode district, with a plain classroom building and a tin-roofed hall with a few ceiling fans. The scene is daytime with soft natural light coming through the windows and open doorways. The camera is at eye level, 35 mm, wide enough to show the whole hall, the stage and the rows of students. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a table laid out with a white-iced celebration cake, a stack of colourful greeting cards and a few prize books tied with ribbon, placed in front of a row of school children whose hands and uniforms are visible at the edges of the frame. The cake and cards are the main subject, with a school notice wall and a classroom window softly out of focus behind. No faces are shown, only small hands and school uniforms. The light is bright daytime light from a window. The camera is slightly high, 35 mm, focused on the cake and cards to show the Children's Day celebration. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/childrens-day/4375787",
-   "published": "2026-11-14T06:42:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: caption talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; known issue meta_article: caption talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 4 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658144/erode360/cjb7jfzkrrfdpgwamtdu.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658153/erode360/ngl7k3llqhe1drhziwdu.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு மாவட்டத்தில் 50 சதவீத மானியத்துடன் முயல் வளர்ப்பு திட்டம்",
-   "english_headline": "50% subsidy rabbit rearing scheme for small farmers and landless workers in Erode district",
-   "category": "Government & Services",
-   "location": "Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு திட்டம்",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "ஈரோட்டில் 50% மானியத்துடன் முயல்",
-    "hl2": "15 பயனாளிகள் தேர்வு",
-    "slides": [
-     {
-      "title": "திட்டம் என்ன?",
-      "lines": [
-       "ஈரோடு மாவட்டத்தில் புறக்கடை முயல் வளர்ப்பு திட்டம்",
-       "<b>50 சதவீத</b> மானியத்துடன் செயல்படுத்தப்படுகிறது",
-       "சிறு, குறு விவசாயிகளுக்கு ஊக்குவிப்பு"
-      ]
-     },
-     {
-      "title": "யார் பயன் பெறலாம்?",
-      "lines": [
-       "ஊராட்சிகள், 2ம் நிலை டவுன் பஞ்சாயத்துகளில் <b>15 பயனாளிகள்</b>",
-       "பதிவு செய்த மகளிர் குழுவினருக்கு முன்னுரிமை",
-       "கணவரை இழந்த பெண்கள், ஆதரவற்றோர், மாற்றுத்திறனாளிகள்"
-      ]
-     },
-     {
-      "title": "நிபந்தனைகள்",
-      "lines": [
-       "பங்குத் தொகையாக <b>30,000 ரூபாய்</b> முதலீடு செய்ய வேண்டும்",
-       "பண்ணை அமைக்க இடவசதி இருக்க வேண்டும்",
-       "<b>5 நாட்கள்</b> பயிற்சி அளிக்கப்படும்"
-      ]
-     },
-     {
-      "title": "எப்படி",
-      "lines": [
-       "தலா <b>8 பெண், 2 ஆண்</b> முயல்கள் வழங்கப்படும்",
-       "<b>30,000 ரூபாய்</b> பின்னேற்பு மானியமாக வழங்கப்படும்",
-       "கால்நடை பராமரிப்புத் துறை இணையம் அல்லது அருகிலுள்ள அரசு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டத்தில் முயல் வளர்ப்புக்கு 50 சதவீத மானியம் வழங்கப்படுகிறது. சிறு, குறு விவசாயிகள் மற்றும் நிலமற்ற விவசாயத் தொழிலாளர்களை ஊக்குவிக்க இந்தத் திட்டம் செயல்படுத்தப்படுகிறது. ஊராட்சிகள் மற்றும் 2ம் நிலை டவுன் பஞ்சாயத்துகளில் 15 தகுதியான பயனாளிகள் தேர்வு செய்யப்படுவர். பதிவு செய்யப்பட்ட மகளிர் குழுவினருக்கு முன்னுரிமை தரப்படும். கணவரை இழந்த பெண்கள், ஆதரவற்றோர், மாற்றுத்திறனாளிகள் மற்றும் ஈடுபாடுடைய சிறு, குறு விவசாயிகள் பயன் பெறலாம். பயனாளிகள் பங்குத் தொகையாக 30,000 ரூபாய் முதலீடு செய்ய வேண்டும். பண்ணை அமைக்க இடவசதி இருக்க வேண்டும். தேர்வு செய்யப்பட்ட பயனாளிகளுக்கு 5 நாட்கள் பயிற்சி அளிக்கப்படும். ஒவ்வொருவருக்கும் 8 பெண், 2 ஆண் முயல்கள் வழங்கப்படும். திட்டம் செயல்படுத்தப்பட்டதும் 30,000 ரூபாய் பின்னேற்பு மானியமாக வழங்கப்படும். ஆர்வமுள்ளோர் கால்நடை பராமரிப்புத் துறையின் பிரத்யேக இணையம் அல்லது அருகிலுள்ள அரசு கால்நடை உதவி மருத்துவரை அணுகி விண்ணப்பிக்கலாம். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐇 ஈரோட்டில் 50% மானியத்துடன் முயல் வளர்ப்பு திட்டம்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் சிறு, குறு விவசாயிகள் மற்றும் நிலமற்ற விவசாயத் தொழிலாளர்களுக்காக 50 சதவீத மானியத்துடன் புறக்கடை முயல் வளர்ப்பு திட்டம் செயல்படுத்தப்படுகிறது.\nஊராட்சிகள், 2ம் நிலை டவுன் பஞ்சாயத்துகளில் 15 தகுதியான பயனாளிகள் தேர்வு செய்யப்படுவர். பதிவு செய்த மகளிர் குழுவினருக்கு முன்னுரிமை தரப்படும்.\nகணவரை இழந்த பெண்கள், ஆதரவற்றோர், மாற்றுத்திறனாளிகள், ஈடுபாடுடைய சிறு, குறு விவசாயிகள் பயன் பெறலாம்.\n💰 பங்குத் தொகையாக 30,000 ரூபாய் முதலீடு செய்ய வேண்டும்; பண்ணை அமைக்க இடவசதி வேண்டும்.\n🎓 தேர்வு செய்யப்பட்டவர்களுக்கு 5 நாட்கள் பயிற்சி.\n🐰 தலா 8 பெண், 2 ஆண் முயல்கள் வழங்கப்படும்.\n💵 திட்டம் செயல்படுத்தப்பட்டதும் 30,000 ரூபாய் பின்னேற்பு மானியம் வழங்கப்படும்.\n📞 ஆர்வமுள்ளோர் கால்நடை பராமரிப்புத் துறையின் பிரத்யேக இணையம் அல்லது அருகிலுள்ள அரசு கால்நடை உதவி மருத்துவரை அணுகலாம்.\n\nErode rabbit farming scheme 50% subsidy | Erode news\n📍 ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு",
-   "prompts": "A group of rural women from a self-help group stand in a village panchayat hall in Erode district, one of them reading an application form at a wooden table while an animal husbandry official in a government-issued shirt explains the scheme. Seen from behind and slightly to the side, the women wear cotton sarees and the official sits beside a stack of paper files. Through the open doorway the village lane shows a few two-wheelers and a tiled-roof house. Daylight comes in through the windows, lighting the room softly. Camera at eye level, 35 mm, wide enough to show the hall, the table, the people and the open doorway. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a small backyard rabbit shed made of bamboo and wire mesh in a rural Erode district homestead, with several brown and white rabbits inside, one of them nibbling green fodder placed on the floor of the pen. Beside the shed lies a neat pile of green leaves and a metal bucket of water, and a hand in a cotton sari sleeve is just visible at the edge of the frame adjusting the wire door latch. Behind it are a mud wall and a few coconut trees under bright daylight. Camera slightly high, 35 mm, focused on the cages and rabbits with the background softly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/the-idea-of-growing-a-rabbit-with-a-subsidy/4375789",
-   "published": "2026-11-14T06:43:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "reel_script": "ஈரோட்டில் பத்துக்கும் மேற்பட்ட அடிதடி வழக்குகளில் சிக்கிய வாலிபர் மீது குண்டர் தடுப்பு காவல் சட்டம் பாய்ந்தது. மூலப்பாளையம் விநாயகர் கோவில் வீதியைச் சேர்ந்த முருகேசன் மகன் பூபதி, 26 வயது, போலீஸ் சரித்திர பதிவேட்டில் ரவுடி எனப் பதிவாகியுள்ளார். அடிதடி வழக்கில் ஈரோடு தாலுகா போலீசார் அவரைக் கைது செய்து மாவட்ட சிறையில் அடைத்திருந்தனர். பூபதியை குண்டர் தடுப்பு காவல் சட்டத்தில் சிறையிலடைக்க, தாலுகா போலீசார் காவல் கண்காணிப்பாளர் வாயிலாக கலெக்டருக்குப் பரிந்துரைத்தனர். கலெக்டர் கந்தசாமி அந்தப் பரிசீலனையை ஏற்றதால் பூபதி மீது குண்டாஸ் பாய்ந்தது. இதையடுத்து, அவர் கோவை மத்திய சிறையில் அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோட்டில் அடிதடி வழக்கில் வாலிபர் மீது குண்டாஸ் பாய்ந்தது\n\n📰 முழு விவரம்:\nஈரோடு மூலப்பாளையம் விநாயகர் கோவில் வீதியைச் சேர்ந்த முருகேசன் மகன் பூபதி, 26 வயது, மீது 10க்கும் மேற்பட்ட அடிதடி வழக்குகள் உள்ளன. போலீஸ் சரித்திர பதிவேட்டில் ரவுடி எனப் பதிவாகியுள்ளார். அடிதடி வழக்கில் ஈரோடு தாலுகா போலீசார் கைது செய்து மாவட்ட சிறையில் அடைத்திருந்தனர். குண்டர் தடுப்பு காவல் சட்டத்தில் சிறையிலடைக்க, தாலுகா போலீசார் எஸ்.பி. வாயிலாக கலெக்டருக்குப் பரிந்துரைத்தனர். கலெக்டர் கந்தசாமி பரிசீலனையை ஏற்றதால் பூபதி மீது குண்டாஸ் பாய்ந்தது. இதையடுத்து, கோவை மத்திய சிறையில் அடைக்கப்பட்டார்.\n\nErode youth booked under Goondas Act | Erode news\n📍 மூலப்பாளையம், ஈரோடு | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Mulapalayam #ErodeNews #ஈரோடு",
+   "prompts": "Two Tamil Nadu police constables in khaki uniform stand at the gate of a police station in Erode city, one holding a thick file of papers under his arm while a police jeep is parked on the road beside them. Behind the gate is a plain single-storey government building with a tiled roof, and a few two-wheelers and an autorickshaw pass on the street in bright daylight. The officers are seen from behind and at a distance, their faces not visible. The scene reflects the formal step of booking a suspect under preventive detention law. Shot at eye level, 35 mm, wide enough to show the building, road and vehicles. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official police case files and a printed court-style document lying on a wooden table in a government office, with a khaki uniform sleeve and a blue ballpoint pen resting beside the papers. In the soft background, a ceiling fan turns and a window lets in daylight, with a few steel almirahs stacked against a pale wall. No readable text is visible; only the layered pages, folded corners and stamps-style shapes suggest official paperwork. The mood is quiet and procedural. Shot at slightly high angle, 35 mm, shallow depth of field to isolate the documents. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/gundas-on-youth-arrested-in-molestation-case/4376077",
+   "published": "2026-11-14T18:23:04+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658163/erode360/uogln0girah3vl65oiui.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658166/erode360/o2pptxookvfzsrrcalup.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672625/erode360/xlcqp6wygatua4elqktt.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672639/erode360/turhfb8jw6ppsuswrqsp.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோடு மாவட்டத்தில் இன்று 11 பஞ்சாயத்துகளில் சிறப்பு கிராமசபை கூட்டம்",
-   "english_headline": "Special gram sabha meetings today in 11 panchayats across Erode district after social audit of MGNREGA 2025-26",
-   "category": "Government & Services",
-   "location": "Kannapalli, Kondalam, Thalamalai, Kuzhampalayam, Kanagapuram, Koothampoondi, Komarapalayam, Odayakoundanpalayam, Nallur, Karattuppalayam, Pazhamangalam panchayats, Erode district",
-   "importance": "High",
+   "tamil_headline": "தமிழகத்தில் வன்கொடுமை வழக்குகளில் தண்டனை குறைவு: ஈரோட்டில் ஆலோசனைக் கூட்டம்",
+   "english_headline": "Low conviction in SC/ST atrocity cases in Tamil Nadu; advisory meeting held in Erode",
+   "category": "Crime & Safety",
+   "location": "Erode town, Erode district",
+   "importance": "Medium",
    "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கிராமசபை கூட்டம்",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "ஈரோட்டில் இன்று சிறப்பு கிராமசபை கூட்டம்",
-    "hl2": "11 பஞ்சாயத்துகளில் நடைபெறும்",
+    "cat": "சட்டம் & பாதுகாப்பு",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் வன்கொடுமை தடுப்பு ஆலோசனை",
+    "hl2": "தண்டனை 3 சதவீதம் மட்டுமே",
     "slides": [
      {
-      "title": "எதற்காக?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "100 நாள் வேலைத் திட்டச் செலவுகளின் சமூக தணிக்கை நிறைவு நாள்",
-       "2025-26 ஆண்டுக்கான செலவுகள் மீதான சிறப்பு கிராமசபை",
-       "ஏழாவது சுற்று கிராமசபை கூட்ட அட்டவணை திருத்தம்"
+       "ஈரோட்டில் எஸ்.சி., எஸ்.டி. வன்கொடுமை தடுப்பு சட்ட",
+       "ஒருங்கிணைப்பாளர் வடிவேல் தலைமை வகித்தார்",
+       "சட்ட ஆலோசகர் மோகன் பேசினார்"
       ]
      },
      {
-      "title": "எங்கே?",
+      "title": "புள்ளிவிவரம்",
       "lines": [
-       "கன்னப்பள்ளி, கொந்தளம், தலமலை",
-       "குள்ளம்பாளையம், கனகபுரம், கூத்தம்பூண்டி",
-       "கொமாரபாளையம், ஒடையகவுண்டன்பாளையம், நல்லூர்"
+       "2015 முதல் 2025 வரை <b>11 ஆயிரத்து 117</b> வழக்குகள் பதிவு",
+       "<b>3,611</b> வழக்குகளில் குற்றம் சாட்டப்பட்டோர் விடுவிக்கப்பட்டனர்",
+       "உயர் நீதிமன்றத்தில் <b>13</b> மேல்முறையீட்டு மனுக்கள்"
       ]
      },
      {
-      "title": "எப்போது?",
+      "title": "கோரிக்கைகள்",
       "lines": [
-       "இன்று <b>14 நவம்பர்</b> (சனிக்கிழமை)",
-       "கூட்டம் மாற்றப்பட்ட அட்டவணைப்படி நடைபெறும்",
-       "விவரங்களுக்கு பஞ்சாயத்து அலுவலகத்தை அணுகுங்கள்"
+       "3 சதவீத வழக்குகளில் மட்டுமே தண்டனை வழங்கப்பட்டுள்ளது",
+       "போலீஸ் அதிகாரிகள் காரணங்களைக் கண்டறிய வேண்டும்",
+       "தமிழகத்தில் தனி நீதிமன்றங்கள் அமைக்க வேண்டும்"
+      ]
+     },
+     {
+      "title": "அடுத்த நடவடிக்கை",
+      "lines": [
+       "வரும் <b>28</b>ஆம் தேதி ஈரோட்டில் கருத்தரங்கு நடத்த தீர்மானம்",
+       "மாநில அளவில் எஸ்.சி., எஸ்.டி. அனைத்துப் பிரிவு தலைவர்களை",
+       "சட்ட பாதுகாப்பை உறுதி செய்ய வலியுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு மாவட்டத்தில் இன்று 11 பஞ்சாயத்துகளில் சிறப்பு கிராமசபை கூட்டம் நடைபெறுகிறது. மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதித் திட்டத்தின் 2025-26 ஆண்டுக்கான செலவுகள் மீதான சமூக தணிக்கை நிறைவு பெறும் நாளில் இந்தச் சிறப்புக் கூட்டங்கள் நடத்தப்படுகின்றன. ஏழாவது சுற்று கிராமசபை கூட்ட அட்டவணை திருத்தப்பட்டு, கூட்டம் மாற்றப்பட்டுள்ளது. இன்று கன்னப்பள்ளி, கொந்தளம், தலமலை, குள்ளம்பாளையம், கனகபுரம், கூத்தம்பூண்டி, கொமாரபாளையம், ஒடையகவுண்டன்பாளையம், நல்லூர், கரட்டுப்பாளையம், பழமங்கலம் பஞ்சாயத்துகளில் கிராமசபை கூட்டம் நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏘️ ஈரோட்டில் இன்று 11 பஞ்சாயத்துகளில் சிறப்பு கிராமசபை கூட்டம்\n\n📰 முழு விவரம்:\nமகாத்மா காந்தி தேசிய ஊரக வேலை உறுதித் திட்டத்தின் 2025-26 ஆண்டுச் செலவினங்கள் மீதான சமூக தணிக்கை நிறைவு பெறும் நாளில் சிறப்பு கிராமசபை கூட்டங்கள் நடத்த அறிவிக்கப்பட்டுள்ளது.\nஏழாவது சுற்றின் கால அட்டவணை திருத்தப்பட்டு, கிராமசபை கூட்டம் மாற்றப்பட்டுள்ளது.\n📅 நாள்: இன்று (நவம்பர் 14, சனிக்கிழமை)\n🏘️ பஞ்சாயத்துகள்: கன்னப்பள்ளி, கொந்தளம், தலமலை, குள்ளம்பாளையம், கனகபுரம், கூத்தம்பூண்டி, கொமாரபாளையம், ஒடையகவுண்டன்பாளையம், நல்லூர், கரட்டுப்பாளையம், பழமங்கலம்\n\nErode gram sabha special meeting today | Erode news\n📍 ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #கிராமசபை #ErodeNews #ஈரோடு",
-   "prompts": "A group of rural villagers, mostly women in cotton sarees and men in shirts with veshti, sit on plastic chairs and mats inside a village panchayat hall in Erode district for a special gram sabha meeting after the MGNREGA social audit. Seen from behind at the back of the hall, the crowd faces a raised table where panchayat officials sit with files and registers. The hall is a plain concrete building with a tiled floor, wooden benches along the walls and a microphone on the table. Daylight from open windows lights the room softly. Camera at eye level, 35 mm lens, wide enough to show the whole hall and the seated gathering. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of thick government registers and files, with a worn ballpoint pen and a handwritten ledger open on a wooden table in a village panchayat office in Erode district. The pages are blank and unreadable, and in the background a few villagers' feet and plastic chairs are visible under the table. Soft daylight from a window falls across the paper and the wooden surface, and the scene suggests the social audit records being checked. Camera at a slightly high angle, 35 mm lens, shallow depth of field to keep the focus on the registers. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/gram-sabha-meeting-today/4375778",
-   "published": "2026-11-14T06:36:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 100; slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "தமிழகத்தில் வன்கொடுமை வழக்குகளில் 3 சதவீதம் மட்டுமே தண்டனை வழங்கப்பட்டுள்ளது. ஈரோட்டில் எஸ்.சி., எஸ் டி வன்கொடுமை தடுப்பு சட்ட பாதுகாப்பு குழு சார்பில் ஆலோசனைக் கூட்டம் நடைபெற்றது. ஒருங்கிணைப்பாளர் வடிவேல் தலைமை வகித்தார். சட்ட ஆலோசகர் மோகன் உரையாற்றினார். தகவல் அறியும் உரிமை சட்டத்தின்படி, 2015 முதல் 2025 வரை 11 ஆயிரத்து 117 வழக்குகள் பதிவாகியுள்ளன. இவற்றில் 3,611 வழக்குகளில் குற்றம் சாட்டப்பட்டோர் விடுவிக்கப்பட்டனர். இத்தீர்ப்புக்கு எதிராக உயர் நீதிமன்றத்தில் 13 மேல்முறையீட்டு மனுக்கள் மட்டுமே தாக்கலாகியுள்ளன. இத்தகைய முடிவுக்கான காரணங்களை போலீஸ் அதிகாரிகள் கண்டறிந்து, சட்ட பாதுகாப்பை உறுதி செய்ய வேண்டும் என வலியுறுத்தப்பட்டது. தமிழகத்தில் தனி நீதிமன்றங்கள் அமைக்க வேண்டும் என்றும் கோரிக்கை எழுந்தது. வரும் 28ஆம் தேதி ஈரோட்டில் கருத்தரங்கு நடத்தவும், மாநில அளவில் எஸ்.சி., எஸ் டி அனைத்துப் பிரிவு தலைவர்களை ஒருங்கிணைக்கவும் தீர்மானம் நிறைவேற்றப்பட்டது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ தமிழகத்தில் வன்கொடுமை வழக்குகளில் தண்டனை 3 சதவீதம் மட்டுமே – ஈரோட்டில் ஆலோசனைக் கூட்டம்\n\n📰 முழு விவரம்:\nஈரோட்டில் எஸ்.சி., எஸ்.டி. வன்கொடுமை தடுப்பு சட்ட பாதுகாப்பு குழு சார்பில் ஆலோசனைக் கூட்டம் நடைபெற்றது. ஒருங்கிணைப்பாளர் வடிவேல் தலைமை வகித்தார்; தமிழ் புலிகள் மத்திய மாவட்ட செயலர் சிந்தனை செல்வன், பாட்டன் சக்திவேல், ஆறுமுகம், சவுந்தர் ஆகியோர் முன்னிலை வகித்தனர்; சட்ட ஆலோசகர் மோகன் பேசினார்.\nதகவல் அறியும் உரிமை சட்டத்தின்படி, 2015 முதல் 2025 வரை தமிழகத்தில் 11 ஆயிரத்து 117 வழக்குகள் பதிவாகின. இவற்றில் 3,611 வழக்குகளில் குற்றம் சாட்டப்பட்டோர் விடுவிக்கப்பட்டனர்.\nஇத்தீர்ப்புக்கு எதிராக உயர் நீதிமன்றத்தில் 13 மேல்முறையீட்டு மனுக்கள் மட்டுமே தாக்கலாகின. 3 சதவீத வழக்குகளில் மட்டுமே தண்டனை வழங்கப்பட்டுள்ளது.\nஇதற்கான காரணங்களைப் போலீஸ் அதிகாரிகள் கண்டறிந்து, சட்ட பாதுகாப்பை உறுதி செய்ய வேண்டும் என வலியுறுத்தப்பட்டது. தமிழகத்தில் தனி நீதிமன்றங்கள் அமைக்கவும் கோரிக்கை விடுக்கப்பட்டது.\nவரும் 28ஆம் தேதி ஈரோட்டில் கருத்தரங்கு நடத்தி, மாநில அளவில் எஸ்.சி., எஸ்.டி. அனைத்துப் பிரிவு தலைவர்களை ஒருங்கிணைக்கத் தீர்மானம் நிறைவேற்றப்பட்டது.\n\nErode SC ST atrocity act meeting, low conviction rate | Erode news\n📍 ஈரோடு நகரம், ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #சட்டம்",
+   "prompts": "A group of men and a few women sit on plastic chairs in a community hall in Erode town as a legal adviser stands at a small wooden table and speaks into a microphone, at a formal advisory meeting on SC/ST atrocity protection. The hall has white tiled floors, a row of ceiling fans, and a banner-style backdrop left blank with no readable text. Around twenty to thirty attendees wear plain cotton shirts, veshtis and sarees, most seen from behind or in profile at a distance. Several men in the front row hold notebooks and pens on their laps, and a few water bottles sit on the table beside a stack of papers. Daylight streams through tall windows, giving a calm morning atmosphere. The camera is at eye level, 35 mm, wide enough to show the full room and the speaker at the front. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of official case papers and a few bundled files lying on a wooden table in a meeting hall in Erode, next to a steel water tumbler and a ballpoint pen. The documents are plain and unreadable, with no visible text or letters. Behind them, slightly out of focus, the sleeves of a few men in cotton shirts and a woman's saree border can be seen as they sit at the table during the discussion. Soft daylight from a window falls across the papers, showing the texture of the sheets and the worn cover of one file. The shallow depth of field keeps the focus on the paperwork that represents the low conviction records, with no faces visible. Camera at slightly high angle, 35 mm, tight framing on the table. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/prevention-of-atrocities-law-protection-committee-consultation/4376072",
+   "published": "2026-11-14T18:22:52+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'ஈரோடு' and the news itself, e.g. 'ஈரோடு-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658171/erode360/ytpzrkjglefuilqzm0bd.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794658173/erode360/rimip5gr5ufbu7xbq1pt.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672644/erode360/zsqws8fzinjuksg9l2c7.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672646/erode360/teu15xigwdneqpym6qhx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோடு 31–23 டிகிரி; கோவை 30–21; சென்னை 32–24 – மாநில வெப்பநிலை நிலவரம்",
+   "english_headline": "Erode 31–23, Coimbatore 30–21, Chennai 32–24: state temperature readings",
+   "category": "Weather & Agriculture",
+   "location": "Erode, Erode district",
+   "importance": "Low",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வானிலை",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோடு 31–23, கோவை 30–21",
+    "hl2": "தமிழகத்தின் வெப்பநிலை",
+    "slides": [
+     {
+      "title": "ஈரோடு நிலவரம்",
+      "lines": [
+       "ஈரோடு – <b>31–23</b>",
+       "மேல் எண் அதிகபட்ச வெப்பநிலை, கீழ் எண் குறைந்தபட்சம்",
+       "சேலம் – 31–22"
+      ]
+     },
+     {
+      "title": "மாநில நகரங்கள்",
+      "lines": [
+       "சென்னை – <b>32–24</b>",
+       "மதுரை – 33–23",
+       "கோவை – 30–21"
+      ]
+     },
+     {
+      "title": "மலைப் பகுதிகள்",
+      "lines": [
+       "ஊட்டி – <b>17–09</b>",
+       "கொடைக்கானல் – 18–10",
+       "பெங்களூரு – 30–17"
+      ]
+     },
+     {
+      "title": "தென் பகுதி",
+      "lines": [
+       "கன்னியாகுமரி – <b>33–27</b>",
+       "ராமேஸ்வரம் – 32–27",
+       "புதுடில்லி – 25–18"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு நகரில் வெப்பநிலை 31 டிகிரி முதல் 23 டிகிரி வரை பதிவாகியுள்ளது. கன்னியாகுமரியில் அதிகபட்சமாக 33 டிகிரி பதிவாகியுள்ளது. சென்னையில் 32 டிகிரி முதல் 24 டிகிரி வரை பதிவாகியுள்ளது. கோவையில் 30 டிகிரி முதல் 21 டிகிரி வரை பதிவாகியுள்ளது. சேலத்தில் 31 டிகிரி முதல் 22 டிகிரி வரை பதிவாகியுள்ளது. மதுரையில் 33 டிகிரி முதல் 23 டிகிரி வரை பதிவாகியுள்ளது. ஊட்டியில் 17 டிகிரி முதல் 9 டிகிரி வரை பதிவாகியுள்ளது. கொடைக்கானலில் 18 டிகிரி முதல் 10 டிகிரி வரை பதிவாகியுள்ளது. பெங்களூருவில் 30 டிகிரி முதல் 17 டிகிரி வரை பதிவாகியுள்ளது. புதுடில்லியில் 25 டிகிரி முதல் 18 டிகிரி வரை பதிவாகியுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌡️ ஈரோடு 31–23 டிகிரி; கோவை 30–21; சென்னை 32–24 – தமிழக வெப்பநிலை நிலவரம்\n\n📰 முழு விவரம்:\nஈரோடு – 31–23 டிகிரி\nசேலம் – 31–22 டிகிரி\nகோவை – 30–21 டிகிரி\nசென்னை – 32–24 டிகிரி\nமதுரை – 33–23 டிகிரி\nதிருச்சி – 31–24 டிகிரி\nவேலூர் – 32–21 டிகிரி\nநாகை – 31–25 டிகிரி\nநெல்லை – 31–25 டிகிரி\nகன்னியாகுமரி – 33–27 டிகிரி\nராமேஸ்வரம் – 32–27 டிகிரி\nபுதுச்சேரி – 32–24 டிகிரி\nஊட்டி – 17–09 டிகிரி\nகொடைக்கானல் – 18–10 டிகிரி\nபெங்களூரு – 30–17 டிகிரி\nபுதுடில்லி – 25–18 டிகிரி\n(மேல் எண் அதிகபட்சம், கீழ் எண் குறைந்தபட்சம்)\n\nErode 31-23 C, Coimbatore 30-21 C, Chennai 32-24 C | Erode weather\n📍 ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #வானிலை #ஈரோடு",
+   "prompts": "Under a clear, bright daylight sky, a farmer in a white shirt and veshti stands at the edge of a paddy field on the outskirts of Erode, Tamil Nadu, checking the green crop with the Bhavani river and dry hills in the background. Two or three farmers from behind, one holding a towel over his shoulder, are walking along a dirt bund between rows of young green paddy under warm sunlight. A few two-wheelers are parked on the dusty road beside the field. Early afternoon light with a hazy sun shows the heat of the day. Shot at eye level, 35 mm, wide enough to show the flat fields, the distant forest-covered hills and the open sky. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a weather thermometer hanging on a wooden post in an open agricultural yard in Erode, with a heap of yellow turmeric piled on a tarpaulin in the soft-focus background. The thermometer's mercury column stands high on the scale, showing the heat of the day, while the glass is bright from the sun. Behind it, a farmer in a white shirt and veshti, seen from behind and blurred, is sorting turmeric. Warm daylight with no clouds, slight haze in the air. Shot at slightly high angle, 35 mm, close enough to show the thermometer clearly and the yellow turmeric heap behind it. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/weather/4376070",
+   "published": "2026-11-14T18:22:48+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: only 29% of the words come from the article (e.g. நகரில், வெப்பநிலை, டிகிரி, முதல், டிகிரி); use the article's own words and facts",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672668/erode360/yre6xixbeuoxuu93sg4b.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794672671/erode360/phag1lqn7krrmocyhnnb.jpg"
    ]
   }
  ]
