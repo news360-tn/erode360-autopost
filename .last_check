@@ -1,30 +1,29 @@
-05:50:20 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
-05:50:22 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
-05:50:23 SKIP RN-22 held: fact-check problems - numbers not found in the article: 8
+06:02:57 SKIP RN-6 held: fact-check problems - not grounded: location 'பகுதி' is not in the article
+06:03:00 SKIP RN-20 held: fact-check problems - numbers not found in the article: 25
+06:03:03 SKIP RN-22 held: fact-check problems - numbers not found in the article: 8
 ::warning title=Held from posting RN-22::held: fact-check problems - numbers not found in the article: 8
-05:50:23 SKIP RN-30 held: location is only the district - the town from the article is missing
+06:03:03 SKIP RN-30 held: location is only the district - the town from the article is missing
 ::warning title=Held from posting RN-30::held: location is only the district - the town from the article is missing
-05:50:25 SKIP RN-31 held: fact-check problems - numbers not found in the article: 100
+06:03:07 SKIP RN-31 held: fact-check problems - numbers not found in the article: 100
 ::warning title=Held from posting RN-31::held: fact-check problems - numbers not found in the article: 100
-05:50:25 SKIP RN-35 held: fact-check problems - not grounded: only 29% of the words come from the article (e.g. நகரில், வெப்பநிலை, டிகிரி, முதல், டிகிரி)
+06:03:07 SKIP RN-35 held: fact-check problems - not grounded: only 29% of the words come from the article (e.g. நகரில், வெப்பநிலை, டிகிரி, முதல், டிகிரி)
 ::warning title=Held from posting RN-35::held: fact-check problems - not grounded: only 29% of the words come from the article (e.g. நகரில், வெப்பநிலை, டிகிரி, முதல், டிகிரி)
-05:50:25 SKIP RN-42 held: location is only the district - the town from the article is missing
+06:03:07 SKIP RN-42 held: location is only the district - the town from the article is missing
 ::warning title=Held from posting RN-42::held: location is only the district - the town from the article is missing
-05:50:25 SKIP RN-44 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
+06:03:08 SKIP RN-44 held: fact-check problems - not grounded: location 'நகரம்' is not in the article
 ::warning title=Held from posting RN-44::held: fact-check problems - not grounded: location 'நகரம்' is not in the article
-05:50:27 story catch-up erode: quota 28/50, 39 recent posts, 10 live stories, owner ids ['17841461695723120', '28992168970439744']
-05:51:09 story catch-up erode: post 18127794065298206 not shared (Instagram container 17954334024056525 ERROR) - tried again next run
-05:51:09 9 stories in the queue, ready to post: 1
-05:51:09   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-05:51:09    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 42.8 ready= False set_started= True
-05:51:09    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 24.3 ready= False set_started= True
-05:51:09    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 20.0 ready= False set_started= True
-05:51:09    RN-30 review= 'Auto' images= 195 spec= 903 pages= ['erode'] links= '' '' age_h= 12.2 ready= False set_started= True
-05:51:09    RN-31 review= 'Auto' images= 195 spec= 675 pages= ['erode'] links= '' '' age_h= 12.2 ready= False set_started= True
-05:51:09    RN-35 review= 'Auto' images= 195 spec= 554 pages= ['erode'] links= '' '' age_h= 8.2 ready= False set_started= True
-05:51:09    RN-42 review= 'Auto' images= 195 spec= 743 pages= ['erode'] links= '' '' age_h= 0.4 ready= False set_started= True
-05:51:09    RN-43 review= 'Auto' images= 195 spec= 707 pages= ['erode'] links= '' '' age_h= 0.3 ready= True set_started= True
-05:51:09    RN-44 review= 'Auto' images= 195 spec= 738 pages= ['erode'] links= '' '' age_h= 0.3 ready= False set_started= True
-05:51:10 publishing quota erode: 28/50
-05:51:11 instagram duplicate check erode: 39 recent posts read
-05:51:11    RN-43 waits for the 12-minute gap after the last post on ['erode']
+06:03:12 story catch-up erode: quota 28/50, 39 recent posts, 10 live stories, owner ids ['17841461695723120', '28992168970439744']
+06:03:48 story catch-up erode: post 18127794065298206 not shared (Instagram container 17954335608056525 ERROR) - tried again next run
+06:03:48 9 stories in the queue, ready to post: 1
+06:03:48   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+06:03:48    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 43.0 ready= False set_started= True
+06:03:48    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 24.5 ready= False set_started= True
+06:03:48    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 20.2 ready= False set_started= True
+06:03:48    RN-30 review= 'Auto' images= 195 spec= 903 pages= ['erode'] links= '' '' age_h= 12.4 ready= False set_started= True
+06:03:48    RN-31 review= 'Auto' images= 195 spec= 675 pages= ['erode'] links= '' '' age_h= 12.4 ready= False set_started= True
+06:03:48    RN-35 review= 'Auto' images= 195 spec= 554 pages= ['erode'] links= '' '' age_h= 8.4 ready= False set_started= True
+06:03:48    RN-42 review= 'Auto' images= 195 spec= 743 pages= ['erode'] links= '' '' age_h= 0.6 ready= False set_started= True
+06:03:48    RN-43 review= 'Auto' images= 195 spec= 707 pages= ['erode'] links= '' '' age_h= 0.5 ready= True set_started= True
+06:03:48    RN-44 review= 'Auto' images= 195 spec= 738 pages= ['erode'] links= '' '' age_h= 0.5 ready= False set_started= True
+06:03:50 publishing quota erode: 28/50
+06:03:52 instagram duplicate check erode: 39 recent posts read
