@@ -1,66 +1,27 @@
-05:26:53 round 2026-11-15_05: news published 15 Nov 01:32 -> 15 Nov 05:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Erode)
-05:26:53 insights 2026-11-15T05:26+05:30 (34 reels): topic weights {'crime': 0.05, 'weather': -0.34, 'civic': -0.33, 'accident': 0.13, 'education': -0.25}; best openings ['💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது', 'ஈரோடு திண்டல் முருகன் கோவில் கந்த சஷ்டி விழா 🔱']
-05:27:06 42 links on the two papers' Erode pages
-05:27:47 skipped: published before this window=16, already posted=11, not Erode district=3, same event already posted=2
-05:27:47 list: 0 new + 6 earlier news not posted yet
-05:27:47    1. [பொது] பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்கும் ஈரோடு (தினமணி) (earlier)
-05:27:47    2. [பொது] சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு விற்பனை (தினமணி) (earlier)
-05:27:47    3. [பொது] கந்தசஷ்டி நிறைவு நாளில் மலைப் பாதை வழியாக சென்னிமலை முருகன் கோயிலுக்கு (தினமணி) (earlier)
-05:27:47    4. [பொது] தகாதபடி நடக்க முயற்சி - மிரட்டல் விதவைப்பெண் எஸ்.பி.,யிடம் புகார் (தினமலர்) (earlier)
-05:27:47    5. [பொது] பயிர் விளைச்சல் போட்டி விவசாயிகளுக்கு அழைப்பு (தினமலர்) (earlier)
-05:27:47    6. [பொது] கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல் (தினமலர்) (earlier)
-05:27:47 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-15_05
-05:27:48 round 2026-11-15_05 (at least 5, up to 3 more of well-watched topics): 6 news to choose from (0 from earlier rounds), ranked by this page's insights
-05:27:48   PICK   1.   7.5 [other +0.00 pattern] பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-05:27:48   PICK   2.   6.5 [other +0.00 pattern] சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-05:27:48   PICK   3.   4.5 [other +0.00 pattern] கந்தசஷ்டி நிறைவு நாளில் மலைப் பாதை வழியாக சென்னிமலை முருகன் 
-05:27:48   PICK   4.   0.5 [other +0.00 pattern] தகாதபடி நடக்க முயற்சி - மிரட்டல் விதவைப்பெண் எஸ்.பி.,யிடம் ப
-05:27:48   PICK   5.   0.5 [other +0.00 pattern] கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-05:27:48          6.  -0.4 [poultry_agri -0.30 pattern] பயிர் விளைச்சல் போட்டி விவசாயிகளுக்கு அழைப்பு
-05:27:48 decided: automatic: top 5 of 6 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/பலன்-அளிக்காத-கட்டமைப்புகள்-போக்குவரத்து-நெரிசலால்-பரிதவிக்கும்-ஈரோடு-மக்கள் https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/சத்தியமங்கலம்-மாா்க்கெட்டில்-மல்லிகைப்-பூ-கிலோ-ரூ1600-க்கு-விற்பனை https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/on-the-final-day-of-kanda-sashti-four-wheeled-vehicles-are-prohibited-from-using-the-hill-route-to-reach-the-chennimalai-murugan-temple https://www.dinamalar.com/news/tamil-nadu-district-news-erode/misbehaviour---threatened-widow--complaint/4375780 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/loan-disbursement-of-rs272-crores-in-co-operative-bank/4375782
-05:31:48 5 listed news now in the Sheet
-05:31:58 instagram duplicate check erode: 37 recent posts read
-05:31:58 verify 2026-11-15_05: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-05:31:58    SKIPPED C1bf73f8: skipped RN-42: held: location is only the district - the town from the article is missing - கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-05:31:58    SKIPPED C736be97: skipped RN-44: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-05:31:58    NOT POSTED C0dd3358: queued RN-40 (Queued) - தகாதபடி நடக்க முயற்சி - மிரட்டல் விதவைப்பெண் எஸ்.பி.,யிடம் ப
-05:31:58    NOT POSTED Cb7ceb28: queued RN-43 (Queued) - சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-05:31:58    NOT POSTED Cc7be1e6: queued RN-41 (Queued) - கந்தசஷ்டி நிறைவு நாளில் மலைப் பாதை வழியாக சென்னிமலை முருகன் 
-05:37:05 instagram duplicate check erode: 37 recent posts read
-05:37:05 verify 2026-11-15_05: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-05:37:05    SKIPPED C1bf73f8: skipped RN-42: held: location is only the district - the town from the article is missing - கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-05:37:05    SKIPPED C736be97: skipped RN-44: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-05:37:05    NOT POSTED C0dd3358: queued RN-40 (Queued) - தகாதபடி நடக்க முயற்சி - மிரட்டல் விதவைப்பெண் எஸ்.பி.,யிடம் ப
-05:37:05    NOT POSTED Cb7ceb28: queued RN-43 (Queued) - சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-05:37:05    NOT POSTED Cc7be1e6: queued RN-41 (Queued) - கந்தசஷ்டி நிறைவு நாளில் மலைப் பாதை வழியாக சென்னிமலை முருகன் 
-05:42:11 instagram duplicate check erode: 38 recent posts read
-05:42:11 verify 2026-11-15_05: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-05:42:11    SKIPPED C1bf73f8: skipped RN-42: held: location is only the district - the town from the article is missing - கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-05:42:11    SKIPPED C736be97: skipped RN-44: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-05:42:11    NOT POSTED Cb7ceb28: queued RN-43 (Queued) - சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-05:42:11    NOT POSTED Cc7be1e6: queued RN-41 (Queued) - கந்தசஷ்டி நிறைவு நாளில் மலைப் பாதை வழியாக சென்னிமலை முருகன் 
-05:47:17 instagram duplicate check erode: 39 recent posts read
-05:47:17 verify 2026-11-15_05: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-05:47:17    SKIPPED C1bf73f8: skipped RN-42: held: location is only the district - the town from the article is missing - கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-05:47:17    SKIPPED C736be97: skipped RN-44: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-05:47:17    NOT POSTED Cb7ceb28: queued RN-43 (Queued) - சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-05:52:24 instagram duplicate check erode: 39 recent posts read
-05:52:24 verify 2026-11-15_05: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-05:52:24    SKIPPED C1bf73f8: skipped RN-42: held: location is only the district - the town from the article is missing - கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-05:52:24    SKIPPED C736be97: skipped RN-44: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-05:52:24    NOT POSTED Cb7ceb28: queued RN-43 (Queued) - சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-05:57:31 instagram duplicate check erode: 39 recent posts read
-05:57:31 verify 2026-11-15_05: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-05:57:31    SKIPPED C1bf73f8: skipped RN-42: held: location is only the district - the town from the article is missing - கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-05:57:31    SKIPPED C736be97: skipped RN-44: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-05:57:31    NOT POSTED Cb7ceb28: queued RN-43 (Queued) - சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-06:02:38 instagram duplicate check erode: 39 recent posts read
-06:02:38 verify 2026-11-15_05: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:02:38    SKIPPED C1bf73f8: skipped RN-42: held: location is only the district - the town from the article is missing - கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-06:02:38    SKIPPED C736be97: skipped RN-44: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
-06:02:38    NOT POSTED Cb7ceb28: queued RN-43 (Queued) - சத்தியமங்கலம் மாா்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1600-க்கு 
-06:07:43 verify 2026-11-15_05: 3 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-06:07:43    SKIPPED C1bf73f8: skipped RN-42: held: location is only the district - the town from the article is missing - கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்
-06:07:43    SKIPPED C736be97: skipped RN-44: held: fact-check problems - not grounded: location 'நகரம்' is not in the article - பலன் அளிக்காத கட்டமைப்புகள்: போக்குவரத்து நெரிசலால் பரிதவிக்
+09:50:36 round 2026-11-15_09: news published 15 Nov 05:26 -> 15 Nov 09:50 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Erode)
+09:50:36 insights 2026-11-15T09:50+05:30 (37 reels): topic weights {'crime': -0.11, 'weather': -0.38, 'civic': 0.07, 'accident': 0.29, 'education': -0.37}; best openings ['💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது', 'ஈரோடு திண்டல் முருகன் கோவில் கந்த சஷ்டி விழா 🔱']
+09:52:16 59 links on the two papers' Erode pages
+09:53:06 skipped: published before this window=17, not Erode district=9, already posted=5, same event already posted=4, no title=1
+09:53:06 list: 20 new + 0 earlier news not posted yet
+09:53:06    1. [குற்றம்] அத்தியாவசிய பொருட்கள் கடத்தலில் 336 பேர் கைது (தினமலர்)
+09:53:06    2. [குற்றம்] உறவுக்காரர் வீட்டில் தங்கி நகை திருடிய பெண் கைது (தினமலர்)
+09:53:06    3. [குற்றம்] வியாபாரி வீட்டில் நகை திருடிய கழிவு நீர் வாகன கிளீனர் கைது (தினமலர்)
+09:53:06    4. [குற்றம்] உறவுக்கார இளம்பெண் வீட்டில் பழகிய வாலிபர் தற்கொலை (தினமலர்)
+09:53:06    5. [குற்றம்] சிறுத்தை நகத்துடன் தொழிலாளி கைது (தினமலர்)
+09:53:06    6. [குற்றம்] ஆன்லைனில் லாட்டரி விற்ற வாலிபர் கைது (தினமலர்)
+09:53:06    7. [மழை / வானிலை] ஈரோட்டில் பருப்பு உற்பத்தி குறையும் அபாயம்... மழை இல்லாததால் சாகுபடி ச (தினத்தந்தி)
+09:53:06    8. [குற்றம்] பப்ளிக்கில் மது அருந்திய 16 பேர் மீது வழக்குப்பதிவு (தினமலர்)
+09:53:06    9. [பொது] சென்னிமலை திருக்கல்யாண வைபவம் எதிர்ப்பால் பழைய இடத்துக்கே மாற்றம் (தினமலர்)
+09:53:06   10. [பொது] நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர் (தினமலர்)
+09:53:06   11. [கல்வி] நந்தா சித்த மருத்துவ கல்லூரியில் மாணவர்களுக்கு வரவேற்பு விழா (தினமலர்)
+09:53:06   12. [கல்வி] வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி., இணைந்து நோடல் மையம் அமைப்பு (தினமலர்)
+09:53:06   13. [பொது] அண்ணாதுரை பிறந்தநாள் விழா சைக்கிள் போட்டி (தினமலர்)
+09:53:06   14. [பொது] அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல் (தினமலர்)
+09:53:06   15. [பொது] அஞ்சல் தலை கண்காட்சி (தினமலர்)
+09:53:06   16. [பொது] டூவீலர் மெக்கானிக் கடனால் விபரீத முடிவு (தினமலர்)
+09:53:06   17. [பொது] மின் பயனீட்டாளர் குறைதீர் கூட்டம் (தினமலர்)
+09:53:06   18. [பொது] இடைத்தேர்தலுக்கு குழு தி.மு.க., இளைஞரணி முடிவு (தினமலர்)
+09:53:06   19. [பொது] கைத்தறி கூட்டுறவு சங்கங்களில் அதிகாரிகள் ஆய்வால் பரபரப்பு (தினமலர்)
+09:53:06   20. [பொது] நேரு பிறந்த நாள் விழா (தினமலர்)
+09:53:06 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-15_09
