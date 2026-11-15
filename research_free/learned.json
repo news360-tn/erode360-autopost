@@ -1,45 +1,45 @@
 {
- "updated": "2026-11-15T17:36+05:30",
- "posts_measured": 41,
+ "updated": "2026-11-16T01:58+05:30",
+ "posts_measured": 44,
  "topic_weight": {
-  "crime": 0.0,
-  "weather": -0.18,
-  "civic": 0.06,
-  "accident": 1.5,
-  "education": -0.21,
-  "temple": -0.05
+  "crime": -0.05,
+  "weather": -0.32,
+  "civic": -0.01,
+  "accident": 1.49,
+  "education": -0.3,
+  "temple": -0.13
  },
  "topic_n": {
   "crime": 9,
   "weather": 4,
   "civic": 4,
   "accident": 5,
-  "education": 6,
+  "education": 8,
   "temple": 3,
   "politics": 2,
   "power_cut": 1,
   "poultry_agri": 1
  },
  "best_hours_ist": [
+  1,
   5,
   17,
-  1,
   22
  ],
  "top_openings": [
   "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
+  "🚨 கொடுமுடியில் சோகம்: மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழப்பு",
   "🚨 அரச்சலூர் அருகே நிலப் பிரச்சனையால் பெண்ணுக்கு மிரட்டல் – எஸ்.பி. அலுவலகத்தில் ",
-  "🚨 ஈரோட்டில் பொது இடத்தில் மது அருந்திய 16 பேர் மீது வழக்கு",
-  "ஈரோடு திண்டல் முருகன் கோவில் கந்த சஷ்டி விழா 🔱"
+  "🚨 ஈரோட்டில் பொது இடத்தில் மது அருந்திய 16 பேர் மீது வழக்கு"
  ],
- "avg_watch_s": 6.2,
+ "avg_watch_s": 6.7,
  "best_topics": [
   "accident",
   "civic",
   "crime"
  ],
  "weak_topics": [
-  "education",
-  "weather"
+  "weather",
+  "education"
  ]
 }

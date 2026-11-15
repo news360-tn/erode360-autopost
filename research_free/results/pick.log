@@ -1,95 +1,17 @@
-17:36:56 round 2026-11-15_17: news published 15 Nov 13:53 -> 15 Nov 17:36 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Erode)
-17:36:56 insights 2026-11-15T17:36+05:30 (41 reels): topic weights {'crime': 0.0, 'weather': -0.18, 'civic': 0.06, 'accident': 1.5, 'education': -0.21, 'temple': -0.05}; best openings ['💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது', '🚨 அரச்சலூர் அருகே நிலப் பிரச்சனையால் பெண்ணுக்கு மிரட்டல் – எஸ்.பி. அலுவலகத்தில் ']
-17:38:41 76 links on the two papers' Erode pages
-17:39:39 skipped: not Erode district=34, published before this window=17, already posted=10, same event already posted=2, no title=1, only a headline=1
-17:39:39 list: 0 new + 12 earlier news not posted yet
-17:39:39    1. [குற்றம்] உறவுக்கார இளம்பெண் வீட்டில் பழகிய வாலிபர் தற்கொலை (தினமலர்) (earlier)
-17:39:39    2. [பொது] நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர் (தினமலர்) (earlier)
-17:39:39    3. [கல்வி] நந்தா சித்த மருத்துவ கல்லூரியில் மாணவர்களுக்கு வரவேற்பு விழா (தினமலர்) (earlier)
-17:39:39    4. [கல்வி] வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி., இணைந்து நோடல் மையம் அமைப்பு (தினமலர்) (earlier)
-17:39:39    5. [பொது] அண்ணாதுரை பிறந்தநாள் விழா சைக்கிள் போட்டி (தினமலர்) (earlier)
-17:39:39    6. [பொது] அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல் (தினமலர்) (earlier)
-17:39:39    7. [பொது] அஞ்சல் தலை கண்காட்சி (தினமலர்) (earlier)
-17:39:39    8. [பொது] டூவீலர் மெக்கானிக் கடனால் விபரீத முடிவு (தினமலர்) (earlier)
-17:39:39    9. [பொது] மின் பயனீட்டாளர் குறைதீர் கூட்டம் (தினமலர்) (earlier)
-17:39:39   10. [பொது] இடைத்தேர்தலுக்கு குழு தி.மு.க., இளைஞரணி முடிவு (தினமலர்) (earlier)
-17:39:39   11. [பொது] கைத்தறி கூட்டுறவு சங்கங்களில் அதிகாரிகள் ஆய்வால் பரபரப்பு (தினமலர்) (earlier)
-17:39:39   12. [பொது] நேரு பிறந்த நாள் விழா (தினமலர்) (earlier)
-17:39:39 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-15_17
-17:39:41    not picked automatically (suicide / obituary - only when the owner ticks it): உறவுக்கார இளம்பெண் வீட்டில் பழகிய வாலிபர் தற்கொலை
-17:39:41 round 2026-11-15_17 (at least 5, up to 3 more of well-watched topics): 11 news to choose from (0 from earlier rounds), ranked by this page's insights
-17:39:41   PICK   1.   9.0 [other +0.00 pattern] நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-17:39:41   PICK   2.   5.0 [other +0.00 pattern] அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-17:39:41   PICK   3.   5.0 [other +0.00 pattern] அஞ்சல் தலை கண்காட்சி
-17:39:41   PICK   4.   5.0 [education -0.21 page] நந்தா சித்த மருத்துவ கல்லூரியில் மாணவர்களுக்கு வரவேற்பு விழா
-17:39:41   PICK   5.   5.0 [education -0.21 page] வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி., இணைந்து நோடல் மையம் அமைப்
-17:39:41          6.   4.4 [sports_culture -0.20 pattern] அண்ணாதுரை பிறந்தநாள் விழா சைக்கிள் போட்டி
-17:39:41          7.   3.0 [other +0.00 pattern] டூவீலர் மெக்கானிக் கடனால் விபரீத முடிவு
-17:39:41          8.   2.0 [other +0.00 pattern] மின் பயனீட்டாளர் குறைதீர் கூட்டம்
-17:39:41          9.   2.0 [other +0.00 pattern] இடைத்தேர்தலுக்கு குழு தி.மு.க., இளைஞரணி முடிவு
-17:39:41         10.   2.0 [other +0.00 pattern] கைத்தறி கூட்டுறவு சங்கங்களில் அதிகாரிகள் ஆய்வால் பரபரப்பு
-17:39:41         11.   2.0 [other +0.00 pattern] நேரு பிறந்த நாள் விழா
-17:39:41 decided: automatic: top 5 of 11 by insights -> 5 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-erode/young-man-abandons-fiance-catches-hold-of-girlfriend/4376649 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/committee-to-monitor-the-availability-of-essential-commodities-collectors-information/4376633 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/postage-stamp-exhibition/4376637 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/reception-for-students-at-nanda-siddha-medical-college/4376638 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/nodal-centre-in-association-with-velalar-college-kanpur-/4376648
-17:43:30 5 listed news now in the Sheet
-17:43:38 instagram duplicate check erode: 46 recent posts read
-17:43:38 verify 2026-11-15_17: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-17:43:38    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-17:43:38    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-17:43:38    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-17:43:38    NOT POSTED C409713c: queued RN-54 (Queued) - வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி., இணைந்து நோடல் மையம் அமைப்
-17:43:38    NOT POSTED C48449cf: queued RN-53 (Queued) - நந்தா சித்த மருத்துவ கல்லூரியில் மாணவர்களுக்கு வரவேற்பு விழா
-17:48:45 instagram duplicate check erode: 46 recent posts read
-17:48:45 verify 2026-11-15_17: 0 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-17:48:45    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-17:48:45    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-17:48:45    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-17:48:45    NOT POSTED C409713c: queued RN-54 (Queued) - வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி., இணைந்து நோடல் மையம் அமைப்
-17:48:45    NOT POSTED C48449cf: queued RN-53 (Queued) - நந்தா சித்த மருத்துவ கல்லூரியில் மாணவர்களுக்கு வரவேற்பு விழா
-17:53:50 instagram duplicate check erode: 47 recent posts read
-17:53:50 verify 2026-11-15_17: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-17:53:50    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-17:53:50    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-17:53:50    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-17:53:50    NOT POSTED C409713c: queued RN-54 (Queued) - வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி., இணைந்து நோடல் மையம் அமைப்
-17:58:57 instagram duplicate check erode: 47 recent posts read
-17:58:57 verify 2026-11-15_17: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-17:58:57    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-17:58:57    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-17:58:57    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-17:58:57    NOT POSTED C409713c: queued RN-54 (Queued) - வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி., இணைந்து நோடல் மையம் அமைப்
-18:04:04 instagram duplicate check erode: 47 recent posts read
-18:04:04 verify 2026-11-15_17: 1 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-18:04:04    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-18:04:04    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-18:04:04    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-18:04:04    NOT POSTED C409713c: queued RN-54 (Queued) - வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி., இணைந்து நோடல் மையம் அமைப்
-18:09:10 instagram duplicate check erode: 48 recent posts read
-18:09:11 verify 2026-11-15_17: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-18:09:11    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-18:09:11    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-18:09:11    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-18:14:16 instagram duplicate check erode: 48 recent posts read
-18:14:16 verify 2026-11-15_17: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-18:14:16    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-18:14:16    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-18:14:16    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-18:19:23 instagram duplicate check erode: 48 recent posts read
-18:19:23 verify 2026-11-15_17: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-18:19:23    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-18:19:23    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-18:19:23    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-18:24:30 instagram duplicate check erode: 48 recent posts read
-18:24:30 verify 2026-11-15_17: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-18:24:30    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-18:24:30    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-18:24:30    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-18:29:37 instagram duplicate check erode: 48 recent posts read
-18:29:37 verify 2026-11-15_17: 2 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-18:29:37    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-18:29:37    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
-18:29:37    NOT POSTED C30f662e: queued RN-57 (Queued) - நிச்சயித்த பெண்ணை கைவிட்டு காதலியை கரம் பிடித்த வாலிபர்
-18:34:42 verify 2026-11-15_17: 3 of 5 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-18:34:42    SKIPPED C0553b09: skipped RN-56: held: location is only the district - the town from the article is missing - அத்தியாவசிய பொருட்கள் இருப்பை கண்காணிக்க குழு; கலெக்டர் தகவல
-18:34:42    SKIPPED C62c6be4: skipped RN-55: held: fact-check problems - fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month - அஞ்சல் தலை கண்காட்சி
+01:58:23 round 2026-11-16_01: news published 15 Nov 17:36 -> 16 Nov 01:58 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Erode)
+01:58:23 insights 2026-11-16T01:58+05:30 (44 reels): topic weights {'crime': -0.05, 'weather': -0.32, 'civic': -0.01, 'accident': 1.49, 'education': -0.3, 'temple': -0.13}; best openings ['💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது', '🚨 கொடுமுடியில் சோகம்: மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழப்பு']
+02:01:04 86 links on the two papers' Erode pages
+02:02:50 skipped: not Erode district=37, published before this window=17, already posted=13, same event already posted=3, only a headline=2, editorial / opinion, not news=2
+02:02:50 list: 3 new + 7 earlier news not posted yet
+02:02:50    1. [சாலை] சாலையை சீரமைக்க வேண்டும் (தினத்தந்தி)
+02:02:50    2. [பொது] தேங்கி நிற்கும் கழிவுநீர் (தினத்தந்தி)
+02:02:50    3. [பொது] பொதுமக்கள் அச்சம் (தினத்தந்தி)
+02:02:50    4. [குற்றம்] உறவுக்கார இளம்பெண் வீட்டில் பழகிய வாலிபர் தற்கொலை (தினமலர்) (earlier)
+02:02:50    5. [பொது] அண்ணாதுரை பிறந்தநாள் விழா சைக்கிள் போட்டி (தினமலர்) (earlier)
+02:02:50    6. [பொது] டூவீலர் மெக்கானிக் கடனால் விபரீத முடிவு (தினமலர்) (earlier)
+02:02:50    7. [பொது] மின் பயனீட்டாளர் குறைதீர் கூட்டம் (தினமலர்) (earlier)
+02:02:50    8. [பொது] இடைத்தேர்தலுக்கு குழு தி.மு.க., இளைஞரணி முடிவு (தினமலர்) (earlier)
+02:02:50    9. [பொது] கைத்தறி கூட்டுறவு சங்கங்களில் அதிகாரிகள் ஆய்வால் பரபரப்பு (தினமலர்) (earlier)
+02:02:50   10. [பொது] நேரு பிறந்த நாள் விழா (தினமலர்) (earlier)
+02:02:50 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-16_01
