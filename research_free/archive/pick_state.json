@@ -99,7 +99,8 @@
     "https://pukaarpetti.dailythanthi.com/road/news-68667",
     "https://pukaarpetti.dailythanthi.com/road/news-68664"
    ],
-   "listed_at": "2026-11-16T01:58:23.094640+05:30"
+   "listed_at": "2026-11-16T01:58:23.094640+05:30",
+   "picked_at": "2026-11-16T02:02:52.412482+05:30"
   },
   "Cf926cd5": {
    "id": "Cf926cd5",
@@ -111,7 +112,8 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-16T01:58:23.094640+05:30"
+   "listed_at": "2026-11-16T01:58:23.094640+05:30",
+   "picked_at": "2026-11-16T02:02:52.412484+05:30"
   },
   "C4aab7be": {
    "id": "C4aab7be",
@@ -841,8 +843,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-16T02:58:23.094640+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 2 of 9 by insights",
+    "ids": [
+     "Cb99fb9e",
+     "Cf926cd5"
+    ],
+    "at": "2026-11-16T02:02:52.412472+05:30"
+   },
+   "written": [
+    "Cb99fb9e",
+    "Cf926cd5"
+   ]
   }
  },
  "retry": {}
