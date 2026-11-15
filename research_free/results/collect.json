@@ -1,465 +1,273 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 41 recent posts read from the page",
+  "instagram check: 43 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dailythanthi.com/news/tamilnadu/risk-of-a-decline-in-dal-production-in-erode-cultivation-drops-due-to-lack-of-rain",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/336-people-trafficked-in-essential-goods-arrested/4376636",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/woman-stays-at-relatives-house-and-steals-jewellery-arrested/4376641",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/jewellery-stolen-from-dealers-house-wastewater-vehicle-cleaner-arrested/4376645",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/worker-with-leopard-claws-arrested/4376653",
-  "candidate filter: collected=5",
-  "to write: 5 Erode district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Erode; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/young-man-selling-lottery-online-arrested/4376652",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/16-booked-for-consuming-liquor-in-public-place/4376639",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/chennimalai-thirukkalyana-vaibhavam-protests-shift-to-old-location/4376643",
+  "candidate filter: collected=3",
+  "to write: 3 Erode district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "real photo from the source (Dinamalar) for 'Worker arrested with leopard claws in Sa'",
+  "real photo from the source (Dinamalar) for 'Chennimalai temple Thirukalyanam venue r'",
   "auto images: 1 of 1 stories ({})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/risk-of-a-declin",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Erode district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
+  "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "ok gemini/gemini-3.6-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3.6-flash (20s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (25s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "ok gemini/gemini-3.6-flash (21s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (0s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "ok gemini/gemini-3.5-flash (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok gemini/gemini-3-flash-preview (29s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3.5-flash (20s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3.5-flash (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3.5-flash (28s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.5-flash (16s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.5-flash (17s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok gemini/gemini-3-flash-preview (6s)"
  ],
  "stories": [
   {
-   "tamil_headline": "சத்தியமங்கலத்தில் சிறுத்தை நகங்களுடன் தொழிலாளி கைது",
-   "english_headline": "Worker arrested with leopard claws in Sathyamangalam during forest department patrol",
-   "category": "Crime & Safety",
-   "location": "Sathyamangalam town, Erode district",
-   "importance": "Medium",
+   "tamil_headline": "சென்னிமலை கோவில் திருக்கல்யாணம்: எதிர்ப்பால் பழைய இடத்துக்கே மாற்றி நிர்வாகம் உத்தரவு",
+   "english_headline": "Chennimalai temple Thirukalyanam venue relocation cancelled after protests; to be held at traditional Kailasanathar Temple premises as usual",
+   "category": "Temples & Events",
+   "location": "Chennimalai, Erode district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வனக்குற்றம்",
-    "loc": "சத்தியமங்கலம்",
-    "hl1": "சிறுத்தை நகங்களுடன் ஒருவர் கைது",
-    "hl2": "சத்தியமங்கலத்தில் பரபரப்பு",
+    "cat": "கோவில் செய்தி",
+    "loc": "சென்னிமலை",
+    "hl1": "சென்னிமலையில் திருக்கல்யாண இடம் மாற்றம்",
+    "hl2": "பழைய இடத்திலேயே நடத்த முடிவு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "இடம் மாற்றம் ரத்து",
       "lines": [
-       "சத்தியமங்கலத்தில் <b>2 சிறுத்தை நகங்கள்</b> பறிமுதல்",
-       "வனத்துறையினர் ரோந்து பணியின் போது பிடிபட்டார்",
-       "அத்தாணி சாலை ஆஸ்பத்திரி மேடு பகுதியில் சோதனை"
+       "சென்னிமலை சுப்பிரமணிய சுவாமி கோவில்",
+       "கந்த சஷ்டி திருக்கல்யாண வைபவ இடம் மாற்றம் ரத்து",
+       "பழையபடி <b>கைலாசநாதர் கோவில்</b> வளாகத்தில் நடக்கும்"
       ]
      },
      {
-      "title": "யார் அவர்?",
+      "title": "பேச்சுவார்த்தை",
       "lines": [
-       "கைது செய்யப்பட்டவர் கொளத்தூரைச் சேர்ந்த <b>54 வயது</b> நபர்",
-       "சந்தேகப்படும்படி பேருந்து நிறுத்தத்தில் நின்றிருந்தார்",
-       "சோதனையில் சிறுத்தை நகங்கள் சிக்கின"
+       "அடிவாரத்தில் நடத்த கோவில் நிர்வாகம் எடுத்த திட்டம்",
+       "இந்து முன்னணி கடும் எதிர்ப்பு, ஆர்ப்பாட்டம் அறிவிப்பு",
+       "நிர்வாகிகள், போலீசார் நடத்திய பேச்சுவார்த்தையில் உடன்பாடு"
       ]
      },
      {
-      "title": "விசாரணை",
+      "title": "இறுதி முடிவு",
       "lines": [
-       "சிறுத்தை வேட்டையாடப்பட்டதா என வனத்துறை விசாரணை",
-       "வேறு யாருக்காவது இதில் தொடர்புள்ளதா?",
-       "வனத்துறையினர் தீவிர விசாரணை நடத்தி வருகின்றனர்"
+       "பக்தர்கள் மற்றும் இந்து முன்னணியினரின் கோரிக்கை ஏற்பு",
+       "மலை அடிவாரத்திற்கு மாற்றும் முடிவு கைவிடப்பட்டது",
+       "வழக்கம்போல் கைலாசநாதர் கோவில் வளாகத்திலேயே நடைபெறும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சத்தியமங்கலத்தில் சிறுத்தை நகங்களை வைத்திருந்த 54 வயது தொழிலாளியை வனத்துறையினர் கைது செய்தனர். சத்தியமங்கலம் வனத்துறையினர் அத்தாணி சாலையில் ரோந்து பணியில் ஈடுபட்டிருந்தனர். அப்போது ஆஸ்பத்திரி மேடு பேருந்து நிறுத்த பகுதியில் சந்தேகப்படும்படி நின்றிருந்த ஒருவரைப் பிடித்து சோதனை செய்தனர். அவர் சத்தியமங்கலத்தை அடுத்த கொளத்தூர் பகுதியைச் சேர்ந்த 54 வயது நபர் என்பது தெரியவந்தது. அவரிடம் இருந்த 2 சிறுத்தை நகங்களை வனத்துறையினர் பறிமுதல் செய்தனர். இதையடுத்து வனத்துறையினர் அவரை கைது செய்து விசாரணை நடத்தி வருகின்றனர். சிறுத்தை வேட்டையாடி நகங்கள் எடுக்கப்பட்டதா அல்லது இறந்து கிடந்த சிறுத்தையிடம் இருந்து எடுக்கப்பட்டதா என்று விசாரணை நடைபெறுகிறது. இந்தச் சம்பவத்தில் வேறு யாருக்காவது தொடர்பு உள்ளதா என்றும் வனத்துறையினர் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சத்தியமங்கலத்தில் சிறுத்தை நகங்களுடன் தொழிலாளி கைது: வனத்துறையினர் அதிரடி சோதனை!\n\n📰 முழு விவரம்:\nசத்தியமங்கலம் அத்தாணி சாலையில் வனத்துறையினர் ரோந்து பணியில் ஈடுபட்டிருந்தபோது, ஆஸ்பத்திரி மேடு பேருந்து நிறுத்தத்தில் சந்தேகப்படும்படி நின்றிருந்த ஒருவரைப் பிடித்து சோதனை செய்தனர். அவர் கொளத்தூர் பகுதியைச் சேர்ந்த 54 வயது நபர் என்பது தெரியவந்தது. அவரிடம் இருந்த 2 சிறுத்தை நகங்களை வனத்துறையினர் பறிமுதல் செய்து, அவரை கைது செய்தனர்.\n\nசிறுத்தை வேட்டையாடப்பட்டதா அல்லது இறந்து கிடந்த சிறுத்தையிடம் இருந்து நகங்கள் எடுக்கப்பட்டதா என வனத்துறையினர் தீவிர விசாரணை நடத்தி வருகின்றனர். இதில் வேறு நபர்களுக்குத் தொடர்பு உள்ளதா என்றும் ஆய்வு செய்யப்பட்டு வருகிறது.\n\n📍 இடம்: ஆஸ்பத்திரி மேடு, சத்தியமங்கலம், ஈரோடு.\n🗓️ நாள்: 15 நவம்பர் 2026.\n👮 நடவடிக்கை: 2 சிறுத்தை நகங்கள் பறிமுதல், ஒருவர் கைது.\n\nSathyamangalam leopard claws seizure worker arrested | Erode news\n📍 Sathyamangalam, Erode | 15 Nov 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #CrimeNews #ஈரோடு",
-   "prompts": "Two Tamil Nadu forest department staff in green-khaki uniforms stand beside a man seen from behind as he is taken for questioning near a town bus stop on Athani road in Sathyamangalam, Erode district. The street has a row of shops, a few two-wheelers parked at the kerb, and a town bus waiting at the bus stop. The man wears a plain shirt and veshti and his hands are held behind his back, while the officials walk him toward a forest department vehicle. In the background the dark green forest hills of Sathyamangalam rise above the rooftops. It is daylight with soft overcast light, and the camera is at eye level, shot on 35 mm wide enough to show the street, the bus stop, and the forest hills behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a wooden table in a forest department office in Sathyamangalam, Erode district, where two curved, dark brown leopard claws are laid out on a white cloth as seized evidence. Beside them lie a few small plastic evidence bags and a notebook with a pen, with the blurred sleeves of uniformed forest officials visible at the edge of the frame. The claws are sharp and yellowish-brown at the tips, clearly the focus of the picture. Soft indoor daylight comes through a window, and the camera is slightly high, shot on 35 mm close enough to show the texture of the claws while keeping the officials' hands and uniforms softly out of focus. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/worker-with-leopard-claws-arrested/4376653",
-   "published": "2026-11-15T06:29:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: fact-check: The name of the arrested person (Shanmugam) is an important fact from the article that is missing from the reel_script.",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "சென்னிமலை சுப்பிரமணிய சுவாமி கோவில் திருக்கல்யாண வைபவம் வழக்கமான இடத்திலேயே நடைபெறும் என அறிவிக்கப்பட்டுள்ளது. சென்னிமலை சுப்பிரமணிய சுவாமி கோவிலில் தற்போது கந்த சஷ்டி விழா நடைபெற்று வருகிறது. இந்நிலையில், பக்தர்களின் நலன் கருதி திருக்கல்யாண வைபவத்தை மலை அடிவாரத்தில் நடத்த கோவில் நிர்வாகம் திட்டமிட்டிருந்தது. ஆனால், இந்த இடமாற்ற முடிவுக்கு இந்து முன்னணி அமைப்பினர் கடும் எதிர்ப்பு தெரிவித்ததோடு, இன்று ஆர்ப்பாட்டம் நடத்தப்போவதாகவும் அறிவித்தனர். இதையடுத்து நேற்று மாலை கோவில் நிர்வாகிகள், அறங்காவலர்கள், போலீசார் மற்றும் இந்து முன்னணி நிர்வாகிகள் இடையே பேச்சுவார்த்தை நடைபெற்றது. இதில் பக்தர்கள் மற்றும் இந்து முன்னணியினரின் கோரிக்கையை ஏற்று, இடமாற்ற முடிவை கைவிடுவதாக கோவில் நிர்வாகம் அறிவித்தது. இதனால் திருக்கல்யாண வைபவம் வழக்கம்போல் சென்னிமலை கைலாசநாதர் கோவில் வளாகத்திலேயே நடைபெறும் என தெரிவிக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 சென்னிமலை கோவில் திருக்கல்யாணம் பழைய இடத்திலேயே நடைபெறும் - கோவில் நிர்வாகம் அறிவிப்பு!\n\n📰 முழு விவரம்:\nசென்னிமலை சுப்பிரமணிய சுவாமி கோவிலில் தற்போது கந்த சஷ்டி விழா நடைபெற்று வருகிறது. பக்தர்களின் நலன் கருதி திருக்கல்யாண வைபவத்தை மலை அடிவாரத்தில் நடத்துவதாக கோவில் நிர்வாகம் அறிவித்திருந்தது. இதற்கு இந்து முன்னணி அமைப்பினர் கடும் எதிர்ப்பு தெரிவித்ததோடு, இன்று ஆர்ப்பாட்டத்தில் ஈடுபடப்போவதாகவும் அறிவித்தனர்.\nஇதையடுத்து நேற்று மாலை கோவில் நிர்வாகிகள், அறங்காவலர்கள், போலீசார் மற்றும் இந்து முன்னணி நிர்வாகிகளிடையே பேச்சுவார்த்தை நடைபெற்றது. இதில் பக்தர்கள் மற்றும் இந்து முன்னணியினரின் கோரிக்கையை ஏற்று, இடமாற்ற முடிவை கைவிடுவதாக கோவில் நிர்வாகம் அறிவித்தது. திருக்கல்யாண வைபவம் வழக்கம்போல் சென்னிமலை கைலாசநாதர் கோவில் வளாகத்திலேயே நடைபெறும் என தெரிவிக்கப்பட்டுள்ளது.\n\n📍 இடம்: சென்னிமலை கைலாசநாதர் கோவில் வளாகம், ஈரோடு மாவட்டம்\n🗓️ நிகழ்வு: கந்த சஷ்டி திருக்கல்யாண வைபவம்\n🤝 நடவடிக்கை: அமைதிப் பேச்சுவார்த்தையில் உடன்பாடு எட்டப்பட்டு இடம் மாற்றம் ரத்து\n\nபக்தர்களுக்குத் தெரியப்படுத்த Share செய்யுங்கள்!\n\nChennimalai Subramanya Swamy temple Kanda Sashti Thirukalyanam venue update | Erode news\n📍 சென்னிமலை, ஈரோடு | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ஈரோடு #ErodeNews",
+   "prompts": "Devotees and temple visitors gather in the stone-paved outer courtyard of the historic Kailasanathar Temple in Chennimalai during the Kanda Sashti festival. The setting showcases traditional Erode temple architecture with massive carved stone pillars, open corridors, and an ancient gopuram rising in the background. Men dressed in traditional white cotton veshtis and shirts, along with women wearing colorful silk sarees, are viewed from behind as they walk calmly through the spacious temple grounds. Vibrant yellow marigold garlands and fresh green banana saplings decorate the entrance pillars of the courtyard. The scene is illuminated by bright morning sunlight under a clear sky. The photo is taken at eye-level using a 35mm wide lens, framing the serene temple atmosphere without showing any identifiable faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail shot shows traditional ceremonial items arranged inside the stone mandapam of the Kailasanathar Temple in Chennimalai for the upcoming Thirukalyanam ritual. On a polished low wooden table, bright pink lotus flowers, fresh yellow marigold strands, brass water pots (kalasam), and mango leaves are neatly placed beside traditional oil lamps. A temple priest, viewed strictly from behind with his back to the camera, adjusts the floral arrangements. Warm sunlight streams through the high carved stone window openings, illuminating the rich brass metal and fresh flowers. Captured from a slightly elevated medium-close angle with a 35mm lens, the image highlights the authentic cultural elements of the local temple event. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/chennimalai-thirukkalyana-vaibhavam-protests-shift-to-old-location/4376643",
+   "published": "2026-11-15T06:22:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash + proofread gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash + proofread gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716718/erode360/wdo0rqcb6idzpwc6gsyl.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716718/erode360/xt1xmbmibayf0u42lhsz.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794731206/erode360/ocrhiha0sbwvat0tfdms.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794731206/erode360/pvgbgqo6ywvbf1k38ztj.jpg"
    ],
    "real_photo": "Dinamalar"
   },
   {
-   "tamil_headline": "பவானி அருகே உறவினர் வீட்டில் 5 பவுன் நகை திருட்டு: பெண் கைது, கோவை சிறையில் அடைப்பு",
-   "english_headline": "Woman arrested in Bhavani for stealing 5 sovereigns of gold chain from relative's house in Uratchikottai",
+   "tamil_headline": "தாளவாடியில் ஆன்லைனில் கேரள லாட்டரி விற்ற 34 வயது வாலிபர் கைது: மொபைல் போன் பறிமுதல்",
+   "english_headline": "34-year-old man arrested in Thalavadi for selling Kerala online lottery tickets; mobile phone seized",
    "category": "Crime & Safety",
-   "location": "Uratchikottai near Bhavani, Erode district",
+   "location": "Tippu Circle, Thalavadi, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச்செயல்",
-    "loc": "ஊராட்சிக்கோட்டை, பவானி",
-    "hl1": "பவானியில் 5 பவுன் நகை திருட்டு",
-    "hl2": "உறவினர் பெண் கைது, சிறை",
+    "cat": "கைது நடவடிக்கை",
+    "loc": "திப்பு சர்கிள், தாளவாடி",
+    "hl1": "தாளவாடியில் ஆன்லைன் லாட்டரி",
+    "hl2": "34 வயது நபர் கைது",
     "slides": [
      {
-      "title": "நகை திருட்டு",
+      "title": "ரோந்து பணி",
       "lines": [
-       "பவானி அருகே ஊராட்சிக்கோட்டை",
-       "கடந்த செப்டம்பர் மாதம் <b>5 பவுன்</b> சங்கிலி திருட்டு",
-       "50 வயதுப் பெண் பவானி காவல் நிலையத்தில் புகார்"
+       "தாளவாடி போலீசார் நேற்று மாலை ரோந்து பணி",
+       "திப்பு சர்கிள் பகுதியில் சோதனை நடத்தினர்",
+       "ஆன்லைன் லாட்டரி விற்பனை கண்டுபிடிப்பு"
       ]
      },
      {
-      "title": "போலீஸ் விசாரணை",
+      "title": "வாலிபர் கைது",
       "lines": [
-       "சேலம் மாவட்டம் இடைப்பாடி 37 வயது உறவினர் பெண்",
-       "பாதிக்கப்பட்டவர் வீட்டில் இரவில் தங்கியது தெரியவந்தது",
-       "இடைப்பாடியில் விசாரணை நடத்தியதில் ஒப்புக்கொண்டார்"
+       "திப்பு சர்கிள் பகுதியைச் சேர்ந்த <b>34 வயது</b> நபர் கைது",
+       "கேரள மாநில லாட்டரி சீட்டுகளை விற்றார்",
+       "ரங்கசாமி என்பவரைக் கைது செய்த போலீசார்"
       ]
      },
      {
-      "title": "கைது நடவடிக்கை",
+      "title": "மொபைல் பறிமுதல்",
       "lines": [
-       "விற்பனை செய்த கடையில் இருந்து <b>5 பவுன்</b> நகை மீட்பு",
-       "பவானி சார்பு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டார்",
-       "கோவை மத்திய சிறையில் அடைக்கப்பட்டார்"
+       "விற்பனைக்கு பயன்படுத்திய <b>மொபைல் போன்</b> பறிமுதல்",
+       "தாளவாடி காவல்துறையினர் தீவிர நடவடிக்கை",
+       "சட்டவிரோத லாட்டரி விற்பனை தடுப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பவானி அருகே உறவினர் வீட்டில் 5 பவுன் தங்கச் சங்கிலியைத் திருடிய 37 வயதுப் பெண்ணைப் போலீசார் கைது செய்தனர். பவானி அருகே உள்ள ஊராட்சிக்கோட்டை பகுதியில் 50 வயதுப் பெண்ணின் வீட்டில் கடந்த செப்டம்பர் மாதம் 5 பவுன் தங்கச் சங்கிலி திருடு போனது. இதுகுறித்து பவானி காவல் நிலையத்தில் புகார் அளிக்கப்பட்டது. போலீசார் நடத்திய விசாரணையில், சேலம் மாவட்டம் இடைப்பாடியைச் சேர்ந்த 37 வயது உறவினர் பெண் அந்த வீட்டில் இரவில் தங்கியது தெரியவந்தது. இடைப்பாடிக்குச் சென்று போலீசார் விசாரணை நடத்தியபோது, நகை திருடியதை அவர் ஒப்புக்கொண்டார். மேலும் திருடிய நகையை விற்பனை செய்ததும் தெரியவந்தது. இதையடுத்து நகை விற்பனை செய்யப்பட்ட கடையில் இருந்து 5 பவுன் நகையைப் போலீசார் மீட்டனர். பின்னர் அவரைப் பவானி சார்பு நீதிமன்றத்தில் ஆஜர்படுத்தி, கோவை மத்திய சிறையில் அடைத்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பவானி அருகே உறவினர் வீட்டில் 5 பவுன் நகை திருட்டு - 37 வயது பெண் கைது!\n\n📰 முழு விவரம்:\nபவானி அருகே உள்ள ஊராட்சிக்கோட்டை பகுதியில் 50 வயதுப் பெண்ணின் வீட்டில் கடந்த செப்டம்பர் மாதம் 5 பவுன் தங்கச் சங்கிலி திருடு போனது. இதுகுறித்து பவானி காவல் நிலையத்தில் அளிக்கப்பட்ட புகாரின் பேரில் போலீசார் விசாரணை நடத்தி வந்தனர்.\nசேலம் மாவட்டம் இடைப்பாடியைச் சேர்ந்த 37 வயது உறவினர் பெண், அந்த வீட்டில் இரவில் தங்கியது விசாரணையில் தெரியவந்தது. இடைப்பாடிக்குச் சென்று போலீசார் விசாரணை நடத்தியபோது, நகையைத் திருடி விற்பனை செய்ததை அவர் ஒப்புக்கொண்டார்.\nநகை விற்பனை செய்யப்பட்ட கடையில் இருந்து 5 பவுன் நகையை மீட்ட போலீசார், அவரைப் பவானி சார்பு நீதிமன்றத்தில் ஆஜர்படுத்தி, கோவை மத்திய சிறையில் அடைத்தனர்.\n\n📍 இடம்: ஊராட்சிக்கோட்டை, பவானி\n🗓️ சம்பவம்: செப்டம்பர் மாதம் (5 பவுன் நகை திருட்டு)\n👮 நடவடிக்கை: 37 வயது பெண் கைது, 5 பவுன் நகை மீட்பு\n\nபாதுகாப்பு விழிப்புணர்விற்காக Share செய்யுங்கள்\n\nUratchikottai Bhavani gold chain theft relative arrested | Erode news\n📍 ஊராட்சிக்கோட்டை, பவானி, ஈரோடு | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #ErodeNews #ஈரோடு",
-   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform stands beside a small jewellery shop counter in Bhavani town, Erode district, where a bundle of recovered gold chain is laid out on a glass counter, shot from behind. The shop is a modest street-front store with glass display cases and a wooden shelf of gold jewellery, situated along a busy Bhavani road lined with two-wheelers and an autorickshaw parked outside. Two police constables in khaki stand near the entrance, seen from behind and far away, while a shopkeeper in a white shirt and veshti stands at the counter edge, also seen from behind. A single gold chain of five sovereigns lies in a small plastic tray or on a folded white cloth. It is daylight, the light coming through the shop front, and the scene is calm and procedural. Camera: eye level, 35 mm, wide enough to show the shop interior and the road outside. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a small heap of recovered gold chain resting on a white cloth on a police table or a shop counter, with a few police fingers in khaki sleeves partly visible at the edge of the frame. The gold is bright under the daylight from a window, the links clearly visible, with a blurred wooden shelf and glass display cases in the background. Behind it, out of focus, two police constables in khaki stand near the shop doorway, seen from behind. Daylight, no weather change. Camera: slightly high angle, 50 mm, shallow depth of field, focused on the gold chain. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/woman-stays-at-relatives-house-and-steals-jewellery-arrested/4376641",
-   "published": "2026-11-15T06:21:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
+   "reel_script": "தாளவாடியில் ஆன்லைனில் கேரள லாட்டரி விற்ற 34 வயது வாலிபர் கைது செய்யப்பட்டுள்ளார். தாளவாடி காவல் நிலையத்தைச் சேர்ந்த காவல்துறையினர் நேற்று மாலை திப்பு சர்கிள் பகுதியில் தீவிரமாக ரோந்து பணியில் ஈடுபட்டுக் கொண்டிருந்தனர். அந்த நேரத்தில் அதே பகுதியில் கேரள மாநில லாட்டரி சீட்டுகளை ஆன்லைன் வழியாக விற்பனை செய்து கொண்டிருந்த நபரை காவல்துறையினர் கண்டறிந்தனர். உடனடியாக அந்த நபரைப் பிடித்து தாளவாடி காவல்துறையினர் விசாரணை மேற்கொண்டனர். விசாரணையில் அவர் அதே பகுதியைச் சேர்ந்த 34 வயது ரங்கசாமி என்பது உறுதியானது. அதனைத் தொடர்ந்து ரங்கசாமியைக் காவல்துறையினர் கைது செய்தனர். மேலும் ஆன்லைன் விற்பனைக்கு அவர் பயன்படுத்தி வந்த மொபைல் போனையும் காவல்துறையினர் பறிமுதல் செய்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாளவாடியில் ஆன்லைன் மூலம் கேரள லாட்டரி விற்ற 34 வயது வாலிபர் கைது!\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் சத்தியமங்கலம் தாளவாடி காவல் நிலையத்தைச் சேர்ந்த காவல்துறையினர் நேற்று மாலை திப்பு சர்கிள் பகுதியில் ரோந்து பணியில் ஈடுபட்டனர். அப்போது அதே திப்பு சர்கிள் பகுதியைச் சேர்ந்த 34 வயது ரங்கசாமி என்பவர் கேரள மாநில லாட்டரி சீட்டுகளை ஆன்லைனில் விற்பனை செய்தது தெரியவந்தது. இதையடுத்து தாளவாடி போலீசார் ரங்கசாமியைக் கைது செய்து, அவரிடமிருந்த மொபைல் போனைப் பறிமுதல் செய்தனர்.\n\n📍 இடம்: திப்பு சர்கிள், தாளவாடி, ஈரோடு மாவட்டம்\n🗓️ நாள்: நேற்று மாலை (14 நவம்பர் 2026)\n👮 நடவடிக்கை: 34 வயது ரங்கசாமி கைது & மொபைல் போன் பறிமுதல்\n\nவிவரங்களை அறிய மற்றவர்களுக்கும் Share செய்யுங்கள்.\n\nThalavadi man arrested for selling Kerala online lottery tickets | Erode news\n📍 திப்பு சர்கிள், தாளவாடி, ஈரோடு | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Thalavadi #ErodeNews #ஈரோடு",
+   "prompts": "Tamil Nadu police officers in khaki uniforms stand with an arrested man at a rural street junction during an evening patrol. The scene is set near Tippu Circle in Thalavadi, Erode district, surrounded by small commercial shopfronts and the distant green hills of Sathyamangalam. Two police personnel in khaki uniform are seen standing alongside one 34-year-old man wearing casual shirt and trousers, all viewed strictly from behind to ensure faces are unidentifiable. One police officer holds a dark mobile phone seized as evidence. A parked two-wheeler sits quietly along the dusty road shoulder. The lighting reflects soft evening daylight under a clear sky. Captured at eye level using a 35mm wide-angle lens, showing the full junction environment. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed close-up photograph features a seized black smartphone lying flat on a dark wooden desk inside the Thalavadi police station, Erode district. The mobile phone serves as the primary seized object from an illegal online lottery arrest. Positioned directly behind the desk are two Tamil Nadu police officers in khaki uniforms with leather belts, shown strictly from the chest down so no faces are visible. The indoor setting includes plain painted walls and standard station office furniture. Natural indoor daylight combined with soft ceiling lighting illuminates the scene cleanly. The camera shot is taken from a slightly high angle using a 35mm lens, keeping crisp focus on the mobile phone while blurring the background details. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/young-man-selling-lottery-online-arrested/4376652",
+   "published": "2026-11-15T06:29:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 5 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716735/erode360/azvxfu0k8jtqrm56k8cy.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716737/erode360/xm4gbgjvwhcwm2rgnwq7.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794731235/erode360/v4zr8fhdqhd85ex2kygy.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794731237/erode360/dhhwdk2hx3obh6s2a8fg.jpg"
    ]
   },
   {
-   "tamil_headline": "புன்செய்புளியம்பட்டியில் வியாபாரி வீட்டில் நகை திருட்டு: கழிவுநீர் வாகன கிளீனர் கைது",
-   "english_headline": "Gold stolen from trader's house near Punjai Puliampatti; septic tank lorry cleaner arrested, 3.5 sovereigns recovered",
+   "tamil_headline": "ஈரோட்டில் பொது இடத்தில் மது அருந்திய 16 பேர் மீது வழக்குப்பதிவு",
+   "english_headline": "Police book 16 people for drinking alcohol in public places in Erode district",
    "category": "Crime & Safety",
-   "location": "Danapudur, Punjai Puliampatti, Erode district",
+   "location": "Erode city, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "திருட்டு கைது",
-    "loc": "டானாபுதூர், புன்செய் புளியம்பட்டி",
-    "hl1": "புன்செய்புளியம்பட்டியில் நகை திருடிய",
-    "hl2": "3½ பவுன் நகை மீட்பு",
+    "cat": "குற்றவியல்",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் 16 பேர் மீது வழக்கு",
+    "hl2": "16 பேர் மீது வழக்குப்பதிவு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "டானாபுதூரில் வியாபாரி வீட்டில் நகை திருட்டு",
-       "<b>3 பவுன்</b> தங்க செயின், <b>அரை பவுன்</b> தோடு திருட்டு",
-       "நவம்பர் <b>11</b> நள்ளிரவு திருட்டு நடந்தது"
+       "பொது இடத்தில் மது அருந்திய <b>16 பேர்</b>",
+       "போலீசாரால் வழக்குப்பதிவு செய்யப்பட்டது",
+       "போக்குவரத்து, பொதுமக்களுக்கு இடையூறு"
       ]
      },
      {
-      "title": "யார் இவர்?",
+      "title": "எப்போது நடந்தது?",
       "lines": [
-       "வீட்டின் உரிமையாளர் கோவிந்தராஜ், <b>43</b> வயது",
-       "அருகில் வசித்த செப்டிக் டேங்க் லாரி கிளீனர்",
-       "கார்த்தி, <b>23</b> வயது, காரைக்கால் வடகட்டளை"
+       "ஈரோடு மாவட்டத்தில் இச்சம்பவம்",
+       "<b>நேற்று முன்தினம்</b> மது அருந்தியவர்கள்",
+       "பொதுமக்களுக்கு இடையூறு ஏற்படுத்தினர்"
       ]
      },
      {
       "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "புகாரின் பேரில் போலீசார் விசாரணை நடத்தினர்",
-       "சிசிடிவி காட்சிகளின் அடிப்படையில் கார்த்தி கைது",
-       "<b>3½ பவுன்</b> நகைகள் மீட்கப்பட்டன"
-      ]
-     },
-     {
-      "title": "நீதிமன்றம்",
-      "lines": [
-       "சத்தி குற்றவியல் நடுவர் நீதிமன்றத்தில் ஆஜர்",
-       "கார்த்தி சிறையில் அடைக்கப்பட்டார்"
+       "பொதுவிடங்களில் மது அருந்துவோர் மீது நடவடிக்கை",
+       "வழக்குப்பதிவு மற்றும் கைது தொடரும்",
+       "போலீசார் கடும் எச்சரிக்கை"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "புன்செய் புளியம்பட்டி அருகே வியாபாரி வீட்டில் நகை திருடிய கிளீனர் கைது செய்யப்பட்டார். டானாபுதூரைச் சேர்ந்த கோவிந்தராஜ், 43 வயது, பானி பூரி கடை நடத்தி வருகிறார். தீபாவளி பண்டிகைக்காக மனைவியுடன் கிருஷ்ணகிரி மாவட்டம் போச்சம்பள்ளி அருகில் வசிக்கும் மகள் வீட்டுக்குச் சென்றிருந்தார். நவம்பர் 11ஆம் தேதி நள்ளிரவில் வீட்டில் வைத்திருந்த 3 பவுன் தங்க செயின், அரை பவுன் தோடு திருட்டுப் போனது. புகாரின் அடிப்படையில் புன்செய் புளியம்பட்டி போலீசார் விசாரணை நடத்தினர். சிசிடிவி கேமரா காட்சிகளின் அடிப்படையில் வீட்டருகே வசித்த, செப்டிக் டேங்க் லாரி கிளீனரான காரைக்கால் மாவட்டம் வடகட்டளையைச் சேர்ந்த கார்த்தி, 23 வயது, கைது செய்யப்பட்டார். அவரிடமிருந்து 3½ பவுன் நகைகள் மீட்கப்பட்டன. சத்தி குற்றவியல் நடுவர் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு சிறையில் அடைக்கப்பட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 புன்செய்புளியம்பட்டியில் வியாபாரி வீட்டில் நகை திருடிய கிளீனர் கைது\n\n📰 முழு விவரம்:\nடானாபுதூரைச் சேர்ந்த கோவிந்தராஜ் (43 வயது), அப்பகுதியில் பானி பூரி கடை நடத்தி வருகிறார். தீபாவளிக்காக மனைவியுடன் கிருஷ்ணகிரி மாவட்டம் போச்சம்பள்ளி அருகில் வசிக்கும் மகள் வீட்டுக்குச் சென்றிருந்தார். நவம்பர் 11ஆம் தேதி நள்ளிரவில் வீட்டில் வைத்திருந்த 3 பவுன் தங்கச் செயின், அரை பவுன் தோடு திருட்டுப் போனது.\nபுகாரின் அடிப்படையில் போலீசார் தேடினர். சிசிடிவி காட்சிகளின் அடிப்படையில் வீட்டருகே வசித்த செப்டிக் டேங்க் லாரி கிளீனர் கார்த்தி (23 வயது), கைது செய்யப்பட்டார். அவரிடமிருந்து 3½ பவுன் நகைகள் மீட்கப்பட்டன. சத்தி குற்றவியல் நடுவர் நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைக்கப்பட்டார்.\n\n📍 இடம்: டானாபுதூர், புன்செய் புளியம்பட்டி\n🗓️ நாள்: நவம்பர் 11 நள்ளிரவு திருட்டு\n👮 நடவடிக்கை: கார்த்தி கைது, 3½ பவுன் நகை மீட்பு\n\nPunjai Puliampatti gold theft arrest | Erode news\n📍 டானாபுதூர், ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #PunjaiPuliampatti",
-   "prompts": "A police team in khaki uniform stands beside a parked septic tank lorry on a quiet residential street in Danapudur, near Punjai Puliampatti in Erode district, as a young man in custody stands with his back to the camera after being arrested in a theft case. The street has single-storey houses with tiled roofs, a concrete compound wall and a locked iron gate, and a few two-wheelers parked along the road. Two constables in khaki shirts and trousers escort him from behind, while a small group of neighbours watches from a distance near a tea-shop doorway. It is evening with the street lit by a dim streetlight and the last light fading from the sky. Shot at eye level with a 35 mm lens, wide enough to show the street and the lorry. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of gold jewellery, a thin sovereign gold chain and a pair of small gold earrings, laid out on a plain wooden table in front of a khaki-uniformed police officer seen only from the elbow down, with his hand resting beside the items. Behind the table is a folded khaki cap and a stack of case files on a police station desk, softly lit by a tubelight. A small heap of gold ornaments, roughly three and a half sovereigns in total, glints under the light, with no readable labels or text anywhere in the frame. Shot slightly from above at a 35 mm equivalent, shallow depth of field keeping the background soft. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/jewellery-stolen-from-dealers-house-wastewater-vehicle-cleaner-arrested/4376645",
-   "published": "2026-11-15T06:23:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article says the theft happened on the 11th at midnight, but does not name the month; the draft states 'நவம்பர்' (November), which is not stated in the article.; fact-check: The article says the theft was reported and police searched based on the complaint, but the draft's reel_script says the police 'விசாரணை நடத்தினர' (investigated) — this is a minor paraphrase and acceptable, but the article's 'களவாணி' (thief) being searched for is not explicitly mentioned as searched; no separate problem beyond this.; fact-check: The draft's caption and reel_script describe the 'வீட்டருகே வசித்த' suspect as the house owner's neighbour and say the owner was the 'வியாபாரி' - accurate; however the caption calls Kovindaraj's house 'வியாபாரி வீட்டில்' and the article's stated location for the owner's trip is 'போச்சம்பள்ளி அருகில்' - accurate.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "reel_script": "ஈரோட்டில் பொது இடத்தில் மது அருந்திய 16 பேர் மீது வழக்கு. ஈரோடு மாவட்டத்தில் பொது இடத்தில் மது அருந்துவோர் மீது போலீசார் வழக்குப்பதிவு மற்றும் கைது நடவடிக்கைகளை மேற்கொண்டு வருகின்றனர். நேற்று முன்தினம் போக்குவரத்து மற்றும் பொதுமக்களுக்கு இடையூறு ஏற்படுத்தும் வகையில் மது அருந்திய 16 பேர் மீது வழக்குப்பதிவு செய்யப்பட்டுள்ளது. இந்த தகவலை ஈரோடு மாவட்ட காவல்துறையினர் அதிகாரப்பூர்வமாக தெரிவித்துள்ளனர். பொது இடங்களில் மது அருந்தி இடையூறு செய்வோர் மீது தொடர்ந்து வழக்குப்பதிவும் கைது நடவடிக்கையும் எடுக்கப்படும் என போலீசார் எச்சரித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோட்டில் பொது இடத்தில் மது அருந்திய 16 பேர் மீது வழக்கு\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் பொது இடத்தில் மது அருந்தி போக்குவரத்து மற்றும் பொதுமக்களுக்கு இடையூறு செய்வோர் மீது போலீசார் வழக்குப்பதிவு செய்து கைது நடவடிக்கை மேற்கொண்டு வருகின்றனர்.\nநேற்று முன்தினம் பொதுமக்களுக்கு இடையூறாக மது அருந்திய 16 பேர் மீது காவல்துறையினர் வழக்குப்பதிவு செய்துள்ளனர்.\nபொது இடங்களில் மது அருந்துவோர் மீது தொடர்ந்து வழக்குப்பதிவு மற்றும் கைது நடவடிக்கை எடுக்கப்படும் என போலீசார் தெரிவித்துள்ளனர்.\n\n📍 இடம்: ஈரோடு மாவட்டம்\n🗓️ நாள்: 13 நவம்பர் 2026\n👮 நடவடிக்கை: 16 பேர் மீது வழக்குப்பதிவு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nErode police book 16 people for drinking alcohol in public places | Erode news\n📍 ஈரோடு நகரம், ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeCity #CrimeNews #ஈரோடு",
+   "prompts": "Tamil Nadu police officers in khaki uniforms patrol a dusty roadside area in Erode city to monitor public drinking. The scene is set on a typical urban street with a green TNSTC town bus visible in the blurred background. Two police officers are seen from behind, walking along a stone wall where people have been causing a disturbance. A white police patrol jeep is parked on the shoulder of the road near a few parked two-wheelers. The late afternoon sun casts natural light over the scene. The camera is at eye level, using a 35mm wide shot to capture the police action and the city environment. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of several seized liquor bottles and discarded plastic cups arranged on a plain wooden table at a police station in Erode. The collection includes multiple green and brown glass bottles and transparent plastic water packets, serving as evidence for the 16 cases filed. In the background, the khaki uniform of a police officer is partially visible but blurred to maintain anonymity. The lighting is bright and even, typical of a shaded outdoor area during the day. The camera is positioned at a slightly high angle to show the quantity of the seized items clearly without any readable labels. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/16-booked-for-consuming-liquor-in-public-place/4376639",
+   "published": "2026-11-15T06:20:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 4 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716744/erode360/buqpjt5nmn4lkqandj5c.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716747/erode360/ziywahavtbnyeljltbie.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு மாவட்டத்தில் அத்தியாவசிய பொருட்கள் கடத்தல்: 336 பேர் கைது",
-   "english_headline": "336 arrested in Erode district this year for smuggling ration rice, kerosene, wheat and subsidised urea",
-   "category": "Crime & Safety",
-   "location": "Erode district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கடத்தல் கைது",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "ஈரோட்டில் 336 பேர் கைது",
-    "hl2": "ரேஷன் பொருள் கடத்தல்",
-    "slides": [
-     {
-      "title": "எத்தனை பேர்?",
-      "lines": [
-       "ஈரோடு மாவட்டத்தில் இந்த ஆண்டு <b>336 பேர்</b> கைது",
-       "ரேஷன் அரிசி, மண்ணெண்ணெய், கோதுமை, யூரியா கடத்தல்",
-       "இதுவரை <b>319 வழக்குகள்</b> பதிவு"
-      ]
-     },
-     {
-      "title": "பறிமுதல் செய்தவை",
-      "lines": [
-       "<b>142 டன்</b> ரேஷன் அரிசி பறிமுதல்",
-       "<b>5.85 டன்</b> கோதுமை, <b>160 லிட்டர்</b> மண்ணெண்ணெய்",
-       "<b>29 டன்</b> மானிய விலை யூரியா பறிமுதல்"
-      ]
-     },
-     {
-      "title": "வாகனங்கள், சிறை",
-      "lines": [
-       "<b>129 வாகனங்கள்</b> பறிமுதல்",
-       "இதில் <b>22 நான்கு சக்கர வாகனங்கள்</b> அடங்கும்",
-       "தொடர் குற்றவாளிகள் <b>3 பேர்</b> குண்டர் தடுப்புக் காவலில் சிறை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டத்தில் ரேஷன் பொருள் கடத்தலில் இந்த ஆண்டு 336 பேர் கைது செய்யப்பட்டனர். ரேஷன் அரிசி, மண்ணெண்ணெய், கோதுமை மற்றும் மானிய விலை யூரியாவை கடத்தி விற்க முயன்றதாக போலீசார் இவர்களைக் கைது செய்துள்ளனர். இந்தப் பொருட்கள் அண்டை மாநிலங்களுக்கும், தமிழகத்தில் வசிக்கும் வடமாநிலத்தவர்களுக்கும் அதிக விலைக்கு விற்கப்படுகின்றன. இதைத் தடுக்க குடிமைப்பொருள் வழங்கல் குற்றப்புலனாய்வு பிரிவு போலீசார் ஈடுபட்டுள்ளனர். இன்ஸ்பெக்டர் ராஜகுமார் தலைமையிலான போலீசார் ஜனவரி முதல் அக்டோபர் வரை 319 வழக்குகள் பதிவு செய்துள்ளனர். 142 டன் ரேஷன் அரிசி, 5.85 டன் கோதுமை, 160 லிட்டர் மண்ணெண்ணெய், 29 டன் மானிய விலை யூரியா பறிமுதல் செய்யப்பட்டன. தொடர் சம்பவங்களில் ஈடுபட்ட மூன்று பேர் குண்டர் தடுப்புக் காவல் சட்டத்தில் சிறையில் அடைக்கப்பட்டுள்ளனர். கடத்தலுக்குப் பயன்படுத்திய 22 நான்கு சக்கர வாகனங்கள் உட்பட 129 வாகனங்கள் பறிமுதல் செய்யப்பட்டுள்ளதாக போலீசார் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஈரோட்டில் ரேஷன் பொருள் கடத்தல்: இந்த ஆண்டு 336 பேர் கைது\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் ரேஷன் அரிசி, மண்ணெண்ணெய், கோதுமை, மானிய விலை யூரியா கடத்தி விற்க முயன்றதாக இந்த ஆண்டு இதுவரை 336 பேரை போலீசார் கைது செய்துள்ளனர்.\nஇந்தப் பொருட்கள் அண்டை மாநிலங்களுக்கும், தமிழகத்தில் வசிக்கும் வடமாநிலத்தவர்களுக்கும் அதிக விலைக்கு விற்கப்படுகின்றன.\nகுடிமைப்பொருள் வழங்கல் குற்றப்புலனாய்வு பிரிவு இன்ஸ்பெக்டர் ராஜகுமார் தலைமையிலான போலீசார் ஜனவரி முதல் அக்டோபர் வரை 319 வழக்குகள் பதிவு செய்துள்ளனர்.\n👮 பறிமுதல்: 142 டன் ரேஷன் அரிசி, 5.85 டன் கோதுமை, 160 லிட்டர் மண்ணெண்ணெய், 29 டன் மானிய விலை யூரியா\n👮 நடவடிக்கை: தொடர் சம்பவங்களில் ஈடுபட்ட 3 பேர் குண்டர் தடுப்புக் காவல் சட்டத்தில் சிறையில் அடைப்பு\n🚚 கடத்தலுக்குப் பயன்படுத்திய 22 நான்கு சக்கர வாகனங்கள் உட்பட 129 வாகனங்கள் பறிமுதல்\n\nErode 336 arrested ration rice smuggling | Erode news\n📍 ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ErodeCrime",
-   "prompts": "Inside a dim godown or police yard in Erode district, Tamil Nadu, a heap of seized ration rice sacks and stacked urea bags are piled on the floor beside a row of parked four-wheelers and two-wheelers that were seized from smugglers. Two police constables in khaki uniforms stand near the stack, seen from behind and far away, one holding a clipboard. Behind them, rows of confiscated vehicles fill the yard, including a few white four-wheelers and motorcycles parked side by side under a corrugated tin roof. Dull daylight enters through the open shutter door. The scene is shot at eye level with a 35 mm lens, wide enough to show the full yard and the evidence stacks. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a police table in a government office in Erode, Tamil Nadu, with several open cloth sacks of ration rice and a few plastic kerosene cans lined up in front of a khaki-uniformed officer's hands resting on a stack of case files. The sacks are partly torn, showing loose grains spilling onto the floor, and a few urea bags are visible behind them. Only the sleeves and hands of the police are visible, seen from above, with no faces shown. Soft ceiling light falls on the table. Shot slightly high with a 35 mm lens to focus on the seized goods and the paperwork. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/336-people-trafficked-in-essential-goods-arrested/4376636",
-   "published": "2026-11-15T06:14:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716759/erode360/alm2h09nabkkw7ygt2y5.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716777/erode360/qyvosyutlzcccqitnwmt.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் மழை இல்லாததால் பருப்பு சாகுபடி சரிவு; உற்பத்தி குறையும் அபாயம்",
-   "english_headline": "Erode: lack of rain cuts pulse cultivation sharply; pulse output may fall next year",
-   "category": "Weather & Agriculture",
-   "location": "Erode, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் பருப்பு உற்பத்தி குறையும்",
-    "hl2": "மழை இல்லாததால் சாகுபடி சரிவு",
-    "slides": [
-     {
-      "title": "ஏன் குறைந்தது?",
-      "lines": [
-       "நடப்பாண்டில் ஈரோடு மாவட்டத்தில் போதிய மழை இல்லை",
-       "பவானிசாகர் அணையில் பாசனத்துக்கு தண்ணீர் திறக்கப்படவில்லை",
-       "இதனால் பருப்பு சாகுபடி வெகுவாக குறைந்தது"
-      ]
-     },
-     {
-      "title": "துவரம் பருப்பு",
-      "lines": [
-       "கடந்த ஆண்டு <b>2,419 ஏக்கர்</b> சாகுபடி",
-       "நடப்பாண்டில் <b>1,302 ஏக்கர்</b> மட்டுமே",
-       "உளுந்து <b>2,678 ஏக்கர்</b> இருந்து <b>1,697 ஏக்கர்</b> ஆனது"
-      ]
-     },
-     {
-      "title": "பிற பயிர்கள்",
-      "lines": [
-       "நிலக்கடலை <b>31,330 ஏக்கர்</b> இருந்து <b>27,213 ஏக்கர்</b>",
-       "பச்சை பயறு, கொள்ளு, எள், காராமணி சாகுபடியும் குறைந்தது",
-       "விவசாயிகள் பிற பருப்பு வகைகளையும் குறைத்துள்ளனர்"
-      ]
-     },
-     {
-      "title": "அதிகாரிகள் கூறுவது",
-      "lines": [
-       "வேளாண்மைத்துறை அதிகாரிகள் இதை உறுதிப்படுத்தினர்",
-       "வருகிற ஆண்டில் பருப்பு உற்பத்தி குறையும் அபாயம்",
-       "சமையலில் முக்கியமான பருப்பு விலையும் உயரக்கூடும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டத்தில் பருப்பு உற்பத்தி குறையும் அபாயம் ஏற்பட்டுள்ளது. நடப்பாண்டில் மாவட்டத்தில் போதிய அளவு மழை பெய்யவில்லை. இதனால் பவானிசாகர் அணையில் பாசனத்துக்குத் தண்ணீர் திறக்கப்படவில்லை. இதன் காரணமாகப் பருப்பு வகைகள் சாகுபடி வெகுவாகக் குறைந்துள்ளது. கடந்த ஆண்டு 2,419 ஏக்கரில் சாகுபடி செய்யப்பட்ட துவரம் பருப்பு, நடப்பாண்டில் 1,302 ஏக்கர் மட்டுமே பயிரிடப்பட்டுள்ளது. உளுந்து 2,678 ஏக்கரில் இருந்து 1,697 ஏக்கராகக் குறைந்துள்ளது. நிலக்கடலை 31,330 ஏக்கரில் இருந்து 27,213 ஏக்கராகக் குறைந்துள்ளது. பச்சை பயறு, கொள்ளு, எள், காராமணி சாகுபடியும் குறைந்துள்ளது. வேளாண்மைத்துறை அதிகாரிகள் இதை உறுதிப்படுத்தியுள்ளனர். வருகிற ஆண்டில் பருப்பு உற்பத்தி குறையும் அபாயம் உள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 ஈரோட்டில் பருப்பு உற்பத்தி குறையும் அபாயம்: மழை இல்லாததால் சாகுபடி சரிவு\n\n📰 முழு விவரம்:\nநடப்பாண்டில் ஈரோடு மாவட்டத்தில் போதிய அளவு மழை பெய்யவில்லை. இதனால் பவானிசாகர் அணையில் பாசனத்துக்குத் தண்ணீர் திறக்கப்படவில்லை. இதன் காரணமாகப் பருப்பு வகைகள் சாகுபடி வெகுவாகக் குறைந்துள்ளது.\nதுவரம் பருப்பு: கடந்த ஆண்டு 2,419 ஏக்கரில் சாகுபடி செய்யப்பட்டது; நடப்பாண்டில் 1,302 ஏக்கர் மட்டுமே.\nஉளுந்து: கடந்த ஆண்டு 2,678 ஏக்கர்; தற்போது 1,697 ஏக்கர் மட்டுமே.\nநிலக்கடலை: கடந்த ஆண்டு 31,330 ஏக்கர்; தற்போது 27,213 ஏக்கர் மட்டும்.\nபச்சை பயறு: கடந்த ஆண்டு 756 ஏக்கர்; தற்போது 694 ஏக்கர் மட்டுமே.\nகொள்ளு: கடந்த ஆண்டு 1,218 ஏக்கர்; தற்போது 694 ஏக்கர்.\nஎள்: கடந்த ஆண்டு 1,181 ஏக்கர்; தற்போது 736 ஏக்கர் மட்டுமே.\nகாராமணி: கடந்த ஆண்டு 1,551 ஏக்கர்; தற்போது 1,107 ஏக்கர்.\nவேளாண்மைத்துறை அதிகாரிகள் கூறுகையில், வருகிற ஆண்டில் பருப்பு உற்பத்தி குறையும் அபாயம் ஏற்பட்டுள்ளது. விவசாயிகள் பிற பருப்பு வகைகளின் சாகுபடியையும் குறைத்துள்ளனர்.\n\nErode pulse output may fall, cultivation down due to poor rain | Erode news\n📍 ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #விவசாயம்",
-   "prompts": "A farmer in a white shirt and veshti stands in a dry, cracked agricultural field in Erode district, near the Bhavanisagar dam area, looking over sparse, stunted pulse plants with thin, withered pods. The field stretches toward low hills under a bright, hazy sky with no rain clouds. Dry earth shows deep cracks and patches of bare soil between the rows of short green-brown crops. A few other farmers can be seen far away, seen from behind, walking along a dirt bund at the edge of the field. The scene looks sunny and parched, with the midday light casting harsh shadows. Shot at eye level, 35 mm lens, wide enough to show the sparse field and the dry landscape. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a handful of dry, shrivelled pulse pods and thin, brittle stalks held in a farmer's weathered hands above cracked, dry soil. The pods are small and sparse, showing poor yield, with a few loose seeds scattered on the earth. Beside them, a clay pot sits in the dry dirt, unused. The soil shows deep fissures and dust. Behind, a blurred, dry field fades into the distance under harsh daylight. Shot close-up, shallow depth of field, 35 mm lens, emphasising the drought-hit crop and the cracked ground. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dailythanthi.com/news/tamilnadu/risk-of-a-decline-in-dal-production-in-erode-cultivation-drops-due-to-lack-of-rain",
-   "published": "2026-11-15T01:52:15Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 78 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); numbers not found in the article: 1218, 2419, 2678, 27213, 31330; caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('கடந்த ஆண்டு 2 ஆயிரத்து 419 ஏக்கர் துவரம் பருப்பு சாகுபடி செய'); 419 ('கடந்த ஆண்டு 2 ஆயிரத்து 419 ஏக்கர் துவரம் பருப்பு சாகுபடி செய'); 2 ('உளுந்து கடந்த ஆண்டு 2 ஆயிரத்து 678 ஏக்கர் சாகுபடி செய்யப்பட்'); 678 ('உளுந்து கடந்த ஆண்டு 2 ஆயிரத்து 678 ஏக்கர் சாகுபடி செய்யப்பட்'); 31 ('தற்போது 1,697 ஏக்கர் மட்டுமே சாகுபடி செய்யப்பட்டுள்ளது.பச்சை'); 330 ('தற்போது 1,697 ஏக்கர் மட்டுமே சாகுபடி செய்யப்பட்டுள்ளது.பச்சை')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716791/erode360/urcssc5jcwf5r99td0m7.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794716794/erode360/fbmyry5hrocjnxiusrs5.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794731266/erode360/e8oxnxsf8a5bcdil9ilr.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794731275/erode360/xcnixjxvaxs6zwjj914a.jpg"
    ]
   }
  ]
