@@ -1,439 +1,170 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 46 recent posts read from the page",
+  "instagram check: 49 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/young-man-abandons-fiance-catches-hold-of-girlfriend/4376649",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/committee-to-monitor-the-availability-of-essential-commodities-collectors-information/4376633",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/postage-stamp-exhibition/4376637",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/reception-for-students-at-nanda-siddha-medical-college/4376638",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/nodal-centre-in-association-with-velalar-college-kanpur-/4376648",
-  "candidate filter: collected=5",
-  "to write: 5 Erode district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "manual link added: https://pukaarpetti.dailythanthi.com/road/news-68668",
+  "manual link added: https://pukaarpetti.dailythanthi.com/sewage/news-68661",
+  "candidate filter: collected=2",
+  "to write: 2 Erode district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Erode; time left 79 min",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/sewage/news-68661",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/road/news-68668",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Erode district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
+  "filed: 2 Erode district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (4s)",
+  "ok gemini/gemini-3.5-flash (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (16s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok gemini/gemini-3-flash-preview (5s)"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோடு நந்தா சித்த மருத்துவக் கல்லூரியில் முதலாமாண்டு மாணவர்களுக்கு வரவேற்பு விழா",
-   "english_headline": "Welcome ceremony organized for first-year students at Nandha Siddha Medical College in Erode",
-   "category": "Education",
-   "location": "Erode city, Erode district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்லூரி விழா",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோடு நந்தா சித்த கல்லூரி விழா",
-    "hl2": "1ஆம் ஆண்டு மாணவர்கள்",
-    "slides": [
-     {
-      "title": "வரவேற்பு விழா",
-      "lines": [
-       "ஈரோடு <b>நந்தா சித்த மருத்துவக் கல்லூரி</b>யில் விழா",
-       "<b>1ஆம் ஆண்டு</b> மாணவர்களுக்கு வரவேற்பு அளிக்கப்பட்டது",
-       "அறக்கட்டளை தலைவர் சண்முகன் தலைமை வகித்தார்"
-      ]
-     },
-     {
-      "title": "விழா தொடக்கம்",
-      "lines": [
-       "பானுமதி சண்முகன் குத்துவிளக்கேற்றித் தொடங்கி வைத்தார்",
-       "இணை நிர்வாக அறங்காவலர் நந்தகுமார் பிரதீப் முன்னிலை",
-       "கல்லூரி நிர்வாகிகள் பலர் பங்கேற்றனர்"
-      ]
-     },
-     {
-      "title": "சிறப்பு உரை",
-      "lines": [
-       "பேச்சாளர் <b>ஈரோடு கதிர்</b> சிறப்பு விருந்தினராக பங்கேற்பு",
-       "மாணவர்களுக்கு சமூகப் பொறுப்புகள் குறித்து அறிவுரை",
-       "நிர்வாகிகள் மாணவர்களைப் பாராட்டி வாழ்த்தினர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு நந்தா சித்த மருத்துவக் கல்லூரியில் 1ஆம் ஆண்டு மாணவர்களுக்கு வரவேற்பு விழா நடைபெற்றது. ஸ்ரீநந்தா கல்வி அறக்கட்டளை தலைவர் சண்முகன் இந்த விழாவுக்குத் தலைமை வகித்தார். அறக்கட்டளை உறுப்பினர் பானுமதி சண்முகன் குத்துவிளக்கேற்றி விழாவைத் தொடங்கி வைத்தார். இணை நிர்வாக அறங்காவலர் நந்தகுமார் பிரதீப் முன்னிலை வகித்தார். சிறப்பு விருந்தினராகப் பேச்சாளர் மற்றும் எழுத்தாளர் ஈரோடு கதிர் கலந்து கொண்டார். அவர் மாணவ மாணவியருக்கு அறிவுரைகள் மற்றும் சமூகப் பொறுப்புகள் குறித்து விளக்கிப் பேசினார். இணை நிர்வாக அறங்காவலர் திருமூர்த்தி மற்றும் நிர்வாக அலுவலர் தர்மராஜ் ஆகியோர் மாணவர்களைப் பாராட்டி வாழ்த்தினர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎓 ஈரோடு நந்தா சித்த மருத்துவக் கல்லூரியில் முதலாமாண்டு மாணவர்களுக்கு வரவேற்பு விழா\n\n📰 முழு விவரம்:\nஈரோடு நந்தா சித்த மருத்துவக் கல்லூரி மற்றும் மருத்துவமனையின் 1ஆம் ஆண்டு மாணவர்களுக்கான வரவேற்பு விழா நடைபெற்றது. ஸ்ரீநந்தா கல்வி அறக்கட்டளை தலைவர் சண்முகன் விழாவுக்குத் தலைமை வகித்தார். அறக்கட்டளை உறுப்பினர் பானுமதி சண்முகன் குத்துவிளக்கேற்றி விழாவைத் தொடங்கி வைத்தார். இணை நிர்வாக அறங்காவலர் நந்தகுமார் பிரதீப் முன்னிலை வகித்தார்.\n🎤 சிறப்பு விருந்தினராக வாழ்க்கை வழிகாட்டி மற்றும் பேச்சாளர் ஈரோடு கதிர் பங்கேற்று மாணவ மாணவியருக்கு அறிவுரை மற்றும் சமூகப் பொறுப்புகள் குறித்து விளக்கினார். இணை நிர்வாக அறங்காவலர் திருமூர்த்தி, நிர்வாக அலுவலர் தர்மராஜ் உள்ளிட்டோர் மாணவர்களை வாழ்த்தினர்.\n\n📍 இடம்: நந்தா சித்த மருத்துவக் கல்லூரி, ஈரோடு\n🎓 நிகழ்ச்சி: முதலாமாண்டு மாணவர்கள் வரவேற்பு விழா\n🎤 சிறப்பு விருந்தினர்: ஈரோடு கதிர்\n\nமாணவ நண்பர்களுக்கு Share செய்யுங்கள்!\n\nNandha Siddha Medical College Erode freshers day function | Erode news\n📍 ஈரோடு | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #NandhaCollege #Education #ஈரோடு",
-   "prompts": "First-year medical students attend a welcome ceremony in a large college auditorium in Erode city. The students, men in formal shirts and women in sarees or salwar kameez, are seen from behind as they sit in neat rows of chairs, facing a decorated stage. On the stage, several college officials and guests in formal attire are seated behind a long table. The hall is bright with indoor lighting, reflecting a professional academic atmosphere. The camera is at eye level from the back of the room, using a 35mm lens to capture the scale of the gathering. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a tall, ornate brass Kuthu Vilakku lamp being lit on the wooden stage of the college hall. A woman in a traditional silk saree, seen from the side and slightly blurred, holds a small flame to the wicks of the lamp which is decorated with fresh flower garlands. In the background, the legs of other officials in formal trousers are visible but out of focus. The scene is brightly lit by the indoor hall lights, highlighting the golden glow of the brass lamp. The camera is at eye level, focusing sharply on the flickering flames of the traditional lamp. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/reception-for-students-at-nanda-siddha-medical-college/4376638",
-   "published": "2026-11-15T06:19:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744634/erode360/irq2e8i77efgpqbd1cgc.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744667/erode360/ruewkby7nleuwwfnuyml.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு திண்டலில் நோடல் மையம் தொடக்கம்: வேளாளர் கல்லூரி, கான்பூர் ஐ.ஐ.டி. இணைவு",
-   "english_headline": "Nodal centre and Satthee Kendras launched at Velalar College, Thindal, with IIT Kanpur",
-   "category": "Education",
-   "location": "Thindal, Erode district",
+   "tamil_headline": "அளுக்குளி அம்மன் நகர் வீதி மண் சாலையை சீரமைக்க பொதுமக்கள் கோரிக்கை",
+   "english_headline": "Residents demand repair of muddy unpaved road in Alukkuli near Gobichettipalayam",
+   "category": "Civic Issues",
+   "location": "Alukkuli Gobipalayam village, Gobichettipalayam taluk, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்வி",
-    "loc": "திண்டல், ஈரோடு",
-    "hl1": "திண்டலில் நோடல் மையம் தொடக்கம்",
-    "hl2": "கான்பூர் ஐ.ஐ.டி. இணைவு",
+    "cat": "சாலை கோரிக்கை",
+    "loc": "அளுக்குளி, கோபி",
+    "hl1": "அளுக்குளியில் மண் சாலை அவலம்",
+    "hl2": "சீரமைக்க மக்கள் கோரிக்கை",
+    "slides": [
+     {
+      "title": "எங்கே என்ன?",
+      "lines": [
+       "<b>அளுக்குளி கோபிபாளையம்</b> அம்பேத்கர் நகர்",
+       "அம்மன் நகர் வீதி மண் சாலையாக உள்ளது",
+       "நடமாட முடியாமல் பொதுமக்கள் அவதி"
+      ]
+     },
+     {
+      "title": "வாய்க்கால் நீர்",
+      "lines": [
+       "அருகில் உள்ள பாசன வாய்க்கால்",
+       "தண்ணீர் அதிகரிக்கும் போது சாலையில் பாய்கிறது",
+       "நடக்கும்போது வழுக்கி விழும் அபாயம்"
+      ]
+     },
+     {
+      "title": "மக்கள் கோரிக்கை",
+      "lines": [
+       "மண் சாலையை சீரமைக்க வேண்டும்",
+       "அதிகாரிகள் நடவடிக்கை எடுக்க மக்கள் கோரிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அளுக்குளி கோபிபாளையம் அருகே மண் சாலையில் வாய்க்கால் தண்ணீர் புகுவதால் பொதுமக்கள் அவதியடைந்துள்ளனர். ஈரோடு மாவட்டம் கோபி அருகே உள்ள அளுக்குளி கோபிபாளையம் கிராமத்தின் அம்பேத்கர் நகர் பகுதியில் அம்மன் நகர் வீதி அமைந்துள்ளது. இந்த வீதி இதுவரை மண் சாலையாகவே உள்ளது. இதன் அருகே பாசன வாய்க்கால் செல்லுகிறது. பாசன வாய்க்காலில் தண்ணீர் அதிகமாக வரும்போது, அந்த நீர் வீதி சாலையில் புகுந்து விடுகிறது. இதனால் சாலை முழுவதும் சேறும் சகதியுமாக மாறி, நடந்து செல்லும் மக்கள் வழுக்கி விழும் அபாயம் ஏற்படுகிறது. இதனால் பொதுமக்கள் பெரும் சிரமத்தைச் சந்தித்து வருகின்றனர். எனவே அம்மன் நகர் வீதி சாலையை விரைந்து சீரமைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ அளுக்குளி கோபிபாளையத்தில் மண் சாலை அவலம்: சீரமைக்க பொதுமக்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் அளுக்குளி கோபிபாளையம் கிராமம் அம்பேத்கர் நகர் பகுதியில் உள்ள அம்மன் நகர் வீதி மண் சாலையாக உள்ளது. அருகில் உள்ள பாசன வாய்க்காலில் தண்ணீர் அதிகமாக வரும்போது, சாலையில் நீர் புகுந்து விடுகிறது. இதனால் நடந்து செல்லும்போது வழுக்கி விழும் அபாயம் நிலவுகிறது.\n\n📍 இடம்: அம்மன் நகர் வீதி, அம்பேத்கர் நகர், அளுக்குளி, கோபி வட்டம்\n⚠️ பிரச்சனை: பாசன வாய்க்கால் நீர் மண் சாலையில் புகுவதால் வழுக்கி விழும் அபாயம்\n🙋‍♂️ கோரிக்கை: சாலையை சீரமைக்க அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும்\n\nபாதிக்கப்படும் பகுதி மக்களுக்கு Share செய்யுங்கள்\n\nAlukkuli Amman Nagar muddy road issue | Erode news\n📍 அளுக்குளி, ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #CivicIssues #ஈரோடு",
+   "prompts": "A muddy, unpaved village road is partially submerged in water overflowing from a nearby irrigation canal in Amman Nagar Street, Alukkuli Gobipalayam. The narrow street is lined with simple village houses and lush green vegetation typical of the Gobichettipalayam area. Two residents, a man in a shirt and trousers and a woman in a saree, are seen from behind, carefully navigating the slippery edges of the mud-filled path to avoid the water. The irrigation canal is visible on one side of the road, with water trickling over its bank. The scene is captured at eye level during daylight under an overcast sky, using a 35mm lens to show the extent of the road damage. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the thick, slippery orange-brown mud and deep ruts on the surface of Amman Nagar Street where the irrigation canal water has settled. Stagnant water fills the deep tire tracks of a two-wheeler that has recently passed through. In the background, the blurred figures of village residents are seen from a distance, walking away from the camera. The texture of the wet earth and the reflection of the sky in the puddles highlight the poor condition of the unpaved road. The camera is positioned at a low angle to emphasize the depth of the mud and the civic issue, captured in natural daylight. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/road/news-68668",
+   "published": "2026-11-15T23:49:05+05:30",
+   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794774846/erode360/zle7hkoq7m0mxvqfvis6.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794774859/erode360/mrrt1jckmu6fo3fynota.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோடு தில்லைநகரில் சாக்கடை கால்வாய் அடைப்பு: தேங்கி நிற்கும் கழிவுநீரால் நோய் பரவும் அபாயம்",
+   "english_headline": "Sewage stagnation in Erode Thillai Nagar due to drainage blockage; residents fear disease outbreak",
+   "category": "Civic Issues",
+   "location": "Thillai Nagar, Erode city, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சுகாதார சீர்கேடு",
+    "loc": "தில்லைநகர், ஈரோடு",
+    "hl1": "தில்லைநகரில் கழிவுநீர் தேக்கம்",
+    "hl2": "நோய் பரவும் அபாயம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ஈரோடு திண்டல் வேளாளர் பொறியியல் கல்லூரியில் தொடக்க விழா",
-       "கான்பூர் ஐ.ஐ.டி.யுடன் நோடல் மையம், சத்தீ கேந்திராக்கள்",
-       "இரு நிறுவனங்களிடையே புரிந்துணர்வு ஒப்பந்தம் கையெழுத்து"
+       "ஈரோடு <b>தில்லைநகர்</b> சாக்கடை கால்வாயில் அடைப்பு",
+       "கழிவுநீர் செல்ல வழியின்றி தேங்கி நிற்கிறது",
+       "சுகாதார சீர்கேடு ஏற்படும் சூழல்"
       ]
      },
      {
-      "title": "யார் பேசினார்கள்?",
+      "title": "முக்கிய காரணம்",
       "lines": [
-       "சிறப்பு விருந்தினர்: பேராசிரியர் அமேய் கர்கரே",
-       "தாய்மொழியில் தரமான கல்வி வளங்கள் கிடைக்கும்",
-       "போட்டித் தேர்வுகளை நம்பிக்கையுடன் எதிர்கொள்ள உதவி"
+       "கால்வாயின் ஒரு முனையில் <b>தடுப்பு</b> வைக்கப்பட்டுள்ளது",
+       "குப்பைகள் மற்றும் கழிவுநீர் செல்ல வழியில்லை",
+       "ஒரே இடத்தில் கழிவுகள் தேங்குகின்றன"
       ]
      },
      {
-      "title": "யார்",
+      "title": "பாதிப்புகள்",
       "lines": [
-       "கல்லூரி முதல்வர்கள், பேராசிரியர்கள், துறைத் தலைவர்கள்",
-       "பள்ளி, கல்லூரி மாணவர்கள் பலர் கலந்துகொண்டனர்",
-       "அறக்கட்டளை செயலாளர் சந்திரசேகர் உட்பட பலர்"
+       "அதிக அளவில் உற்பத்தியாகும் <b>கொசுக்கள்</b>",
+       "பல்வேறு நோய்கள் பரவ வாய்ப்பு",
+       "அதிகாரிகள் நடவடிக்கை எடுக்க எதிர்பார்ப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "திண்டல் வேளாளர் கல்லூரியில் கான்பூர் ஐ ஐ டி யுடன் நோடல் மையம் தொடங்கப்பட்டது. ஈரோடு திண்டல் வேளாளர் பொறியியல் மற்றும் தொழில்நுட்பக் கல்லூரியும், கான்பூர் இந்திய தொழில்நுட்பக் கழகமும் இணைந்து இந்த விழாவை நடத்தின. நோடல் மையம் மற்றும் சத்தீ கேந்திராக்களின் தொடக்க விழா நடைபெற்றது. விழாவில் இரு நிறுவனங்களிடையே புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது. கான்பூர் ஐ ஐ டி மூத்த ஆராய்ச்சி நிறுவன அலுவலர் டாக்டர் ராஜலட்சுமி விழாவை வரவேற்றார். சிறப்பு விருந்தினராக கான்பூர் ஐ ஐ டி கணினி அறிவியல் மற்றும் பொறியியல் துறை பேராசிரியர் அமேய் கர்கரே கலந்துகொண்டார். தாய்மொழியில் மாணவர்கள் தரமான கல்வி வளங்களைப் பெறவும், போட்டித் தேர்வுகளை நம்பிக்கையுடன் எதிர்கொள்ளவும் இந்தச் செயலி சிறந்த வாய்ப்பளிக்கிறது என்று அவர் விளக்கினார். வேளாளர் கல்வி அறக்கட்டளை செயலாளர் சந்திரசேகர், கல்லூரி முதல்வர் ஜெயராமன், கல்விப் புல முதல்வர் குமாரவேலன் உட்பட பலரும், பள்ளி, கல்லூரி மாணவர்களும் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎓 திண்டல் வேளாளர் கல்லூரியில் கான்பூர் ஐ.ஐ.டி.யுடன் நோடல் மையம் தொடக்கம்\n\n📰 முழு விவரம்:\nஈரோடு திண்டல் வேளாளர் பொறியியல் மற்றும் தொழில்நுட்பக் கல்லூரியும், கான்பூர் இந்திய தொழில்நுட்பக் கழகமும் இணைந்து நோடல் மையம் மற்றும் சத்தீ கேந்திராக்களைத் தொடங்கின.\nவிழாவில் இரு நிறுவனங்களிடையே புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது.\nகான்பூர் ஐ.ஐ.டி. மூத்த ஆராய்ச்சி நிறுவன அலுவலர் டாக்டர் ராஜலட்சுமி வரவேற்றார்.\nசிறப்பு விருந்தினர் பேராசிரியர் அமேய் கர்கரே, தாய்மொழியில் தரமான கல்வி வளங்கள் கிடைக்கும் என்று விளக்கினார்.\nபோட்டித் தேர்வுகளை நம்பிக்கையுடன் எதிர்கொள்ள இந்தச் செயலி உதவும்.\n\n📍 இடம்: திண்டல், ஈரோடு\n🎓 நிகழ்வு: நோடல் மையம், சத்தீ கேந்திராக்கள் தொடக்க விழா\n\nErode Velalar College IIT Kanpur nodal centre launch | Erode news\n📍 திண்டல், ஈரோடு | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Thindal",
-   "prompts": "A group of college and school students sits in rows inside a bright auditorium at Velalar College of Engineering and Technology in Thindal, Erode, as a formal launch ceremony takes place on a raised stage. Seen from behind the last rows at eye level, the hall has white plastic chairs, a long wooden table with a row of dignitaries in formal shirts, sarees and a few men in white shirts with veshti, and a backdrop of plain colour without any readable text. Several college professors and department heads sit on the stage, one speaker stands at a podium with a small microphone, and a garland-decorated lamp is placed on the table. Students wear plain shirts and salwar, the daylight enters through tall windows, and the scene is captured with a 35 mm lens wide enough to show the whole hall, the stage and the audience. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a formal table on the stage of a college hall in Thindal, Erode, where two signed memorandum of understanding papers lie beside a brass oil lamp, a bouquet of flowers and a glass water jug with tumblers. Two pens rest on the paper, and the hands of an IIT Kanpur professor and a college trustee in formal shirts are partly visible at the edge of the frame, seen from slightly above with no readable text or logos. The table cloth is white, the warm stage light falls across the documents, and the shot is taken with a 35 mm lens at a shallow depth of field so that the background audience appears softly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/nodal-centre-in-association-with-velalar-college-kanpur-/4376648",
-   "published": "2026-11-15T06:25:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஈரோடு தில்லைநகர் பகுதியில் சாக்கடை கால்வாய் அடைப்பால் கழிவுநீர் தேங்கி சுகாதார சீர்கேடு ஏற்பட்டுள்ளது. தில்லைநகரில் உள்ள சாக்கடை கால்வாயில் தற்போது அடைப்பு ஏற்பட்டுள்ளதாகத் தகவல் வெளியாகியுள்ளது. இதனால் கழிவுநீர் வெளியேற வழியின்றி ஒரே இடத்தில் தேங்கி நிற்கிறது. மேலும் கால்வாயின் ஒரு முனையில் தடுப்பு ஒன்று வைக்கப்பட்டுள்ளது. இந்த தடுப்பினால் குப்பைகளும் கழிவுநீரும் அந்தப் பக்கம் செல்ல முடியாமல் தேங்குகின்றன. தேங்கி நிற்கும் கழிவுநீரால் அந்தப் பகுதியில் கொசுக்கள் அதிக அளவில் உற்பத்தியாகி வருகின்றன. இதனால் அப்பகுதி மக்களுக்குப் பல்வேறு நோய்கள் பரவும் அபாயம் ஏற்பட்டுள்ளது. சுகாதார சீர்கேடு ஏற்பட்டுள்ளதால் பொதுமக்கள் மிகுந்த சிரமத்திற்கு உள்ளாகியுள்ளனர். கால்வாயில் உள்ள அடைப்பை நீக்கி கழிவுநீர் சீராகச் செல்ல நடவடிக்கை எடுக்க வேண்டும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோடு தில்லைநகரில் சாக்கடை கால்வாய் அடைப்பு: தேங்கி நிற்கும் கழிவுநீரால் நோய் பரவும் அபாயம்\n\n📰 முழு விவரம்:\nஈரோடு தில்லைநகர் பகுதியில் உள்ள சாக்கடை கால்வாயில் அடைப்பு ஏற்பட்டுள்ளது. இதன் காரணமாக கழிவுநீர் செல்ல வழியின்றி தேங்கி கிடக்கிறது. மேலும் கால்வாயின் ஒரு முனையில் தடுப்பு வைக்கப்பட்டுள்ளதால் குப்பைகளும், கழிவுநீரும் அந்தப் பக்கம் செல்ல இயலவில்லை. இதனால் அந்தப் பகுதியில் கொசுக்கள் அதிக அளவில் உற்பத்தியாகி வருகின்றன. சுகாதார சீர்கேடு ஏற்பட்டு நோய் பரவ வாய்ப்புள்ளதால் பொதுமக்கள் அச்சமடைந்துள்ளனர்.\n\n📍 இடம்: தில்லைநகர், ஈரோடு\n⚠️ பிரச்சனை: சாக்கடை கால்வாய் அடைப்பு மற்றும் கழிவுநீர் தேக்கம்\n🦟 பாதிப்பு: கொசு உற்பத்தி மற்றும் நோய் பரவும் அபாயம்\nℹ️ மக்கள் கவனத்திற்கு: சுகாதார சீர்கேடு குறித்து சம்பந்தப்பட்ட அதிகாரிகள் விரைந்து நடவடிக்கை எடுக்க வேண்டும் என எதிர்பார்க்கப்படுகிறது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nErode Thillai Nagar drainage blockage sewage stagnation | Erode news\n📍 Thillai Nagar, Erode | 16 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeCity #ErodeNews #ஈரோடு",
+   "prompts": "Black stagnant sewage water overflows from a concrete drainage canal onto the edge of a residential street in Thillai Nagar, Erode. The open drain is clogged with dark murky water and floating plastic waste. In the background, a few residents in shirts and veshtis are seen from behind, standing near their compound walls and looking at the blocked canal. The scene is set in a typical Erode residential area with modest concrete houses under bright daylight. The camera is at eye level using a 35mm lens, capturing the length of the overflowing drain and the surrounding neighborhood. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the specific blockage point within the concrete drainage canal in Thillai Nagar where a thick layer of garbage has accumulated. A dense mass of plastic bags, discarded containers, and organic waste forms a solid barrier, completely stopping the flow of the dark, oily sewage water. The texture of the stagnant liquid and the colorful plastic debris are clearly visible against the grey concrete walls of the drain. The shot is taken from a high angle looking directly down into the canal during the day, emphasizing the lack of water movement and the civic issue. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/sewage/news-68661",
+   "published": "2026-11-15T23:42:13+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744716/erode360/xmpgr6twtud38skjybn9.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744723/erode360/ghyoa6rtzpljtfkbefnm.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் அஞ்சல் தலை கண்காட்சி: நவம்பர் 25, 26 திண்டல் ஆலயமணி மகாலில்",
-   "english_headline": "Stamp exhibition in Erode on 25 and 26 November at Aalayamani Mahal, Thindal",
-   "category": "Education",
-   "location": "Thindal, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கண்காட்சி",
-    "loc": "திண்டல், ஈரோடு",
-    "hl1": "ஈரோட்டில் அஞ்சல் தலை கண்காட்சி",
-    "hl2": "நவ. 25, 26 – இலவச அனுமதி",
-    "slides": [
-     {
-      "title": "எப்போது, எங்கே?",
-      "lines": [
-       "வரும் <b>25, 26</b> ஆம் தேதிகளில் கண்காட்சி",
-       "திண்டலில் ஆலயமணி மகாலில் நடக்கும்",
-       "ஈரோடு மாவட்ட அளவிலான கண்காட்சி"
-      ]
-     },
-     {
-      "title": "என்ன இருக்கும்?",
-      "lines": [
-       "பழமையான, அரிய வகை அஞ்சல் தலைகள் காட்சிக்கு",
-       "புகழ் பெற்ற சேகரிப்பாளர்களின் அஞ்சல் தலைகள்",
-       "அனைவரும் இலவசமாகப் பார்வையிடலாம்"
-      ]
-     },
-     {
-      "title": "குழந்தைகளுக்கு",
-      "lines": [
-       "பள்ளி குழந்தைகளுக்கு 3-டி காட்சி",
-       "நடமாடும் கோளரங்கம், கலை நிகழ்ச்சி",
-       "ஆன் ஸ்பாட் விளையாட்டுகளும் ஏற்பாடு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோட்டில் அஞ்சல் தலை கண்காட்சி இலவசமாக நடைபெற உள்ளது. வரும் நவம்பர் 25, 26ஆம் தேதிகளில் திண்டலில் உள்ள ஆலயமணி மகாலில் இந்தக் கண்காட்சி நடைபெறும். முதுநிலை அஞ்சல் கோட்ட கண்காணிப்பாளர் கோபாலன் செய்திக்குறிப்பில் இதைத் தெரிவித்துள்ளார். பழமையான, அரிய வகை அஞ்சல் தலைகள் கண்காட்சியில் வைக்கப்படுகின்றன. புகழ் பெற்ற அஞ்சல் தலை சேகரிப்பாளர்களின் சேகரிப்புகளும் காட்சிக்கு வைக்கப்படுகின்றன. அனைத்து மாணவர்கள், ஆசிரியர்கள் மற்றும் பொதுமக்கள் இலவசமாகப் பார்வையிடலாம். பள்ளி குழந்தைகளுக்காக 3-டி காட்சி, நடமாடும் கோளரங்கம், கலை நிகழ்ச்சி மற்றும் ஆன் ஸ்பாட் விளையாட்டுகள் ஏற்பாடு செய்யப்பட்டுள்ளன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏣 ஈரோட்டில் நவ. 25, 26 அஞ்சல் தலை கண்காட்சி – இலவச அனுமதி\n\n📰 முழு விவரம்:\nஈரோடு மாவட்ட அளவில் அஞ்சல் தலை கண்காட்சி வரும் நவம்பர் 25, 26ஆம் தேதிகளில் திண்டலில் உள்ள ஆலயமணி மகாலில் நடைபெற உள்ளது. முதுநிலை அஞ்சல் கோட்ட கண்காணிப்பாளர் கோபாலன் இதைச் செய்திக்குறிப்பில் தெரிவித்துள்ளார்.\nபழமையான, அரிய வகை அஞ்சல் தலைகள் புகழ் பெற்ற சேகரிப்பாளர்களால் காட்சிக்கு வைக்கப்படுகின்றன.\nஅனைத்து மாணவர்கள், ஆசிரியர்கள், பொதுமக்கள் இலவசமாகப் பார்வையிடலாம்.\nபள்ளி குழந்தைகளுக்காக 3-டி காட்சி, நடமாடும் கோளரங்கம், கலை நிகழ்ச்சி, ஆன் ஸ்பாட் விளையாட்டுகள் ஏற்பாடு செய்யப்பட்டுள்ளன.\n\n📍 இடம்: திண்டல், ஆலயமணி மகால், ஈரோடு மாவட்டம்\n🗓️ நாள்: நவம்பர் 25, 26\n🎟️ அனுமதி: இலவசம் (அனைவருக்கும்)\n\nErode stamp exhibition Thindal Nov 25-26 | Erode news\n📍 திண்டல், ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Thindal #ErodeNews #ஈரோடு",
-   "prompts": "A group of students in Tamil Nadu school uniform stands in a hall at Aalayamani Mahal in Thindal, Erode, seen from behind, looking at glass display cases lined along the walls. Inside the cases are old and rare postage stamps, mounted on velvet boards and lit by warm overhead tube lights. Two or three teachers in saree and shirt stand beside the students, pointing at the displays. Along the far side of the hall, a white inflatable dome for a mobile planetarium and a small stall with a 3-D viewing set are visible, showing that the children's attractions are part of the exhibition. The room is bright and daytime-clear, with a few visitors moving between the stalls. Shot at eye level on a 35 mm lens, wide enough to show the full hall, the cases and the planetarium dome together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an open glass display case inside the exhibition hall, showing rows of old, rare postage stamps on a dark velvet tray, each stamp with a faded colour and a serrated edge, arranged neatly with small framed cards beneath them. Two hands of a visitor, one in a sleeve of a school uniform shirt, rest lightly on the glass edge at the bottom of the frame. Warm indoor light from above catches the glass and the stamp surfaces. In the soft blur behind, a few people in shirts, sarees and school uniforms walk past the other cases. No readable text, labels or signs are visible. Shot at a close, slightly high angle on a 35 mm lens to make the rare stamps the clear focus of the picture. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/postage-stamp-exhibition/4376637",
-   "published": "2026-11-15T06:15:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article says the exhibition is on 25 and 26 (of an unspecified month), but the draft states the month as November (நவம்பர்) in the tamil_headline, reel_script and caption; the article gives no month, so this is an invented detail.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744745/erode360/y6vnkderiokhfcgjruti.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744749/erode360/amjofitwmksuikwnpknu.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அத்தியாவசிய பொருட்கள் இருப்பு வரம்பு: துவரம் பருப்பு, உளுந்து, அரிசி, நெல், சர்க்கரைக்கு கட்டுப்பாடு",
-   "english_headline": "Essential goods stock limits in force; Erode Collector says a committee will monitor stock levels",
-   "category": "Government & Services",
-   "location": "Erode district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அரசு அறிவிப்பு",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "அத்தியாவசிய பொருட்களுக்கு இருப்பு வரம்பு",
-    "hl2": "16க்குள் சரி செய்ய வேண்டும்",
-    "slides": [
-     {
-      "title": "எவை வரம்பில்?",
-      "lines": [
-       "துவரம் பருப்பு, உளுந்து, அரிசி, நெல், சர்க்கரை",
-       "அரசு நிர்ணயித்த இருப்பு வரம்பு இவற்றுக்கு உண்டு",
-       "விலையைக் கட்டுப்படுத்தவும் பதுக்கலைத் தவிர்க்கவும் நடவடிக்கை"
-      ]
-     },
-     {
-      "title": "எவ்வளவு இருப்பு?",
-      "lines": [
-       "தனி நபர், நிறுவனங்கள், மொத்த வணிகர்: பருப்பு தலா <b>200 டன்</b>",
-       "தனி நபர், நிறுவனங்கள், மொத்த வணிகர்: அரிசி, நெல் <b>2,000 டன்</b>",
-       "சில்லறை வணிகர்: பருப்பு <b>5 டன்</b>, அரிசி, நெல் <b>8 டன்</b>"
-      ]
-     },
-     {
-      "title": "எப்போது வரை?",
-      "lines": [
-       "துவரம் பருப்பு, உளுந்தம் பருப்புக்கு அடுத்த மூன்று மாதங்கள்",
-       "அரிசி, நெல்லுக்கு <b>ஜனவரி 31</b> வரை",
-       "இருப்பை <b>16ஆம் தேதிக்குள்</b> சரி செய்ய வேண்டும்"
-      ]
-     },
-     {
-      "title": "புகார் செய்ய",
-      "lines": [
-       "விவசாயிகளின் சொந்த விளைபொருட்களுக்குப் பாதிப்பு இல்லை",
-       "கண்காணிக்க மாவட்ட வழங்கல் அலுவலர் தலைமையில் குழு",
-       "புகார்: <b>1967</b>, <b>1800 425 5901</b>"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டத்தில் அத்தியாவசிய பொருட்களுக்கு இருப்பு வரம்பு நிர்ணயிக்கப்பட்டுள்ளது. துவரம் பருப்பு, உளுந்து, அரிசி, நெல், சர்க்கரை உள்ளிட்ட பொருட்களை குறிப்பிட்ட அளவில் மட்டுமே இருப்பு வைக்க வேண்டும் என்று கலெக்டர் கந்தசாமி தெரிவித்துள்ளார். மாநிலத்தில் விலையைக் கட்டுப்பாட்டில் வைக்கவும், பதுக்கலைத் தவிர்க்கவும், ரேஷனில் தடையின்றி வழங்கவும் அரசு நடவடிக்கை எடுத்துள்ளது. 13ம் தேதி முதல் அடுத்த மூன்று மாதங்களுக்கு துவரம் பருப்பு, உளுந்தம் பருப்புக்கு இந்த நடைமுறை அமலில் இருக்கும். அரிசி, நெல்லுக்கு ஜனவரி 31 வரை இந்த நடைமுறை அமலில் இருக்கும். தனி நபர், நிறுவனங்கள், மொத்த வணிகர்களுக்கு துவரம் பருப்பு, உளுந்தம் பருப்பு தலா 200 டன்; அரிசி, நெல் 2,000 டன் என வரம்பு நிர்ணயிக்கப்பட்டுள்ளது. சில்லறை வணிகர்களுக்கு பருப்பு 5 டன், அரிசி, நெல் 8 டன். இருப்பு வரம்பை 16ஆம் தேதிக்குள் சரி செய்ய வேண்டும். இதைக் கண்காணிக்க மாவட்ட வழங்கல் அலுவலர் தலைமையில் குழு அமைக்கப்பட்டுள்ளது. விவசாயிகள் தங்கள் சொந்த விளைபொருட்களை இருப்பு வைத்து விற்பனை செய்வதில் பாதிப்பு இருக்காது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛒 ஈரோட்டில் அத்தியாவசிய பொருட்களுக்கு இருப்பு வரம்பு நிர்ணயம்\n\n📰 முழு விவரம்:\nஈரோடு கலெக்டர் கந்தசாமி, துவரம் பருப்பு, உளுந்து, அரிசி, நெல், சர்க்கரை உள்ளிட்ட அத்தியாவசிய பொருட்களை குறிப்பிட்ட அளவில் மட்டுமே இருப்பு வைக்க வேண்டும் என்று செய்திக்குறிப்பில் தெரிவித்துள்ளார். மாநிலத்தில் விலையைக் கட்டுப்பாட்டில் வைக்கவும், பதுக்கலைத் தவிர்க்கவும், ரேஷனில் தடையின்றி வழங்கவும் நடவடிக்கை எடுக்கப்படுகிறது.\n📅 13ம் தேதி முதல் அடுத்த மூன்று மாதங்களுக்கு துவரம் பருப்பு, உளுந்தம் பருப்புக்கும், ஜனவரி 31 வரை அரிசி, நெல்லுக்கும் இந்த நடைமுறை அமலில் இருக்கும்.\n⚖️ தனி நபர், நிறுவனங்கள், மொத்த வணிகர்களுக்கு பருப்பு தலா 200 டன், அரிசி, நெல் 2,000 டன். சில்லறை வணிகர்களுக்கு பருப்பு 5 டன், அரிசி, நெல் 8 டன்.\n⏰ இருப்பு வரம்பை 16ஆம் தேதிக்குள் சரி செய்ய வேண்டும்.\n👮 இதைக் கண்காணிக்க மாவட்ட வழங்கல் அலுவலர் தலைமையில் குழு அமைக்கப்பட்டுள்ளது.\n🌾 விவசாயிகள் தங்கள் சொந்த விளைபொருட்களை இருப்பு வைத்து விற்பனை செய்வதில் பாதிப்பு இருக்காது.\n📞 புகார்: 1967, 1800 425 5901 அல்லது மாவட்ட வழங்கல் அலுவலர், வட்ட வழங்கல் அலுவலரிடம் தெரிவிக்கலாம்.\n\nErode essential goods stock limits | Erode news\n📍 ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #அத்தியாவசியபொருட்கள்",
-   "prompts": "A district supply officer in a crisp shirt stands with two officials beside a stacked wall of rice and dal sacks inside a government godown in Erode district, reviewing a stock register on a clipboard. The godown is a plain concrete hall with tall steel shutters half open to daylight, pallets of gunny bags piled high, a few loose paddy heaps on the floor, and a tin roof with fluorescent tube lights. The officials are seen from behind or in soft focus, wearing shirts and trousers, one holding a bundle of papers, while a shopkeeper in a veshti waits near the open shutter. Daylight from the doorway, calm working atmosphere, camera at eye level with a 35 mm lens, wide enough to show the full stacked storage hall and the officials at work. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of gunny sacks of toor dal and urad dal with rice bags beside them in a government godown, a clipboard with a stock register resting on top, and a folded official press note lying on the sack. Only the sacks, grains spilling slightly from one bag, the rough hessian texture and the concrete floor are visible, with no readable text on the sacks or papers. Soft daylight from a side window, shallow depth of field, camera slightly high at around 35 mm to show the neat rows of stored goods clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/committee-to-monitor-the-availability-of-essential-commodities-collectors-information/4376633",
-   "published": "2026-11-15T06:12:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744758/erode360/jfaezx1qp4nx57k3jrqa.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744779/erode360/x4en5psycndmny3q9gd0.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் நிச்சயித்த பெண்ணை விட்டுக் காதலியை மணந்த வாலிபர்",
-   "english_headline": "Erode: Man marries his girlfriend after calling off wedding fixed with another woman; families clash at police stations",
-   "category": "Crime & Safety",
-   "location": "Erode city, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சமூகச் செய்தி",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் நிச்சயித்த திருமணம் ரத்து",
-    "hl2": "காதலியை மணந்த வாலிபர்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "குமாரபாளையம் வாலிபர் காதலியை மணந்தார்",
-       "இன்று நடக்கவிருந்த திருமணம் நின்றது",
-       "நிச்சயம் அக். <b>16</b>ஆம் தேதி செய்யப்பட்டது"
-      ]
-     },
-     {
-      "title": "யார் யார்?",
-      "lines": [
-       "மோகனசுந்தரம், <b>29</b> வயது கூலித் தொழிலாளி",
-       "ஈரோட்டைச் சேர்ந்த <b>25</b> வயது பெண்ணுடன் நிச்சயம்",
-       "காதலி ஹர்ஷவர்த்தி, <b>25</b> வயது"
-      ]
-     },
-     {
-      "title": "போலீஸ் நிலையம்",
-      "lines": [
-       "திருச்செங்கோடு மகளிர் போலீஸ் நிலையத்தில் தஞ்சம்",
-       "மணமகள் குடும்பத்தினர் ஈரோடு நிலையத்தில் புகார்",
-       "புகார் ஏற்கப்படாததால் மணமகள் தர்ணா செய்தார்"
-      ]
-     },
-     {
-      "title": "இறுதியில்",
-      "lines": [
-       "திருச்செங்கோடு செல்லுமாறு போலீசார் கூறினர்",
-       "அனைவரும் திரும்பிச் சென்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு அருகே நிச்சயித்த பெண்ணை விட்டுவிட்டு, காதலியை மணந்த வாலிபர் பரபரப்பை ஏற்படுத்தியுள்ளார். இன்று நடக்கவிருந்த திருமணம் நின்றுபோனது. நாமக்கல் மாவட்டம் குமாரபாளையம், பெருமாபாளையத்தைச் சேர்ந்த மோகனசுந்தரம், 29 வயது கூலித் தொழிலாளி. ஈரோட்டைச் சேர்ந்த 25 வயது பெண்ணுடன் அக்டோபர் 16ஆம் தேதி நிச்சயம் செய்யப்பட்டது. திருமண ஏற்பாடுகளும் நடந்திருந்தன. ஆனால், குமாரபாளையத்தைச் சேர்ந்த தனது காதலி ஹர்ஷவர்த்தியை, 25 வயது, நேற்று மோகனசுந்தரம் காதல் திருமணம் செய்தார். இருவரும் திருச்செங்கோடு அனைத்து மகளிர் போலீஸ் நிலையத்தில் பாதுகாப்பு கோரி தஞ்சம் அடைந்தனர். தகவல் அறிந்த மணமகள் குடும்பத்தினர் நேற்று மாலை ஈரோடு அனைத்து மகளிர் போலீஸ் நிலையத்தில் புகார் அளிக்கச் சென்றனர். போலீசார் புகாரை ஏற்காததால், மணமகள் ஸ்டேஷன் முன் தர்ணாவில் ஈடுபட்டார். திருச்செங்கோடு நிலையத்தில் புகார் அளிக்குமாறு மகளிர் போலீசார் கூறியதால் அனைவரும் திரும்பிச் சென்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💔 ஈரோட்டில் நிச்சயித்த பெண்ணை விட்டு காதலியை மணந்த வாலிபர் – இன்று நடக்கவிருந்த திருமணம் நின்றது\n\n📰 முழு விவரம்:\nநாமக்கல் மாவட்டம் குமாரபாளையம், பெருமாபாளையத்தைச் சேர்ந்த மோகனசுந்தரம், 29 வயது கூலித் தொழிலாளி. ஈரோட்டைச் சேர்ந்த 25 வயது பெண்ணுடன் அக். 16ஆம் தேதி நிச்சயம் செய்யப்பட்டது. இன்று (நவ. 15) திருமணம் நடக்கவிருந்தது; ஏற்பாடுகளும் நடந்தன.\nஆனால் குமாரபாளையத்தைச் சேர்ந்த தனது காதலி ஹர்ஷவர்த்தியை, 25 வயது, நேற்று மோகனசுந்தரம் காதல் திருமணம் செய்தார். இருவரும் திருச்செங்கோடு அனைத்து மகளிர் போலீஸ் நிலையத்தில் பாதுகாப்பு கோரித் தஞ்சம் அடைந்தனர்.\nதகவல் அறிந்த மணமகள் குடும்பத்தினர் நேற்று மாலை ஈரோடு அனைத்து மகளிர் போலீஸ் நிலையத்தில் புகார் அளிக்கச் சென்றனர். புகாரை போலீசார் ஏற்காததால், ஸ்டேஷன் முன் மணமகள் தர்ணாவில் ஈடுபட்டார்.\nதிருச்செங்கோடு அனைத்து மகளிர் போலீஸ் நிலையத்தில் புகார் அளிக்குமாறு மகளிர் போலீசார் தெரிவித்ததால், அனைவரும் திரும்பிச் சென்றனர்.\n\nErode man marries girlfriend after calling off fixed wedding | Erode news\n📍 ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு",
-   "prompts": "A group of relatives in sarees and shirts stands outside the gate of an all-women police station in Erode city, the front of a low-rise government building in the background, with a khaki-uniformed woman police constable standing at the entrance. A young bride in a red and gold silk saree sits on the ground in protest in front of the station steps while onlookers, seen from behind and at a distance, watch. Two-wheelers and an autorickshaw are parked on the road outside the compound wall. Early evening, soft warm light, eye-level camera at 35 mm wide enough to show the station building, the gate and the street, faces turned away or far off, no readable signboards. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden bench or plastic chairs in a police station waiting area, with a small folded complaint paper and a few loose papers on a desk beside a woman police constable's khaki sleeve, blurred in the background. A pair of women's sandals lies on the floor near a bundle of red and gold bangles and a silk saree border, suggesting a standoff. Indoor fluorescent light mixed with late-evening daylight from a window, shallow depth of field, camera at table height at 35 mm, no readable text or names on any papers. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/young-man-abandons-fiance-catches-hold-of-girlfriend/4376649",
-   "published": "2026-11-15T06:26:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: known issue meta_article: cards talks about the article instead of the news ('தகவல் இல்லை') - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744785/erode360/cplzoejlz5iyeji06iic.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794744804/erode360/ihdn0w2vyswp9ufoy4c6.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794774882/erode360/tltdnrs0h9akn4fa31ev.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794774900/erode360/x7bwsgch1zdroytezkfb.jpg"
    ]
   }
  ]
