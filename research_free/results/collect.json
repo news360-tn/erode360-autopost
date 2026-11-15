@@ -1,115 +1,103 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 33 recent posts read from the page",
+  "instagram check: 37 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/power-outage-tomorrow-arachaloor-kasturiba-gramam",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/தொடா்ந்து-பெய்த-மழையால்-பசுமைக்கு-மாறிய-கடம்பூா்-மலைப்-பகுதி",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/கோபி-அருகே-காா்-மோதி-முதியவா்-உயிரிழப்பு",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/மாடியிலிருந்து-மயங்கி-விழுந்த-இளம்பெண்-உயிரிழப்பு",
-  "candidate filter: collected=4",
-  "to write: 4 Erode district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Erode; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/பலன்-அளிக்காத-கட்டமைப்புகள்-போக்குவரத்து-நெரிசலால்-பரிதவிக்கும்-ஈரோடு-மக்கள்",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/சத்தியமங்கலம்-மாா்க்கெட்டில்-மல்லிகைப்-பூ-கிலோ-ரூ1600-க்கு-விற்பனை",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/on-the-final-day-of-kanda-sashti-four-wheeled-vehicles-are-prohibited-from-using-the-hill-route-to-reach-the-chennimalai-murugan-temple",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/misbehaviour---threatened-widow--complaint/4375780",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/loan-disbursement-of-rs272-crores-in-co-operative-bank/4375782",
+  "candidate filter: collected=5",
+  "to write: 5 Erode district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "real photo from the source (Dinamalar) for 'Land dispute near Arachalur: Woman lodge'",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min",
-  "filed: 4 Erode district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
+  "filed: 5 Erode district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (23s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (17s)",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (47s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "ok groq/openai/gpt-oss-120b (6s)",
+  "ok gemini/gemini-3.6-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (4s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
@@ -117,246 +105,315 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கொடுமுடியில் மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழப்பு",
-   "english_headline": "23-year-old woman dies after fainting and falling from rooftop in Sultanpettai near Kodumudi",
+   "tamil_headline": "அரச்சலூர் அருகே நிலப் பிரச்சனை: பெண்ணுக்கு மிரட்டல் – எஸ்.பி. அலுவலகத்தில் புகார்",
+   "english_headline": "Land dispute near Arachalur: Woman lodges complaint at Erode SP office alleging threat and harassment",
    "category": "Crime & Safety",
-   "location": "Kodumudi, Erode district",
+   "location": "Veerappampalayam Kallikkadu near Arachalur, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சோகச் சம்பவம்",
-    "loc": "கொடுமுடி",
-    "hl1": "கொடுமுடியில் 23 வயது பெண் பலி",
-    "hl2": "மாடியில் மயங்கி விழுந்தார்",
+    "cat": "காவல் புகார்",
+    "loc": "அரச்சலூர், ஈரோடு",
+    "hl1": "அரச்சலூர் அருகே நிலப் பிரச்சனை",
+    "hl2": "எஸ்.பி. அலுவலகத்தில் புகார்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன பிரச்சனை?",
       "lines": [
-       "கொடுமுடி சுல்தான்பேட்டையைச் சேர்ந்த <b>23 வயது</b> பெண்",
-       "வீட்டின் மாடிக்குச் சென்றபோது மயங்கி கீழே விழுந்தார்",
-       "சேலம் மருத்துவமனையில் சிகிச்சை பலனின்றி பலி"
+       "வீரப்பம்பாளையம் கள்ளிக்காட்டை சேர்ந்த <b>42 வயது</b> பெண்",
+       "நிலம் தருவதாகக் கூறி ஒரு நபர் மிரட்டல்",
+       "தகாத முறையில் நடக்க முயன்றதாகக் குற்றச்சாட்டு"
       ]
      },
      {
-      "title": "பின்னணி என்ன?",
+      "title": "நிலப் பின்னணி",
       "lines": [
-       "<b>6 ஆண்டுகளுக்கு</b> முன் திருமணம், <b>2 குழந்தைகள்</b> உள்ளனர்",
-       "<b>3 ஆண்டுகள்</b> முன் இருசக்கர வாகன விபத்தில் தலையில் காயம்",
-       "அதன்பின் அடிக்கடி மயக்கம் ஏற்படும் நிலை இருந்தது"
+       "<b>ரூ.75,000</b> பெற்றுக்கொண்டு <b>4 சென்ட்</b> இடம்",
+       "தருவதாகத் தந்தை கூறியதாக நபர் உரிமைக் கோரல்",
+       "தந்தை, கணவர் இறந்துவிட்ட நிலையில் தொடர் தொல்லை"
       ]
      },
      {
-      "title": "போலீஸ் விசாரணை",
+      "title": "நடவடிக்கை",
       "lines": [
-       "வெள்ளிக்கிழமை மாடியில் மயங்கி விழுந்த சம்பவம்",
-       "ஈரோடு, சேலம் அரசு மருத்துவமனைகளில் சிகிச்சை",
-       "தந்தை புகாரின் பேரில் கொடுமுடி காவல்துறை விசாரணை"
+       "கடந்த <b>அக்டோபர் 31</b>-ல் அரச்சலூர் காவல் நிலையத்தில் புகார்",
+       "நடவடிக்கை இல்லாததால் மிரட்டல் தொடர்வதாகக் தகவல்",
+       "ஈரோடு எஸ்.பி. அலுவலகத்தில் நேற்று மனு அளிப்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கொடுமுடி அருகே வீட்டின் மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழந்தார். ஈரோடு மாவட்டம் கொடுமுடி சுல்தான்பேட்டையில் இந்தச் சம்பவம் நடந்துள்ளது. 23 வயது பெண் ஒருவருக்கு 6 ஆண்டுகளுக்கு முன் திருமணம் ஆகி 2 குழந்தைகள் உள்ளனர். கடந்த 3 ஆண்டுகளுக்கு முன் இருசக்கர வாகன விபத்தில் இவருக்கு தலையில் காயம் ஏற்பட்டது. இதனால் இவருக்கு அடிக்கடி மயக்கம் ஏற்படுவது வழக்கமாக இருந்தது. இந்நிலையில் வெள்ளிக்கிழமை வீட்டின் மாடிக்குச் சென்றபோது மயங்கி கீழே விழுந்தார். உறவினர்கள் அவரை மீட்டு ஈரோடு அரசு மருத்துவமனைக்குக் கொண்டு சென்றனர். பின்னர் மேல் சிகிச்சைக்காக சேலம் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்க்கப்பட்டார். அங்கு அவர் சிகிச்சைப் பலனின்றி உயிரிழந்தார். இது குறித்து பெண்ணின் தந்தை கொடுத்த புகாரின் பேரில் கொடுமுடி காவல்துறையினர் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கொடுமுடியில் சோகம்: மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழப்பு\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் கொடுமுடி சுல்தான்பேட்டையில் 23 வயது பெண் வீட்டின் மாடியிலிருந்து மயங்கி கீழே விழுந்து உயிரிழந்தார். இவருக்கு 6 ஆண்டுகளுக்கு முன் திருமணமாகி 2 குழந்தைகள் உள்ளனர்.\n3 ஆண்டுகளுக்கு முன் நடந்த இருசக்கர வாகன விபத்தில் தலையில் காயம் ஏற்பட்டதால், அவருக்கு அடிக்கடி மயக்கம் ஏற்பட்டு வந்தது. வெள்ளிக்கிழமை வீட்டின் மாடிக்குச் சென்றபோது மயங்கி கீழே விழுந்தார்.\nஉறவினர்கள் அவரை ஈரோடு அரசு மருத்துவமனைக்குக் கொண்டு சென்றனர். பின்னர் சேலம் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் அனுமதிக்கப்பட்ட அவர் சிகிச்சை பலனின்றி உயிரிழந்தார்.\nஇது குறித்து பெண்ணின் தந்தை அளித்த புகாரின் பேரில் கொடுமுடி காவல்துறையினர் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: சுல்தான்பேட்டை, கொடுமுடி, ஈரோடு மாவட்டம்\n🗓️ நாள்: வெள்ளிக்கிழமை (சம்பவம்)\n👮 நடவடிக்கை: கொடுமுடி காவல்துறையினர் விசாரணை\n\nKodumudi Sultanpettai woman faints and falls from terrace dies | Erode news\n📍 கொடுமுடி, ஈரோடு | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Kodumudi #ErodeNews #ஈரோடு",
-   "prompts": "A woman in a simple salwar‑saree, seen from behind, collapses on the tiled rooftop of a modest house, her body tilting forward as she loses consciousness. PLACE: The scene is on the flat roof of a typical residential home in Sultanpettai, a neighbourhood of Kodumudi, with the surrounding houses and a narrow lane visible in the background. PEOPLE: Below, a few relatives stand at the edge of the roof, their backs to the camera, reaching out with hands raised, while two police officers in khaki uniforms stand a short distance away, observing. VEHICLES/OBJECTS: The house’s concrete walls, a rusted metal railing along the roof edge, and a small torn cloth bag lying on the tiles hint at the fall. TIME+LIGHT+WEATHER: Late morning daylight casts clear shadows; the sky is clear. CAMERA: Eye‑level shot, 35 mm lens, wide enough to capture the rooftop, the falling figure, and the onlookers below. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up of the rooftop’s edge shows a rusted metal railing with a small torn cloth bag draped over the tiles, the bag’s fabric slightly stained, suggesting it fell with the victim. PLACE: The same residential rooftop in Sultan Pettai, Kodumudi, with the house’s corrugated roof and a glimpse of the neighboring homes in the blurred background. PEOPLE: No people are in frame, focusing attention on the object that tells the story. VEHICLES/OBJECTS: The metal railing, the torn bag, and the cracked tiles are the only visible items, emphasizing the point of impact. TIME+LIGHT+WEATHER: Bright daylight highlights the texture of the metal and fabric, with no rain or shadows obscuring details. CAMERA: Slightly high angle, 35 mm lens, tight framing to isolate the railing and bag as the decisive detail of the incident. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/மாடியிலிருந்து-மயங்கி-விழுந்த-இளம்பெண்-உயிரிழப்பு",
-   "published": "2026-11-14T19:16:11.085Z",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "அரச்சலூர் அருகே நிலப் பிரச்சனையால் பெண்ணை மிரட்டிய நபர் மீது நடவடிக்கை எடுக்கக் கோரி மனு அளிக்கப்பட்டுள்ளது. ஈரோடு மாவட்டம் அரச்சலூர் அருகே உள்ள வீரப்பம்பாளையம் கள்ளிக்காடு பகுதியைச் சேர்ந்த 42 வயது பெண் ஒருவர் நேற்று ஈரோடு மாவட்ட காவல் கண்காணிப்பாளர் அலுவலகத்தில் மனு அளித்தார். தனது மறைந்த தந்தை அதே பகுதியைச் சேர்ந்த ஒரு நபரிடம் 4 சென்ட் நிலம் தருவதாகக் கூறி 75,000 ரூபாய் பெற்றதாக அந்த நபர் கூறி வருகின்றார். மேலும் வீட்டிற்கு வந்து மிரட்டல் விடுத்து, தகாத முறையிலும் நடக்க முயன்றதாக அந்தப் பெண் குற்றம் சாட்டியுள்ளார். கணவர் மற்றும் தந்தை இறந்த நிலையில், 12 வயது மகன் மற்றும் தம்பியுடன் வசித்து வரும் அந்தப் பெண்ணுக்கு இந்தத் தொல்லை தொடர்ந்து வருகிறது. இது குறித்து கடந்த அக்டோபர் 31ஆம் தேதி அரச்சலூர் காவல் நிலையத்தில் புகார் அளித்தும் நடவடிக்கை எடுக்கப்படவில்லை என்று கூறப்படுகிறது. இதனால் மிரட்டல் தொடர்வதால் உரிய விசாரணை நடத்தி நடவடிக்கை எடுக்க வேண்டும் என காவல் கண்காணிப்பாளர் அலுவலகத்தில் கோரிக்கை வைக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அரச்சலூர் அருகே நிலப் பிரச்சனையால் பெண்ணுக்கு மிரட்டல் – எஸ்.பி. அலுவலகத்தில் புகார்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் அரச்சலூர் அருகே உள்ள வீரப்பம்பாளையம் கள்ளிக்காடு பகுதியைச் சேர்ந்த 42 வயது பெண் ஒருவர் ஈரோடு எஸ்.பி. அலுவலகத்தில் மனு அளித்துள்ளார். அதில், தனது மறைந்த தந்தை அதே பகுதியைச் சேர்ந்த ஒரு நபரிடம் 4 சென்ட் நிலம் தருவதாகக் கூறி ரூ.75,000 பெற்றதாகக் கூறி, அந்த நபர் வீட்டிற்கு வந்து மிரட்டுவதாகவும், தகாத முறையில் நடக்க முயன்றதாகவும் தெரிவித்துள்ளார்.\n\nகணவர் மற்றும் தந்தை இறந்துவிட்ட நிலையில், 12 வயது மகன் மற்றும் தம்பியுடன் வசித்து வரும் நிலையில் இந்தத் தொல்லை தொடர்கிறது. கடந்த அக்டோபர் 31-ல் அரச்சலூர் காவல் நிலையத்தில் புகார் அளித்தும் நடவடிக்கை இல்லை எனக் கூறி, உரிய நடவடிக்கை எடுக்க வலியுறுத்தியுள்ளார்.\n\n📍 இடம்: வீரப்பம்பாளையம் கள்ளிக்காடு, அரச்சலூர் அருகே, ஈரோடு மாவட்டம்\n🗓️ நாள்: 14 நவம்பர் 2026\n👮 நடவடிக்கை: ஈரோடு எஸ்.பி. அலுவலகத்தில் மனு அளிப்பு\nℹ️ மக்கள் கவனத்திற்கு: உரிய விசாரணை நடத்த நடவடிக்கை கோரிக்கை\n\nArachalur land dispute Erode woman complaint at SP office | Erode news\n📍 வீரப்பம்பாளையம், ஈரோடு | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Arachalur #ErodeNews #ஈரோடு",
+   "prompts": "A woman in her forties in a plain cotton saree stands at the front counter of the Erode district Superintendent of Police office, holding a folded written petition in both hands as she hands it to a Tamil Nadu police constable in khaki uniform seated behind a wooden desk. The setting is a government office in Erode city with a tiled floor, a tall grille window, a row of plastic chairs along the wall, and a few other citizens waiting quietly in line seen from behind. Daylight comes through the windows, and a ceiling fan turns overhead. The camera is at eye level, 35 mm, wide enough to show the counter, the police officer, and the waiting room, with faces kept turned away or blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of paper documents tied with a faded red cloth, lying on a wooden desk in a police office, with a hand in a sari sleeve gently resting a folded written petition on top. Beside it, a plain steel tumbler of water and a pen rest on the desk, and a blurred police khaki uniform sleeve appears at the edge of the frame. Behind, out of focus, a grey filing cabinet and tube light fixture. Soft daylight from a window falls across the papers. The camera is slightly high, 35 mm, focused on the petition and the handwritten land documents, with no readable text or names visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/misbehaviour---threatened-widow--complaint/4375780",
+   "published": "2026-11-14T06:37:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft gemini/gemini-3.6-flash + proofread groq/qwen/qwen3.8-27b, 1 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686877/erode360/rsc3crzg7jnunnhjtaey.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686880/erode360/nydndqegbnjbp0yqyfpa.jpg"
-   ]
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700777/erode360/t8pbwtpy5xhg2yfyz4iu.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700777/erode360/nixnmhl4gs71b8dev6oa.jpg"
+   ],
+   "real_photo": "Dinamalar"
   },
   {
-   "tamil_headline": "கடம்பூர் மலைப் பகுதியில் தொடர் மழை: வறட்சி நீங்கி பசுமையான கிராமங்கள்",
-   "english_headline": "Continuous rain turns Kadambur hill area green; 5,000 acres of maize crop thriving, harvest expected after two more rains",
-   "category": "Weather & Agriculture",
-   "location": "Kadambur hill area, Sathyamangalam Tiger Reserve, Sathyamangalam taluk, Erode district",
-   "importance": "Medium",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேளாண்மை",
-    "loc": "கடம்பூர் மலை, சத்தியமங்கலம்",
-    "hl1": "கடம்பூர் மலை பசுமைக்கு மாறியது",
-    "hl2": "5,000 ஏக்கரில் மக்காச்சோளம்",
-    "slides": [
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "சத்தியமங்கலம் புலிகள் காப்பகத்துக்குள்பட்ட கடம்பூர்",
-       "50-க்கும் மேற்பட்ட கிராமங்களில் வறட்சி நீங்கியது",
-       "பச்சைப்பசேல் என பசுமையாக காட்சியளிக்கிறது"
-      ]
-     },
-     {
-      "title": "என்ன பயிர்?",
-      "lines": [
-       "விவசாயிகள் மானாவாரியாக மக்காச்சோளம் பயிரிட்டுள்ளனர்",
-       "சுமார் <b>5,000 ஏக்கர்</b> பரப்பில் பயிர்கள் நன்கு செழித்து",
-       "தொடர் மழையால் பயிர்கள் நன்கு வளர்ந்தன"
-      ]
-     },
-     {
-      "title": "அறுவடை எப்போது?",
-      "lines": [
-       "இன்னும் <b>இரண்டு மழை</b> பெய்தால் அறுவடைக்குத் தயாராகும்",
-       "மலைக் கிராம விவசாயிகள் மகிழ்ச்சி தெரிவித்துள்ளனர்",
-       "மழை தொடர வேண்டும் என எதிர்பார்ப்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கடம்பூர் மலைப் பகுதியில் தொடர் மழையால் வறட்சி நீங்கி பசுமை திரும்பியுள்ளது. சத்தியமங்கலம் புலிகள் காப்பகத்துக்குள்பட்ட கடம்பூர் மலைப் பகுதியில் உள்ள 50-க்கும் மேற்பட்ட கிராமங்களில் இந்த நிலை காணப்படுகிறது. இங்கு வசிக்கும் விவசாயிகள் மழை பெய்ததால் தங்கள் நிலத்தில் மானாவாரியாக மக்காச்சோளம் பயிரிட்டுள்ளனர். தொடர் மழையால் சுமார் 5,000 ஏக்கர் பரப்பில் பயிரிடப்பட்டுள்ள மக்காச்சோளப் பயிர்கள் நன்கு செழித்து வளர்ந்துள்ளன. இதனால் மலைப் பகுதியில் கண்ணுக்கு எட்டும் தூரம் வரை பச்சைப்பசேல் என பசுமையாகக் காட்சியளிக்கிறது. இன்னும் இரண்டு மழை பெய்தால் மக்காச்சோளப் பயிர் அறுவடைக்குத் தயாராகும் என மலைக் கிராம விவசாயிகள் மகிழ்ச்சி தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌽 கடம்பூர் மலைப் பகுதியில் தொடர் மழை: வறட்சி நீங்கி பசுமையான கிராமங்கள்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம், சத்தியமங்கலம் புலிகள் காப்பகத்துக்குள்பட்ட கடம்பூர் மலைப் பகுதியில் தொடர் மழை பெய்ததால் கிராமங்களில் வறட்சி நீங்கி பசுமையாகக் காணப்படுகிறது.\nஅங்குள்ள 50-க்கும் மேற்பட்ட கிராமங்களில் வசிக்கும் விவசாயிகள் மானாவாரியாக மக்காச்சோளம் பயிரிட்டுள்ளனர்.\nசுமார் 5,000 ஏக்கர் பரப்பில் பயிரிடப்பட்டுள்ள மக்காச்சோளப் பயிர்கள் நன்கு செழித்து வளர்ந்துள்ளன.\nமலைப் பகுதியில் கண்ணுக்கு எட்டும் தூரம் வரை பச்சைப்பசேல் என பசுமை காட்சியளிக்கிறது.\nஇன்னும் இரண்டு மழை பெய்தால் மக்காச்சோளம் அறுவடைக்குத் தயாராகும் என மலைக் கிராம விவசாயிகள் மகிழ்ச்சி தெரிவித்துள்ளனர்.\n\nKadambur hill maize crop green after rain | Erode news\n📍 கடம்பூர் மலை, சத்தியமங்கலம், ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #ErodeNews #ஈரோடு",
-   "prompts": "A hill farmer in a white veshti and shirt stands at the edge of a vast green maize field on the Kadambur hill slopes, looking over the lush plants stretching to the horizon. The setting is an open hillside inside the Sathyamangalam Tiger Reserve, with dense forest-covered hills behind and a few mud-and-tile village houses far below in the valley. Maize plants, around 5,000 acres of them, fill the frame in rows of deep green leaves, freshly washed by continuous rain, and the earth is damp and dark between the rows. The farmer is seen from behind, far away, and a few other farmers in turbans are scattered among the rows. It is a soft, cloudy morning after rain, with light mist hanging over the distant hills. Shot at eye level with a 35 mm lens, wide enough to show the full green sweep of the hills and the village below. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/தொடா்ந்து-பெய்த-மழையால்-பசுமைக்கு-மாறிய-கடம்பூா்-மலைப்-பகுதி",
-   "published": "2026-11-14T19:26:06.709Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('கடம்பூா் மலைப் பகுதியில் பெய்த தொடா் மழையால் கிராமங்களில் வற')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686909/erode360/uegugoxvgvbv2lgbeqai.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கோபி அருகே கார் மோதி முதியவர் உயிரிழப்பு",
-   "english_headline": "Elderly man killed after car hits him near Gobichettipalayam",
-   "category": "Crime & Safety",
-   "location": "Gobichettipalayam, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விபத்து",
-    "loc": "கோபி, ஈரோடு மாவட்டம்",
-    "hl1": "கோபி அருகே கார் மோதி முதியவர் உயிரிழப்பு",
-    "hl2": "சனிக்கிழமை இரவு நடந்தது",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கோபி அருகே கார் மோதியதில் <b>80 வயது</b> முதியவர் உயிரிழந்தார்",
-       "கவுண்டன்புதூரைச் சேர்ந்த பெருமாள் கோயில் காவலாளி",
-       "சனிக்கிழமை இரவு சாலையைக் கடக்க முயன்றபோது விபத்து"
-      ]
-     },
-     {
-      "title": "எங்கே நடந்தது?",
-      "lines": [
-       "கருங்கரடு பகுதியில், கோயிலுக்கு அருகில்",
-       "பேக்கரிக்குச் செல்ல சாலையைக் கடந்தபோது",
-       "காரை ஓட்டியவர் சவண்டப்பூரைச் சேர்ந்த சபரிகுபேந்திரன்"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "அக்கம்பக்கத்தினர் மீட்டு ஆம்புலன்ஸில் கோபி அரசு",
-       "மருத்துவர்கள் அவர் ஏற்கெனவே இறந்துவிட்டதாகக் கூறினர்",
-       "போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்துகின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கோபி அருகே கார் மோதியதில் 80 வயது முதியவர் உயிரிழந்தார். கவுண்டன்புதூர் பகுதியைச் சேர்ந்த பெருமாள் கோயில் காவலாளியாக வேலை பார்த்து வந்தார். சனிக்கிழமை இரவு கருங்கரடு பகுதியில் கோயிலுக்கு அருகில் உள்ள பேக்கரிக்குச் செல்ல சாலையைக் கடக்க முயன்றார். அப்போது சவண்டப்பூரைச் சேர்ந்த சபரிகுபேந்திரன் ஓட்டி வந்த கார் அவர் மீது மோதியது. பலத்த காயமடைந்த பெருமாளை அக்கம்பக்கத்தினர் மீட்டு ஆம்புலன்ஸ் மூலம் கோபி அரசு மருத்துவமனைக்கு அனுப்பினர். அங்கு பரிசோதித்த மருத்துவர்கள் அவர் ஏற்கெனவே இறந்துவிட்டதாகக் கூறினர். சடலம் உடற்கூறாய்வுக்கு அனுப்பப்பட்டது. இந்த விபத்து குறித்து கோபி போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கோபி அருகே கார் மோதி 80 வயது முதியவர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகோபி அருகே உள்ள கவுண்டன்புதூர் பகுதியைச் சேர்ந்த பெருமாள் (80 வயது), கோயிலில் காவலாளியாக வேலை பார்த்து வந்தார். சனிக்கிழமை இரவு கருங்கரடு பகுதியில் கோயிலுக்கு அருகில் உள்ள பேக்கரிக்குச் செல்ல சாலையைக் கடக்க முயன்றபோது, சவண்டப்பூரைச் சேர்ந்த சபரிகுபேந்திரன் ஓட்டி வந்த கார் அவர் மீது மோதியது. பலத்த காயமடைந்த அவரை அக்கம்பக்கத்தினர் மீட்டு ஆம்புலன்ஸ் மூலம் கோபி அரசு மருத்துவமனைக்கு அனுப்பினர். அங்கு மருத்துவர்கள் அவர் ஏற்கெனவே இறந்துவிட்டதாகக் கூறினர். சடலம் உடற்கூறாய்வுக்கு அனுப்பப்பட்டது.\n📍 இடம்: கருங்கரடு பகுதி, கோபி அருகே, ஈரோடு மாவட்டம்\n🗓️ நாள்: சனிக்கிழமை இரவு\n👮 நடவடிக்கை: கோபி போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nGobichettipalayam car accident elderly man dies | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
-   "prompts": "A Tamil Nadu police jeep stands with its headlights on at the edge of a night-time road in Gobichettipalayam, near a small temple with a gopuram in the background and a lit bakery shop front down the street. Two or three police officers in khaki uniform stand at a distance, seen from behind, while a few onlookers watch from the roadside. A white car is parked slightly off the road with its front pushed in, its damage kept in shadow. The road is dark tarmac with a painted centre line, shops on both sides of the street with their lights on, and a few two-wheelers parked near the footpath. It is late Saturday night with the streetlights and shop lights as the only light, and the air is quiet and still. The camera is at eye level, slightly high, a 35 mm wide view showing the whole street and temple, people kept small and far away. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/கோபி-அருகே-காா்-மோதி-முதியவா்-உயிரிழப்பு",
-   "published": "2026-11-14T19:15:19.573Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686916/erode360/pmx8jca3dwmvywzonowc.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அறச்சலூர், கஸ்தூரிபா கிராம பகுதிகளில் நாளை மின்தடை: காலை 9 முதல் பிற்பகல் 2 மணி வரை",
-   "english_headline": "Power cut tomorrow in Arachalur and Kasthuripa Gramam substation areas, 9 AM to 2 PM on Monday 16 November",
-   "category": "மின் தடை",
-   "location": "Arachalur and Kasthuripa Gramam substation areas, Erode district",
+   "tamil_headline": "சென்னிமலை முருகன் கோயில்: நவ. 15 மலைப் பாதையில் 4 சக்கர வாகனங்களுக்குத் தடை",
+   "english_headline": "Chennimalai Murugan temple: 4-wheelers barred from hill road on 15 Nov, closing day of Kanda Sashti",
+   "category": "Temples & Events",
+   "location": "Chennimalai, Erode district",
    "importance": "High",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மின் தடை",
-    "loc": "அறச்சலூர், கஸ்தூரிபா கிராமம்",
-    "hl1": "அறச்சலூர், கஸ்தூரிபா கிராமத்தில் நாளை",
-    "hl2": "காலை 9 – பிற்பகல் 2 மணி வரை",
+    "cat": "கோயில் அறிவிப்பு",
+    "loc": "சென்னிமலை",
+    "hl1": "சென்னிமலையில் 4 சக்கர",
+    "hl2": "நவ. 15 மலைப் பாதையில்",
     "slides": [
      {
       "title": "எப்போது?",
       "lines": [
-       "நாளை <b>16 நவம்பர்</b> (திங்கள்கிழமை)",
-       "காலை <b>9 மணி</b> முதல் பிற்பகல் <b>2 மணி</b> வரை",
-       "பராமரிப்புப் பணிகள் காரணமாக மின் விநியோகம் இருக்காது"
+       "ஞாயிற்றுக்கிழமை <b>நவ. 15</b> அன்று",
+       "கந்தசஷ்டி விழாவின் நிறைவு நாள்",
+       "சூரசம்ஹாரம் அன்று நடைபெறுகிறது"
       ]
      },
      {
-      "title": "கஸ்தூரிபா கிராமம்",
+      "title": "என்ன தடை?",
       "lines": [
-       "தொட்டி கிணத்துப்புதூர், தம்பிரான்வலசு, நல்லுத்தூப்பாளையம்",
-       "எடக்காட்டுவலசு, வாழைத்தோட்டவலசு, கொல்லன்வலசு, குமாரபாளையம்",
-       "சகாயபுரம், காசிபாளையம், கந்தசாமிபாளையம், தண்டாம்பாளையம்"
+       "மலைப் பாதை வழியாக கார், வேன் போன்ற <b>4 சக்கர வாகனங்களுக்கு</b> தடை",
+       "இருசக்கர வாகனங்கள் வழக்கம்போல அனுமதி",
+       "போக்குவரத்து நெரிசலைத் தவிர்க்க இந்த ஏற்பாடு"
       ]
      },
      {
-      "title": "மேலும் பகுதிகள்",
+      "title": "பக்தர்களுக்கு",
       "lines": [
-       "பெரிச்சிபாளையம், எலவநத்தம், ஞானபுரம், பி.ஜி.வலசு",
-       "வெங்கமேடு, கருமாண்டம்பாளையம், ஜெயராமபுரம், வடபழனி",
-       "புதுவலசு, கூத்தம்பட்டி, நாச்சிவலசு, சில்லாங்காட்டுப்புதூர்"
-      ]
-     },
-     {
-      "title": "அறச்சலூர்",
-      "lines": [
-       "ஊசிப்பாளையம், அறச்சலூர், தலவுமலை, சி.கே.பாளையம், வெலங்குட்டை",
-       "தச்சங்காட்டுவலசு, வடுகப்பட்டிபுதூர், கத்தக்கொடிகாடு",
-       "நடுப்பாளையம், பச்சாக்குட்டை, பத்தியம்பாளையம்புதூர்"
+       "கோயிலுக்குச் சொந்தமான <b>5 பேருந்துகள்</b> தொடர்ந்து இயக்கம்",
+       "திங்கள்கிழமை காலை <b>9 மணிக்கு</b> திருக்கல்யாண நிகழ்ச்சி",
+       "சென்னிமலை கைலாசநாதர் கோயிலில் நடைபெறும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அறச்சலூர் மற்றும் கஸ்தூரிபா கிராமம் பகுதிகளில் நாளை காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை மின் விநியோகம் இருக்காது. வரும் திங்கள்கிழமை, நவம்பர் 16ஆம் தேதி இந்த மின்தடை அமலுக்கு வரும். பராமரிப்புப் பணிகள் காரணமாக இந்த மின்தடை செய்யப்படுவதாக தெரிவிக்கப்பட்டுள்ளது. கஸ்தூரிபா கிராம துணை மின் நிலையத்திலிருந்து மின்சாரம் பெறும் தொட்டி கிணத்துப்புதூர், தம்பிரான்வலசு, நல்லுத்தூப்பாளையம், எடக்காட்டுவலசு, வாழைத்தோட்டவலசு, கொல்லன்வலசு, குமாரபாளையம், சகாயபுரம், காசிபாளையம், கந்தசாமிபாளையம், தண்டாம்பாளையம், சத்திரகாட்டுவலசு, பெரிச்சிபாளையம், எலவநத்தம், ஞானபுரம், பி ஜி வலசு, வெங்கமேடு, கருமாண்டம்பாளையம், ஜெயராமபுரம், வடபழனி, புதுவலசு, கூத்தம்பட்டி, நாச்சிவலசு, சில்லாங்காட்டுப்புதூர் பகுதிகளில் மின் விநியோகம் நிறுத்தப்படும். அறச்சலூர் துணை மின் நிலையத்திலிருந்து மின்சாரம் பெறும் ஊசிப்பாளையம், அறச்சலூர், தலவுமலை, சி கே பாளையம், வெலங்குட்டை, தச்சங்காட்டுவலசு, வடுகப்பட்டிபுதூர், கத்தக்கொடிகாடு, நடுப்பாளையம், பச்சாக்குட்டை, பத்தியம்பாளையம்புதூர் பகுதிகளிலும் மின் விநியோகம் இருக்காது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚡ அறச்சலூர், கஸ்தூரிபா கிராமத்தில் நாளை மின்தடை: காலை 9 – பிற்பகல் 2 மணி வரை\n\n📰 முழு விவரம்:\nபராமரிப்புப் பணிகள் காரணமாக அறச்சலூர் மற்றும் கஸ்தூரிபா கிராம துணை மின் நிலையங்களில் இருந்து மின்சாரம் பெறும் பகுதிகளில் நாளை (நவ. 16, திங்கள்கிழமை) காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை மின் விநியோகம் இருக்காது.\n\n🕘 நேரம்: காலை 9 மணி முதல் பிற்பகல் 2 மணி வரை\n🏘️ கஸ்தூரிபா கிராமம் துணை மின் நிலையம்: தொட்டி கிணத்துப்புதூர், தம்பிரான்வலசு, நல்லுத்தூப்பாளையம், எடக்காட்டுவலசு, காந்தி நகர், வாழைத்தோட்டவலசு, கொல்லன்வலசு, குமாரபாளையம், சகாயபுரம், காசிபாளையம், கந்தசாமிபாளையம், தண்டாம்பாளையம், சத்திரகாட்டுவலசு, பெரிச்சிபாளையம், எலவநத்தம், ஞானபுரம், பி.ஜி.வலசு, வெங்கமேடு, கருமாண்டம்பாளையம், ஜெயராமபுரம், வடபழனி, புதுவலசு, கூத்தம்பட்டி, நாச்சிவலசு, சில்லாங்காட்டுப்புதூர்\n🏘️ அறச்சலூர் துணை மின் நிலையம்: ஊசிப்பாளையம், அறச்சலூர், தலவுமலை, சி.கே.பாளையம், வெலங்குட்டை, தச்சங்காட்டுவலசு, வடுகப்பட்டிபுதூர், கத்தக்கொடிகாடு, நடுப்பாளையம், பச்சாக்குட்டை, பத்தியம்பாளையம்புதூர்\n\nArachalur and Kasthuripa Gramam power cut tomorrow 9 AM to 2 PM | Erode news\n📍 அறச்சலூர், கஸ்தூரிபா கிராமம், ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Arachalur #மின்தடை #ErodePowerCut",
-   "prompts": "A TNEB lineman in a safety helmet and uniform stands on a ladder against a concrete pole, repairing overhead power lines during a scheduled maintenance shutdown in a village near Arachalur, Erode district. Behind him a rural road runs past small houses, shops and a few two-wheelers parked at the roadside, with the lights of the shop fronts switched off. A second lineman on the ground, seen from behind, holds a tool bag. Green paddy fields and the low forest hills of Sathyamangalam form the background under bright daylight of late morning. Tamil Nadu village street with concrete poles and tangled wires overhead. Men wear shirts and veshti, one woman in a cotton saree walks past with a steel vessel. Camera at eye level, 35 mm, wide enough to show the pole, the road and the village houses together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a transformer mounted on a concrete pole in a village near Kasthuripa Gramam, Erode district, with its high-voltage fuse and insulators clearly visible, while a TNEB lineman's gloved hand adjusts a cable clamp on the pole during the planned daytime power shutdown. Behind the pole a dusty village lane, a dry patch of roadside grass and a closed tea stall with an unlit bulb hanging inside. Bright morning sunlight, clear sky, no wind. Men in khaki-coloured work uniform and helmets are blurred in the far background, seen from behind. Camera slightly high, 35 mm, shallow depth of field to focus on the transformer and the lineman's hands. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/power-outage-tomorrow-arachaloor-kasturiba-gramam",
-   "published": "2026-11-14T19:17:15.490Z",
+   "reel_script": "ஞாயிற்றுக்கிழமை நவம்பர் 15ஆம் தேதி சென்னிமலை முருகன் கோயில் மலைப் பாதையில் கார், வேன் போன்ற 4 சக்கர வாகனங்களுக்குத் தடை விதிக்கப்பட்டுள்ளது. கந்தசஷ்டி விழாவின் நிறைவு நாளான அன்று சூரசம்ஹாரம் நடைபெறுகிறது. இதற்காக பல்வேறு ஊர்களிலிருந்து அதிக அளவில் பக்தர்கள் வருவார்கள். மலைப் பாதையில் போக்குவரத்து நெரிசல் ஏற்படாமல் இருக்கவே இந்த ஏற்பாடு. இருசக்கர வாகனங்களில் செல்வோர் வழக்கம்போல அனுமதிக்கப்படுவர். கோயிலுக்குச் சொந்தமான 5 பேருந்துகள் தொடர்ந்து இயக்கப்படும் என்று கோயில் நிர்வாகம் தெரிவித்துள்ளது. இம்மாதம் 10ஆம் தேதி தொடங்கிய கந்தசஷ்டி விழாவில் ஆயிரக்கணக்கான பக்தர்கள் வாகனங்களில் வந்ததால் நெரிசல் ஏற்பட்டிருந்தது. திங்கள்கிழமை காலை 9 மணிக்கு சென்னிமலை கைலாசநாதர் கோயிலில் திருக்கல்யாண நிகழ்ச்சி நடைபெறும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 நவ. 15 சென்னிமலை மலைப் பாதையில் 4 சக்கர வாகனங்களுக்குத் தடை\n\n📰 முழு விவரம்:\nகந்தசஷ்டி விழாவின் நிறைவு நாளான ஞாயிற்றுக்கிழமை (நவ. 15) சென்னிமலை முருகன் கோயிலுக்கு மலைப் பாதை வழியாக 4 சக்கர வாகனங்கள் செல்ல தடை விதிக்கப்பட்டுள்ளது.\nஇம்மாதம் 10ஆம் தேதி தொடங்கிய கந்தசஷ்டி விழாவுக்கு ஆயிரக்கணக்கான பக்தர்கள் கார், இருசக்கர வாகனங்களில் வந்ததால் வாகன நிறுத்துமிடம் மற்றும் அடிவாரத்தில் போக்குவரத்து நெருக்கடி ஏற்பட்டு பக்தர்கள் அவதிப்பட்டனர்.\nநிறைவு நாளில் சூரசம்ஹாரம் நடைபெறுவதால் அதிக பக்தர்கள் வருவர் என்பதால் இந்த ஏற்பாடு.\n📍 இடம்: சென்னிமலை முருகன் கோயில் மலைப் பாதை, ஈரோடு மாவட்டம்\n🗓️ நாள்: நவ. 15, ஞாயிற்றுக்கிழமை\n🚌 கோயிலுக்குச் சொந்தமான 5 பேருந்துகள் தொடர்ந்து இயக்கப்படும்.\n🙏 திங்கள்கிழமை (நவ. 16) காலை 9 மணிக்கு சென்னிமலை கைலாசநாதர் கோயிலில் திருக்கல்யாண நிகழ்ச்சி.\nஇருசக்கர வாகனங்கள் வழக்கம்போல அனுமதிக்கப்படும்.\n\nChennimalai Murugan temple 4-wheeler ban on hill road 15 Nov | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
+   "prompts": "A stream of two-wheelers and temple buses winds up the hill road towards the Chennimalai Murugan temple, while a traffic policeman in khaki stands beside a barrier with a 'no four-wheelers' ban. The narrow hill road climbs through dry scrub and rocky slopes, with the temple gopuram visible at the top. Devotees, mostly men in shirts and veshti and women in sarees, ride two-wheelers from behind and walk along the roadside, seen small and at a distance. A row of maroon-and-white temple buses waits at the foot of the hill, and a few parked cars sit idle on the side of the road. It is a bright Sunday daytime with clear sky and warm light. Shot at eye level from slightly below the road, 35 mm, wide enough to show the hill, the road, the vehicles and the temple at the top. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a wooden barrier pole blocking the foot of the hill road, with a small wooden signboard-free barricade and a row of steps leading up to the temple beyond it. Two-wheelers are allowed to pass around the side, and a temple bus is parked nearby with its doors open. A corner of a parked car sits at the edge of the frame, stopped at the barrier. Behind the barrier, a policeman in khaki stands with his back to the camera, watching the vehicles. Stone steps, dusty ground and a few scattered marigold petals line the roadside. Bright daylight, shot at eye level, 35 mm, close enough to show the barrier and the stopped car clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/on-the-final-day-of-kanda-sashti-four-wheeled-vehicles-are-prohibited-from-using-the-hill-route-to-reach-the-chennimalai-murugan-temple",
+   "published": "2026-11-14T19:30:10.612Z",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700798/erode360/eiu57bpxxjjb8oiommyl.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700809/erode360/r9pmmvzabtjadibdw1i9.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோடு கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்",
+   "english_headline": "Erode district central cooperative bank disburses ₹2.72 crore in loans at loan mela",
+   "category": "Government & Services",
+   "location": "Erode district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கடன் மேளா",
+    "loc": "ஈரோடு மாவட்டம்",
+    "hl1": "ஈரோடு கூட்டுறவு வங்கியில் கடன் மேளா",
+    "hl2": "<b>₹2.72 கோடி</b> கடன்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஈரோடு மாவட்ட மத்திய கூட்டுறவு வங்கியில் கடன் மேளா நடந்தது",
+       "முதன்மை வருவாய் அலுவலர் பிரகாஷ் முன்னிலை வகித்தார்",
+       "உதவி பொது மேலாளர் வேங்கடம் வரவேற்றார்"
+      ]
+     },
+     {
+      "title": "சுய உதவிக்குழு",
+      "lines": [
+       "15 சுய உதவிக்குழுக்களுக்கு <b>1.50 கோடி ரூபாய்</b> கடன்",
+       "சிங்கப்பெண்கள் சுய உதவிக்குழுக்களுக்கு கடன் வழங்கப்பட்டது",
+       "முதன்மை வருவாய் அலுவலர் பிரகாஷ் கடனை வழங்கினார்"
+      ]
+     },
+     {
+      "title": "மொத்தக் கடன்",
+      "lines": [
+       "வீட்டு வசதி, ஊரக தொழில், நெசவாளர் முத்ரா கடன்கள்",
+       "மாற்றுத்திறனாளி, மகளிர் தொழில்முனைவோர், டாம்கோ கடன்களும்",
+       "மொத்தம் <b>2.72 கோடி ரூபாய்</b> கடன் வழங்கப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு மாவட்ட மத்திய கூட்டுறவு வங்கியில் 2.72 கோடி ரூபாய் கடன் வழங்கப்பட்டது. கடன் மேளாவில் இந்தத் தொகை வழங்கப்பட்டது. உதவி பொது மேலாளர் வேங்கடம் நிகழ்வை வரவேற்றார். முதன்மை வருவாய் அலுவலர் பிரகாஷ் முன்னிலை வகித்தார். 15 சிங்கப்பெண்கள் சுய உதவிக்குழுக்களுக்கு 1.50 கோடி ரூபாய் கடன் வழங்கப்பட்டது. பிரகாஷ் அந்தக் கடனை வழங்கினார். வீட்டு வசதி கடன், ஊரக தொழில் கடன், நெசவாளர்களுக்கு முத்ரா கடன், மாற்றுத்திறனாளி கடன், மகளிர் தொழில்முனைவோர் கடன், டாம்கோ கடன்கள் ஆகியவை வழங்கப்பட்டன. இவற்றில் 1.20 கோடி ரூபாய் உட்பட மொத்தம் 2.72 கோடி ரூபாய் கடன் வழங்கப்பட்டதாக மேலாளர் சக்திவேல் தெரிவித்தார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏦 ஈரோடு கூட்டுறவு வங்கியில் ரூ.2.72 கோடி கடன் வழங்கல்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்ட மத்திய கூட்டுறவு வங்கியில் கடன் மேளா நடைபெற்றது. உதவி பொது மேலாளர் வேங்கடம் வரவேற்றார். முதன்மை வருவாய் அலுவலர் பிரகாஷ் முன்னிலை வகித்து, 15 சிங்கப்பெண்கள் சுய உதவிக்குழுக்களுக்கு 1.50 கோடி ரூபாய் கடனை வழங்கினார். வீட்டு வசதி கடன், ஊரக தொழில் கடன், நெசவாளர்களுக்கு முத்ரா கடன், மாற்றுத்திறனாளி கடன், மகளிர் தொழில்முனைவோர் கடன், டாம்கோ கடன்கள் என 1.20 கோடி ரூபாய் உட்பட மொத்தம் 2.72 கோடி ரூபாய்க்குக் கடன் வழங்கப்பட்டதாக மேலாளர் சக்திவேல் தெரிவித்தார்.\n\nErode cooperative bank loan mela, ₹2.72 crore loans | Erode news\n📍 ஈரோடு மாவட்டம் | 14 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #கடன்",
+   "prompts": "A row of officials seated at a long table in the cooperative bank hall in Erode city hands a bundle of loan papers to a group of about 15 women from self-help groups, the women in cotton sarees and some holding folders. The hall is a government office with plain white walls, tube lights, wooden desks, rows of plastic chairs and a few framed notices kept blurred and unreadable on the wall. Officials in formal shirts and trousers sit behind a stack of files, with a small welcome arrangement of flowers on the table. The women are seen from behind or in soft focus, standing in a line to receive their loans. Daylight comes through the windows, and the scene is calm and busy. Shot at eye level with a 35 mm lens, wide enough to show the whole hall, the table and the queue of women. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a neat stack of loan application files, bank cheques and sanction papers lying on a wooden desk in the cooperative bank in Erode city, with a pen resting across the top sheet. Beside the papers, a few folded saree edges and a woman's hand just touching the file are visible, blurred. The background shows the edge of a plastic chair and a soft-focus table where officials sit. No readable text or names appear on the papers. Natural daylight from a side window lights the paper stack, giving a sharp, clean feel. Shot at slightly high angle with a 35 mm lens to focus on the documents and the desk. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/loan-disbursement-of-rs272-crores-in-co-operative-bank/4375782",
+   "published": "2026-11-14T06:39:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686952/erode360/jeor43zn5aczc5qyrmm0.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794686956/erode360/oomqarldrdamsjkdhdzx.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700815/erode360/lonaernioq9pyhfmuohg.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700832/erode360/f51qmded7wv5px2k5mxz.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சத்தியமங்கலம் மார்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1,600-க்கு விற்பனை",
+   "english_headline": "Malligai flower price in Sathyamangalam market rises to Rs.1,600 per kg due to Valarpirai auspicious season",
+   "category": "Business & Prices",
+   "location": "Sathyamangalam, Erode district",
+   "importance": "Medium",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பூ விலை",
+    "loc": "சத்தியமங்கலம்",
+    "hl1": "சத்தியமங்கலத்தில் மல்லிகைப் பூ விலை",
+    "hl2": "கிலோ ரூ.1,600",
+    "slides": [
+     {
+      "title": "விலை உயர்வு",
+      "lines": [
+       "மல்லிகைப் பூ கிலோ <b>ரூ.1,600</b>-க்கு விற்பனை",
+       "முன்பு கிலோ ரூ.1,200 ஆக இருந்தது",
+       "சத்தியமங்கலம் பூ மார்க்கெட்டில் விலை உயர்வு"
+      ]
+     },
+     {
+      "title": "ஏன் உயர்ந்தது?",
+      "lines": [
+       "ஐப்பசி மாத வளர்பிறை முகூர்த்த சீசன் காரணம்",
+       "இதனால் பூக்கள் விலை கிலோ ரூ.1,200-இல் இருந்து ரூ.1,600 ஆக",
+       "மல்லிகைப் பூ கிலோ ரூ.1,100-இல் இருந்து ரூ.500 உயர்ந்தது"
+      ]
+     },
+     {
+      "title": "சம்பங்கி பூ விலை",
+      "lines": [
+       "சம்பங்கி பூ கிலோ ரூ.180-இல் இருந்து <b>ரூ.300</b> ஆக உயர்ந்தது",
+       "விலை உயர்வால் விவசாயிகள் மகிழ்ச்சி",
+       "சத்தியமங்கலம் சுற்றுவட்டார மல்லிகை, முல்லை, சம்பங்கி சாகுபடி"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சத்தியமங்கலம் பூ மார்க்கெட்டில் மல்லிகைப் பூ கிலோ ரூ.1,600-க்கு விற்பனையானது. வளர்பிறை முகூர்த்தம் காரணமாக பூக்கள் விலை உயர்ந்துள்ளது. முன்பு கிலோ ரூ.1,200 ஆக இருந்த பூக்களின் விலை ரூ.1,600 ஆக உயர்ந்துள்ளது. ஐப்பசி மாத வளர்பிறை முகூர்த்த சீசன் என்பதால் இந்த விலை உயர்வு ஏற்பட்டுள்ளது. மல்லிகைப் பூ கிலோ ரூ.1,100-க்கு விற்கப்பட்ட நிலையில் ரூ.500 உயர்ந்து ரூ.1,600-க்கு விற்பனையானது. சம்பங்கி பூ கிலோ ரூ.180-இல் இருந்து ரூ.300 ஆக உயர்ந்தது. சத்தியமங்கலம் சுற்றுவட்டாரப் பகுதிகளில் மல்லிகை, முல்லை, சம்பங்கி பூக்கள் அதிக அளவில் சாகுபடி செய்யப்படுகின்றன. இங்கு விளையும் பூக்கள் கோவை, திருப்பூர், ஈரோடு மற்றும் வெளி மாநிலங்களுக்கும் அனுப்பப்படுகின்றன. விலை உயர்வால் விவசாயிகள் மகிழ்ச்சியடைந்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌸 சத்தியமங்கலத்தில் மல்லிகைப் பூ கிலோ ரூ.1,600-க்கு விற்பனை\n\n📰 முழு விவரம்:\nவளர்பிறை முகூர்த்தம் காரணமாக சத்தியமங்கலம் பூ மார்க்கெட்டில் பூக்கள் விலை கிலோ ரூ.1,200-இல் இருந்து ரூ.1,600 ஆக உயர்ந்துள்ளது.\nமல்லிகைப் பூ கிலோ ரூ.1,100-க்கு விற்கப்பட்ட நிலையில் ரூ.500 உயர்ந்து ரூ.1,600-க்கு விற்பனையானது.\nசம்பங்கி பூ கிலோ ரூ.180-இல் இருந்து ரூ.300 ஆக உயர்ந்தது.\nசத்தியமங்கலம் சுற்றுவட்டாரப் பகுதிகளில் மல்லிகை, முல்லை, சம்பங்கி பூக்கள் அதிக அளவில் சாகுபடி செய்யப்படுகின்றன. இங்கு விளையும் பூக்கள் கோவை, திருப்பூர், ஈரோடு மற்றும் வெளி மாநிலங்களுக்கும் விற்பனைக்கு அனுப்பப்படுகின்றன.\nவிலை உயர்வால் பூக்களை விற்பனைக்குக் கொண்டுவந்த விவசாயிகள் மகிழ்ச்சியடைந்துள்ளனர்.\n\nSathyamangalam malligai flower price Rs.1600 per kg | Erode news\n📍 சத்தியமங்கலம், ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #ErodeNews #ஈரோடு",
+   "prompts": "Wholesale flower traders and farmers stand beside heaps of fresh white malligai (jasmine) flowers and sambangi blooms in woven baskets and gunny sacks at the Sathyamangalam flower market in Erode district. The market is an open-sided shed with a concrete floor, plastic crates stacked along the wall, and a few tempos and lorries parked at the edge loaded with flower sacks. Buyers in shirts, veshti and sarees, seen from behind and far away, bargain over the flowers as the bright morning light falls through the shed. The prices have gone up because of the Aippasi wedding muhurtham season, and the mood is cheerful. Camera at eye level, 35 mm, wide enough to show the whole market shed and the piled flowers. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of woven baskets and gunny sacks heaped with fresh white malligai (jasmine) buds and pink-white sambangi flowers, freshly picked at dawn in Sathyamangalam. Dew still glistens on the petals, and a few loose jasmine strands lie on a plastic sheet on a concrete floor in the flower market. A weighing scale and a worn steel tray sit at the edge of the frame, with the hands of a trader in a checked shirt visible from behind, counting out the flowers. Soft early-morning daylight, camera close and slightly high, 50 mm macro-style, shallow depth of field so the flower heap is sharp and the background is softly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/சத்தியமங்கலம்-மாா்க்கெட்டில்-மல்லிகைப்-பூ-கிலோ-ரூ1600-க்கு-விற்பனை",
+   "published": "2026-11-14T19:33:47.145Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 200, 600",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700846/erode360/rbp5pwupfi608gyg61jp.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700869/erode360/m2h9ifs2hb1cndtfcmmg.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் போக்குவரத்து நெரிசல் குறையவில்லை: புறநகர் பேருந்து நிலையம் திறந்த பிறகும் மக்கள் அவதி",
+   "english_headline": "Erode traffic jams continue even after the outer bus stand opened; residents struggle as city roads cannot be widened",
+   "category": "Roads & Transport",
+   "location": "Erode city, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போக்குவரத்து நெரிசல்",
+    "loc": "ஈரோடு நகரம்",
+    "hl1": "ஈரோட்டில் நெரிசல் குறையவில்லை",
+    "hl2": "புறநகர் பேருந்து நிலையம்",
+    "slides": [
+     {
+      "title": "நெரிசல் நிலவரம்",
+      "lines": [
+       "புறநகர் பேருந்து நிலையம் செயல்பாட்டுக்கு வந்த பிறகும்",
+       "போக்குவரத்து நெரிசல் நாளுக்கு நாள் அதிகரிக்கிறது",
+       "சாலைகளை விரிவுபடுத்துவது சாத்தியமற்றது"
+      ]
+     },
+     {
+      "title": "அமல்படுத்திய",
+      "lines": [
+       "சுற்றுவட்டச் சாலை பணிகள் நிறைவேற்றப்பட்டன",
+       "அரசு மருத்துவமனை சந்திப்பு, சாஸ்திரி நகரில் மேம்பாலங்கள்",
+       "சோலார் புறநகர் பேருந்து நிலையம் திறக்கப்பட்டது"
+      ]
+     },
+     {
+      "title": "விவசாயிகள்",
+      "lines": [
+       "சோலார் நிலையத்தில் 100-க்கும் மேற்பட்ட பேருந்துகளை நிறுத்த",
+       "திருச்செங்கோடு, நாமக்கல் பேருந்துகளையும் நிறுத்த வேண்டும்",
+       "சித்தோட்டில் புறநகர் பேருந்து நிலையம் அமைக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு மாநகரில் புறநகர் பேருந்து நிலையம் திறந்த பிறகும் போக்குவரத்து நெரிசல் குறையவில்லை. நெரிசல் நாளுக்கு நாள் அதிகரித்து வருவதால் மக்கள் பரிதவித்து வருகின்றனர். மாநகரில் சாலைகளை விரிவுபடுத்துவது சாத்தியமற்றது என்பதால், சுற்றுவட்டச் சாலை, புறநகர் பேருந்து நிலையம், மேம்பாலங்கள் ஆகிய மூன்று திட்டங்களை அரசு அமல்படுத்த வேண்டும் என்று பொதுமக்கள் நீண்டகாலமாகக் கோரி வந்தனர். சுற்றுவட்டச் சாலைப் பணிகள் நிறைவேற்றப்பட்டு, லாரிகள் மற்றும் வெளிமாவட்ட வாகனங்கள் பெரும்பாலும் நகருக்குள் நுழையாமல் நேரடியாகச் செல்கின்றன. அரசு மருத்துவமனை சாலை சந்திப்பு, சாஸ்திரி நகர் பகுதிகளில் மேம்பாலங்கள் கட்டப்பட்டு பயன்பாட்டில் உள்ளன. சோலார் பகுதியில் புறநகர் பேருந்து நிலையம் கட்டப்பட்டு திறக்கப்பட்டது. தமிழ்நாடு ஐக்கிய விவசாயிகள் சங்கத் தலைவர் ஈ வி கே சண்முகம், சோலார் நிலையத்தில் 100-க்கும் மேற்பட்ட பேருந்துகளை நிறுத்துவது போல, திருச்செங்கோடு, நாமக்கல் வழியாக இயக்கப்படும் பேருந்துகளையும் நிறுத்த வேண்டும் என்று கோரியுள்ளார். ஈரோடு-சத்தியமங்கலம் சாலையில் சித்தோட்டில் புறநகர் பேருந்து நிலையம் அமைக்கும் திட்டத்தையும் செயல்படுத்த வேண்டும் என்றார். போக்குவரத்துத் துறை அதிகாரிகள், இந்தத் திட்டங்களைச் செழுமைப்படுத்தும் பணிகள் நடைபெற்று வருவதாகவும், பணிகள் முடிந்ததும் ஓராண்டுக்குள் நெரிசல் குறையும் என்றும் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚦 ஈரோட்டில் புறநகர் பேருந்து நிலையம் திறந்தும் நெரிசல் குறையவில்லை\n\n📰 முழு விவரம்:\nபுறநகர் பேருந்து நிலையம் செயல்பாட்டுக்கு வந்த பிறகும் ஈரோடு மாநகரில் போக்குவரத்து நெரிசல் குறையவில்லை. நெரிசல் நாளுக்கு நாள் அதிகரித்து வருவதால் மக்கள் பரிதவித்து வருகின்றனர். மாநகரில் சாலைகளை விரிவுபடுத்துவது சாத்தியமற்றது என்பதால், சுற்றுவட்டச் சாலை, புறநகர் பேருந்து நிலையம், மேம்பாலங்கள் ஆகிய 3 திட்டங்களை அமல்படுத்த வேண்டும் என்று பொதுமக்கள் நீண்டகாலமாக அரசுக்குக் கோரிக்கை விடுத்து வந்தனர். சுற்றுவட்டச் சாலைப் பணிகள் நிறைவேற்றப்பட்டு, லாரிகள் மற்றும் வெளிமாவட்ட வாகனங்கள் பெரும்பாலும் நகருக்குள் நுழையாமல் நேரடியாகச் செல்கின்றன. அரசு மருத்துவமனை சாலை சந்திப்பு, சாஸ்திரி நகர் பகுதிகளில் மேம்பாலங்கள் பயன்பாட்டில் உள்ளன. சோலார் பகுதியில் புறநகர் பேருந்து நிலையம் கட்டப்பட்டு திறக்கப்பட்டது.\n📍 இடம்: ஈரோடு மாநகரம், ஈரோடு மாவட்டம்\n🚌 கோரிக்கை: சோலார் நிலையத்தில் திருச்செங்கோடு, நாமக்கல் பேருந்துகளையும் நிறுத்த வேண்டும்; சித்தோட்டில் புறநகர் பேருந்து நிலையம் அமைக்க வேண்டும் (தமிழ்நாடு ஐக்கிய விவசாயிகள் சங்கத் தலைவர் ஈ.வி.கே.சண்முகம்)\n👮 அதிகாரிகள்: திட்டங்களைச் செழுமைப்படுத்தும் பணிகள் நடைபெறுகின்றன; பணிகள் முடிந்ததும் ஓராண்டுக்குள் நெரிசல் குறையும்\n\nErode traffic jam continues despite outer bus stand | Erode news\n📍 ஈரோடு மாநகரம், ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ErodeTraffic",
+   "prompts": "A long queue of buses, lorries and two-wheelers sits jammed at a busy junction in Erode city during the day, with commuters on motorcycles and town buses stuck bumper to bumper beneath a concrete flyover. The road is lined with shops and shop signboards that are not legible, and the city's ordinary street scene of Tamil Nadu is visible behind them. Several men in shirts and women in sarees stand on the pavement, seen from behind, waiting to cross. Autorickshaws and a TNSTC bus are packed in the traffic, horns implied by the crowded lanes. Daylight, slightly hazy sun. Camera at eye level, 35 mm, wide enough to show the flyover and the congested road. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a crowded bus stand platform on the outer bus stand approach, with several TNSTC buses parked nose to tail and a line of passengers with bags waiting to board, seen from behind and at a distance. The concrete pillars and kerb of the bus bay fill the frame, with a few two-wheelers squeezed along the edge of the road. Dust and sunlight on the concrete, daytime. Camera slightly high, 35 mm, showing the bus stand and the jammed approach road that residents complain about. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/14/பலன்-அளிக்காத-கட்டமைப்புகள்-போக்குவரத்து-நெரிசலால்-பரிதவிக்கும்-ஈரோடு-மக்கள்",
+   "published": "2026-11-14T19:20:46.355Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'நகரம்' is not in the article; caption misses facts of the article (put every one in 📰 முழு விவரம்): 100 ('மாநகரில் சாலைகளை விரிவுபடுத்துவது என்பது சாத்தியமற்றது என்பத'); பவானி ('மாநகரில் சாலைகளை விரிவுபடுத்துவது என்பது சாத்தியமற்றது என்பத'); சத்தியமங்கலம் ('மாநகரில் சாலைகளை விரிவுபடுத்துவது என்பது சாத்தியமற்றது என்பத'); பெருந்துறை ('மாநகரில் சாலைகளை விரிவுபடுத்துவது என்பது சாத்தியமற்றது என்பத'); சென்னிமலை ('மாநகரில் சாலைகளை விரிவுபடுத்துவது என்பது சாத்தியமற்றது என்பத'); கோபி ('மேலும், ஈரோடு- சத்தியமங்கலம் சாலையில் உள்ள சித்தோட்டில் புகா')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700889/erode360/nbz9lmhtaxtz7sxjxcdd.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794700901/erode360/kzoymu1kngugjhfgpamb.jpg"
    ]
   }
  ]
