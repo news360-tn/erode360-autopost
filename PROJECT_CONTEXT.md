@@ -81,34 +81,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-14 | `ae04ccf` | comments: e-mail only important comments (question, fake / doubt claim, complaint, viewer information, abuse) - praise, thanks, emoji and chat are not e-mailed |
-| 2026-11-14 | `496640b` | pick: health tips and day functions not written automatically; sexual-harassment / POCSO news counts as crime; schedule comments updated |
-| 2026-11-14 | `47d5b31` | pick: each round's news chosen by the page's insights (at least 2/5/5/3/5/4 + up to 3 more well-watched, leftovers compete, power cuts on top); story share only for power cuts / urgent news |
-| 2026-11-14 | `b15cdb6` | powercut: notices written |
-| 2026-11-14 | `5331183` | pick: written and posted |
-| 2026-11-14 | `3265f4e` | powercut: notices written |
-| 2026-11-14 | `582e885` | powercut: notices written |
-| 2026-11-14 | `d4aa8b1` | pick: picked news saved |
-| 2026-11-14 | `e9a93cf` | pick: picked news saved |
-| 2026-11-14 | `8a236de` | pick: list sent |
-| 2026-11-14 | `63a9bb1` | goldrate: import the browser only when slides are made (tests machine has none - fixes the red tests since 13 Nov) |
-| 2026-11-14 | `3a7201c` | posting: Gmail daily email limit no longer counts as a failed post record (sheet row is already saved - no 5x retries); checker notes ending 'so not a problem' no longer hold a story (14 Nov) |
-| 2026-11-14 | `19a5869` | powercut: notices written |
-| 2026-11-14 | `d730a48` | powercut: notices written |
-| 2026-11-14 | `3c73b57` | powercut: notices written |
-| 2026-11-14 | `97ca92d` | powercut: notices written |
-| 2026-11-14 | `ba549d0` | powercut: notices written |
-| 2026-11-14 | `4c5fa27` | stories shared |
-| 2026-11-14 | `2a654ec` | powercut: notices written |
-| 2026-11-14 | `5e365a3` | pick: written and posted |
-| 2026-11-14 | `7636ff6` | goldrate posted |
-| 2026-11-14 | `5529a2a` | powercut: notices written |
-| 2026-11-14 | `3c751b9` | pick: picked news saved |
-| 2026-11-14 | `0aad10d` | pick: picked news saved |
-| 2026-11-14 | `eeb4977` | pick: list sent |
-| 2026-11-14 | `4e900ea` | powercut: notices written |
-| 2026-11-14 | `8c1eaae` | powercut: notices written |
-| 2026-11-14 | `afde321` | powercut: notices written |
-| 2026-11-14 | `28915c1` | stories shared |
-| 2026-11-14 | `4fa991c` | powercut: notices written |
+| 2026-11-16 | `6518bac` | pick: a round GitHub skipped adds its count to the next round; lifestyle columns not written automatically; leftover count in the round log |
+| 2026-11-16 | `f38bfb9` | rasipalan posted |
+| 2026-11-16 | `cd619aa` | pick: written and posted |
+| 2026-11-16 | `a23001f` | pick: picked news saved |
+| 2026-11-16 | `6aa4107` | pick: picked news saved |
+| 2026-11-16 | `4a6c4c8` | pick: list sent |
+| 2026-11-15 | `6f46885` | stories shared |
+| 2026-11-15 | `5f652dd` | pick: written and posted |
+| 2026-11-15 | `da61138` | pick: picked news saved |
+| 2026-11-15 | `01cba0f` | pick: picked news saved |
+| 2026-11-15 | `b66a117` | pick: list sent |
+| 2026-11-15 | `5c425f7` | powercut: notices written |
+| 2026-11-15 | `aa58f32` | powercut: notices written |
+| 2026-11-15 | `e3b64aa` | powercut: notices written |
+| 2026-11-15 | `207977c` | powercut: notices written |
+| 2026-11-15 | `3e795d0` | pick: written and posted |
+| 2026-11-15 | `a66fa4f` | powercut: notices written |
+| 2026-11-15 | `ee97b4b` | pick: picked news saved |
+| 2026-11-15 | `0985c54` | pick: picked news saved |
+| 2026-11-15 | `b11802f` | pick: list sent |
+| 2026-11-15 | `99dc587` | powercut: notices written |
+| 2026-11-15 | `167a72e` | powercut: notices written |
+| 2026-11-15 | `4d51cbf` | powercut: notices written |
+| 2026-11-15 | `30d703e` | powercut: notices written |
+| 2026-11-15 | `74f3613` | powercut: notices written |
+| 2026-11-15 | `3a2a37a` | powercut: notices written |
+| 2026-11-15 | `3b7e16e` | pick: written and posted |
+| 2026-11-15 | `c943b5e` | powercut: notices written |
+| 2026-11-15 | `8a08f93` | pick: picked news saved |
+| 2026-11-15 | `92b142f` | pick: picked news saved |
 <!-- recent-changes:end -->
