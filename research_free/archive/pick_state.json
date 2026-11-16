@@ -41,7 +41,8 @@
    "alts": [
     "https://www.dinamalar.com/news/kalvimalar-news/no-hms-in-80-govt-high-schools-erode-risks-lagging-in-class-10-public-exams/83600"
    ],
-   "listed_at": "2026-11-16T16:15:26.441121+05:30"
+   "listed_at": "2026-11-16T16:15:26.441121+05:30",
+   "picked_at": "2026-11-16T18:31:31.870736+05:30"
   },
   "Cb85c2d2": {
    "id": "Cb85c2d2",
@@ -56,7 +57,8 @@
    "alts": [
     "https://www.dinamalar.com/news/kalvimalar-news/assessment-test-for-new-india-literacy-programme-learners/83596"
    ],
-   "listed_at": "2026-11-16T16:15:26.441121+05:30"
+   "listed_at": "2026-11-16T16:15:26.441121+05:30",
+   "picked_at": "2026-11-16T18:31:31.870738+05:30"
   },
   "Ce8c63d9": {
    "id": "Ce8c63d9",
@@ -68,7 +70,8 @@
    "category": "பொது",
    "score": 5.0,
    "power_cut": false,
-   "listed_at": "2026-11-16T16:15:26.441121+05:30"
+   "listed_at": "2026-11-16T16:15:26.441121+05:30",
+   "picked_at": "2026-11-16T18:31:31.870739+05:30"
   },
   "Cb891814": {
    "id": "Cb891814",
@@ -80,7 +83,8 @@
    "category": "பொது",
    "score": 5.0,
    "power_cut": false,
-   "listed_at": "2026-11-16T16:15:26.441121+05:30"
+   "listed_at": "2026-11-16T16:15:26.441121+05:30",
+   "picked_at": "2026-11-16T18:31:31.870741+05:30"
   },
   "Cc41dfc8": {
    "id": "Cc41dfc8",
@@ -140,7 +144,8 @@
    "category": "மழை / வானிலை",
    "score": 11.0,
    "power_cut": false,
-   "listed_at": "2026-11-16T18:30:43.262848+05:30"
+   "listed_at": "2026-11-16T18:30:43.262848+05:30",
+   "picked_at": "2026-11-16T18:31:31.870734+05:30"
   }
  },
  "rounds": {
@@ -985,8 +990,24 @@
    ],
    "sent": false,
    "deadline": "2026-11-16T19:30:43.262848+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 11 by insights",
+    "ids": [
+     "C9c79acd",
+     "C454f744",
+     "Cb85c2d2",
+     "Ce8c63d9",
+     "Cb891814"
+    ],
+    "at": "2026-11-16T18:31:31.870724+05:30"
+   },
+   "written": [
+    "C454f744",
+    "C9c79acd",
+    "Cb85c2d2",
+    "Cb891814",
+    "Ce8c63d9"
+   ]
   }
  },
  "retry": {}
