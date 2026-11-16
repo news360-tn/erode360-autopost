@@ -3,426 +3,298 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/turmeric-loses-cultivation-area-in-erode-due-to-lack-of-rain-despite-price/4377706",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/erode-lags-behind-in-80-government-high-schools--no-class-10-board-exams/4377440",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/the-basic-character-test-was-written-by-14110-people/4377443",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/1250-people-participated-in-the--exam/4377449",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/cauliflower-arrives-at-erode-market/4377458",
-  "candidate filter: collected=5",
-  "to write: 5 Erode district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Erode; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/murugan-sashti-surasamahara-festival-in-temples-devotees-thronged-kollakalam-chennimalai-tindal-pachaimalai/4377455",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/டிஎன்பிஎஸ்சி-ஒருங்கிணைந்த-தொழில்நுட்பத்-தோ்வு1250-போ்-பங்கேற்பு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/திண்டல்-வேலாயுத-சுவாமி-கோயிலில்-சூரசம்ஹார-விழா-மக்கள்-வெள்ளத்தில்-கோலாகலம்",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tomorrow-nativity-of-the-month-of-karthigai-collection-of-items-for-ayyappa-devotees/4377442",
+  "candidate filter: collected=4",
+  "to write: 4 Erode district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/turmeric-lose",
+  "NOT filed (N) டிஎன்பிஎஸ்சி ஒருங்கிணைந்த தொழில்நுட்பத் தோ்வு:1,2: duplicate after write",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Erode district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 3}, time left 76 min",
+  "filed: 3 Erode district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (23s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (24s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (22s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (46s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3.5-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok gemini/gemini-3-flash-preview (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (22s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (1s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோடு மார்க்கெட்டுக்கு காலிபிளவர் வரத்துத் தொடக்கம்: ஒரு பூ ரூ.30 முதல் ரூ.70 வரை விற்பனை",
-   "english_headline": "Cauliflower arrivals begin at Erode market from Hosur and Thalavadi; priced at Rs 30 to Rs 70 per flower",
-   "category": "Business & Prices",
-   "location": "Erode market, Erode district",
+   "tamil_headline": "நாளை கார்த்திகை மாதம் பிறப்பு: ஐயப்ப பக்தர்களுக்கான பொருட்கள் ஈரோட்டில் குவிப்பு",
+   "english_headline": "Karthigai month begins tomorrow: Ayyappa devotee items piled up for sale in Erode",
+   "category": "Temples & Events",
+   "location": "Eeswaran Kovil Street, Erode city, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "காலிபிளவர் சீசன்",
-    "loc": "ஈரோடு மார்க்கெட்",
-    "hl1": "ஈரோட்டில் காலிபிளவர் வரத்து தொடக்கம்",
-    "hl2": "ஒரு பூ ரூ.30 முதல் ரூ.70 வரை",
+    "cat": "கோவில் நிகழ்வு",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் ஐயப்ப பக்தர்களுக்கான",
+    "hl2": "மாலை ₹60 முதல் ₹130 வரை",
     "slides": [
      {
-      "title": "வரத்து தொடக்கம்",
+      "title": "என்ன நடக்கிறது?",
       "lines": [
-       "ஒசூர், தாளவாடியில் இருந்து காலிபிளவர் வரத்து",
-       "ஈரோடு மார்க்கெட்டுக்கு விற்பனைக்கு வந்தது",
-       "பனிக்காலம் தொடங்கியதால் விளைச்சல் அதிகரிப்பு"
+       "நாளை கார்த்திகை மாதம் பிறக்கிறது",
+       "ஐயப்ப பக்தர்களுக்கான பொருட்கள் விற்பனைக்கு குவிப்பு",
+       "ஈஸ்வரன் கோவில் வீதி மொத்த விற்பனை கடைகளில் இவை கிடைக்கும்"
+      ]
+     },
+     {
+      "title": "என்னென்ன",
+      "lines": [
+       "துளசி, சந்தன, ருத்ராட்ச மாலைகள்",
+       "கருப்பு, நீலம், காவி நிற வேட்டி, துண்டு",
+       "இருமுடி பை, ஜோல்னா பை"
       ]
      },
      {
       "title": "விலை நிலவரம்",
       "lines": [
-       "ஒரு பூவின் அளவைப் பொறுத்து <b>ரூ.30 முதல் ரூ.70 வரை</b>",
-       "ஆட்டோக்களிலும் பல இடங்களில் விற்பனை",
-       "வியாபாரிகள் தகவல் தெரிவித்துள்ளனர்"
-      ]
-     },
-     {
-      "title": "அடுத்த 10 நாட்கள்",
-      "lines": [
-       "இன்னும் <b>10 நாட்களில்</b> வரத்து இருமடங்காகும்",
-       "அப்போது காலிபிளவர் விலை வெகுவாகக் குறையும்",
-       "ஜனவரி முதல் வாரம் வரை வரத்து நீடிக்கும்"
+       "<b>மாலை ₹60 - ₹130</b>",
+       "<b>வேட்டி, துண்டு ₹150 - ₹600</b>",
+       "<b>இருமுடி பை, ஜோல்னா பை ₹100 - ₹400</b>"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு மார்க்கெட்டுக்கு ஒசூர் மற்றும் தாளவாடி பகுதிகளில் இருந்து காலிபிளவர் வரத்து தொடங்கியுள்ளது. பனிக்காலம் தொடங்கியதை அடுத்து விளைச்சல் அதிகரித்து காலிபிளவர் விற்பனைக்கு வரத் தொடங்கியுள்ளது. ஈரோடு நகரின் பல இடங்களில் ஆட்டோக்களிலும் காலிபிளவர் விற்பனை செய்யப்படுகிறது. ஒரு பூவின் அளவைப் பொறுத்து 30 ரூபாய் முதல் 70 ரூபாய் வரை விற்பனை செய்யப்படுகிறது. இன்னும் 10 நாட்களுக்குப் பின் தீவிர பனிக்காலத்தில் காலிபிளவர் வரத்து இருமடங்காக அதிகரிக்கும் என வியாபாரிகள் தெரிவித்துள்ளனர். அப்போது காலிபிளவர் விலை வெகுவாகக் குறையும் என்றும் தெரிவிக்கப்பட்டுள்ளது. இந்தக் காலிபிளவர் வரத்து ஜனவரி முதல் வாரம் வரை நீடிக்கும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🥦 ஈரோடு மார்க்கெட்டுக்கு காலிபிளவர் வரத்துத் தொடக்கம் - ஒரு பூ ரூ.30 முதல் ரூ.70 வரை விற்பனை\n\n📰 முழு விவரம்:\nஈரோடு மார்க்கெட்டுக்கு ஒசூர் மற்றும் தாளவாடி பகுதிகளில் இருந்து காலிபிளவர் விற்பனைக்கு கொண்டு வரப்படுகிறது. பனிக்காலம் தொடங்கியுள்ள நிலையில், விளைச்சல் அதிகரித்து மார்க்கெட்டுக்கு வரத்து தொடங்கியுள்ளது. ஈரோட்டின் பல இடங்களில் ஆட்டோக்களிலும் காலிபிளவர் விற்பனை நடைபெறுகிறது.\n\nஒரு பூவின் அளவைப் பொறுத்து ரூ.30 முதல் ரூ.70 வரை விற்கப்படுகிறது. இன்னும் 10 நாட்களுக்குப் பின் தீவிர பனிக்காலத்தில் வரத்து இருமடங்காக அதிகரிக்கும் என்றும், அப்போது விலை வெகுவாகக் குறையும் என்றும் வியாபாரிகள் தெரிவித்துள்ளனர். இந்த வரத்து ஜனவரி முதல் வாரம் வரை நீடிக்கும்.\n\n📍 இடம்: ஈரோடு மார்க்கெட், ஈரோடு\n🗓️ காலம்: ஜனவரி முதல் வாரம் வரை\nℹ️ மக்கள் கவனத்திற்கு: மார்க்கெட் மற்றும் ஆட்டோக்களில் புதிய காலிபிளவர் விற்பனை பெறலாம்.\n\nErode market cauliflower arrival and price news Hosur Thalavadi | Erode news\n📍 ஈரோடு மார்க்கெட், ஈரோடு | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeMarket #காலிபிளவர் #ஈரோடு",
-   "prompts": "A bustling market stall displays fresh cauliflower heads as traders begin selling the new arrivals. The scene is set in Erode market, the open‑air trading hub with rows of temporary canopies and a backdrop of the city’s textile lanes. From behind, a few traders in simple shirts and dhotis arrange the white cauliflower in baskets, while an auto‑rickshaw parked nearby has a side load of cauliflower bundles on its rear platform. No other vehicles are prominent. The daylight is bright, typical midday, with clear sky. The camera is positioned at eye level, using a 35 mm lens, framing the stall, the cauliflower, and the auto‑rickshaw to capture the market atmosphere. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up shows a heap of fresh cauliflower heads piled on a wooden crate, each head crisp and white, some still bearing green leaves. The crate sits at the edge of a market aisle inside Erode market, with the textured floor and faint outlines of other stalls in the background. Only the backs of two traders’ hands are visible, gently adjusting the bunches; no faces are shown. No vehicles are in frame, only the cauliflower as the focal object. The lighting is natural daylight, casting soft shadows on the vegetables. The camera is slightly elevated, using a 35 mm lens to capture the detail of the cauliflower texture and the crate. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/cauliflower-arrives-at-erode-market/4377458",
-   "published": "2026-11-16T06:46:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834164/erode360/dqtdoylnmp28ddzqhioq.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834167/erode360/r59tefzimuagmuww6kcv.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் டி.என்.பி.எஸ்.சி. தேர்வு: 2,137 பேரில் 1,250 பேர் பங்கேற்பு",
-   "english_headline": "TNPSC technical exam in Erode: 1,250 of 2,137 applicants appeared at eight centres",
-   "category": "Government & Services",
-   "location": "Erode city, Erode district",
-   "importance": "Medium",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "தேர்வு செய்தி",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் டி.என்.பி.எஸ்.சி. தேர்வு",
-    "hl2": "1,250 பேர் பங்கேற்பு",
-    "slides": [
-     {
-      "title": "தேர்வு விவரம்",
-      "lines": [
-       "ஒருங்கிணைந்த தொழில்நுட்பப் பணிக்கான எழுத்துத் தேர்வு நேற்று",
-       "ஈரோடு மாவட்டத்தில் <b>எட்டு</b> மையங்களில் நடந்தது",
-       "தமிழ்நாடு அரசு பணியாளர் தேர்வாணையம் நடத்தியது"
-      ]
-     },
-     {
-      "title": "பங்கேற்பு நிலவரம்",
-      "lines": [
-       "விண்ணப்பித்த <b>2,137</b> பேரில் <b>1,250</b> பேர் மட்டுமே பங்கேற்றனர்",
-       "<b>887</b> பேர் தேர்வைப் புறக்கணித்தனர்"
-      ]
-     },
-     {
-      "title": "கலெக்டர் பார்வை",
-      "lines": [
-       "ஈரோட்டில் ஒரு மையத்தில் நடந்த தேர்வை கலெக்டர் கந்தசாமி",
-       "தேர்வு நடைமுறைகளை அவர் நேரில் ஆய்வு செய்தார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோட்டில் டி என் பி எஸ் சி தேருக்கு 2,137 பேர் விண்ணப்பித்திருந்தனர். நேற்று நடந்த எழுத்துத் தேர்வில் 1,250 பேர் மட்டுமே பங்கேற்றனர். 887 பேர் தேர்வைப் புறக்கணித்தனர். தமிழ்நாடு அரசு பணியாளர் தேர்வாணையம் சார்பில் ஒருங்கிணைந்த தொழில்நுட்பப் பணிக்கான எழுத்துத் தேர்வு நடைபெற்றது. ஈரோடு மாவட்டத்தில் எட்டு மையங்களில் தேர்வு நடந்தது. ஈரோட்டில் ஒரு மையத்தில் நடந்த தேர்வை கலெக்டர் கந்தசாமி பார்வையிட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஈரோட்டில் டி.என்.பி.எஸ்.சி. தேர்வு: 2,137 பேரில் 1,250 பேர் மட்டுமே பங்கேற்பு\n\n📰 முழு விவரம்:\nதமிழ்நாடு அரசு பணியாளர் தேர்வாணையம் சார்பில் ஒருங்கிணைந்த தொழில்நுட்பப் பணிக்கான எழுத்துத் தேர்வு நேற்று நடைபெற்றது. ஈரோடு மாவட்டத்தில் எட்டு மையங்களில் தேர்வு நடந்தது.\nவிண்ணப்பித்த 2,137 பேரில் 1,250 பேர் மட்டுமே தேர்வில் பங்கேற்றனர். 887 பேர் தேர்வைப் புறக்கணித்தனர்.\nஈரோட்டில் ஒரு மையத்தில் நடந்த தேர்வை கலெக்டர் கந்தசாமி பார்வையிட்டார்.\n\n📍 இடம்: ஈரோடு, ஈரோடு மாவட்டம்\n🗓️ நாள்: 15 நவம்பர் 2026 (நேற்று)\n📝 தேர்வு: ஒருங்கிணைந்த தொழில்நுட்பப் பணி எழுத்துத் தேர்வு\n\nTNPSC technical exam Erode 1,250 appeared | Erode news\n📍 ஈரோடு, ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ஈரோடு #ErodeNews #TNPSC",
-   "prompts": "A rows of TNPSC candidates sit at wooden desks inside a government examination hall in Erode city, writing on answer sheets during the written test for the combined technical services. Seen from the back of the room, the young men in plain shirts and trousers and the women in cotton sarees and salwar kameez are bent over their papers, with question papers, pens and water bottles on the desks. A few invigilators in formal shirts stand near the front wall beside a wall clock. The hall has high windows letting in soft daylight, ceiling fans overhead, and rows of empty benches showing the many seats left vacant by absent applicants. The camera is at eye level from the back of the hall, 35 mm, wide enough to show the full room and the orderly rows of examinees. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a candidate's desk during the TNPSC technical examination in Erode: a sheet of printed question paper, a pen, and a neatly filled answer sheet lie on a wooden desk, with a hand holding a pen mid-writing at the edge of the frame. Beside it sits a steel water tumbler and a small admit card placed face down. Behind, slightly blurred, rows of other desks and seated candidates in shirts and sarees fade into the hall. Soft natural daylight from a window falls across the papers, giving a calm, focused mood. The camera is close and slightly high, 35 mm, shallow depth of field, with no readable text visible on any paper. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/1250-people-participated-in-the--exam/4377449",
-   "published": "2026-11-16T06:40:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834212/erode360/oylvvnzv6vphps6jmqpz.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834218/erode360/o7pibv4l25fqghxwiolj.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் 14,110 பேருக்கு அடிப்படை எழுத்தறிவுத் தேர்வு நேற்று நடந்தது",
-   "english_headline": "Basic literacy exam held in Erode district yesterday for 14,110 people across 842 centres",
-   "category": "Education",
-   "location": "Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்வி",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "ஈரோட்டில் அடிப்படை எழுத்தறிவுத் தேர்வு",
-    "hl2": "14,110 பேர் எழுத ஏற்பாடு",
-    "slides": [
-     {
-      "title": "எப்போது, எங்கே?",
-      "lines": [
-       "நேற்று ஈரோடு மாவட்டத்தில் தேர்வு நடந்தது",
-       "மொத்தம் <b>842 மையங்களில்</b> தேர்வு",
-       "புதிய பாரதம் எழுத்தறிவு திட்டத்தின் கீழ் நடத்தப்பட்டது"
-      ]
-     },
-     {
-      "title": "யார் எழுத ஏற்பாடு?",
-      "lines": [
-       "<b>14,110 பேர்</b> எழுத ஏற்பாடு செய்யப்பட்டிருந்தது",
-       "பள்ளி சாரா மற்றும் வயது வந்தோர் கல்வி இயக்கம் ஏற்பாடு",
-       "150 மதிப்பெண்ணுக்குத் தேர்வு நடந்தது"
-      ]
-     },
-     {
-      "title": "தேர்ச்சி எப்படி?",
-      "lines": [
-       "மூன்று பாடத்திலும் தலா <b>20 மதிப்பெண்</b> பெற வேண்டும்",
-       "தேர்ச்சி பெற்றோருக்கு அரசின் சார்பில் சான்றிதழ்",
-       "தேர்வை கலெக்டர் கந்தசாமி, முதன்மை கல்வி அலுவலர் மான்விழி"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டத்தில் 14,110 பேருக்கு அடிப்படை எழுத்தறிவுத் தேர்வு நடத்த ஏற்பாடு செய்யப்பட்டிருந்தது. இத்தேர்வு நேற்று நடைபெற்றது. பள்ளி கல்வித்துறையின் பள்ளி சாரா மற்றும் வயது வந்தோர் கல்வி இயக்கம் சார்பில், புதிய பாரதம் எழுத்தறிவு திட்டத்தின் கீழ் இத்தேர்வு நடத்தப்பட்டது. மொத்தம் 842 மையங்களில் தேர்வு நடைபெற்றது. மொத்தம் 150 மதிப்பெண்ணுக்குத் தேர்வு நடைபெற்றது. மூன்று பாடங்களிலும் தலா 20 மதிப்பெண் பெற்றால் தேர்ச்சி பெற்றதாகக் கருதப்படுவர். தேர்ச்சி பெறுவோருக்கு அரசின் சார்பில் சான்றிதழ் வழங்கப்படும். தேர்வை கலெக்டர் கந்தசாமி, முதன்மை கல்வி அலுவலர் மான்விழி ஆகியோர் ஆய்வு செய்தனர். தேசிய கல்வி ஆராய்ச்சி மற்றும் பயிற்சி குழுவில் உள்ள டில்லி ஆலோசகர் ஜோதி திவாரி உள்ளிட்டோரும் குழுவாக ஆய்வு செய்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📝 ஈரோட்டில் 14,110 பேருக்கு அடிப்படை எழுத்தறிவுத் தேர்வு நடந்தது\n\n📰 முழு விவரம்:\nபள்ளி கல்வித்துறையின் பள்ளி சாரா மற்றும் வயது வந்தோர் கல்வி இயக்கம் சார்பில், புதிய பாரதம் எழுத்தறிவு திட்டத்தில் அடிப்படை எழுத்தறிவுத் தேர்வு ஈரோடு மாவட்டத்தில் நேற்று நடைபெற்றது.\nமொத்தம் 842 மையங்களில் 14,110 பேர் எழுத ஏற்பாடு செய்யப்பட்டிருந்தது.\nமொத்தம் 150 மதிப்பெண்ணுக்குத் தேர்வு நடைபெற்றது. மூன்று பாடங்களிலும் தலா 20 மதிப்பெண் பெற்றால் தேர்ச்சி பெற்றதாகக் கருதப்படுவர். தேர்ச்சி பெறுவோருக்கு அரசின் சார்பில் சான்றிதழ் வழங்கப்படும்.\nதேர்வை கலெக்டர் கந்தசாமி, முதன்மை கல்வி அலுவலர் மான்விழி, தேசிய கல்வி ஆராய்ச்சி மற்றும் பயிற்சி குழுவில் டில்லி ஆலோசகர் ஜோதி திவாரி உள்ளிட்டோர் குழுவாக ஆய்வு செய்தனர்.\n\nErode basic literacy exam, 14,110 candidates | Erode news\n📍 ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #கல்வி #ஈரோடு",
-   "prompts": "A long hall of a government school in Erode district fills with adult learners sitting at wooden benches, each bent over question papers and writing with pencils during the basic literacy examination. The room has whitewashed walls, a tiled roof with ceiling fans, and tall windows letting in morning daylight. Men in shirts and veshti and women in cotton sarees and salwar sit side by side, many of them older, some with glasses, all quietly focused on their answer sheets. A government invigilator in a light shirt walks between the rows, and a small table at the front holds stacks of question papers and a tray of sharpened pencils. Shot from the back of the room at eye level with a 35 mm lens, wide enough to show the rows of desks, the blackboard and the calm concentration of the candidates. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a wooden school desk covered with an exam question paper printed with Tamil text, a sharpened pencil resting beside it, and a neatly filled answer sheet with rows of handwriting. The desk sits in a government school classroom in Erode district, with a worn bench edge and a corner of a blue plastic chair in the frame. Soft daylight from a nearby window falls across the paper, and a hand holding a pencil enters from the side, shown only from the wrist down, with no face visible. The surface shows the simple tools of basic literacy: paper, pencil and eraser. Shot at eye level with a 35 mm lens, shallow depth of field keeping the foreground desk sharp and the background classroom softly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/the-basic-character-test-was-written-by-14110-people/4377443",
+   "reel_script": "ஈரோட்டில் ஐயப்ப பக்தர்களுக்கான பொருட்கள் விற்பனைக்கு குவிக்கப்பட்டுள்ளன. நாளை கார்த்திகை மாதம் பிறப்பதால் இந்த ஏற்பாடு. ஈரோடு ஈஸ்வரன் கோவில் வீதி மொத்த விற்பனை கடைகளில் மாலைகள், வேட்டி, துண்டு, இருமுடி பை, ஜோல்னா பை விற்பனைக்கு வைக்கப்பட்டுள்ளன. துளசி மாலை, சந்தன மாலை, ருத்ராட்ச மாலை ஆகியவை விற்பனைக்கு வந்துள்ளன. கருப்பு, நீலம், காவி நிற வேட்டி, துண்டுகளும் கிடைக்கின்றன. மாலை 60 முதல் 130 ரூபாய் வரை விற்கப்படுகிறது. வேட்டி, துண்டு 150 முதல் 600 ரூபாய் வரை விற்கப்படுகிறது. இருமுடி பை, ஜோல்னா பை 100 முதல் 400 ரூபாய் வரை விற்கப்படுகிறது. சில்லறை விற்பனைக்காக வியாபாரிகளும் பக்தர்களும் இவற்றை வாங்கிச் செல்கின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 ஈரோட்டில் ஐயப்ப பக்தர்களுக்கான பொருட்கள் குவிப்பு - மாலை ₹60 முதல்\n\n📰 முழு விவரம்:\nநாளை கார்த்திகை மாதம் பிறப்பதால், ஐயப்ப பக்தர்கள் பயன்படுத்தும் மாலை, வேட்டி, துண்டு, துணிப்பை உள்ளிட்ட பொருட்கள் ஈரோட்டில் பல இடங்களில் விற்பனைக்கு குவிக்கப்பட்டுள்ளன. ஈரோடு ஈஸ்வரன் கோவில் வீதி மொத்த விற்பனை கடைகளில் மாலைகள், வேட்டி, துண்டு, இருமுடி பை, ஜோல்னா பை விற்பனைக்கு வைக்கப்பட்டுள்ளன. துளசி, சந்தன, ருத்ராட்ச மாலைகள், கருப்பு, நீலம், காவி நிற வேட்டி, துண்டுகள் வந்துள்ளன. வியாபாரிகளும் பக்தர்களும் சில்லறை விற்பனைக்காக வாங்கிச் செல்கின்றனர்.\n\n📍 இடம்: ஈஸ்வரன் கோவில் வீதி, ஈரோடு\n🗓️ நாள்: கார்த்திகை மாதம் பிறக்கும் நாள் (நாளை)\n💰 விலை: மாலை ₹60 - ₹130, வேட்டி, துண்டு ₹150 - ₹600, இருமுடி பை, ஜோல்னா பை ₹100 - ₹400\n\nAyyappa devotee items Erode Karthigai | Erode news\n📍 ஈஸ்வரன் கோவில் வீதி, ஈரோடு | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Erode #ErodeNews #ஈரோடு",
+   "prompts": "A wide view of a busy market street in Erode city, specifically Eeswaran Kovil Street, where wholesale shops are lined up. The main action is the massive piling of Ayyappa devotee items ready for sale as the Karthigai month begins. The street is filled with open-air displays of goods. Wholesale traders, men in shirts and trousers, are seen from behind or at a distance, arranging the merchandise. Devotees, men in shirts and veshti, are browsing the items. The scene is dominated by large, colorful heaps of 'malai' (garlands) in shades of red, white, and brown, alongside stacks of 'veti' (dhotis) in black, blue, and saffron. 'Irumudi' bags and 'jorna' bags are also visible in piles. The lighting is bright daylight, typical of a market day. The camera is positioned at eye level, 35 mm, capturing the density of the goods and the activity of the street without showing any readable text or faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail shot focusing on a specific pile of Ayyappa devotee items on the floor of a shop in Eeswaran Kovil Street. The subject is a neat stack of 'irumudi' bags and 'jorna' bags, placed next to bundles of 'thundu' (cloth pieces) in saffron and black. The texture of the fabric and the distinct shape of the bags are clearly visible. In the blurred background, the legs of a trader in trousers can be seen, indicating the presence of a merchant. The lighting is natural daylight, highlighting the colors of the saffron and black fabrics. The camera is slightly high, looking down at the objects, using a 35 mm lens to keep the focus sharp on the items while softening the surroundings. This shot emphasizes the specific goods mentioned in the news, such as the bags and cloth, without any readable labels or signs. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tomorrow-nativity-of-the-month-of-karthigai-collection-of-items-for-ayyappa-devotees/4377442",
    "published": "2026-11-16T06:36:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834224/erode360/m56jwmr6niaye7je5ljb.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834233/erode360/turcjf9yjzhsjauntgho.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794849691/erode360/mrxxfoxltkyvpq6abucv.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794849708/erode360/ygpg08eaehe9ppbcyjm3.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோடு மாவட்டத்தில் 80 அரசு உயர்நிலைப் பள்ளிகளில் தலைமை ஆசிரியர் இல்லை",
-   "english_headline": "80 government high schools in Erode district have no headmaster as 10th board exams approach; parents fear a drop in pass percentage",
-   "category": "Education",
-   "location": "Erode district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "திண்டல் வேலாயுத சுவாமி கோயிலில் சூரசம்ஹார விழா: மக்கள் வெள்ளத்தில் கோலாகலம்",
+   "english_headline": "Soora Samharam festival at Thindal Velayutha Swamy temple draws huge crowds in Erode",
+   "category": "Temples & Events",
+   "location": "Thindal Velayutha Swamy temple, Erode district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்வி",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "ஈரோட்டில் 80 பள்ளிகளில் தலைமை ஆசிரியர்",
-    "hl2": "10ம் வகுப்பு தேர்ச்சி",
+    "cat": "கோயில் விழா",
+    "loc": "திண்டல், ஈரோடு",
+    "hl1": "திண்டல் சூரசம்ஹார விழா கோலாகலம்",
+    "hl2": "மக்கள் வெள்ளத்தில் நடந்தது",
     "slides": [
      {
-      "title": "எத்தனை பள்ளிகள்?",
+      "title": "விழா எப்போது?",
       "lines": [
-       "ஈரோடு மாவட்ட அரசு உயர்நிலைப் பள்ளிகளில் <b>80</b>",
-       "100க்கும் மேற்பட்ட தலைமை ஆசிரியர் பணியிடங்கள் காலியாக உள்ளன",
-       "அரையாண்டுத் தேர்வு நெருங்கும் நேரம் இது"
+       "ஞாயிற்றுக்கிழமை மாலை சூரசம்ஹார நிகழ்ச்சி தொடங்கியது",
+       "திண்டல் வேலாயுத சுவாமி கோயில், ஈரோடு",
+       "கந்த சஷ்டி விழா <b>10ஆம் தேதி</b> கணபதி ஹோமத்துடன் தொடங்கியது"
       ]
      },
      {
-      "title": "ஏன் பிரச்சினை?",
+      "title": "விழாவில் என்ன",
       "lines": [
-       "ஜூன் மாதமே கவுன்சலிங் மூலம் நிரப்பியிருக்க வேண்டும்",
-       "இந்த ஆண்டு கவுன்சலிங் தாமதமாகத் தொடங்கியது",
-       "நீதிமன்ற உத்தரவால் கவுன்சலிங் மூலம் நிரப்ப முடியவில்லை"
+       "முருகன், வீரபாகு மலர் அலங்கார சப்பரத்தில் அடிவாரத்துக்கு",
+       "தாரகாசுரன், சிங்கமுகாசுரன், சூரபத்மன் வதம் நடந்தது",
+       "வாணவெடிகள் வெடிக்க ஆயிரக்கணக்கான பக்தர்கள் தரிசனம்"
       ]
      },
      {
-      "title": "பாதிப்பு என்ன?",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "உதவி தலைமை ஆசிரியர் அல்லது சீனியர் ஆசிரியர் பொறுப்பில்",
-       "வகுப்பாசிரியர் பணியும் சேர்ந்து பணிச்சுமை அதிகரிக்கிறது",
-       "10ம் வகுப்பு தேர்ச்சி சதவீதம் பின்தங்கும் அபாயம்"
-      ]
-     },
-     {
-      "title": "பெற்றோர் கோரிக்கை",
-      "lines": [
-       "உயர்நிலைப் பள்ளிகளில் தலைமை ஆசிரியர்களை உடனடியாக நியமிக்க",
-       "இதற்காகச் சட்டரீதியான நடவடிக்கை எடுக்க வேண்டும் என பெற்றோர்",
-       "கடந்த ஆண்டைப் போல இந்த ஆண்டும் பின்தங்கக்கூடாது"
+       "திங்கள்கிழமை <b>நவம்பர் 16</b> காலை <b>8.30 மணிக்கு</b>",
+       "நண்பகல் <b>12 மணிக்கு மேல்</b> திருக்கல்யாண விருந்து",
+       "பக்தர்கள் தினமும் பால் குடம் சுமந்து ஊர்வலமாக வந்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு மாவட்டத்தில் 80 அரசு உயர்நிலைப் பள்ளிகளில் தலைமை ஆசிரியர் பணியிடம் காலியாக உள்ளது. 100க்கும் மேற்பட்ட தலைமை ஆசிரியர் பணியிடங்கள் காலியாக இருப்பதாகப் பெற்றோர் தெரிவித்துள்ளனர். அரையாண்டுத் தேர்வு நெருங்கும் நிலையில் இந்தப் பிரச்சினை பெரும் பின்னடைவை ஏற்படுத்தியுள்ளது. ஜூன் மாதமே கவுன்சலிங் மூலம் காலியிடங்களை நிரப்பியிருக்க வேண்டும் என்று பெற்றோர் கூறுகின்றனர். இந்த ஆண்டு கவுன்சலிங் தாமதமாகத் தொடங்கியது. நீதிமன்ற உத்தரவால் கவுன்சலிங் மூலம் தலைமை ஆசிரியர்களை நிரப்ப முடியாத நிலை ஏற்பட்டுள்ளது. தற்போது உதவி தலைமை ஆசிரியர் அல்லது சீனியர் ஆசிரியர்களே தலைமைப் பொறுப்பை கவனித்து வருகின்றனர். அவர்களுக்கு வகுப்பாசிரியர் பணியும் கூடுதலாக இருப்பதால் பணிச்சுமை அதிகரிக்கிறது. இதனால் கவனக்குறைவு ஏற்படுகிறது. இதே நிலை நீடித்தால் 10ம் வகுப்பு பொதுத்தேர்வில் ஈரோடு மாவட்டம் தேர்ச்சி சதவீதத்தில் பின்தங்கும் அபாயம் உள்ளது. எனவே உயர்நிலைப் பள்ளிகளில் தலைமை ஆசிரியர்களை உடனடியாக நியமிக்க சட்டரீதியான நடவடிக்கை எடுக்க வேண்டும் என்று பெற்றோர் கோரிக்கை விடுக்கின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஈரோட்டில் 80 அரசு உயர்நிலைப் பள்ளிகளில் தலைமை ஆசிரியர் இல்லை\n\n📰 முழு விவரம்:\nஈரோடு மாவட்ட அரசு உயர்நிலைப் பள்ளிகளில் 100க்கும் மேற்பட்ட தலைமை ஆசிரியர் பணியிடங்கள் காலியாக உள்ளன. இதில் 80 உயர்நிலைப் பள்ளிகளில் தலைமை ஆசிரியர் இடம் காலியாக உள்ளது.\nஜூன் மாதமே கவுன்சலிங் மூலம் காலியிடங்களை நிரப்பியிருக்க வேண்டும் என பெற்றோர் கூறுகின்றனர். இந்த ஆண்டு கவுன்சலிங் தாமதமாகத் தொடங்கியது. நீதிமன்ற உத்தரவால் கவுன்சலிங் மூலம் தலைமை ஆசிரியர்களை நிரப்ப முடியாத நிலை ஏற்பட்டுள்ளது.\nதற்போது உதவி தலைமை ஆசிரியர் அல்லது சீனியர் ஆசிரியரே தலைமைப் பொறுப்பை கவனிக்கின்றனர். அவர்களுக்கு வகுப்பாசிரியர் பணியும் சேர்ந்துள்ளதால் பணிச்சுமை அதிகரித்து, கவனக்குறைவு ஏற்படுகிறது.\nஇதே நிலை நீடித்தால் கடந்த ஆண்டைப் போல இந்த ஆண்டும் 10ம் வகுப்பு பொதுத்தேர்வில் ஈரோடு மாவட்டம் தேர்ச்சி சதவீதத்தில் மிகவும் பின்தங்கும் சூழல் உள்ளது.\n🏫 கோரிக்கை: உயர்நிலைப் பள்ளிகளில் தலைமை ஆசிரியர்களை உடனடியாக நியமிக்க சட்டரீதியான நடவடிக்கை எடுக்க வேண்டும் என பெற்றோர் வலியுறுத்துகின்றனர்.\n\nErode 80 government high schools without headmasters, 10th exam worry | Erode news\n📍 ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #கல்வி #ஈரோடு",
-   "prompts": "A group of parents stands outside the gate of a government high school in Erode district, seen from behind at a slight distance, as a senior teacher in a plain cotton shirt and trousers stands at the entrance with a register file under his arm, looking toward them. Behind the gate is a single-storey government school building with a tiled roof, a cement compound wall, and a row of school students in Tamil Nadu government school uniform (white shirts, navy skirts and trousers) walking toward a classroom. The setting is a typical Erode district town school in daylight, with a few two-wheelers parked near the compound wall and a faded painted wall with no readable text. The parents wear sarees and shirts with veshti, some holding folded papers, showing their worried stance. Camera at eye level, 35 mm lens, wide enough to show the school building, gate and the people. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a wooden school desk inside a government high school classroom in Erode district, with a stack of 10th standard question papers and a worn exercise book on it, a pencil and a steel water tumbler placed beside them. Behind the desk, a blackboard with chalk marks and a single wall clock, with slanted daylight from a window falling across the papers. Out of focus in the background, a class teacher's chair stands empty, suggesting the absent headmaster's role. No readable text, numbers or labels on the papers, just blurred print. Daylight, neutral tones, shallow depth of field, camera slightly high, 35 mm equivalent. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/erode-lags-behind-in-80-government-high-schools--no-class-10-board-exams/4377440",
-   "published": "2026-11-16T06:34:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஈரோடு திண்டல் வேலாயுத சுவாமி கோயிலில் சூரசம்ஹார விழா ஆயிரக்கணக்கான பக்தர்கள் வெள்ளத்தில் கோலாகலமாக நடைபெற்றது. கந்த சஷ்டி விழா கடந்த 10ஆம் தேதி கணபதி ஹோமத்துடன் தொடங்கியது. தினமும் காலையில் முருகனுக்கு சிறப்பு பூஜைகளும், மாலையில் சண்முகார்ச்சனையும் நடைபெற்றன. ஏராளமான பக்தர்கள் காப்புக் கட்டி சஷ்டி விரதம் மேற்கொண்டனர். ஈரோடு மற்றும் சுற்றுவட்டாரப் பக்தர்கள் பால் குடம் சுமந்து ஊர்வலமாக கோயிலுக்கு வந்தனர். ஞாயிற்றுக்கிழமை மாலை மலை அடிவாரத்தில் சூரசம்ஹார நிகழ்ச்சி தொடங்கியது. முருகன், அவரது படைத்தளபதி வீரபாகு ஆகியோர் மலர் அலங்கார சப்பரத்தில் மலைக்கோயிலில் இருந்து அடிவாரத்துக்கு அழைத்து வரப்பட்டனர். கிரிவலப் பாதையில் முருகன் தாரகாசுரனையும், சிங்கமுகாசுரனையும் வதம் செய்தார். பின்னர் கோயில் முன் சூரபத்மனை வதம் செய்யும் போர் நடைபெற்றது. முருகன் தனது வேலால் சூரபத்மனின் தலையைத் துண்டித்து வெற்றி வாகை சூடினார். வாணவெடிகள் வெடிக்க, ஆயிரக்கணக்கான பக்தர்கள் முருகனை தரிசனம் செய்தனர். திங்கள்கிழமை நவம்பர் 16ஆம் தேதி காலை 8.30 மணிக்கு வேலாயுத சுவாமிக்கும் வள்ளி, தெய்வானைக்கும் திருக்கல்யாண உற்சவம் நடைபெறும். நண்பகல் 12 மணிக்கு மேல் திருக்கல்யாண விருந்து நடைபெறும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🙏 ஈரோடு திண்டல் வேலாயுத சுவாமி கோயிலில் சூரசம்ஹார விழா கோலாகலம்\n\n📰 முழு விவரம்:\nஈரோடு திண்டல் வேலாயுத சுவாமி கோயிலில் சூரசம்ஹார விழா ஞாயிற்றுக்கிழமை மக்கள் வெள்ளத்தில் கோலாகலமாக நடைபெற்றது. கந்த சஷ்டி விழா கணபதி ஹோமத்துடன் கடந்த 10ஆம் தேதி தொடங்கியது. தினமும் காலையில் முருகனுக்கு சிறப்பு பூஜைகளும், தீபாராதனையும், மாலையில் சண்முகார்ச்சனையும் நடைபெற்றன. ஏராளமான பக்தர்கள் காப்புக் கட்டி சஷ்டி விரதம் மேற்கொண்டனர். ஈரோடு மற்றும் சுற்றுவட்டாரப் பகுதி பக்தர்கள் பால் குடம் சுமந்து ஊர்வலமாக கோயிலுக்கு வந்தனர்.\n⚔️ ஞாயிற்றுக்கிழமை மாலை மலை அடிவாரத்தில் சூரசம்ஹார நிகழ்ச்சி தொடங்கியது. முருகன், வீரபாகு மலர் அலங்கார சப்பரத்தில் அடிவாரத்துக்கு அழைத்து வரப்பட்டனர். கிரிவலப் பாதையில் தாரகாசுரன், சிங்கமுகாசுரன் வதம் நடைபெற்றது. பின்னர் கோயில் முன் சூரபத்மனின் தலை வேலால் துண்டிக்கப்பட்டு வதம் செய்யப்பட்டது.\n🎆 வாணவெடிகள் வெடிக்க, ஆயிரக்கணக்கான பக்தர்கள் வெற்றிவேல் முருகனுக்கு அரோகரா முழக்கமிட்டு தரிசனம் செய்தனர்.\n🕗 நாள்: திங்கள்கிழமை (நவம்பர் 16) காலை 8.30 மணிக்கு வேலாயுத சுவாமிக்கும் வள்ளி-தெய்வானைக்கும் திருக்கல்யாண உற்சவம்; நண்பகல் 12 மணிக்கு மேல் திருக்கல்யாண விருந்து\n\nThindal Velayutha Swamy temple Soora Samharam festival Erode | Erode news\n📍 திண்டல், ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Thindal #ErodeNews #ஈரோடு",
+   "prompts": "A flower-decorated palanquin carrying the deity Lord Murugan and his commander Veerabagu is carried down the hill steps toward the foot of the Thindal Velayutha Swamy temple as thousands of devotees surge forward in the Soora Samharam festival on a Sunday evening in Erode. The scene is the open ground below the hill, with the temple gopuram lit up by strings of bulbs against the dusk sky and a rooster-emblem flag flying from the temple tower. Devotees fill the space from the front to the back, mostly men in white veshti and shirts and women in bright cotton and silk sarees, many raising their hands and bodies as they shout in devotion; some stand on low walls and wooden barricades to see. Police in khaki stand at the edges keeping a lane open. Above the crowd, fireworks burst in red, green and gold, and smoke drifts across the lights. It is night-time, lit by the temple lamps, floodlights and firework glow. Camera: eye level, slightly elevated from behind the crowd, 35 mm lens, wide enough to show the hill steps, temple tower and the whole dense crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a flower-decorated palanquin (sappharam) with garlands of marigolds and jasmine, carrying the idol of Lord Murugan, with a sacred rooster-emblem flag (sevval kodi) rising beside it against the night sky. Lit by a cluster of golden lamps and temple lights, the petals glow in warm yellow and orange tones. Below the palanquin, the hands of devotees and temple priests grip the poles, and a few flower petals lie scattered on the stone steps. The background is blurred with fireworks sparkling in the dark sky above the temple and the faint shapes of the hill. Camera: close-up at shoulder height, shallow depth of field, 50 mm lens, with the people seen only from behind or as blurred hands and shoulders. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/திண்டல்-வேலாயுத-சுவாமி-கோயிலில்-சூரசம்ஹார-விழா-மக்கள்-வெள்ளத்தில்-கோலாகலம்",
+   "published": "2026-11-15T21:49:26.184Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834240/erode360/fwa9kwkdfkhcvnlhkyxi.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834243/erode360/r9atwibesjnnmpsigx3l.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794849717/erode360/bmvlsms4cpgjuznh4jyk.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794849751/erode360/gw9no2rt5h9knmeyf8ut.jpg"
    ]
   },
   {
-   "tamil_headline": "விலை இருந்தும் மழை இல்லாததால் ஈரோட்டில் மஞ்சள் சாகுபடி பரப்பு குறைந்தது",
-   "english_headline": "Turmeric cultivation falls in Erode despite good prices due to lack of rain",
-   "category": "Weather & Agriculture",
-   "location": "Erode city, Erode district",
+   "tamil_headline": "சென்னிமலை, திண்டல், பச்சைமலையில் சஷ்டி சூரசம்ஹார விழா கோலாகலம்",
+   "english_headline": "Soorasamharam festival celebrated grandly at Chennimalai, Thindal and Pachaimalai temples in Erode district",
+   "category": "Temples & Events",
+   "location": "Chennimalai, Thindal, Pachaimalai, Erode district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் மஞ்சள் சாகுபடி பரப்பு",
-    "hl2": "மழை இல்லாததால் தவிப்பு",
+    "cat": "கோவில் விழா",
+    "loc": "சென்னிமலை",
+    "hl1": "சென்னிமலையில் சூரசம்ஹார விழா கோலாகலம்",
+    "hl2": "ஆயிரக்கணக்கான பக்தர்கள்",
     "slides": [
      {
-      "title": "என்ன நிலை?",
+      "title": "சென்னிமலை விழா",
       "lines": [
-       "ஈரோட்டில் மஞ்சள் சாகுபடி பரப்பு குறைந்துள்ளது",
-       "விலை இருந்தும் மழை இல்லாததால் விவசாயிகள் தவிப்பு",
-       "கடந்தாண்டு <b>11,900 ஏக்கர்</b>; இந்தாண்டு <b>9,800"
+       "சென்னிமலை சுப்பிரமணிய சுவாமி கோவிலில் சூரசம்ஹார விழா நடந்தது",
+       "நிகழ்ச்சி <b>10ம் தேதி</b> காலை தொடங்கியது",
+       "மதியம் <b>1:30 மணிக்கு</b> சக்திவேல் வாங்கும் வைபோகம் நடந்தது"
       ]
      },
      {
-      "title": "ஏன் குறைந்தது?",
+      "title": "சூரன் வதம்",
       "lines": [
-       "மழை, பாசன நீர் பற்றாக்குறை",
-       "கடுமையான வெயில், சீதோஷ்ண நிலை மாற்றம்",
-       "விளைச்சல் குறைந்து நஷ்டம் சந்திக்கும் விவசாயிகள்"
+       "இரவு <b>9:00 மணிக்கு</b> நான்கு ராஜவீதிகளில் வதம் நடந்தது",
+       "ஜெகமகாசூரன், சிங்கமுகாசூரன், வானுகோபன், சூரபத்மன் வதம்",
+       "ஆயிரக்கணக்கான பக்தர்கள் கண்டு களித்தனர்"
       ]
      },
      {
-      "title": "விலை நிலவரம்",
+      "title": "திண்டல், பச்சைமலை",
       "lines": [
-       "கடந்த ஒரு வாரமாக குவிண்டால் மஞ்சள் <b>ரூ.24,500</b>க்கு விலை போனது",
-       "விளைச்சல் இல்லாததால் பலர் மாற்றுப் பயிருக்கு மாறுகின்றனர்",
-       "40 முதல் 60 சதவீத மகசூலைக்கூட உறுதி செய்ய முடியாது"
+       "ஈரோடு திண்டல் வேலாயுத சுவாமி கோவிலில் மாலை <b>6:00 மணிக்கு</b> வதம்",
+       "கோபி அருகே பச்சமலை முருகன் கோவிலில் நூற்றுக்கணக்கான",
+       "அந்தியூர், புளியம்பட்டி கோவில்களிலும் விழா நடந்தது"
+      ]
+     },
+     {
+      "title": "திருக்கல்யாணம்",
+      "lines": [
+       "சென்னிமலையில் இன்று காலை <b>9:00 மணிக்கு</b> திருக்கல்யாண வைபோகம்",
+       "பவளமலை முத்துக்குமாரசாமி கோவிலில் சூரசம்ஹாரம் நடந்தது",
+       "பக்தர்கள் கோவில்களில் திரண்டு வழிபட்டனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோட்டில் மஞ்சள் சாகுபடி பரப்பு குறைந்துள்ளது. கடந்தாண்டு 11,900 ஏக்கரில் மஞ்சள் சாகுபடி செய்யப்பட்டது. இந்தாண்டு மழை, பாசன நீர் இல்லாததால் 9,800 ஏக்கருக்கும் குறைவாகவே சாகுபடி செய்யப்பட்டுள்ளது. கடந்த ஒரு வாரமாக குவிண்டால் மஞ்சள் 24,500 ரூபாய்க்கு விலை போயுள்ளது. ஆனால் விளைச்சல் குறைவால் விவசாயிகள் கவலையில் உள்ளனர். கடுமையான வெயில், சீதோஷ்ண நிலை மாற்றம், போதிய மழை இல்லாதது ஆகியவை பாதிப்பை ஏற்படுத்தியுள்ளன. இதனால் பலர் மாற்றுப் பயிருக்கு மாறி வருகின்றனர். 40 முதல் 60 சதவீத மகசூலைக்கூட உறுதி செய்ய முடியாது என விவசாயிகள் தெரிவித்துள்ளனர். வேளாண் பல்கலைக்கழகங்கள் குறைந்த தண்ணீரில் அதிக மகசூல் தரும் புதிய மஞ்சள் ரகங்களை உருவாக்க வேண்டும் என கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 விலை இருந்தும் ஈரோட்டில் மஞ்சள் சாகுபடி பரப்பு குறைந்தது\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் மஞ்சள் சாகுபடி பரப்பு குறைந்துள்ளது. கடந்தாண்டு 11,900 ஏக்கரில் சாகுபடி செய்யப்பட்ட நிலையில், இந்தாண்டு மழை, பாசன நீர் இன்றி 9,800 ஏக்கருக்கும் குறைவாகவே சாகுபடி செய்யப்பட்டுள்ளது.\nகடந்த ஒரு வாரமாக குவிண்டால் மஞ்சள் 24,500 ரூபாய்க்கு விலை போயுள்ளது. ஆனாலும் விளைச்சல் குறைவால் விவசாயிகள் நஷ்டத்தை சந்திக்கின்றனர்.\nகடுமையான வெயில், சீதோஷ்ண நிலை மாற்றம், போதிய மழை இல்லாமை, பாசன நீர் பற்றாக்குறை ஆகியவை காரணமாகக் கூறப்படுகின்றன. இதனால் மாற்றுப் பயிருக்கு மாறுவது அதிகரிக்கிறது.\nஇப்பரப்பிலும் 40 முதல் 60 சதவீத மகசூலைக்கூட உறுதி செய்ய முடியாது என விவசாயிகள் கவலை தெரிவித்துள்ளனர்.\nகுறைந்த தண்ணீரில் அதிக மகசூல் தரும் புதிய மஞ்சள் ரகங்களை வேளாண் பல்கலைக்கழகங்கள் உருவாக்க வேண்டும் என விவசாயிகள் சங்கத் தலைவர் சுதந்திரராசு வலியுறுத்தியுள்ளார்.\n\nErode turmeric cultivation drops despite good price | Erode news\n📍 ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Turmeric #விவசாயம் #ErodeNews",
-   "prompts": "A group of farmers stands in a dry turmeric field in the outskirts of Erode city, looking over sparse, yellowing turmeric plants and cracked, parched brown soil under a hot, clear daylight sky. Behind them a few mud-walled farm sheds and a dry irrigation channel with no water are visible, with the Bhavani-side hills faintly in the distance. Several men in shirts and veshtis and two women in cotton sarees, seen from behind and far away, are inspecting the crop, one bending to lift a turmeric plant with its small rhizomes. A tractor-free dirt track runs through the field and a few neem trees provide thin shade. Shot at eye level, 35 mm lens, wide enough to show the whole dry field and the people, bright natural daylight, no visible text or signboards. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of freshly dug turmeric rhizomes heaped on the dry ground of a yard in Erode, bright orange-yellow fingers and rounded bulbs piled beside a few bundles of dried turmeric leaves and cracked earth. A farmer's bare feet in worn chappals and the hem of a veshti are visible at the edge of the frame, the hand of a man sorting the rhizomes into a steel bucket. Behind the pile, a blurred row of sacks and a dusty ground with dry stubble stretch into the soft-focus background. Shot close at roughly 50 mm, shallow depth of field, warm late-morning sunlight, emphasising how small and few the harvested rhizomes are due to the lack of rain. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/turmeric-loses-cultivation-area-in-erode-due-to-lack-of-rain-despite-price/4377706",
-   "published": "2026-11-16T17:54:49+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 86 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 15 ('தமிழகத்தில், 15 ஆண்டுகளில், சராசரியாக, 51,000 முதல், 1.60 லட'); 51,000 ('தமிழகத்தில், 15 ஆண்டுகளில், சராசரியாக, 51,000 முதல், 1.60 லட'); 1 ('தமிழகத்தில், 15 ஆண்டுகளில், சராசரியாக, 51,000 முதல், 1.60 லட'); 51,000 ('மழை, வறட்சி, விலை இன்மை போன்ற காரணத்தால் சாகுபடிப்பரப்பு குற'); 80,000 ('மழை, வறட்சி, விலை இன்மை போன்ற காரணத்தால் சாகுபடிப்பரப்பு குற'); 10, ('கடந்த, 10, 15 ஆண்டுகளில் அவ்வாறான ஒரு ரகத்தை கூட புதிதாக அறி')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "reel_script": "சென்னிமலையில் கந்த சஷ்டி சூரசம்ஹார விழா கோலாகலமாக நடந்தது. முருகப்பெருமான் சூரனை வதம் செய்த நிகழ்வை ஆயிரக்கணக்கான பக்தர்கள் கண்டு களித்தனர். சென்னிமலை சுப்பிரமணிய சுவாமி கோவிலில் விழா 10ம் தேதி காலை தொடங்கியது. மதியம் 1:30 மணிக்கு சக்திவேல் வாங்கும் வைபோகம் நடந்தது. இரவு 9:00 மணிக்கு நான்கு ராஜவீதிகளில் சூரன் வதம் நடந்தது. ஜெகமகாசூரன், சிங்கமுகாசூரன், வானுகோபன், சூரபத்மன் ஆகியோரை முருகப்பெருமான் வதம் செய்தார். ஈரோடு திண்டல் வேலாயுத சுவாமி கோவிலில் மாலை 6:00 மணிக்கு சூரசம்ஹாரம் நடந்தது. கோபி அருகே பச்சமலை முருகன் கோவிலில் நேற்று காலை 6:00 மணிக்கு விழா தொடங்கியது. பச்சைமலை முருகன் கோவிலில் நான்கு இடங்களில் சூரன் வதம் நடந்தது. இன்று காலை 9:00 மணிக்கு சென்னிமலையில் திருக்கல்யாண வைபோகம் நடக்கிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🙏 சென்னிமலையில் சஷ்டி சூரசம்ஹார விழா கோலாகலம், ஆயிரக்கணக்கான பக்தர்கள் குவிந்தனர்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் சென்னிமலை, திண்டல், பச்சைமலை, பவளமலை உள்ளிட்ட கோவில்களில் கந்த சஷ்டி சூரசம்ஹார விழா நேற்று கோலாகலமாகக் கொண்டாடப்பட்டது. பக்தர்கள் மத்தியில் முருகப்பெருமான் சூரனை வதம் செய்தார்.\nசென்னிமலை சுப்பிரமணிய சுவாமி கோவிலில் விழா 10ம் தேதி காலை தொடங்கியது. ஆறாவது நாளாக நேற்று சிறப்பு அபிஷேகம், யாக பூஜை நடந்தது. மதியம் 1:30 மணிக்கு சக்திவேல் வாங்கும் வைபோகம் நடந்தது.\nஇரவு 9:00 மணிக்கு மேளதாளத்துடன் நான்கு ராஜவீதிகளில் சூரன் வதம் நடந்தது. மேற்கு ராஜவீதியில் ஜெகமகாசூரன், வடக்கு ராஜவீதியில் சிங்கமுகாசூரன், கிழக்கு ராஜவீதியில் வானுகோபன், தெற்கு வீதியில் சூரபத்மன் வதம் செய்யப்பட்டனர்.\n🕘 திண்டல் வேலாயுத சுவாமி கோவிலில் நேற்று காலை 9:00 மணிக்கு யாக பூஜை நடந்தது. மாலை 6:00 மணிக்கு சூரசம்ஹாரம் நடந்தது. இடையன்காட்டுவலசு ஸ்ரீராஜகணபதி கோவில் உட்பட மாநகரில் பல முருகன் கோவில்களிலும் சூரசம்ஹாரம் நடந்தது.\n🏔️ கோபி அருகே பச்சமலை முருகன் கோவிலில் நேற்று காலை 6:00 மணிக்கு விழா தொடங்கியது. காலை 9:00 மணிக்கு சக்திவேல் வாங்குதல் நடந்தது. பச்சைமலை ரோடு, மேட்டுப்பாளையம், புதுப்பாளையம் உள்ளிட்ட நான்கு இடங்களில் சூரன் வதம் நடந்தது. பின்னர் பன்னீர் அபிஷேகம் நடந்தது.\n🛕 அந்தியூர் தேர்வீதி பாலதண்டாயுதபாணி கோவில், அந்தியூர் முத்துக்குமாரசாமி கோவில், புளியம்பட்டி தண்டாயுதபாணி சுவாமி கோவில் ஆகியவற்றிலும் விழா உற்சாகமாக நடந்தது.\n🙏 பவளமலை முத்துக்குமாரசாமி கோவிலில் கிரி வீதியில் சூரசம்ஹாரம், திருக்கல்யாண உற்சவம் நடந்தது.\n📅 சென்னிமலையில் இன்று காலை 9:00 மணிக்கு முருகப்பெருமான் திருக்கல்யாண வைபோகம் நடக்கிறது.\n\nSoorasamharam festival Chennimalai Thindal Pachaimalai | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #முருகன் #ErodeNews",
+   "prompts": "A huge crowd of devotees gathers on a temple street at the foot of Chennimalai hill during the Soorasamharam festival as the Lord Murugan's utsava idol, carried on a decorated palanquin, moves toward the asura-slaying spot. The street is one of the four Raja Veethis of the Chennimalai Subramaniya Swamy temple, lined with temple flags, lit paper lamps and colourful festoons, with the dark silhouette of the hill rising behind. Devotees, mostly men in white veshti and shirts and women in bright silk sarees, press together, some raising hands in worship and some seen from behind or far away, their faces not clearly visible. Temple priests in traditional dhoti walk ahead of the palanquin, and a nadaswaram and drum melam group plays at the front. Fireworks burst in the night sky above the hill, reflected faintly in the wet street. Night, lit by the temple lamps and festival lights. Eye-level camera at a slightly high vantage, 35 mm lens, wide enough to show the hill, the street and the crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the decorated Sakthivel spear, the sacred lance of Lord Murugan, held upright in front of an ornate brass lamp and marigold garlands at the Chennimalai hill temple during the Soorasamharam festival. The spear's golden shaft and polished silver tip catch the warm glow of oil lamps, with fresh flower petals scattered on a cloth-covered platform. In the soft background, the blurred shapes of priests in white dhoti and a few devotees seen from behind stand near the temple's lit pillars. The mood is solemn, the spear being the object handed over by the chief priest before the slaying procession begins. Early evening light mixed with lamplight, camera at eye level, 50 mm close focus with shallow depth so the background stays soft. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/murugan-sashti-surasamahara-festival-in-temples-devotees-thronged-kollakalam-chennimalai-tindal-pachaimalai/4377455",
+   "published": "2026-11-16T06:44:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); caption misses facts of the article (put every one in 📰 முழு விவரம்): 065422934 ('https://images.dinamalar.com/data/gallery_2024/gallerye_0654'); 4377455 ('https://images.dinamalar.com/data/gallery_2024/gallerye_0654'); 065433532 ('https://images.dinamalar.com/data/gallery_2024/gallerye_0654'); 065445451 ('https://images.dinamalar.com/data/gallery_2024/gallerye_0654')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834267/erode360/z4zip5u3f1ot2oj7yznv.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794834272/erode360/ipwsttmze84wc5nb6vhd.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794849772/erode360/krgg5g3xb6nzx4vrobhq.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794849776/erode360/eiia6pekkpxwtxs5olpk.jpg"
    ]
   }
  ]
