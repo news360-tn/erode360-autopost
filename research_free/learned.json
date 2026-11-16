@@ -1,46 +1,46 @@
 {
- "updated": "2026-11-16T18:30+05:30",
- "posts_measured": 55,
+ "updated": "2026-11-16T22:46+05:30",
+ "posts_measured": 59,
  "topic_weight": {
   "crime": 1.5,
-  "weather": -0.3,
-  "civic": -0.39,
+  "weather": -0.5,
+  "civic": -0.36,
   "accident": 1.5,
-  "education": -0.27,
-  "temple": -0.1,
-  "politics": 0.28
+  "education": -0.47,
+  "temple": -0.06,
+  "politics": 0.32
  },
  "topic_n": {
   "crime": 11,
-  "weather": 4,
+  "weather": 5,
   "civic": 9,
   "accident": 6,
-  "education": 8,
+  "education": 9,
   "temple": 3,
   "politics": 3,
   "power_cut": 1,
-  "poultry_agri": 1
+  "poultry_agri": 2
  },
  "best_hours_ist": [
   1,
   6,
   22,
-  18
+  17
  ],
  "top_openings": [
-  "🚨 ஈரோட்டில் லாட்டரி விற்ற 5 பேர் கைது",
   "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
   "🚨 கொடுமுடியில் சோகம்: மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழப்பு",
-  "🚨 ஈரோட்டில் பொது இடத்தில் மது அருந்திய 16 பேர் மீது வழக்கு"
+  "🚨 ஈரோட்டில் பொது இடத்தில் மது அருந்திய 16 பேர் மீது வழக்கு",
+  "🚨 அரச்சலூர் அருகே நிலப் பிரச்சனையால் பெண்ணுக்கு மிரட்டல் – எஸ்.பி. அலுவலகத்தில் "
  ],
- "avg_watch_s": 6.5,
+ "avg_watch_s": 6.6,
  "best_topics": [
   "crime",
   "accident",
   "politics"
  ],
  "weak_topics": [
-  "civic",
-  "weather"
+  "weather",
+  "education"
  ]
 }
