@@ -1,170 +1,433 @@
 {
  "log": [
   "earlier stories still waiting for images: []",
-  "instagram check: 49 recent posts read from the page",
+  "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://pukaarpetti.dailythanthi.com/road/news-68668",
-  "manual link added: https://pukaarpetti.dailythanthi.com/sewage/news-68661",
-  "candidate filter: collected=2",
-  "to write: 2 Erode district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Erode; time left 79 min",
-  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/sewage/news-68661",
-  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/road/news-68668",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/பெருந்துறை-சிப்காட்டில்-ரூ-25-லட்சம்-மதிப்பிலான-காப்பா்-பிளேட்டுகள்-திருட்டு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/நம்பியூரில்-மின்-கசிவால்-வீட்டில்-தீ",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/சுகாதாரமற்ற-முறையில்-இருந்த-3-நிறுவனங்களுக்கு-தலா-ரூ10-ஆயிரம்-அபராதம்",
+  "manual link added: https://pukaarpetti.dailythanthi.com/garbage/news-68671",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/பெருந்துறை-அருகே-சிறுமிக்கு-திருமணம்-5-போ்-மீது-வழக்கு",
+  "candidate filter: collected=5",
+  "to write: 5 Erode district candidates (max 5 stories)",
+  "round: top 5 of 5 candidates",
+  "candidates waiting: 5 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/garbage/news-68671",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
-  "filed: 2 Erode district stories (target 2), reels only",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 75 min",
+  "filed: 5 Erode district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.5-flash (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (15s)",
   "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (5s)"
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "அளுக்குளி அம்மன் நகர் வீதி மண் சாலையை சீரமைக்க பொதுமக்கள் கோரிக்கை",
-   "english_headline": "Residents demand repair of muddy unpaved road in Alukkuli near Gobichettipalayam",
+   "tamil_headline": "பவானியில் சுகாதார நிலையம் அருகே குப்பை: விஷ ஜந்துகள் நடமாட்டத்தால் மக்கள் அச்சம்",
+   "english_headline": "Garbage piled for days near Bhavani health centre; venomous creatures like snakes entering nearby homes, residents fear",
    "category": "Civic Issues",
-   "location": "Alukkuli Gobipalayam village, Gobichettipalayam taluk, Erode district",
+   "location": "Bhavani old panchayat office road, near the primary health centre, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சாலை கோரிக்கை",
-    "loc": "அளுக்குளி, கோபி",
-    "hl1": "அளுக்குளியில் மண் சாலை அவலம்",
-    "hl2": "சீரமைக்க மக்கள் கோரிக்கை",
+    "cat": "சுகாதாரம்",
+    "loc": "பவானி",
+    "hl1": "பவானியில் குப்பையால் அச்சம்",
+    "hl2": "விஷ ஜந்துகள் நடமாட்டம்",
     "slides": [
      {
-      "title": "எங்கே என்ன?",
+      "title": "எங்கே?",
       "lines": [
-       "<b>அளுக்குளி கோபிபாளையம்</b> அம்பேத்கர் நகர்",
-       "அம்மன் நகர் வீதி மண் சாலையாக உள்ளது",
-       "நடமாட முடியாமல் பொதுமக்கள் அவதி"
+       "பவானி பழைய ஊராட்சி அலுவலகம் செல்லும் வழி",
+       "ஆரம்ப சுகாதார நிலையம் எதிரே உள்ள சந்து",
+       "பல நாட்களாக குப்பை அகற்றப்படவில்லை"
       ]
      },
      {
-      "title": "வாய்க்கால் நீர்",
+      "title": "என்ன பிரச்சனை?",
       "lines": [
-       "அருகில் உள்ள பாசன வாய்க்கால்",
-       "தண்ணீர் அதிகரிக்கும் போது சாலையில் பாய்கிறது",
-       "நடக்கும்போது வழுக்கி விழும் அபாயம்"
+       "பாம்பு போன்ற விஷ ஜந்துகள் நடமாட்டம்",
+       "அவை அருகே உள்ள வீடுகளுக்குள் புகுந்து வருகின்றன",
+       "இதனால் பொதுமக்கள் அச்சப்படுகின்றனர்"
       ]
      },
      {
-      "title": "மக்கள் கோரிக்கை",
+      "title": "கோரிக்கை",
       "lines": [
-       "மண் சாலையை சீரமைக்க வேண்டும்",
-       "அதிகாரிகள் நடவடிக்கை எடுக்க மக்கள் கோரிக்கை"
+       "குப்பைகளை அகற்ற அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்",
+       "பொதுமக்களின் கோரிக்கை இதுதான்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அளுக்குளி கோபிபாளையம் அருகே மண் சாலையில் வாய்க்கால் தண்ணீர் புகுவதால் பொதுமக்கள் அவதியடைந்துள்ளனர். ஈரோடு மாவட்டம் கோபி அருகே உள்ள அளுக்குளி கோபிபாளையம் கிராமத்தின் அம்பேத்கர் நகர் பகுதியில் அம்மன் நகர் வீதி அமைந்துள்ளது. இந்த வீதி இதுவரை மண் சாலையாகவே உள்ளது. இதன் அருகே பாசன வாய்க்கால் செல்லுகிறது. பாசன வாய்க்காலில் தண்ணீர் அதிகமாக வரும்போது, அந்த நீர் வீதி சாலையில் புகுந்து விடுகிறது. இதனால் சாலை முழுவதும் சேறும் சகதியுமாக மாறி, நடந்து செல்லும் மக்கள் வழுக்கி விழும் அபாயம் ஏற்படுகிறது. இதனால் பொதுமக்கள் பெரும் சிரமத்தைச் சந்தித்து வருகின்றனர். எனவே அம்மன் நகர் வீதி சாலையை விரைந்து சீரமைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚠️ அளுக்குளி கோபிபாளையத்தில் மண் சாலை அவலம்: சீரமைக்க பொதுமக்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் அளுக்குளி கோபிபாளையம் கிராமம் அம்பேத்கர் நகர் பகுதியில் உள்ள அம்மன் நகர் வீதி மண் சாலையாக உள்ளது. அருகில் உள்ள பாசன வாய்க்காலில் தண்ணீர் அதிகமாக வரும்போது, சாலையில் நீர் புகுந்து விடுகிறது. இதனால் நடந்து செல்லும்போது வழுக்கி விழும் அபாயம் நிலவுகிறது.\n\n📍 இடம்: அம்மன் நகர் வீதி, அம்பேத்கர் நகர், அளுக்குளி, கோபி வட்டம்\n⚠️ பிரச்சனை: பாசன வாய்க்கால் நீர் மண் சாலையில் புகுவதால் வழுக்கி விழும் அபாயம்\n🙋‍♂️ கோரிக்கை: சாலையை சீரமைக்க அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும்\n\nபாதிக்கப்படும் பகுதி மக்களுக்கு Share செய்யுங்கள்\n\nAlukkuli Amman Nagar muddy road issue | Erode news\n📍 அளுக்குளி, ஈரோடு மாவட்டம் | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #CivicIssues #ஈரோடு",
-   "prompts": "A muddy, unpaved village road is partially submerged in water overflowing from a nearby irrigation canal in Amman Nagar Street, Alukkuli Gobipalayam. The narrow street is lined with simple village houses and lush green vegetation typical of the Gobichettipalayam area. Two residents, a man in a shirt and trousers and a woman in a saree, are seen from behind, carefully navigating the slippery edges of the mud-filled path to avoid the water. The irrigation canal is visible on one side of the road, with water trickling over its bank. The scene is captured at eye level during daylight under an overcast sky, using a 35mm lens to show the extent of the road damage. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the thick, slippery orange-brown mud and deep ruts on the surface of Amman Nagar Street where the irrigation canal water has settled. Stagnant water fills the deep tire tracks of a two-wheeler that has recently passed through. In the background, the blurred figures of village residents are seen from a distance, walking away from the camera. The texture of the wet earth and the reflection of the sky in the puddles highlight the poor condition of the unpaved road. The camera is positioned at a low angle to emphasize the depth of the mud and the civic issue, captured in natural daylight. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://pukaarpetti.dailythanthi.com/road/news-68668",
-   "published": "2026-11-15T23:49:05+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.5-flash, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "பவானியில் குப்பையால் விஷ ஜந்துகள் வீடுகளுக்குள் வரும் அபாயம். பவானி பழைய ஊராட்சி அலுவலகம் செல்லும் வழியில், ஆரம்ப சுகாதார நிலையம் எதிரே உள்ள சந்தில் பல நாட்களாக குப்பைகள் அப்புறப்படுத்தப்படாமல் கிடக்கின்றன. இதனால் அந்தப் பகுதியில் பாம்பு போன்ற விஷ ஜந்துகளின் நடமாட்டம் உள்ளது. அவை அருகே உள்ள வீடுகளுக்குள் புகுந்து வருகின்றன. இதனால் பொதுமக்கள் அச்சத்தில் உள்ளனர். எனவே குப்பைகளை அகற்ற அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என்று பொதுமக்கள் கோரிக்கை வைக்கின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐍 பவானியில் சுகாதார நிலையம் அருகே குப்பை குவிந்ததால் விஷ ஜந்துகள் நடமாட்டம்\n\n📰 முழு விவரம்:\nபவானி பழைய ஊராட்சி அலுவலகம் செல்லும் வழியில், ஆரம்ப சுகாதார நிலையம் எதிரே உள்ள சந்தில் பல நாட்களாக குப்பைகள் அப்புறப்படுத்தப்படவில்லை.\nஇதனால் பாம்பு போன்ற விஷ ஜந்துகளின் நடமாட்டம் உள்ளது. அவை அருகே உள்ள வீடுகளுக்குள் புகுந்து வருவதால் பொதுமக்கள் அச்சப்படுகின்றனர்.\nகுப்பைகளை அகற்ற அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என்று பொதுமக்கள் கோரிக்கை வைக்கின்றனர்.\n📍 இடம்: பவானி பழைய ஊராட்சி அலுவலகம் செல்லும் வழி, ஆரம்ப சுகாதார நிலையம் எதிரே\n\nBhavani garbage venomous snakes enter homes | Erode news\n📍 பவானி, ஈரோடு மாவட்டம் | 15 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #ErodeNews #ஈரோடு",
+   "prompts": "A large heap of mixed household garbage lies piled for days along a narrow lane in Bhavani, Erode district, opposite the primary health centre on the road to the old panchayat office. Plastic bags, torn sacks, leaves and waste spill onto the dusty roadside and the edge of the tar road. Beside the heap stands a low concrete compound wall of a government health centre and the side wall of a small residential house with a closed wooden door. A few residents in shirts and sarees stand at a distance near the lane's edge, seen from behind, looking at the pile. Daylight, slightly overcast. Camera at eye level, 35 mm, wide enough to show the lane, the health centre wall and the houses together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a rotting pile of wet household garbage on the ground at the entrance of a narrow lane in Bhavani, Erode district. Plastic packets, banana leaves, broken clay pots and food waste are heaped against the base of a cracked concrete wall, with dry grass and dark crevices around the pile where snakes could hide. A bare doorstep of a nearby house is visible at the edge of the frame, with no people in view. Daylight, flat light. Camera low, slightly above ground level, 50 mm, shallow depth of field focusing on the garbage heap. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/garbage/news-68671",
+   "published": "2026-11-15T23:51:20+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794774846/erode360/zle7hkoq7m0mxvqfvis6.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794774859/erode360/mrrt1jckmu6fo3fynota.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787693/erode360/ergdnjx4geuu3acsi2aq.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787726/erode360/frxmugomolfh3cg6axkj.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோடு தில்லைநகரில் சாக்கடை கால்வாய் அடைப்பு: தேங்கி நிற்கும் கழிவுநீரால் நோய் பரவும் அபாயம்",
-   "english_headline": "Sewage stagnation in Erode Thillai Nagar due to drainage blockage; residents fear disease outbreak",
-   "category": "Civic Issues",
-   "location": "Thillai Nagar, Erode city, Erode district",
-   "importance": "Medium",
+   "tamil_headline": "பெருந்துறை அருகே சிறுமிக்கு திருமணம்: 5 பேர் மீது வழக்கு",
+   "english_headline": "Child marriage near Perundurai: case filed against 5 people",
+   "category": "Crime & Safety",
+   "location": "Vellode, Perundurai taluk, Erode district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுகாதார சீர்கேடு",
-    "loc": "தில்லைநகர், ஈரோடு",
-    "hl1": "தில்லைநகரில் கழிவுநீர் தேக்கம்",
-    "hl2": "நோய் பரவும் அபாயம்",
+    "cat": "சிறுமி திருமணம்",
+    "loc": "வெள்ளோடு, பெருந்துறை",
+    "hl1": "பெருந்துறை அருகே சிறுமிக்கு திருமணம்",
+    "hl2": "5 பேர் மீது வழக்கு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ஈரோடு <b>தில்லைநகர்</b> சாக்கடை கால்வாயில் அடைப்பு",
-       "கழிவுநீர் செல்ல வழியின்றி தேங்கி நிற்கிறது",
-       "சுகாதார சீர்கேடு ஏற்படும் சூழல்"
+       "வெள்ளோடு பெரியகாண்டியம்மன் கோயிலில் <b>நவம்பர் 13</b> அன்று",
+       "மணமகளுக்கு <b>18 வயது</b> ஆகவில்லை",
+       "இரு வீட்டாரின் ஏற்பாட்டில் திருமணம் நடந்தது"
       ]
      },
      {
-      "title": "முக்கிய காரணம்",
+      "title": "யார் மீது வழக்கு?",
       "lines": [
-       "கால்வாயின் ஒரு முனையில் <b>தடுப்பு</b> வைக்கப்பட்டுள்ளது",
-       "குப்பைகள் மற்றும் கழிவுநீர் செல்ல வழியில்லை",
-       "ஒரே இடத்தில் கழிவுகள் தேங்குகின்றன"
+       "சிறுமியின் தாயார் ஈஸ்வரி (48 வயது)",
+       "மணமகன் கெளதம் (28 வயது)",
+       "கெளதமின் தாயார் மணிமாலா (50 வயது)"
       ]
      },
      {
-      "title": "பாதிப்புகள்",
+      "title": "எப்படி தெரிந்தது?",
       "lines": [
-       "அதிக அளவில் உற்பத்தியாகும் <b>கொசுக்கள்</b>",
-       "பல்வேறு நோய்கள் பரவ வாய்ப்பு",
-       "அதிகாரிகள் நடவடிக்கை எடுக்க எதிர்பார்ப்பு"
+       "கோவையில் உள்ள குழந்தைகள் பாதுகாப்பு மையத்துக்கு தகவல்",
+       "விசாரணையில் திருமணம் நடந்தது உறுதியானது",
+       "சென்னிமலை ஊர் நல அலுவலர் பாப்பாத்தி புகார் அளித்தார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு தில்லைநகர் பகுதியில் சாக்கடை கால்வாய் அடைப்பால் கழிவுநீர் தேங்கி சுகாதார சீர்கேடு ஏற்பட்டுள்ளது. தில்லைநகரில் உள்ள சாக்கடை கால்வாயில் தற்போது அடைப்பு ஏற்பட்டுள்ளதாகத் தகவல் வெளியாகியுள்ளது. இதனால் கழிவுநீர் வெளியேற வழியின்றி ஒரே இடத்தில் தேங்கி நிற்கிறது. மேலும் கால்வாயின் ஒரு முனையில் தடுப்பு ஒன்று வைக்கப்பட்டுள்ளது. இந்த தடுப்பினால் குப்பைகளும் கழிவுநீரும் அந்தப் பக்கம் செல்ல முடியாமல் தேங்குகின்றன. தேங்கி நிற்கும் கழிவுநீரால் அந்தப் பகுதியில் கொசுக்கள் அதிக அளவில் உற்பத்தியாகி வருகின்றன. இதனால் அப்பகுதி மக்களுக்குப் பல்வேறு நோய்கள் பரவும் அபாயம் ஏற்பட்டுள்ளது. சுகாதார சீர்கேடு ஏற்பட்டுள்ளதால் பொதுமக்கள் மிகுந்த சிரமத்திற்கு உள்ளாகியுள்ளனர். கால்வாயில் உள்ள அடைப்பை நீக்கி கழிவுநீர் சீராகச் செல்ல நடவடிக்கை எடுக்க வேண்டும் என எதிர்பார்க்கப்படுகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஈரோடு தில்லைநகரில் சாக்கடை கால்வாய் அடைப்பு: தேங்கி நிற்கும் கழிவுநீரால் நோய் பரவும் அபாயம்\n\n📰 முழு விவரம்:\nஈரோடு தில்லைநகர் பகுதியில் உள்ள சாக்கடை கால்வாயில் அடைப்பு ஏற்பட்டுள்ளது. இதன் காரணமாக கழிவுநீர் செல்ல வழியின்றி தேங்கி கிடக்கிறது. மேலும் கால்வாயின் ஒரு முனையில் தடுப்பு வைக்கப்பட்டுள்ளதால் குப்பைகளும், கழிவுநீரும் அந்தப் பக்கம் செல்ல இயலவில்லை. இதனால் அந்தப் பகுதியில் கொசுக்கள் அதிக அளவில் உற்பத்தியாகி வருகின்றன. சுகாதார சீர்கேடு ஏற்பட்டு நோய் பரவ வாய்ப்புள்ளதால் பொதுமக்கள் அச்சமடைந்துள்ளனர்.\n\n📍 இடம்: தில்லைநகர், ஈரோடு\n⚠️ பிரச்சனை: சாக்கடை கால்வாய் அடைப்பு மற்றும் கழிவுநீர் தேக்கம்\n🦟 பாதிப்பு: கொசு உற்பத்தி மற்றும் நோய் பரவும் அபாயம்\nℹ️ மக்கள் கவனத்திற்கு: சுகாதார சீர்கேடு குறித்து சம்பந்தப்பட்ட அதிகாரிகள் விரைந்து நடவடிக்கை எடுக்க வேண்டும் என எதிர்பார்க்கப்படுகிறது.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nErode Thillai Nagar drainage blockage sewage stagnation | Erode news\n📍 Thillai Nagar, Erode | 16 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeCity #ErodeNews #ஈரோடு",
-   "prompts": "Black stagnant sewage water overflows from a concrete drainage canal onto the edge of a residential street in Thillai Nagar, Erode. The open drain is clogged with dark murky water and floating plastic waste. In the background, a few residents in shirts and veshtis are seen from behind, standing near their compound walls and looking at the blocked canal. The scene is set in a typical Erode residential area with modest concrete houses under bright daylight. The camera is at eye level using a 35mm lens, capturing the length of the overflowing drain and the surrounding neighborhood. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the specific blockage point within the concrete drainage canal in Thillai Nagar where a thick layer of garbage has accumulated. A dense mass of plastic bags, discarded containers, and organic waste forms a solid barrier, completely stopping the flow of the dark, oily sewage water. The texture of the stagnant liquid and the colorful plastic debris are clearly visible against the grey concrete walls of the drain. The shot is taken from a high angle looking directly down into the canal during the day, emphasizing the lack of water movement and the civic issue. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://pukaarpetti.dailythanthi.com/sewage/news-68661",
-   "published": "2026-11-15T23:42:13+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
+   "reel_script": "பெருந்துறை அருகே சிறுமிக்கு திருமணம் செய்து வைத்ததாக 5 பேர் மீது வழக்குப் பதிவு செய்யப்பட்டுள்ளது. வெள்ளோடு, காமராஜ் நகரைச் சேர்ந்த ஈஸ்வரியின் மகளுக்கு 18 வயது ஆகவில்லை. அவர் அங்குள்ள அரசுப் பள்ளியில் 10ஆம் வகுப்பு முடித்து வீட்டில் இருந்தார். இரு வீட்டாரின் ஏற்பாட்டில், பொள்ளாச்சி ஜோதி நகரைச் சேர்ந்த கெளதமுடன் நவம்பர் 13ஆம் தேதி வெள்ளோடு பெரியகாண்டியம்மன் கோயிலில் திருமணம் நடைபெற்றது. கோவையில் உள்ள குழந்தைகள் பாதுகாப்பு மையத்துக்குக் கிடைத்த தகவலின் பேரில் நடத்திய விசாரணையில் திருமணம் நடந்தது உறுதியானது. சென்னிமலை வட்டார வளர்ச்சி அலுவலகத்தின் ஊர் நல அலுவலர் பாப்பாத்தி அளித்த புகாரின் பேரில், வெள்ளோடு போலீசார் சிறுமியின் தாயார் ஈஸ்வரி, மணமகன் கெளதம், அவரது தாயார் மணிமாலா, சிறுமியின் உறவினர்கள் செல்வக்குமார், கண்ணம்மாள் ஆகிய 5 பேர் மீது வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பெருந்துறை அருகே சிறுமிக்கு திருமணம்: 5 பேர் மீது வழக்கு\n\n📰 முழு விவரம்:\nபெருந்துறையை அடுத்த வெள்ளோடு, காமராஜ் நகரைச் சேர்ந்த சிறுமிக்கு நவம்பர் 13ஆம் தேதி வெள்ளோடு பெரியகாண்டியம்மன் கோயிலில் திருமணம் நடைபெற்றது. மணமகளுக்கு 18 வயது ஆகவில்லை. இரு வீட்டாரின் ஏற்பாட்டில் நடந்த இத்திருமணம் குறித்து கோவை குழந்தைகள் பாதுகாப்பு மையத்துக்குக் கிடைத்த தகவலின் பேரில் விசாரணை நடத்தப்பட்டு திருமணம் உறுதி செய்யப்பட்டது. சென்னிமலை வட்டார வளர்ச்சி அலுவலக ஊர் நல அலுவலர் பாப்பாத்தி அளித்த புகாரின் பேரில், சிறுமியின் தாயார் ஈஸ்வரி (48 வயது), மணமகன் கெளதம் (28 வயது), அவரது தாயார் மணிமாலா (50 வயது), சிறுமியின் உறவினர்கள் செல்வக்குமார் (53 வயது), கண்ணம்மாள் (50 வயது) ஆகிய 5 பேர் மீது வெள்ளோடு போலீசார் வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: வெள்ளோடு, பெருந்துறை\n🗓️ நாள்: நவம்பர் 13\n👮 நடவடிக்கை: 5 பேர் மீது வழக்குப் பதிவு, விசாரணை நடைபெறுகிறது\n\nPerundurai child marriage 5 booked | Erode news\n📍 வெள்ளோடு, பெருந்துறை | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
+   "prompts": "A police sub-inspector in khaki stands at the gate of a village temple in Vellode, Perundurai taluk, taking notes beside a small group of elderly men and women seen from behind. The temple has a modest stone gopuram and a plain courtyard with a few terracotta lamps and a flower garland left from a recent function. Around them are typical village houses with tiled roofs, a few parked two-wheelers, and an autorickshaw at the roadside. Men wear shirts with veshti and women wear cotton sarees. It is bright daylight with soft, slightly hazy sunlight. Shot at eye level with a 35 mm lens, wide enough to show the temple gate, the police figure and the village street. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a police complaint file opened on a wooden table in a village office, with a pen resting on the pages and a steel tumbler of water beside it. Blurred in the background is a Tamil Nadu police officer in khaki, seen from behind, and a plain wall with a framed calendar. The papers are covered with handwritten Tamil lines, with no readable words in the frame. Natural daylight from a window falls across the table, casting soft shadows. Shot slightly high, close-up, 35 mm, focusing on the file and pen. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/பெருந்துறை-அருகே-சிறுமிக்கு-திருமணம்-5-போ்-மீது-வழக்கு",
+   "published": "2026-11-15T21:31:58.745Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('இவரது மகள், அங்குள்ள அரசுப் பள்ளியில் 10 வகுப்பு முடித்துவிட')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794774882/erode360/tltdnrs0h9akn4fa31ev.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794774900/erode360/x7bwsgch1zdroytezkfb.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787752/erode360/xz6u84cbqmlfqhccdsuf.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787773/erode360/hlfzhl2mlcldahkiptzr.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் 3 நிறுவனங்களுக்கு தலா ரூ.10 ஆயிரம் அபராதம்: டெங்கு கொசு உற்பத்திக்கு காரணம்",
+   "english_headline": "3 firms in Erode fined Rs.10,000 each for unhygienic conditions that breed dengue mosquitoes",
+   "category": "Civic Issues",
+   "location": "Ashokapuram, Erode city, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "டெங்கு எச்சரிக்கை",
+    "loc": "அசோகபுரம், ஈரோடு",
+    "hl1": "ஈரோட்டில் 3 நிறுவனங்களுக்கு அபராதம்",
+    "hl2": "தலா <b>ரூ.10,000</b>",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஈரோடு மாநகராட்சி 3 நிறுவனங்களுக்கு அபராதம் விதித்தது",
+       "சுகாதாரமற்ற நிலையில் இருந்ததால் அபராதம்",
+       "டெங்கு கொசு உற்பத்திக்குக் காரணமான ஆதாரங்கள் கண்டறியப்பட்டன"
+      ]
+     },
+     {
+      "title": "எங்கே, எப்போது?",
+      "lines": [
+       "அசோகபுரம் பகுதி தொழில் நிறுவனங்களில் ஆய்வு",
+       "ஞாயிற்றுக்கிழமை <b>நவம்பர் 15</b> அன்று ஆய்வு",
+       "மாநகர நல அலுவலர் கௌரி சரவணன் தலைமையில் ஆய்வு"
+      ]
+     },
+     {
+      "title": "மக்கள் கவனத்திற்கு",
+      "lines": [
+       "குப்பைகளை உடனுக்குடன் அகற்ற உத்தரவு",
+       "குப்பை கொட்டுவோர் மீது சுகாதாரச் சட்டப்படி அபராதம்",
+       "கொசுப் புழு வளரும் இடங்களை அகற்றுங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் டெங்கு கொசு உற்பத்தியாகும் வகையில் சுகாதாரமற்று இருந்த 3 நிறுவனங்களுக்கு தலா ரூ.10 ஆயிரம் அபராதம் விதிக்கப்பட்டுள்ளது. அசோகபுரம் பகுதியில் உள்ள தொழில் நிறுவனங்களில் நவம்பர் 15ஆம் தேதி ஞாயிற்றுக்கிழமை ஆய்வு நடத்தப்பட்டது. ஈரோடு மாநகர நல அலுவலர் கௌரி சரவணன் தலைமையிலான சுகாதார ஆய்வாளர்கள் இந்த ஆய்வை மேற்கொண்டனர். ஆய்வில் 3 நிறுவனங்களில் டெங்கு கொசு உற்பத்திக்குக் காரணமான ஆதாரங்கள் கண்டறியப்பட்டன. இதையடுத்து ஒவ்வொரு நிறுவனத்துக்கும் ரூ.10 ஆயிரம் அபராதம் விதிக்கப்பட்டது. ஈரோடு மாநகராட்சிக்கு உள்பட்ட குடியிருப்புகள், மார்க்கெட் பகுதிகள், வணிக வளாகங்கள், வணிக நிறுவனங்கள் அமைந்துள்ள இடங்களில் தீவிர துப்புரவுப் பணி மேற்கொண்டு குப்பைகளை உடனுக்குடன் அகற்ற உத்தரவிடப்பட்டுள்ளது. வீடுவீடாகச் சென்று கொசு ஒழிப்புப் பணியில் ஈடுபடும் அலுவலர்கள், கொசுப் புழு வளரும் இடங்கள் குறித்து குடியிருப்புவாசிகளிடம் விழிப்புணர்வு ஏற்படுத்த கையேடுகளும் துண்டறிக்கைகளும் வழங்கப்படுகின்றன. குப்பைகளைக் கொட்டும் குடியிருப்புவாசிகள் மீதும் சுகாதாரச் சட்ட விதிகளின்படி அபராதம் விதிக்கப்படும் என்று மாநகராட்சி நிர்வாகம் ஏற்கெனவே எச்சரித்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🦟 ஈரோட்டில் டெங்கு கொசு உற்பத்தி: 3 நிறுவனங்களுக்கு தலா ரூ.10 ஆயிரம் அபராதம்\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சிக்கு உள்பட்ட அசோகபுரம் பகுதியில் உள்ள தொழில் நிறுவனங்களில் நவம்பர் 15 ஞாயிற்றுக்கிழமை ஆய்வு நடைபெற்றது. மாநகர நல அலுவலர் கௌரி சரவணன் தலைமையிலான சுகாதார ஆய்வாளர்கள் இந்த ஆய்வை மேற்கொண்டனர்.\nஆய்வில் டெங்கு கொசு உற்பத்திக்குக் காரணமான ஆதாரங்கள் கண்டறியப்பட்ட 3 நிறுவனங்களுக்கு தலா ரூ.10 ஆயிரம் அபராதம் விதிக்கப்பட்டது.\nமாநகராட்சிக்கு உள்பட்ட குடியிருப்புகள், மார்க்கெட் பகுதிகள், வணிக வளாகங்களில் தீவிர துப்புரவுப் பணி மேற்கொண்டு குப்பைகளை உடனுக்குடன் அகற்ற உத்தரவிடப்பட்டுள்ளது.\nவீடுவீடாகச் சென்று கொசு ஒழிப்புப் பணியில் ஈடுபடும் அலுவலர்கள், கொசுப் புழு வளரும் இடங்கள் குறித்து விழிப்புணர்வுக் கையேடு, துண்டறிக்கை வழங்கி வருகின்றனர்.\n\n📍 இடம்: அசோகபுரம், ஈரோடு\n🗓️ நாள்: நவம்பர் 15, ஞாயிற்றுக்கிழமை\n👮 நடவடிக்கை: 3 நிறுவனங்களுக்கு தலா ரூ.10 ஆயிரம் அபராதம்\nℹ️ மக்கள் கவனத்திற்கு: குப்பைகளைக் கொட்டுவோர் மீது சுகாதாரச் சட்ட விதிகளின்படி அபராதம் விதிக்கப்படும்.\n\nErode 3 firms fined Rs.10,000 each for dengue mosquito breeding | Erode news\n📍 அசோகபுரம், ஈரோடு | 15 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு",
+   "prompts": "Two health inspectors in uniform, seen from behind, stand in the yard of an industrial firm in Ashokapuram, Erode city, examining a stagnant water container and a heap of discarded garbage near the compound wall. Behind them a senior municipal health officer in a plain shirt and trousers takes notes on a clipboard while a few factory workers in shirts and lungis stand at a distance. The yard has concrete flooring, a metal gate, and a tall roadside tree, with plastic drums and old tyres scattered across the ground where mosquitoes could breed. The scene is set on a Sunday in bright daylight with a clear sky. The camera is at eye level with a 35 mm lens, wide enough to show the factory compound and the officials together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a shallow pool of stagnant rainwater collected inside an old blue plastic drum and a pile of discarded tyres and broken containers at the back of an Ashokapuram industrial firm in Erode city. The water is dark and still, with a few floating leaves and a thin green film on the surface, clearly a mosquito-breeding spot. A pair of rubber sandals and a municipal inspector's clipboard rest on the wet concrete beside it, with a bit of a khaki uniform sleeve visible at the edge of the frame. Bright daylight falls across the scene and the background is a soft blur of factory wall. The camera is slightly high at about 35 mm, focused on the water and debris. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/சுகாதாரமற்ற-முறையில்-இருந்த-3-நிறுவனங்களுக்கு-தலா-ரூ10-ஆயிரம்-அபராதம்",
+   "published": "2026-11-15T21:42:23.255Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The draft gives the inspection date as 'நவம்பர் 15' (November 15). The article only says the inspection was on Sunday ('ஞாயிற்றுக்கிழமை') and gives no calendar date, so the date is an invented detail in the reel_script and caption.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787780/erode360/i1ykwwnlifawfixowcij.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787802/erode360/fik0dgdq99b1dmsk6x8t.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "நம்பியூரில் மின் கசிவால் வீட்டில் தீ: பொருள்கள் எரிந்து சேதம்",
+   "english_headline": "Short circuit sparks fire in Nambiyur house; household goods burnt, family escapes unhurt",
+   "category": "Crime & Safety",
+   "location": "Nambiyur, Gobichettipalayam taluk, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "தீ விபத்து",
+    "loc": "நம்பியூர், கோபி",
+    "hl1": "நம்பியூரில் மின் கசிவால் வீட்டில் தீ",
+    "hl2": "உயிர் சேதம் இல்லை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "நம்பியூர் முதலியார் வீதியில் வீட்டில் தீ விபத்து",
+       "மின் கசிவால் ஞாயிற்றுக்கிழமை தீ ஏற்பட்டது",
+       "வீட்டில் இருந்த பொருள்கள் எரிந்து சேதம்"
+      ]
+     },
+     {
+      "title": "யார் பாதிப்பு?",
+      "lines": [
+       "வீட்டில் உணவகம் நடத்தும் மல்லிகா (55 வயது)",
+       "குடும்பத்தினர் அனைவரும் வீட்டில் இருந்தனர்",
+       "அனைவரும் உடனே வெளியேறி காயமின்றி தப்பினர்"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "தீயணைப்புத் துறையினர் தீயை அணைத்தனர்",
+       "போலீஸார் விசாரணையில் மின் கசிவு காரணம் தெரிந்தது",
+       "அமைச்சர் கே.ஏ.செங்கோட்டையன் ரூ.25 ஆயிரம் நிதி உதவி"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "நம்பியூரில் மின் கசிவால் வீட்டில் தீ விபத்து ஏற்பட்டு, வீட்டு உபயோகப் பொருள்கள் எரிந்து சேதமடைந்தன. கோபி அருகே உள்ள நம்பியூர் முதலியார் வீதியைச் சேர்ந்த மல்லிகா (55 வயது) உணவகம் நடத்தி வருகிறார். ஞாயிற்றுக்கிழமை குடும்பத்தினர் அனைவரும் வீட்டில் இருந்தபோது, வீட்டின் உள்பகுதியிலிருந்து புகை வந்தது. உள்ளே சென்று பார்த்தபோது, வீட்டில் இருந்த பொருள்கள் தீப்பிடித்து எரிந்தன. குடும்பத்தினர் உடனே தீயணைப்புத் துறையினருக்குத் தகவல் தெரிவித்தனர். தீயணைப்புத் துறையினர் வந்து தீயை அணைத்தனர். தீ பிடித்தவுடன் மல்லிகாவும் குடும்பத்தினரும் உடனடியாக வெளியேறியதால் காயமின்றி தப்பினர். நம்பியூர் போலீஸார் நடத்திய விசாரணையில், மின் கசிவு காரணமாகவே தீ விபத்து ஏற்பட்டது தெரியவந்தது. தகவல் அறிந்த வருவாய் மற்றும் பேரிடர் மேலாண்மைத் துறை அமைச்சர் கே ஏ செங்கோட்டையன், பாதிக்கப்பட்ட மல்லிகாவின் வீட்டிற்குச் சென்று ஆறுதல் கூறினார். ரூ.25 ஆயிரம் நிதி உதவியும், அரிசி, பருப்பு, சமையல் பொருள்கள், வேஷ்டி, சேலை, போர்வை உள்ளிட்ட பொருள்களையும் வழங்கினார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🔥 நம்பியூரில் மின் கசிவால் வீட்டில் தீ: உயிர் சேதம் இல்லை\n\n📰 முழு விவரம்:\nகோபி அருகே நம்பியூர் முதலியார் வீதியில் மல்லிகா (55 வயது) வீட்டில் ஞாயிற்றுக்கிழமை மின் கசிவால் தீ விபத்து ஏற்பட்டது. வீட்டில் இருந்த பொருள்கள் எரிந்து சேதமடைந்தன. குடும்பத்தினர் அனைவரும் உடனே வெளியேறியதால் காயமின்றி தப்பினர். தீயணைப்புத் துறையினர் தீயை அணைத்தனர். போலீஸார் விசாரணையில் மின் கசிவே காரணம் எனத் தெரியவந்தது. வருவாய் மற்றும் பேரிடர் மேலாண்மைத் துறை அமைச்சர் கே.ஏ.செங்கோட்டையன் பாதிக்கப்பட்ட குடும்பத்துக்கு ரூ.25 ஆயிரம் நிதி உதவியும், அரிசி, பருப்பு, சமையல் பொருள்கள், வேஷ்டி, சேலை, போர்வை உள்ளிட்ட பொருள்களையும் வழங்கினார்.\n📍 இடம்: நம்பியூர், கோபி அருகே, ஈரோடு மாவட்டம்\n🗓️ நாள்: ஞாயிற்றுக்கிழமை\n👮 நடவடிக்கை: நம்பியூர் போலீஸார் விசாரணை\n\nNambiyur house fire short circuit | Erode news\n📍 நம்பியூர், ஈரோடு | 15 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A Tamil Nadu fire service crew in uniform hoses down a smouldering doorway of a small two-storey residential house on Mudaliar Street in Nambiyur town, Gobichettipalayam, Erode district. Thin grey smoke rises from the open front door and the upper window, and a red fire tender is parked at the roadside with its hose stretched across the road. Two or three family members stand a short distance away on the pavement, seen from behind, in a saree and a shirt with veshti, watching, unhurt and calm. Along the street are other concrete houses with tiled and terrace roofs, a few two-wheelers parked near the kerb and a bare electric pole with overhead wires. It is Sunday daytime in soft natural light with a clear sky. Camera at eye level, 35 mm lens, wide enough to show the full house, the fire tender and the street. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the inside of a small Tamil Nadu house room after a short-circuit fire: charred and blackened wooden cupboard shelves, a scorched plastic bucket, burnt bundles of cloth and ruined household utensils lie on a damp concrete floor. Black soot streaks the walls and the ceiling, and a tangle of blackened electrical wire hangs from a switch board on the wall. Wet patches show where water was sprayed, and daylight from an open doorway falls across the scene. No people are in frame, only the damaged goods and the wiring. Camera at slightly high angle, 35 mm lens, sharp focus on the burnt goods and wiring, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/நம்பியூரில்-மின்-கசிவால்-வீட்டில்-தீ",
+   "published": "2026-11-15T21:48:35.281Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787810/erode360/snozxqmv5qopfp2fihsf.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787814/erode360/zxz5tpdm94wy5ernojdu.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெருந்துறை சிப்காட்டில் ரூ.25 லட்சம் மதிப்பிலான காப்பர் பிளேட்டுகள் திருட்டு",
+   "english_headline": "Copper plates worth Rs. 25 lakh stolen from a closed factory transformer at Perundurai SIPCOT",
+   "category": "Crime & Safety",
+   "location": "Perundurai SIPCOT, Perundurai, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "திருட்டு",
+    "loc": "பெருந்துறை சிப்காட்",
+    "hl1": "பெருந்துறை சிப்காட்டில் ரூ.25 லட்சம்",
+    "hl2": "2,300 கிலோ காப்பர்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பெருந்துறை சிப்காட்டில் மூடப்பட்ட தனியார் தொழிற்சாலையில்",
+       "டிரான்ஸ்பார்மரில் இருந்த <b>2,300 கிலோ</b> காப்பர்",
+       "இதன் மதிப்பு <b>ரூ.25 லட்சம்</b>"
+      ]
+     },
+     {
+      "title": "யார் செய்தது?",
+      "lines": [
+       "மர்ம நபர்கள் திருடிச் சென்றனர்",
+       "கடந்த ஓர் ஆண்டாக இந்தத் தொழிற்சாலை செயல்படவில்லை",
+       "போலீஸார் வழக்குப் பதிவு செய்து விசாரிக்கின்றனர்"
+      ]
+     },
+     {
+      "title": "புகார்",
+      "lines": [
+       "தொழிற்சாலை உரிமையாளர் பீரதிப்குமார் புகார் அளித்தார்",
+       "சென்னிமலை போலீஸார் வழக்குப் பதிவு செய்தனர்",
+       "குற்றவாளிகளைத் தேடும் பணி நடக்கிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பெருந்துறை சிப்காட்டில் ரூ.25 லட்சம் மதிப்புள்ள காப்பர் பிளேட்டுகள் திருடப்பட்டுள்ளன. கடந்த ஓர் ஆண்டாக செயல்படாத ஒரு தனியார் தொழிற்சாலையின் டிரான்ஸ்பார்மரில் இருந்த 2,300 கிலோ எடையுள்ள காப்பர் பிளேட்டுகளை மர்ம நபர்கள் திருடிச் சென்றுள்ளனர். இதுகுறித்து தொழிற்சாலை உரிமையாளர் பீரதிப்குமார் அளித்த புகாரின்பேரில், சென்னிமலை போலீஸார் வழக்குப் பதிவு செய்துள்ளனர். போலீஸார் தொடர்ந்து விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பெருந்துறை சிப்காட்டில் ரூ.25 லட்சம் காப்பர் பிளேட்டுகள் திருட்டு\n\n📰 முழு விவரம்:\nபெருந்துறை சிப்காட்டில் மூடப்பட்டுள்ள தனியார் தொழிற்சாலையில் இருந்து ரூ.25 லட்சம் மதிப்புள்ள காப்பர் பிளேட்டுகள் திருடப்பட்டுள்ளன.\nகடந்த ஓர் ஆண்டாக செயல்படாத அந்தத் தொழிற்சாலையின் டிரான்ஸ்பார்மரில் இருந்த 2,300 கிலோ எடையுள்ள காப்பர் பிளேட்டுகளை மர்ம நபர்கள் திருடிச் சென்றனர்.\nஇதுகுறித்து தொழிற்சாலை உரிமையாளர் பீரதிப்குமார் அளித்த புகாரின்பேரில் சென்னிமலை போலீஸார் வழக்குப் பதிவு செய்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: பெருந்துறை சிப்காட், ஈரோடு மாவட்டம்\n👮 நடவடிக்கை: சென்னிமலை போலீஸார் வழக்குப் பதிவு செய்து விசாரணை\n\nPerundurai SIPCOT copper plates theft Rs 25 lakh | Erode news\n📍 பெருந்துறை, ஈரோடு | 16 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
+   "prompts": "A row of heavy copper plates is stacked on the concrete floor of an empty, closed factory shed at the SIPCOT industrial estate in Perundurai, with a dismantled transformer and its exposed, emptied metal frame standing behind them. The shed is an unused industrial hall with corrugated sheet walls, dusty floor and broken lights, and tall concrete poles and wires of the TNEB network run beside the compound wall. Two Tamil Nadu police personnel in khaki uniform stand at a distance near the open shutter, seen from behind, while a corporation-style compound gate remains half open. The scene is in bright daylight, with dust hanging in a patch of sunlight coming through the open shutter. Shot at eye level with a 35 mm lens, wide enough to show the empty shed and the transformer structure. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the empty transformer base inside a closed factory compound at SIPCOT Perundurai, where a few heavy copper plates have been removed, leaving bolts, cut wires and bare metal brackets. The transformer is a grey metal box on a concrete plinth with its side panel pried open and dangling cables cut short. Dust, scattered scraps and a footprint on the concrete floor show signs of a hurried theft. Sunlight from a side window falls across the metal, with a blurred view of a khaki-uniformed policeman's boots in the background. Taken at close range with a 50 mm lens, shallow depth of field, daytime light and no readable text anywhere. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/15/பெருந்துறை-சிப்காட்டில்-ரூ-25-லட்சம்-மதிப்பிலான-காப்பா்-பிளேட்டுகள்-திருட்டு",
+   "published": "2026-11-15T21:46:57.098Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 48 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787839/erode360/usvqvv5a3twvec1obgqn.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1794787879/erode360/ixpmh1zktahjckjlvctj.jpg"
    ]
   }
  ]
