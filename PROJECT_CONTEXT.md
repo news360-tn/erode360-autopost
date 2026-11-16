@@ -81,6 +81,20 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-16 | `c21d97f` | post: while news is still waiting, a live posting run starts the next one (GitHub skipped most 5-minute runs on 16 Nov) |
+| 2026-11-16 | `22f5a24` | pick: written and posted |
+| 2026-11-16 | `8b65455` | pick: picked news saved |
+| 2026-11-16 | `eba04f0` | pick: picked news saved |
+| 2026-11-16 | `d8ba91e` | pick: list sent |
+| 2026-11-16 | `a658351` | pick: written and posted |
+| 2026-11-16 | `b1039d0` | pick: picked news saved |
+| 2026-11-16 | `bb062ac` | pick: picked news saved |
+| 2026-11-16 | `2d00287` | pick: list sent |
+| 2026-11-16 | `b8050bd` | stories shared |
+| 2026-11-16 | `c57d337` | powercut: notices written |
+| 2026-11-16 | `1c6926b` | powercut: notices written |
+| 2026-11-16 | `b4b76ef` | goldrate posted |
+| 2026-11-16 | `148fed1` | stories shared |
 | 2026-11-16 | `6518bac` | pick: a round GitHub skipped adds its count to the next round; lifestyle columns not written automatically; leftover count in the round log |
 | 2026-11-16 | `f38bfb9` | rasipalan posted |
 | 2026-11-16 | `cd619aa` | pick: written and posted |
@@ -97,18 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-15 | `e3b64aa` | powercut: notices written |
 | 2026-11-15 | `207977c` | powercut: notices written |
 | 2026-11-15 | `3e795d0` | pick: written and posted |
-| 2026-11-15 | `a66fa4f` | powercut: notices written |
-| 2026-11-15 | `ee97b4b` | pick: picked news saved |
-| 2026-11-15 | `0985c54` | pick: picked news saved |
-| 2026-11-15 | `b11802f` | pick: list sent |
-| 2026-11-15 | `99dc587` | powercut: notices written |
-| 2026-11-15 | `167a72e` | powercut: notices written |
-| 2026-11-15 | `4d51cbf` | powercut: notices written |
-| 2026-11-15 | `30d703e` | powercut: notices written |
-| 2026-11-15 | `74f3613` | powercut: notices written |
-| 2026-11-15 | `3a2a37a` | powercut: notices written |
-| 2026-11-15 | `3b7e16e` | pick: written and posted |
-| 2026-11-15 | `c943b5e` | powercut: notices written |
-| 2026-11-15 | `8a08f93` | pick: picked news saved |
-| 2026-11-15 | `92b142f` | pick: picked news saved |
 <!-- recent-changes:end -->
