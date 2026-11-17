@@ -1,31 +1,32 @@
 {
- "updated": "2026-11-17T18:27+05:30",
- "posts_measured": 71,
+ "updated": "2026-11-17T22:29+05:30",
+ "posts_measured": 79,
  "topic_weight": {
   "crime": 1.5,
   "weather": -0.5,
-  "civic": -0.39,
-  "accident": 1.49,
-  "education": -0.25,
-  "temple": -0.25,
-  "politics": 0.31
+  "civic": -0.41,
+  "accident": 1.5,
+  "education": -0.26,
+  "temple": -0.43,
+  "politics": 0.34,
+  "poultry_agri": -0.44
  },
  "topic_n": {
-  "crime": 14,
+  "crime": 15,
   "weather": 7,
   "civic": 9,
   "accident": 8,
   "education": 10,
-  "temple": 6,
-  "politics": 3,
+  "temple": 8,
+  "politics": 4,
   "power_cut": 2,
-  "poultry_agri": 2
+  "poultry_agri": 3
  },
  "best_hours_ist": [
   1,
   6,
   9,
-  17
+  10
  ],
  "top_openings": [
   "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
@@ -33,7 +34,7 @@
   "🚨 ஈரோட்டில் பொது இடத்தில் மது அருந்திய 16 பேர் மீது வழக்கு",
   "🔥 நம்பியூரில் மின் கசிவால் வீட்டில் தீ: உயிர்ச்சேதம் இல்லை"
  ],
- "avg_watch_s": 6.7,
+ "avg_watch_s": 6.9,
  "best_topics": [
   "crime",
   "accident",
@@ -41,6 +42,6 @@
  ],
  "weak_topics": [
   "weather",
-  "civic"
+  "poultry_agri"
  ]
 }
