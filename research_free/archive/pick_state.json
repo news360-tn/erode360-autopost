@@ -42,7 +42,8 @@
    "category": "மழை / வானிலை",
    "score": 10.5,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:04:51.852983+05:30"
+   "listed_at": "2026-11-17T08:04:51.852983+05:30",
+   "picked_at": "2026-11-17T10:41:07.086567+05:30"
   },
   "C84a911d": {
    "id": "C84a911d",
@@ -57,7 +58,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/16/%E0%AE%AA%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AE%BE%E0%AE%95%E0%AE%BE%E0%AF%8D-%E0%AE%85%E0%AE%A3%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-%E0%AE%A8%E0%AF%80%E0%AE%BE%E0%AF%8D%E0%AE%B5%E0%AE%B0%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-2783-%E0%AE%95%E0%AE%A9%E0%AE%85%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95-%E0%AE%85%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B0%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81"
    ],
-   "listed_at": "2026-11-17T08:04:51.852983+05:30"
+   "listed_at": "2026-11-17T08:04:51.852983+05:30",
+   "picked_at": "2026-11-17T10:41:07.086565+05:30"
   },
   "Cc70e5bd": {
    "id": "Cc70e5bd",
@@ -69,7 +71,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:04:51.852983+05:30"
+   "listed_at": "2026-11-17T08:04:51.852983+05:30",
+   "picked_at": "2026-11-17T10:41:07.086563+05:30"
   },
   "C7cc3994": {
    "id": "C7cc3994",
@@ -81,7 +84,8 @@
    "category": "பொது",
    "score": 9.56,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:04:51.852983+05:30"
+   "listed_at": "2026-11-17T08:04:51.852983+05:30",
+   "picked_at": "2026-11-17T10:41:07.086568+05:30"
   },
   "Cedbbe86": {
    "id": "Cedbbe86",
@@ -93,7 +97,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-17T08:04:51.852983+05:30"
+   "listed_at": "2026-11-17T08:04:51.852983+05:30",
+   "picked_at": "2026-11-17T10:41:07.086569+05:30"
   },
   "Cca54758": {
    "id": "Cca54758",
@@ -1013,8 +1018,24 @@
    ],
    "sent": false,
    "deadline": "2026-11-17T11:39:49.937578+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 12 by insights",
+    "ids": [
+     "Cc70e5bd",
+     "C84a911d",
+     "C2de367f",
+     "C7cc3994",
+     "Cedbbe86"
+    ],
+    "at": "2026-11-17T10:41:07.086554+05:30"
+   },
+   "written": [
+    "C2de367f",
+    "C7cc3994",
+    "C84a911d",
+    "Cc70e5bd",
+    "Cedbbe86"
+   ]
   }
  },
  "retry": {}
