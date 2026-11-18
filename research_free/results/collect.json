@@ -3,694 +3,372 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.polimernews.com/tamilnadunews/new-buildings-at-government-hospitals-and-colleges-chief-minister-vijay-inaugurates-them-12819870",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/husband-missing-wife-complains/4379348",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/17/தலைக்-கவசம்-குறித்து-வாகன-ஓட்டிகளுக்கு-விழிப்புணா்வு",
-  "manual link added: https://cinema.dinamalar.com/news/special-report/madhivathani-kadambari-bhavani-kokila-nayanthara-best-films/142220",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kumbhabhishekam-at-seema-mahalaiman-temple-on-22nd/4379350",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/man-ends-life-after-wife-divorces-him/4379357",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/17/விஷ்ணுபதி-புண்ணிய-காலம்-ஈரோடு-பெருமாள்-கோயிலில்-சிறப்பு-வழிபாடு",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/17/ஈரோட்டில்-மாலை-அணிந்து-விரதம்-தொடங்கிய-ஐயப்ப-பக்தா்கள்",
-  "candidate filter: collected=8",
-  "to write: 8 Erode district candidates (max 8 stories)",
-  "round: top 8 of 8 candidates",
-  "candidates waiting: 8 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-in-sivagiri-over-dead-man-s-body/4380039",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/loaders-union-stages-protest/4379590",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/will-the-excavations-resume-at-koodamala-which-reflects-antiquity/4379642",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/municipal-councillor-dies/4379353",
+  "candidate filter: collected=4",
+  "to write: 4 Erode district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/will-the-exca",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/loaders-union",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "real photo from the source (Dinamani) for 'Devotees circle Erode Kasthuri Ranganath'",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "try (N) manual=True: https://cinema.dinamalar.com/news/special-report/madhivathan",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
-  "try (N) manual=True: https://www.polimernews.com/tamilnadunews/new-buildings-at-g",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 14})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 16})",
-  "candidate loop ended: left 0, tried={'N': 8}, done={'N': 8}, time left 69 min",
-  "filed: 8 Erode district stories (target 8), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 75 min",
+  "filed: 4 Erode district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":8,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (36s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (9s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.5-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (28s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (56s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (59s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (13s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோட்டில் மாலை அணிந்து விரதம் தொடங்கிய ஐயப்ப பக்தர்கள்",
-   "english_headline": "Thousands of Ayyappa devotees in Erode district put on the garland and began their vow as Karthigai month started",
-   "category": "Temples & Events",
-   "location": "Erode, Sathyamangalam, Gobichettipalayam, Bhavani, Erode district",
+   "tamil_headline": "பவானி நகராட்சி 15வது வார்டு திமுக கவுன்சிலர் ரவி உடல்நலக்குறைவால் காலமானார்",
+   "english_headline": "Bhavani municipality 15th ward DMK councillor Ravi passes away due to illness",
+   "category": "Government & Services",
+   "location": "Bhavani town, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "துயர செய்தி",
+    "loc": "பவானி",
+    "hl1": "பவானி நகராட்சி கவுன்சிலர் சாவு",
+    "hl2": "திமுக கவுன்சிலர் ரவி மறைவு",
+    "slides": [
+     {
+      "title": "கவுன்சிலர் மறைவு",
+      "lines": [
+       "பவானி <b>15வது வார்டு</b> கவுன்சிலர் ரவி மறைவு",
+       "திமுகவை சேர்ந்த இவர் உடல்நலக்குறைவால் காலமானார்",
+       "நேற்று காலை உயிரிழந்தார்"
+      ]
+     },
+     {
+      "title": "அஞ்சலி செலுத்தினர்",
+      "lines": [
+       "நகர்மன்ற தலைவர் <b>சிந்தூரி</b> நேரில் அஞ்சலி",
+       "நகராட்சி அலுவலர்கள், கவுன்சிலர்கள் அஞ்சலி செலுத்தினர்"
+      ]
+     },
+     {
+      "title": "முந்தைய மறைவு",
+      "lines": [
+       "கடந்த <b>ஆகஸ்ட்</b> மாதம் 11வது வார்டு கவுன்சிலர் மணி மறைந்தார்",
+       "கம்யூனிஸ்ட் கட்சியை சேர்ந்த இவர் துணைத்தலைவராக இருந்தார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பவானி நகராட்சியின் 15வது வார்டு கவுன்சிலர் ரவி உடல்நலக்குறைவு காரணமாக காலமானார். திமுகவை சேர்ந்த இவர் நேற்று காலை உயிரிழந்தார் என்று தெரிவிக்கப்பட்டுள்ளது. மறைந்த கவுன்சிலர் ரவியின் உடலுக்கு பவானி நகர்மன்ற தலைவர் சிந்தூரி அஞ்சலி செலுத்தினார். அவருடன் நகராட்சி அலுவலர்கள் மற்றும் சக நகராட்சி கவுன்சிலர்களும் ரவியின் உடலுக்கு அஞ்சலி செலுத்தினார்கள். ஏற்கனவே பவானி நகராட்சியின் 11வது வார்டு கவுன்சிலராக இருந்த மணி கடந்த ஆகஸ்ட் மாதம் காலமானார். கம்யூனிஸ்ட் கட்சியை சேர்ந்த மணி பவானி நகராட்சியின் துணைத்தலைவராகவும் பொறுப்பு வகித்து வந்தார். அவரும் உடல்நலக்குறைவு காரணமாகவே உயிரிழந்தார் என்பது குறிப்பிடத்தக்கது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🥀 பவானி நகராட்சி 15வது வார்டு திமுக கவுன்சிலர் ரவி காலமானார்\n\n📰 முழு விவரம்:\nபவானி நகராட்சியின் 15வது வார்டு கவுன்சிலரான திமுகவை சேர்ந்த ரவி உடல்நலக்குறைவால் நேற்று காலை காலமானார். அவரது உடலுக்கு பவானி நகர்மன்ற தலைவர் சிந்தூரி, நகராட்சி அலுவலர்கள் மற்றும் கவுன்சிலர்கள் நேரில் சென்று அஞ்சலி செலுத்தினர். முன்னதாக, பவானி நகராட்சியின் 11வது வார்டு கவுன்சிலரும் துணைத்தலைவருமான கம்யூனிஸ்ட் கட்சியை சேர்ந்த மணி, கடந்த ஆகஸ்ட் மாதம் உடல்நலக்குறைவால் காலமானார்.\n\n📍 இடம்: பவானி, ஈரோடு மாவட்டம்\n🗓️ நாள்: 17 நவம்பர் 2026 (நேற்று காலை)\n👥 அஞ்சலி: நகர்மன்ற தலைவர் சிந்தூரி, நகராட்சி அலுவலர்கள், கவுன்சிலர்கள்\n\nதகவலை பிறருக்கு Share செய்யுங்கள்\n\nBhavani municipality councillor Ravi passes away | Erode news\n📍 பவானி, ஈரோடு | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #ErodeNews #ஈரோடு",
+   "prompts": "A group of municipal officials and fellow DMK councillors stand solemnly in a modest council hall, heads bowed, as a floral wreath rests on a podium in memory of the late councillor Ravi. The hall is a plain government building in Bhavani town, with simple white walls, a wooden stage, and a Tamil Nadu state flag hanging on the back wall. From behind, the municipal chairman Sinthoori, dressed in a white shirt and trousers, leads the tribute, while several councillors in formal shirts stand beside him, their backs to the camera. The floral wreath, white lilies and marigolds, is the only visible object, symbolising the condolence. Morning light filters through high windows, casting a soft glow; the scene is captured at eye level with a 35 mm lens, wide enough to frame the hall and the gathering. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view shows the condolence wreath placed on a polished wooden podium inside the council hall. The arrangement consists of white lilies, bright marigold petals, and a green garland, all tied together with a simple white ribbon. Beside the wreath lies a folded Indian flag draped over a small stand, its saffron, white and green colors visible but without any legible text. The background is a muted wall with a faint outline of the hall’s ceiling beams, keeping focus on the tribute objects. The shot is taken slightly above eye level with a 35 mm lens, isolating the wreath and flag as the detail that tells the story of the councillor’s passing. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/municipal-councillor-dies/4379353",
+   "published": "2026-11-18T06:53:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020199/erode360/m1zqhivjyrxzuixegmpf.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020207/erode360/dfhfu4jjas5hzdg3l6hi.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கொடுமணலில் மீண்டும் அகழ்வாராய்ச்சி தொடங்க வேண்டும் என கோரிக்கை",
+   "english_headline": "Demand to restart excavation at Kodumanal in Erode district, a site of ancient civilisation",
+   "category": "Government & Services",
+   "location": "Kodumanal, Chennimalai union, Erode district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "ஐயப்ப பக்தர்கள்",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "ஈரோட்டில் ஐயப்ப பக்தர்கள் விரதம்",
-    "hl2": "கார்த்திகை மாதம் தொடங்கியது",
+    "cat": "வரலாறு",
+    "loc": "கொடுமணல், சென்னிமலை",
+    "hl1": "கொடுமணலில் அகழ்வாராய்ச்சி மீண்டும்",
+    "hl2": "2,400 ஆண்டு பழமையான நாகரிகம்",
     "slides": [
      {
-      "title": "எப்போது?",
+      "title": "கொடுமணலின் வரலாறு",
       "lines": [
-       "கார்த்திகை மாதம் செவ்வாய்க்கிழமை தொடங்கியது",
-       "ஈரோடு மாவட்டத்தில் பல்லாயிரக்கணக்கான பக்தர்கள் மாலை",
-       "அதிகாலையில் கோயில் நடை திறக்கப்பட்டது"
+       "1950களில் சீனிவாச தேசிகர் முதல் அகழ்வாராய்ச்சி தொடங்கினார்",
+       "1961ல் நாகசாமி குழு நகரப்பகுதி இருந்ததை உறுதி செய்தது",
+       "சங்க காலத்துக்கு முந்தைய நாகரிகம் இருந்தது"
       ]
      },
      {
-      "title": "எங்கே?",
+      "title": "முக்கிய",
       "lines": [
-       "ஈரோடு, சத்தியமங்கலம், கோபி, பவானி கோயில்கள்",
-       "மாவட்டத்தில் அனைத்து ஐயப்பன் கோயில்களிலும் சிறப்பு வழிபாடு",
-       "குருசாமி கையால் மாலை அணிந்தனர்"
+       "1,000க்கும் மேற்பட்ட தமிழ் பிராமி ஆவணங்கள் கிடைத்தன",
+       "கி.மு. 400க்கு முன்பே நாகரிகம், வணிகம் இருந்தது",
+       "மண் பாத்திரம், கத்தி, ஈட்டி கண்டறியப்பட்டது"
       ]
      },
      {
-      "title": "விரதம் எவ்வளவு",
+      "title": "2021 அகழாய்வு",
       "lines": [
-       "மண்டல பூஜைக்கு <b>41 நாள்</b> விரதம்",
-       "மகர விளக்குக்கு <b>60 நாள்</b> விரதம்",
-       "சிறுவர், முதியவர், பெண்கள் பலரும் மாலை அணிந்தனர்"
+       "2021ல் 2,400 ஆண்டுகளுக்கு முன் மக்கள் வாழ்ந்தனர்",
+       "ஜெ.ரஞ்சித் தலைமையில் அகழாய்வு நடந்தது",
+       "2021 ஜூன் – ஜூலையுடன் பணி நிறைவு பெற்றது"
+      ]
+     },
+     {
+      "title": "இப்போதைய கோரிக்கை",
+      "lines": [
+       "அரசு ஆண்டுதோறும் அகழாய்வு நடத்த வேண்டும்",
+       "கண்டுபிடிப்புகளை மாவட்டத்திலேயே காட்சிப்படுத்த வேண்டும்",
+       "மாணவர்களுக்கு சுற்றுலாவும் ஏற்படுத்த வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு மாவட்டத்தில் பல்லாயிரக்கணக்கான ஐயப்ப பக்தர்கள் மாலை அணிந்து விரதத்தைத் தொடங்கினர். கார்த்திகை மாதம் செவ்வாய்க்கிழமை தொடங்கிய நிலையில் இந்த நிகழ்வு நடைபெற்றது. ஈரோடு, சத்தியமங்கலம், கோபி, பவானி உள்ளிட்ட இடங்களில் உள்ள ஐயப்பன் கோயில்களில் மாலை அணிவதற்கான ஏற்பாடுகள் செய்யப்பட்டிருந்தன. மாவட்டத்தில் அனைத்து ஐயப்பன் கோயில்களிலும் அதிகாலையில் நடை திறக்கப்பட்டு சிறப்பு வழிபாடுகள் மேற்கொள்ளப்பட்டன. சிறப்பு வழிபாடுகளைத் தொடர்ந்து பக்தர்கள் குருசாமி கையால் மாலை அணிந்தனர். மண்டல பூஜை தரிசனத்துக்கு கார்த்திகை மாதம் 1ஆம் தேதி மாலை அணிந்து 41 நாள்கள் வரை விரதம் இருப்பது வழக்கம். மகர விளக்கு தரிசனத்துக்கு செல்லும் பக்தர்கள் 60 நாள்கள் வரை விரதம் இருப்பர். சிறுவர்கள், முதியவர்கள், 10 வயதுக்குள் சிறுமிகள், 50 வயதுக்கு மேற்பட்ட பெண்கள் என பல தரப்பு பக்தர்களும் மாலை அணிந்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 ஈரோடு மாவட்டத்தில் ஐயப்ப பக்தர்கள் மாலை அணிந்து விரதம் தொடக்கம்\n\n📰 முழு விவரம்:\nகார்த்திகை மாதம் செவ்வாய்க்கிழமை தொடங்கிய நிலையில், ஈரோடு மாவட்டத்தில் பல்லாயிரக்கணக்கான ஐயப்ப பக்தர்கள் மாலை அணிந்து விரதத்தைத் தொடங்கினர். ஈரோடு, சத்தியமங்கலம், கோபி, பவானி உள்ளிட்ட இடங்களில் உள்ள ஐயப்பன் கோயில்களில் மாலை அணிவதற்கான ஏற்பாடுகள் செய்யப்பட்டிருந்தன. மாவட்டத்தில் அனைத்து ஐயப்பன் கோயில்களிலும் அதிகாலையில் நடை திறக்கப்பட்டு சிறப்பு வழிபாடுகள் மேற்கொள்ளப்பட்டன. சிறப்பு வழிபாடுகளைத் தொடர்ந்து பக்தர்கள் குருசாமி கையால் மாலை அணிந்தனர்.\n🕘 கார்த்திகை மாதம் 1ஆம் தேதி மாலை அணிந்து, மண்டல பூஜை தரிசனத்துக்கு 41 நாள்கள் வரையும், மகர விளக்கு தரிசனத்துக்கு 60 நாள்கள் வரையும் விரதம் இருப்பது வழக்கம்.\n🏔️ சபரிமலை ஐயப்பன் கோயிலுக்கு தமிழகம், கேரளம், ஆந்திரம், கர்நாடகம், புதுச்சேரி, தெலுங்கானா உள்ளிட்ட மாநிலங்கள் மற்றும் வெளிநாடுகளில் இருந்தும் பக்தர்கள் வருவர்.\n📅 மண்டல பூஜை செவ்வாய்க்கிழமை முதல் டிசம்பர் 27ஆம் தேதி வரை; மகரவிளக்கு ஜோதி திருவிழா டிசம்பர் 30ஆம் தேதி முதல் 2027 ஜனவரி 19ஆம் தேதி வரை நடைபெறவுள்ளது.\n👥 சிறுவர்கள், முதியவர்கள், 10 வயதுக்குள் சிறுமிகள், 50 வயதுக்கு மேற்பட்ட பெண்கள் என பல தரப்பு பக்தர்களும் மாலை அணிந்தனர்.\n\nErode Ayyappa devotees begin vrat, garland | Erode news\n📍 ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Ayyappa #ErodeNews #ஈரோடு",
-   "prompts": "A crowd of Ayyappa devotees in black and blue clothes gathers in the courtyard of an Ayyappan temple in Erode city at early morning, as a guru swami places a holy bead garland around the neck of a devotee to begin the 41-day vow. The temple is a small Tamil Nadu style shrine with a sloping tiled or concrete roof, a tall yellow-and-white gopuram or entrance pillar, and oil lamps lit at the doorway. Behind the shrine, the dry fields and the distant green hill line of Sathyamangalam forest are faintly visible. Among the crowd are boys, elderly men, small girls and women in sarees and salwar, seen from behind or from a distance, some holding brass lamps and flower garlands. Two-wheelers are parked at the temple gate and a few town buses pass on the road outside. It is early morning in soft daylight, with the temple doors open and warm lamp light spilling out. Camera at eye level, 35 mm, wide enough to show the temple and the gathering crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of the holy tulsi and rudraksha-style bead garland (maalai) being slipped over a devotee's hands, the beads shining in early morning light, with a small brass oil lamp, a camphor plate and a few marigold flowers placed on a stone step beside it. Behind, out of focus, the blue and black clothed legs of other devotees and the sandal-coloured floor of the temple courtyard. A guru swami's hand in a white cloth sleeve holds the garland, while the devotee's wrists are visible. The bright lamp flame and warm early light make the beads glow against the dark clothing. Camera close to the object, shallow depth of field, 50 mm lens, no readable text or signs in frame. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/17/ஈரோட்டில்-மாலை-அணிந்து-விரதம்-தொடங்கிய-ஐயப்ப-பக்தா்கள்",
-   "published": "2026-11-17T20:08:13.952Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "சென்னிமலை அருகே கொடுமணலில் மீண்டும் அகழ்வாராய்ச்சி தொடங்க வேண்டும் என கோரிக்கை எழுந்துள்ளது. கொடுமணலில் 1950களில் சீனிவாச தேசிகர் முதல் முறையாக முறையான அகழ்வாராய்ச்சியைத் தொடங்கினார். 1961ல் தமிழக அரசின் தொல்லியல் துறை அதிகாரி நாகசாமி தலைமையிலான குழு அகழாய்வு செய்தது. அப்போது அங்கு ஒரு நகரப்பகுதி இருந்ததும், சங்க காலத்துக்கு முந்தைய நாகரிகம் இருந்ததும் உறுதி செய்யப்பட்டது. 1990களில் கல்வெட்டு அறிஞர் புலவர் ராசு, சங்க பாடல்களில் வரும் கொடுமணம் என்ற ஊர்தான் கொடுமணல் என ஆய்வுக் கட்டுரை சமர்ப்பித்தார். 2021ல் தொல்லியல் துறை அகழாய்வு திட்ட இயக்குனர் ஜெ.ரஞ்சித் தலைமையில் அகழாய்வு நடத்தப்பட்டது. அதில் 2,400 ஆண்டுகளுக்கு முன் மக்கள் வாழ்ந்தது தெரியவந்தது. 1,000க்கும் மேற்பட்ட தமிழ் பிராமி ஆவணங்கள் இங்கு கிடைத்தன. 2021 ஜூன் – ஜூலையுடன் அந்தப் பணி நிறைவடைந்தது. அதன்பின் அரசு சார்பில் முறையான அகழாய்வு நடைபெறவில்லை. அரசு ஆண்டுதோறும் அகழாய்வு நடத்தி, கண்டுபிடிப்புகளை மாவட்டத்திலேயே காட்சிப்படுத்த வேண்டும் என்று கோரப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ கொடுமணலில் மீண்டும் அகழ்வாராய்ச்சி தொடங்குமா? 2,400 ஆண்டு பழமை\n\n📰 முழு விவரம்:\nசென்னிமலை யூனியனில் உள்ள கொடுமணல் பகுதியில் 1950களில் சீனிவாச தேசிகர் முதல் முறையாக முறையான அகழ்வாராய்ச்சியைத் தொடங்கினார். 1961ல் தொல்லியல் துறை அதிகாரி நாகசாமி தலைமையிலான குழு அகழாய்வு செய்து, அங்கு ஒரு நகரப்பகுதி இருந்ததையும் சங்க காலத்துக்கு முந்தைய நாகரிகம் இருந்ததையும் உறுதி செய்தது. கடந்த 1990களில் கல்வெட்டு அறிஞர் புலவர் ராசு, சங்க பாடல்களில் வரும் கொடுமணம் என்ற ஊர்தான் கொடுமணல் என ஆய்வுக் கட்டுரை சமர்ப்பித்தார். பின்னர் பேராசிரியர் சுப்பராயலு அகழாய்வு செய்து, கொடுமணல் நாகரிகம் நொய்யலாற்றை மையமாக கொண்டு இயங்கியதை உறுதி செய்தார். அதன்பின் அகழாய்வில் பெரிய தொய்வு ஏற்பட்டது.\n🏺 2021ல் தொல்லியல் துறை அகழாய்வு திட்ட இயக்குனர் ஜெ.ரஞ்சித் தலைமையில் அகழாய்வு நடந்தது. இப்பகுதியில் 2,400 ஆண்டுகளுக்கு முன் மக்கள் வாழ்ந்ததும், குடியிருப்பு, பண்பாட்டுப் பொருட்கள், நாணயம், மண் பானை ஓடுகள் கிடைத்ததும் தெரியவந்தது.\n📜 பல இடங்களில் கிடைத்த 1,999 தமிழ் பிராமி ஆவணங்களில் 1,000க்கும் மேற்பட்டவை கொடுமணலில் கிடைத்தவை. கி.மு. 400க்கு முன்பே நாகரிகம், வணிகம், பண்டமாற்று, அறிவியல் தொழில்நுட்பங்கள் இருந்ததை இது உறுதி செய்கிறது.\n🔨 மண் பாத்திரம், கத்தி, ஈட்டி போன்ற ஆயுதங்கள், ஆணி, கம்பி போன்ற பொருட்கள் செய்யப்பட்டதற்கான அடையாளங்களும் கண்டறியப்பட்டன.\n⏳ 2021 ஜூன் – ஜூலையுடன் அகழாய்வுப் பணி நிறைவடைந்தது. அதன்பின் சிறிய அளவில் அறிஞர்கள் வந்து சென்றாலும், அரசு சார்பில் முறையான அகழாய்வு நடைபெறவில்லை. 2021க்கு முந்தைய ஆய்வுத் தரவுகளும் மக்களிடம் கொண்டு சேர்க்கப்படவில்லை.\n🎓 கொடுமணலின் மகத்துவத்தை மக்கள் அறிய, அரசு ஆண்டுதோறும் அகழாய்வு நடத்தி, கூடுதல் நிதி ஒதுக்கி, அகழாய்வில் ஆர்வமுள்ளவர்களை ஈடுபடுத்த தனி அமைப்பை உருவாக்க வேண்டும். பள்ளி, கல்லூரி மாணவர்களுக்கு அகழாய்வை அறியும் சுற்றுலாக்களை ஏற்படுத்த வேண்டும் என்றும் கோரப்பட்டுள்ளது.\n\nKodumanal excavation restart demand | Erode news\n📍 கொடுமணல், சென்னிமலை, ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
+   "prompts": "A small group of local researchers and archaeology enthusiasts stands at the edge of the old Kodumanal excavation trenches in Chennimalai union, Erode district, appealing for the government to restart digging at this 2,400-year-old site. The setting is an open dry mound of reddish-brown earth, with shallow excavation pits, exposed brick and earth walls, and heaps of soil piled beside the trenches. Two or three men in shirts and veshti, and a woman in a cotton saree, stand from behind, looking toward the pits, with a few bare palm trees and open paddy fields on the flat land beyond. Scattered broken pottery shards lie on the ground near the trench edges. It is bright daylight with soft clear sky. Camera at eye level, 35 mm lens, wide enough to show the trenches, the mound and the open fields around the site. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the excavation site at Kodumanal: a shallow trench cut into reddish-brown earth, showing layers of soil and a cluster of broken terracotta pottery shards and a few rusted iron tool fragments lying on the exposed ground. A small wooden peg and a coil of string mark the grid of the old dig, with dry grass at the edges. Behind the trench, a low heap of loose soil and a bare patch of ground suggest the site has been left untouched for years. Harsh but gentle daylight highlights the texture of the pottery and soil. Camera close to ground level, 35 mm lens, shallow depth of field, no people in frame. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/will-the-excavations-resume-at-koodamala-which-reflects-antiquity/4379642",
+   "published": "2026-11-18T18:10:34+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; caption talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; known issue meta_article: script talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795002862/erode360/z8mitcyz8d6pzphwrvvx.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795002927/erode360/xfm86wvbilva0wthrj4q.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020305/erode360/w5t3ous5vyz1mgrdizee.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020312/erode360/ccq0soht7q80ji7sdbdk.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோடு கஸ்தூரி அரங்கநாத பெருமாள் கோயிலில் விஷ்ணுபதி புண்ணிய காலச் சிறப்பு வழிபாடு",
-   "english_headline": "Devotees circle Erode Kasthuri Ranganatha Perumal temple 27 times during Vishnupadhi punniya kaalam",
-   "category": "Temples & Events",
-   "location": "Erode Kottai, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோயில் வழிபாடு",
-    "loc": "ஈரோடு கோட்டை",
-    "hl1": "ஈரோட்டில் 27 முறை வலம் வந்து வழிபாடு",
-    "hl2": "விஷ்ணுபதி புண்ணிய காலம்",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "ஈரோடு கோட்டை கஸ்தூரி அரங்கநாத பெருமாள் கோயில்",
-       "செவ்வாய்க்கிழமை காலை பக்தர்கள் வழிபாடு",
-       "விஷ்ணுபதி புண்ணிய காலத்தையொட்டி நடைபெற்றது"
-      ]
-     },
-     {
-      "title": "எப்படி வழிபாடு?",
-      "lines": [
-       "பக்தர்கள் <b>27 முறை</b> வலம் வந்து வழிபட்டனர்",
-       "கொடிமரம், பெருமாள், தாயார் சந்நிதிகளைச் சுற்றினர்",
-       "அதிகாலை முதலே பக்தர்கள் குவிந்தனர்"
-      ]
-     },
-     {
-      "title": "சிறப்பு அபிஷேகம்",
-      "lines": [
-       "உற்சவர் பெருமாள், தாயாருக்கு பால், தேன், சந்தனம் அபிஷேகம்",
-       "வண்ண மலர் அலங்காரத்துடன் மகா தீபாராதனை",
-       "பக்தர்கள் கோவிந்தா முழக்கமிட்டு வழிபட்டனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு கோட்டை பெருமாள் கோயிலில் பக்தர்கள் 27 முறை வலம் வந்து வழிபட்டனர். செவ்வாய்க்கிழமை காலை விஷ்ணுபதி புண்ணிய காலத்தையொட்டி இந்தச் சிறப்பு வழிபாடு நடைபெற்றது. ஈரோடு கோட்டை கஸ்தூரி அரங்கநாத பெருமாள் கோயிலில் அதிகாலை முதலே பக்தர்கள் குவிந்தனர். கொடிமரம், பெருமாள், தாயார் சந்நிதிகளைச் சுற்றி வந்து வழிபட்டனர். இதையடுத்து உற்சவர் பெருமாள், தாயாருக்குப் பால், தேன், சந்தனம், மஞ்சள் உள்ளிட்ட திரவியங்களால் சிறப்பு அபிஷேகம் செய்யப்பட்டது. வண்ண மலர்களால் அலங்காரம் செய்யப்பட்டு மகா தீபாராதனை நடைபெற்றது. பக்தர்கள் கோவிந்தா, கோவிந்தா என முழக்கமிட்டு பெருமாளை வழிபட்டனர். இந்த நம்பிக்கை காலத்தில் வைக்கும் வேண்டுதல்கள் நிறைவேறும் என்று பக்தர்கள் நம்புகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 ஈரோடு கோட்டை பெருமாள் கோயிலில் 27 முறை வலம் வந்து சிறப்பு வழிபாடு\n\n📰 முழு விவரம்:\nவிஷ்ணுபதி புண்ணிய காலத்தையொட்டி, ஈரோடு கோட்டை கஸ்தூரி அரங்கநாத பெருமாள் கோயிலில் செவ்வாய்க்கிழமை காலை பக்தர்கள் வழிபட்டனர். கொடிமரம், பெருமாள், தாயார் சந்நிதிகளைப் பக்தர்கள் 27 முறை சுற்றி வந்தனர். அதிகாலை முதலே பக்தர்கள் குவிந்தனர்.\nவழிபாட்டையடுத்து உற்சவர் பெருமாள், தாயாருக்குப் பால், தேன், சந்தனம், மஞ்சள் உள்ளிட்ட திரவியங்களால் சிறப்பு அபிஷேகம் செய்யப்பட்டது. வண்ண மலர்களால் அலங்காரம் செய்யப்பட்டு மகா தீபாராதனை நடைபெற்றது.\n🕉️ இந்த நேரத்தில் வைகுண்டத்தின் கதவுகள் திறந்திருப்பதாக ஐதீகம். இந்த நேரத்தில் வைக்கும் வேண்டுதல்கள் நிறைவேறும் என்பது நம்பிக்கை.\n📅 நடப்பு ஆண்டில் பிப்ரவரி 13, மே 15, ஆகஸ்ட் 17 ஆகிய நாள்களிலும் செவ்வாய்க்கிழமையும் விஷ்ணுபதி புண்ணிய காலம் கடைப்பிடிக்கப்பட்டது.\n\nErode Perumal temple 27 circumambulations Vishnupadhi | Erode news\n📍 ஈரோடு கோட்டை, ஈரோடு மாவட்டம் | 17 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Temple",
-   "prompts": "Devotees in sarees, veshti and shirts walk in a slow circle around the Kasthuri Ranganatha Perumal temple in Erode Kottai at dawn, as part of the 27 circumambulations during Vishnupadhi punniya kaalam. The temple is a traditional South Indian Perumal shrine with a tall gopuram rising behind, a brass flagstaff in the courtyard and a stone-paved prakaram lined with lamps. Men in white veshti and women in cotton sarees, many carrying flower garlands and brass plates, move from behind in a steady procession, their backs to the camera. The early morning light is soft and golden, with pale sky above the gopuram and the courtyard still cool. Shot from eye level, 35 mm, wide enough to show the gopuram, the flagstaff and the circling crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the decorated Utsava idol of Perumal in the sanctum, adorned with fresh coloured flowers after the milk, honey and sandalwood abhishekam. Brass lamps with burning wicks sit on a silver plate in the foreground, and the glow of the deeparadhanai flame lights the flowers. Behind the idol, a few devotees' hands are raised in prayer, seen from behind and slightly blurred. The lighting is warm and dim, with the sanctum's dark stone walls around the bright flowers. Shot at a close, slightly high angle, 35 mm, focused on the flowers and the lamp flame. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/17/விஷ்ணுபதி-புண்ணிய-காலம்-ஈரோடு-பெருமாள்-கோயிலில்-சிறப்பு-வழிபாடு",
-   "published": "2026-11-17T20:03:24.023Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 79 words; need 89-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795002943/erode360/up0ur5h6xmcomqp6jss4.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795002944/erode360/kzeugssoykskhxcwqlm4.jpg"
-   ],
-   "real_photo": "Dinamani"
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் மனைவி பிரிந்ததால் வாலிபர் காவிரி ஆற்றில் தற்கொலை",
-   "english_headline": "Erode youth dies by suicide in Cauvery river after wife leaves him",
+   "tamil_headline": "சிவகிரியில் இறந்தவர் உடலை சாலையில் வைத்து மறியல்: எஸ்.ஐ. மீது நடவடிக்கை உறுதி",
+   "english_headline": "Relatives block road in Sivagiri with body of man who died in Salem hospital, alleging SI spoke rudely; police assure action",
    "category": "Crime & Safety",
-   "location": "Karungalpalayam, Erode city, Erode district",
+   "location": "Sivagiri, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தற்கொலை",
-    "loc": "கருங்கல்பாளையம், ஈரோடு",
-    "hl1": "கருங்கல்பாளையத்தில் வாலிபர் தற்கொலை",
-    "hl2": "மனைவி பிரிந்ததால் விபரீதம்",
+    "cat": "மறியல் போராட்டம்",
+    "loc": "சிவகிரி",
+    "hl1": "சிவகிரியில் உடலை வைத்து மறியல் போராட்டம்",
+    "hl2": "எஸ்.ஐ. மீது நடவடிக்கை உறுதி",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கருங்கல்பாளையம் காவிரி ஆற்றில் வாலிபர் குதித்து தற்கொலை",
-       "பாலகுமார், <b>32</b> வயது, டையிங் மாஸ்டர்",
-       "நேற்று முன்தினம் இரவு நடந்தது"
+       "சிவகிரி அரசு மருத்துவமனை முன் சாலையில் உடலை வைத்து மறியல்",
+       "எஸ்.ஐ. தரக்குறைவாக, ஒருமையில் பேசியதாக உறவினர்கள் புகார்",
+       "சுமார் <b>20 நிமிடங்கள்</b> போராட்டம் நீடித்தது"
       ]
      },
      {
-      "title": "ஏன் இந்த முடிவு?",
+      "title": "யார் இறந்தார்?",
       "lines": [
-       "மனைவி காவியா, <b>30</b> வயது, பிரிந்து பெற்றோர் வீட்டில் இருந்தார்",
-       "ஆன்லைன் ரம்மி பழக்கத்தால் அடிக்கடி தகராறு",
-       "தகராறுகளே பிரிவுக்கு காரணம்"
+       "சின்னியம்பாளையத்தை சேர்ந்த கோவிந்தசாமி, <b>47 வயது</b>",
+       "கூலி தொழிலாளி; <b>14ஆம் தேதி</b> பொது கழிப்பறையில் வழுக்கி",
+       "பின் தலையில் பலத்த காயம்; சேலம் மருத்துவமனையில் <b>17ஆம்"
       ]
      },
      {
-      "title": "போலீசார் நடவடிக்கை",
+      "title": "போராட்டம் முடிவு",
       "lines": [
-       "கருங்கல்பாளையம் போலீசார் உடலை மீட்டனர்",
-       "ஈரோடு அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது",
-       "தற்கொலைக்கு முன் சகோதரிக்கு மொபைலில் பேசினார்"
+       "பிரேத பரிசோதனைக்கு பின் சிவகிரிக்கு உடல் கொண்டு வரப்பட்டது",
+       "எஸ்.ஐ. மீது சட்ட நடவடிக்கை வேண்டும் என உறவினர்கள்",
+       "நடவடிக்கை எடுக்கப்படும் என இன்ஸ்பெக்டர்கள் உறுதி"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கருங்கல்பாளையத்தில் மனைவி பிரிந்ததால் வாலிபர் காவிரி ஆற்றில் உயிரை மாய்த்துக்கொண்டார். ஈரோடு கருங்கல்பாளையம் வீரப்பன் வீதியைச் சேர்ந்த 32 வயது பாலகுமார், டையிங் மாஸ்டராகப் பணியாற்றி வந்தார். அவருடைய மனைவி காவியா, 30 வயது. இவர்களுக்கு 10 வயதில் ஒரு மகள் இருக்கிறார். பாலகுமார் ஆன்லைன் ரம்மி விளையாடும் பழக்கம் கொண்டிருந்தார். இதனாலும் வேறு பிரச்னைகளாலும் மனைவியுடன் அடிக்கடி தகராறு ஏற்பட்டது. இதனால் காவியா வெப்படையில் உள்ள பெற்றோர் வீட்டுக்குச் சென்றுவிட்டார். நேற்று முன்தினம் இரவு பாலகுமார் பைக்கில் கருங்கல்பாளையம் காவிரி ஆற்றுக்குச் சென்றார். பைக்கைக் கரையில் நிறுத்திவிட்டு ஆற்றில் குதித்து உயிரை மாய்த்துக்கொண்டார். கருங்கல்பாளையம் போலீசார் உடலை மீட்டு, ஈரோடு அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். தற்கொலைக்கு முன் அவர் தன் சகோதரி வாசுகியை மொபைலில் தொடர்பு கொண்டு, என்னை எல்லோரும் பிரிந்து சென்றுவிட்டார்கள், என் மகளைப் பார்த்துக்கொள் என்று கூறினார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கருங்கல்பாளையத்தில் மனைவி பிரிந்ததால் வாலிபர் காவிரியில் தற்கொலை\n\n📰 முழு விவரம்:\nஈரோடு கருங்கல்பாளையம் வீரப்பன் வீதியைச் சேர்ந்த 32 வயது பாலகுமார், டையிங் மாஸ்டர், நேற்று முன்தினம் இரவு கருங்கல்பாளையம் காவிரி ஆற்றில் குதித்து தற்கொலை செய்துகொண்டார்.\nஆன்லைன் ரம்மி பழக்கத்தாலும் வேறு பிரச்னைகளாலும் மனைவி காவியாவுடன் (30 வயது) அடிக்கடி தகராறு ஏற்பட்டதால், அவர் வெப்படையில் உள்ள பெற்றோர் வீட்டுக்குச் சென்றுவிட்டார்.\nதற்கொலைக்கு முன் பாலகுமார் தன் சகோதரி வாசுகியை மொபைலில் தொடர்பு கொண்டு, என் மகளைப் பார்த்துக்கொள் என்று கூறியுள்ளார்.\nகருங்கல்பாளையம் போலீசார் உடலை மீட்டு, ஈரோடு அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர்.\n\nKarungalpalayam Erode youth suicide Cauvery river | Erode news\n📍 கருங்கல்பாளையம், ஈரோடு | 18 நவம்பர் 2026\n\nமனநலம் குறித்து சிரமப்படுபவர்கள் நம்பிக்கையான நண்பர்கள், குடும்பத்தினரிடம் பேசுங்கள். தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Karungalpalayam #ErodeNews #ஈரோடு",
-   "prompts": "A quiet riverbank at Karungalpalayam on the Cauvery river in Erode city, early morning in soft daylight, shows a single two-wheeler parked on the grassy edge of the bank, its engine off and its side stand down, facing the slow brown water. In the background, a few Tamil Nadu police in khaki stand at a distance near a stone embankment, their backs turned, speaking quietly, while a police jeep is parked on the riverside road. Erode's typical riverbank scene includes low bushes, a concrete ghat steps, and a glimpse of the city's distant rooftops and a few electric poles. Some onlookers, men in shirts and veshti seen from behind, stand well away at the edge of the path. The mood is sombre and still, with no visible injuries or bodies. Camera at eye level, 35 mm lens, wide enough to show the motorcycle, the river, and the police presence. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a parked motorcycle standing on the grassy bank of the Cauvery river at Karungalpalayam, Erode, in soft early morning daylight. The bike's side stand is down, its handlebar is slightly turned, and beside it lies a folded cloth and a small mobile phone resting on the seat, indicating a personal item left behind. Behind the bike, the brown water of the Cauvery flows slowly past stone steps and wet mud, with a faint mist over the surface. A pair of police shoes in the lower corner suggests officers nearby, seen only partly and from a distance. Muted greens of the riverbank grass and grey concrete dominate the frame. Camera at low angle, 50 mm lens, shallow depth of field so the river blurs softly in the background. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/man-ends-life-after-wife-divorces-him/4379357",
-   "published": "2026-11-18T06:56:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('இவரின் மனைவி காவியா, 30; தம்பதிக்கு, 10 வயதில் மகள் உள்ளார்.')",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "சிவகிரியில் உடலை சாலையில் வைத்து உறவினர்கள் மறியல் நடத்தினர். சின்னியம்பாளையத்தைச் சேர்ந்த 47 வயது கூலி தொழிலாளி கோவிந்தசாமி, கடந்த 14ஆம் தேதி காலை சின்னியம்பாளையத்தில் உள்ள பொது கழிப்பறைக்குச் சென்றபோது வழுக்கி விழுந்தார். பின் தலையில் பலத்த காயம் அடைந்தார். ஈரோடு அரசு மருத்துவமனைக்குக் கொண்டு செல்லப்பட்டு, அதே நாளில் சேலம் அரசு மருத்துவமனைக்கு அழைத்துச் செல்லப்பட்டார். அங்கு 17ஆம் தேதி சிகிச்சை பலனின்றி உயிரிழந்தார். நேற்று மதியம் பிரேத பரிசோதனைக்குப் பின் உடல் சிவகிரிக்குக் கொண்டு வரப்பட்டது. அப்போது உறவினர்கள் சிவகிரி அரசு மருத்துவமனை சந்திப்பு பகுதியில் சாலையின் நடுவே உடலை வைத்து மறியலில் ஈடுபட்டனர். சிவகிரி இன்ஸ்பெக்டர் கிருஷ்ணகுமார், மலையம்பாளையம் இன்ஸ்பெக்டர் வினோதினி ஆகியோர் அவர்களிடம் பேச்சு நடத்தினர். உடற்கூறாய்வுக் கடிதம் வாங்க சிவகிரி போலீஸ் ஸ்டேஷனுக்குச் சென்றபோது, அங்கிருந்த காவல் உதவி ஆய்வாளர் முருகேஷ் தரக்குறைவாக, ஒருமையில் பேசியதாக உறவினர்கள் குற்றம் சாட்டினர். காவல் உதவி ஆய்வாளர் மீது சட்ட நடவடிக்கை எடுத்தால்தான் உடலை எடுப்போம் என்று அவர்கள் தெரிவித்தனர். தரக்குறைவாகப் பேசிய காவல் உதவி ஆய்வாளர் மீது உரிய நடவடிக்கை எடுக்கப்படும் என இன்ஸ்பெக்டர்கள் உறுதியளித்தனர். இதையடுத்து சுமார் 20 நிமிடங்களுக்குப் பிறகு உறவினர்கள் அங்கிருந்து கலைந்து சென்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சிவகிரியில் உடலை சாலையில் வைத்து மறியல்: எஸ்.ஐ. மீது நடவடிக்கை உறுதி\n\n📰 முழு விவரம்:\nசிவகிரி அரசு மருத்துவமனை சந்திப்பில், இறந்தவரின் உடலை சாலையின் நடுவே வைத்து உறவினர்கள் மறியல் போராட்டம் நடத்தினர். சின்னியம்பாளையத்தைச் சேர்ந்த 47 வயது கூலி தொழிலாளி கோவிந்தசாமி, அக். 14ஆம் தேதி பொது கழிப்பறையில் வழுக்கி விழுந்து பின் தலையில் படுகாயம் அடைந்தார். ஈரோடு, சேலம் அரசு மருத்துவமனைகளில் சிகிச்சை பெற்றும் 17ஆம் தேதி உயிரிழந்தார். நேற்று மதியம் உடல் சிவகிரிக்குக் கொண்டு வரப்பட்டபோது மறியல் நடந்தது. காவல் உதவி ஆய்வாளர் முருகேஷ் தரக்குறைவாகப் பேசியதாகக் குற்றம்சாட்டிய உறவினர்கள், அவர் மீது சட்ட நடவடிக்கை கோரினர். இன்ஸ்பெக்டர்கள் உறுதியளித்ததையடுத்து சுமார் 20 நிமிடங்களுக்குப் பிறகு கலைந்தனர்.\n📍 இடம்: சிவகிரி அரசு மருத்துவமனை சந்திப்பு\n👮 நடவடிக்கை: எஸ்.ஐ. மீது உரிய நடவடிக்கை எடுக்கப்படும் என இன்ஸ்பெக்டர்கள் உறுதி\n\nSivagiri body road blockade, SI action assured | Erode news\n📍 சிவகிரி, ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sivagiri #ErodeNews #ஈரோடு",
+   "prompts": "A group of relatives in a sombre protest blocks a road junction in front of the Sivagiri government hospital in Erode district, with a body lying in the middle of the tarred road on a stretcher-style bier draped in white cloth. Around it, men in shirts and veshti and women in cotton sarees stand close together, some seated on the road edge, their backs to the camera and faces turned away. Two police inspectors in khaki uniform stand at a distance on the pavement, in conversation with a small cluster of men. Hospital compound walls, a few parked two-wheelers and an autorickshaw line the roadside, and a town bus waits behind the blockade. It is an afternoon in Erode city with bright daylight and a hazy sky. Camera at eye level, 35 mm, wide enough to show the hospital entrance, the crowd and the road. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a white cloth-draped body lying on a bier in the middle of a tarred road, with the edge of a hospital gate and concrete kerb in the background. A few sandals and a plastic water pot lie scattered near the bier, and a pair of khaki-uniformed police boots stands at the edge of the frame. Hands of relatives rest on the bier. Afternoon daylight falls across the road surface, showing scuff marks and a little dust. Camera at slightly high angle, 35 mm, focusing on the blockade object and the road surface, with the blurred hospital wall behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-in-sivagiri-over-dead-man-s-body/4380039",
+   "published": "2026-11-18T21:10:32+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: slides_spec slide 2 line is truncated/ungrammatical: \"சேலம் மருத்துவமனையில் <b>17ஆம்\" ends mid-sentence with an unclosed tag and no clear meaning; fact-check: reel_script says the body was taken to Erode government hospital and then Salem on the same day (14th), but the article says he was taken to Erode on the 14th and moved to Salem on the 14th only after; the draft's sequencing is compressed and implies the Salem transfer happened that day, which the article states as \"பின்னர், 14ல்\" (not clearly the same day as Erode); fact-check: slides_spec slide 3 says the body was brought to Sivagiri 'after post-mortem' which is accurate, but the reel_script omits the 'police station letter' detail in relation to the SI's remarks being made there; minor, not a fact error; fact-check: caption states the SI's name as 'காவல் உதவி ஆய்வாளர் முருகேஷ்' and the caption and reel say the deceased 'கூலி தொழிலாளி' is correct, but the caption attributes the 14th date as 'அக். 14ஆம் தேதி' which adds a month (October) not stated in the article",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 4 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795002972/erode360/cpcepe3bcqbwrlzexoqw.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003006/erode360/dg3vuw2v8bdsswzv3cr3.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020320/erode360/hcpdndxfzxbyhgjefp5w.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020323/erode360/rgzyfuoq2vr8g45gjhsa.jpg"
    ]
   },
   {
-   "tamil_headline": "சென்னிமலை எல்லை மாகாளியம்மன் கோவில் கும்பாபிஷேகம் 22ஆம் தேதி",
-   "english_headline": "Kumbabhishekam at Ellai Magaliamman temple in Chennimalai on the 22nd",
-   "category": "Temples & Events",
-   "location": "Chennimalai town, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோவில் விழா",
-    "loc": "சென்னிமலை",
-    "hl1": "சென்னிமலையில் கும்பாபிஷேக விழா",
-    "hl2": "22ஆம் தேதி காலை 7 மணிக்கு",
-    "slides": [
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "விழா நாளை விக்னேஸ்வர பூஜையுடன் தொடங்குகிறது",
-       "<b>22ஆம் தேதி</b> அதிகாலை நான்காம் கால யாக பூஜை",
-       "காலை <b>7 மணிக்கு</b> மஹா கும்பாபிஷேகம்"
-      ]
-     },
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "சென்னிமலை நகரின் காவல் தெய்வ எல்லை மாகாளியம்மன் கோவில்",
-       "புதிய ஆலயம், மண்டபம், கோபுரம், பரிவார சன்னதிகள்",
-       "விநாயகர் முதலான பரிவார தெய்வங்களுக்கும் கும்பாபிஷேகம்"
-      ]
-     },
-     {
-      "title": "தலைமை யார்?",
-      "lines": [
-       "சென்னிமலை சுப்ரமணிய சுவாமி கோவில் சரவண சிவாச்சாரியார்",
-       "சிவராஜசிவம் தலைமையில் கும்பாபிஷேகம் நடக்கிறது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னிமலையில் எல்லை மாகாளியம்மன் கோவிலில் 22ஆம் தேதி கும்பாபிஷேக விழா நடக்கிறது. நகரின் காவல் தெய்வமான இந்தக் கோவிலில் புதிய ஆலயம், மண்டபம், கோபுரம் மற்றும் பரிவார சன்னதிகள் அமைக்கப்பட்டுள்ளன. விழா நாளை காலை விக்னேஸ்வர பூஜையுடன் தொடங்குகிறது. 22ஆம் தேதி அதிகாலை நான்காம் கால யாக பூஜை நடைபெறும். அதைத் தொடர்ந்து காலை 7 மணிக்கு விநாயகர் முதலான பரிவார தெய்வங்களுக்கும் எல்லை மாகாளியம்மனுக்கும் மஹா கும்பாபிஷேகம் நடக்கிறது. சென்னிமலை சுப்ரமணிய சுவாமி கோவில் சரவண சிவாச்சாரியார் மற்றும் சிவராஜசிவம் தலைமையில் கும்பாபிஷேகம் நடைபெறுகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 சென்னிமலை எல்லை மாகாளியம்மன் கோவில் கும்பாபிஷேகம் 22ஆம் தேதி\n\n📰 முழு விவரம்:\nசென்னிமலை நகரின் காவல் தெய்வமான எல்லை மாகாளியம்மன் கோவிலில் புதிய ஆலயம், மண்டபம், கோபுரம் மற்றும் பரிவார சன்னதிகள் அமைக்கப்பட்டுள்ளன. கும்பாபிஷேக விழா நாளை காலை விக்னேஸ்வர பூஜையுடன் தொடங்குகிறது. 22ஆம் தேதி அதிகாலை நான்காம் கால யாக பூஜையைத் தொடர்ந்து, காலை 7 மணிக்கு விநாயகர் முதலான பரிவார தெய்வங்களுக்கும் எல்லை மாகாளியம்மனுக்கும் மஹா கும்பாபிஷேகம் நடக்கிறது. சென்னிமலை சுப்ரமணிய சுவாமி கோவில் சரவண சிவாச்சாரியார் மற்றும் சிவராஜசிவம் தலைமையில் கும்பாபிஷேகம் நடைபெறுகிறது.\n\n📍 இடம்: சென்னிமலை, ஈரோடு மாவட்டம்\n🗓️ நாள்: 22ஆம் தேதி\n🕘 நேரம்: காலை 7 மணி\n\nChennimalai Ellai Magaliamman temple kumbabhishekam on 22nd | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
-   "prompts": "Hindu priests in white dhoti and sacred threads raise sacred water pots (kumbam) near the newly built gopuram of the Ellai Magaliamman temple in Chennimalai town, Erode district, as the early-morning Kumbabhishekam begins. The new gopuram, painted and freshly built, rises above the temple entrance, with a decorated mandapam and yaga-shala with flames and coconut and banana leaves in front. Devotees in sarees, veshti and shirts stand at a distance, seen from behind and a little blurred, with some holding flower garlands and brass lamps. Soft golden early-morning light, clear sky. Camera at eye level, 35 mm lens, wide enough to show the gopuram, the mandapam and the crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a brass sacred water pot (kumbam) decorated with a coconut, mango leaves and a yellow thread, placed on a stone platform at the top of the new gopuram of the Ellai Magaliamman temple in Chennimalai, Erode district. Behind it, the carved stone and fresh paint of the gopuram catch early-morning sunlight. A few brass lamps with burning oil wicks and a small heap of marigold flowers sit on the platform, with a priest's hand in the corner blurred and only partially visible. Soft daylight, shallow depth of field. Camera close to the kumbam, 50 mm lens. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kumbhabhishekam-at-seema-mahalaiman-temple-on-22nd/4379350",
-   "published": "2026-11-18T06:51:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003012/erode360/cjicmztza95yt4gz5y6j.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003046/erode360/jal2vlmlkkqwzo0xyl1y.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "நயன்தாராவின் சிறந்த படங்கள்: அறம், கோலமாவு கோகிலா, ராஜா ராணி, இமைக்கா நொடிகள்",
-   "english_headline": "Nayanthara's standout films: Aram, Kolamaavu Kokila, Raja Rani, Imaikka Nodigal and more",
-   "category": "Entertainment",
-   "location": "Tamil Nadu",
-   "importance": "Low",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சினிமா",
-    "loc": "தமிழ்நாடு",
-    "hl1": "தமிழ்நாடு: நயன்தாரா கலக்கிய படங்கள்",
-    "hl2": "அறம் முதல் விஸ்வாசம் வரை",
-    "slides": [
-     {
-      "title": "முதல் படங்கள்",
-      "lines": [
-       "அறம் (2017): கலெக்டர் மதிவதனியாக நடித்தார்",
-       "கோலமாவு கோகிலா (2018): போதைப்பொருள் கடத்தும் கோகிலா",
-       "ராஜா ராணி: ரெஜினா கேரக்டரில் நடித்தார்"
-      ]
-     },
-     {
-      "title": "பிற படங்கள்",
-      "lines": [
-       "இமைக்கா நொடிகள்: சிபிஐ அதிகாரி அஞ்சலி",
-       "நானும் ரவுடிதான்: காது கேளாத காதம்பரி",
-       "யாராடி நீ மோகினி: கீர்த்தி, கோமளவல்லி"
-      ]
-     },
-     {
-      "title": "அம்மன், பிற",
-      "lines": [
-       "மூக்குத்தி அம்மன்: அம்மனாக நடித்தார்",
-       "ஐரா: யமுனா, பவானி கேரக்டர்கள்",
-       "விஸ்வாசம்: மருத்துவ உயரதிகாரி நிரஞ்சனா"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "நயன்தாரா நடித்த சிறந்த படங்களை நினைவு கூர்வோம். அறம் படத்தில் அவர் கலெக்டர் மதிவதனியாக நடித்தார். ஆழ்துளை கிணற்றில் விழுந்த குழந்தையை காப்பாற்ற போராடும் அவரது நடிப்பு பாராட்டப்பட்டது. தமிழக அரசின் விருது உட்பட பல விருதுகளை வென்றார். கோலமாவு கோகிலா படத்தில் குடும்ப சூழ்நிலை காரணமாக போதைப்பொருள் கடத்தும் கோகிலாவாக நடித்தார். 2018ல் வெளியான இந்த படம் அவரது முக்கியமான கமர்ஷியல் படம். ராஜா ராணி படத்தில் ரெஜினா கேரக்டரில் ஜெய் ஜோடியாக நடித்தார். இமைக்கா நொடிகள் படத்தில் சிபிஐ அதிகாரி அஞ்சலியாக வந்தார். நானும் ரவுடிதான் படத்தில் காது கேளாத காதம்பரியாக நடித்தார். மூக்குத்தி அம்மன் படத்தில் அம்மனாக நடித்தார். ஐரா படத்தில் யமுனா, பவானி கேரக்டர்களில் நடித்தார். விஸ்வாசம் படத்தில் மருத்துவ உயரதிகாரி நிரஞ்சனாவாக வந்தார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎬 நயன்தாரா கலக்கிய படங்கள்: அறம் முதல் விஸ்வாசம் வரை\n\n📰 முழு விவரம்:\nநயன்தாரா நடித்த சிறந்த படங்களில் அறம் (2017) ஒன்று. கோபி நயினார் இயக்கிய இந்த படத்தில் கலெக்டர் மதிவதனியாக நடித்தார். கோலமாவு கோகிலாவில் போதைப்பொருள் கடத்தும் கோகிலாவாக நடித்தார். ராஜா ராணியில் ரெஜினா கேரக்டரில் வந்தார். இமைக்கா நொடிகளில் சிபிஐ அதிகாரி அஞ்சலியாக நடித்தார். நானும் ரவுடிதான் படத்தில் காது கேளாத காதம்பரியாக நடித்தார். யாராடி நீ மோகினியில் கீர்த்தி மற்றும் கோமளவல்லியாக நடித்தார். மூக்குத்தி அம்மனில் அம்மனாக நடித்தார். ஐராவில் யமுனா, பவானி கேரக்டர்களில் நடித்தார். நெற்றிக்கண்ணில் கண் பார்வையற்ற துர்காவாக நடித்தார். விஸ்வாசத்தில் நிரஞ்சனாவாக நடித்தார்.\n\nNayanthara best films Aram Kolamaavu Kokila | Erode 360\n📍 தமிழ்நாடு | சினிமா\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Nayanthara",
-   "prompts": "A cinema hall in Erode city fills with audience as a large film poster-style backdrop of a dramatic movie scene glows on the screen at the front, though no readable text or faces are shown. Viewers seated in rows, seen from behind, include men in shirts and veshti and women in sarees, some holding tickets. Along the aisle, a few overhead spotlights and a film reel display stand in silhouette. The mood is festive with the anticipation of a new release. Time is evening with dim interior lighting and bright screen glow. Camera at eye level, 35 mm, wide enough to show the full hall and the audience from behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a vintage film reel and a stack of ticket stubs resting on a wooden counter outside a single-screen cinema in Erode, with a hand-painted cinema board blurred in the background. Several old film canisters sit beside a small brass bell. Daylight falls softly from the side, and the scene reflects the theatre culture of Tamil Nadu. No readable text, logos or faces appear. Camera slightly high, 35 mm, close enough to show the reel texture and ticket details clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://cinema.dinamalar.com/news/special-report/madhivathani-kadambari-bhavani-kokila-nayanthara-best-films/142220",
-   "published": "",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); reel_script sentence 1 (heard in the first 3 seconds) must name the place 'தமிழ்நாடு' and the news itself, e.g. 'தமிழ்நாடு-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003070/erode360/qpiamro75kqx4nfdbpwg.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003101/erode360/md2cvnxc6w7hxsbn1cja.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தலைக் கவசம் அணிவது அவசியம்: ஈரோட்டில் போக்குவரத்து போலீஸார் விழிப்புணர்வு",
-   "english_headline": "Traffic police in Erode create awareness on wearing helmets for two-wheeler riders",
-   "category": "Roads & Transport",
-   "location": "Erode town, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலைப் பாதுகாப்பு",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் தலைக் கவசம் விழிப்புணர்வு",
-    "hl2": "வாகன ஓட்டிகளுக்கு அறிவுரை",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "ஈரோட்டில் போக்குவரத்து போலீஸார் விழிப்புணர்வு நடத்தினர்",
-       "செவ்வாய்க்கிழமை வாகன ஓட்டிகளிடம் பேசினர்",
-       "தலைக் கவசம் அணிவதன் அவசியம் வலியுறுத்தப்பட்டது"
-      ]
-     },
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "ஈரோடு அரசு மருத்துவமனை நான்குமுனை சாலை சந்திப்பு",
-       "மேட்டூர் சாலை பகுதி",
-       "ஈரோடு டவுன் டிஎஸ்பி முத்துக்குமார் தலைமையில்"
-      ]
-     },
-     {
-      "title": "அறிவுறுத்தல்",
-      "lines": [
-       "இருசக்கர வாகனத்தில் செல்வோர் தலைக் கவசம் அணிய வேண்டும்",
-       "நான்கு சக்கர வாகனத்தில் செல்வோர் சீட் பெல்ட் அணிய வேண்டும்",
-       "துண்டுப் பிரசுரங்களும் வழங்கப்பட்டன"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோட்டில் வாகன ஓட்டிகளுக்கு தலைக் கவசம் குறித்து போக்குவரத்து போலீஸார் விழிப்புணர்வு ஏற்படுத்தியுள்ளனர். செவ்வாய்க்கிழமை ஈரோடு டவுன் டிஎஸ்பி முத்துக்குமார் தலைமையில் இந்த விழிப்புணர்வு நடைபெற்றது. ஈரோடு அரசு மருத்துவமனை நான்குமுனை சாலை சந்திப்பு மற்றும் மேட்டூர் சாலை பகுதிகளில் போலீஸார் வாகன ஓட்டிகளிடம் பேசினர். தலைக் கவசம் அணிவதன் அவசியம் வலியுறுத்தப்பட்டது. துண்டுப் பிரசுரங்களும் வழங்கப்பட்டன. இருசக்கர வாகனத்தில் செல்வோர் தலைக் கவசம் அணிய வேண்டும் என போலீஸார் அறிவுறுத்தினர். நான்கு சக்கர வாகனத்தில் செல்வோர் சீட் பெல்ட் அணிய வேண்டும் என்றும் கூறப்பட்டது. தலைக் கவசம் குறித்த வழக்கில் சென்னை உயர்நீதிமன்றம் தொடர்ந்து உத்தரவுகளைப் பிறப்பித்து வருகிறது. இதையடுத்து தலைக் கவசம் அணியாமல் வாகனம் ஓட்டுவோருக்கு அபராதம் விதிக்கும் நடவடிக்கையிலும் போலீஸார் ஈடுபட்டு வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🪖 ஈரோட்டில் தலைக் கவசம் அணிய விழிப்புணர்வு\n\n📰 முழு விவரம்:\nதலைக் கவசம் அணிவதன் அவசியத்தை வலியுறுத்தி, ஈரோட்டில் போக்குவரத்து போலீஸார் செவ்வாய்க்கிழமை வாகன ஓட்டிகளுக்கு விழிப்புணர்வு ஏற்படுத்தினர். ஈரோடு டவுன் டிஎஸ்பி முத்துக்குமார் தலைமையில், ஈரோடு அரசு மருத்துவமனை நான்குமுனை சாலை சந்திப்பு, மேட்டூர் சாலை ஆகிய பகுதிகளில் இது நடைபெற்றது. துண்டுப் பிரசுரங்களும் வழங்கப்பட்டன.\nதலைக் கவசம் குறித்த வழக்கில் சென்னை உயர்நீதிமன்றம் பல்வேறு உத்தரவுகளைப் பிறப்பித்து வருகிறது. இருசக்கர வாகன ஓட்டிகள் தலைக் கவசம் அணிய வேண்டும் என்றும், பின்புறம் அமர்ந்திருப்பவர்களும் தலைக் கவசம் அணிய வேண்டும் என்றும் நீதிமன்றம் உத்தரவிட்டுள்ளது.\n🪖 இருசக்கர வாகனத்தில் செல்வோர் தலைக் கவசம் அணிய வேண்டும்.\n🚗 நான்கு சக்கர வாகனத்தில் செல்வோர் சீட் பெல்ட் அணிய வேண்டும்.\n👮 தலைக் கவசம் அணியாமல் வாகனம் ஓட்டுவோருக்கு அபராதம் விதிக்கும் நடவடிக்கையிலும் போலீஸார் ஈடுபட்டு வருகின்றனர்.\n\nErode traffic police helmet awareness drive | Erode news\n📍 ஈரோடு நகரம், ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ஈரோடு #ErodeNews #ErodeRoad",
-   "prompts": "Traffic police in khaki uniform stand at a busy four-road junction in Erode town near the Government Hospital, waving to stop a line of two-wheeler riders and handing each rider a printed pamphlet on wearing helmets. Several motorcycles and scooters wait at the junction with their riders, some wearing helmets and some without, while a few pillion riders sit behind them. Behind the junction stand a town bus, an autorickshaw and a few private cars, with shops and roadside stalls lining the road. Men in shirts and trousers and women in sarees stand on the footpath watching. It is a bright Tuesday daytime with clear light. Shot at eye level from the roadside, 35 mm, wide enough to show the junction, the police and the line of two-wheelers. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a stack of printed helmet-awareness pamphlets held in a police officer's khaki-sleeved hand, being passed over to a two-wheeler rider. Behind the hand, the rider's motorcycle is partly visible with a black helmet hanging from its handle, and the rider's shirt sleeve shows at the edge of the frame. Blurred motorcycles and tarmac of a Erode town road fill the background in daylight. Shot at slightly high eye level, 35 mm, shallow depth of field so the pamphlets and helmet are sharp, with no readable text on the leaflets. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/17/தலைக்-கவசம்-குறித்து-வாகன-ஓட்டிகளுக்கு-விழிப்புணா்வு",
-   "published": "2026-11-17T20:01:09.835Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003109/erode360/aiad5qqzdllacisgxyhs.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003113/erode360/ksojswgtlud6jhh7sbft.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கொடுமுடியில் கணவர் மாயம்: மனைவி போலீசில் புகார்",
-   "english_headline": "Kodumudi husband missing; wife files police complaint",
-   "category": "Crime & Safety",
-   "location": "Kodumudi, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "குற்றம் & பாதுகாப்பு",
-    "loc": "கொடுமுடி",
-    "hl1": "கொடுமுடியில் கணவர் மாயம்",
-    "hl2": "மனைவி போலீசில் புகார்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கொடுமுடி, புதூர் மேற்கு வீதியைச் சேர்ந்த முத்துகுமார்",
-       "அவருக்கு <b>52 வயது</b>; கூலித் தொழிலாளி",
-       "மனைவி மல்லிகாவின் புகாரின்படி போலீசார் தேடி வருகின்றனர்"
-      ]
-     },
-     {
-      "title": "எப்படி நடந்தது?",
-      "lines": [
-       "தம்பதியருக்குள் ஏற்பட்ட தகராறில் மல்லிகா அருகிலுள்ள பரிகார",
-       "மல்லிகா கூப்பிட்டும் முத்துகுமார் வர மறுத்தார்",
-       "மல்லிகா வீட்டுக்குத் திரும்பிவிட்டார்"
-      ]
-     },
-     {
-      "title": "தேடல் நிலை",
-      "lines": [
-       "மறுநாள் பார்த்தபோது முத்துகுமார் வீட்டில் இல்லை",
-       "மல்லிகாவுக்கு <b>46 வயது</b>"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கொடுமுடியில் 52 வயது கூலித் தொழிலாளி முத்துகுமார் மாயமாகியுள்ளார். கொடுமுடி, சென்னசமுத்திரம் சாலை, புதூர் மேற்கு வீதியைச் சேர்ந்த முத்துகுமாரின் மனைவி மல்லிகாவுக்கு 46 வயது. தம்பதியருக்குள் ஏற்பட்ட தகராறில் மல்லிகா அதே பகுதியில் உள்ள ஒரு பரிகார மையத்துக்குச் சென்றார். இதையறிந்து மல்லிகா அழைத்தும் முத்துகுமார் வர மறுத்துவிட்டார். இதனால் மல்லிகா வீட்டுக்குத் திரும்பிவிட்டார். மறுநாள் சென்று பார்த்தபோது முத்துகுமார் வீட்டில் இல்லை. மல்லிகாவின் புகாரின்படி கொடுமுடி போலீசார் முத்துகுமாரைத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கொடுமுடியில் கணவர் மாயம்: மனைவி போலீசில் புகார்\n\n📰 முழு விவரம்:\nகொடுமுடி, சென்னசமுத்திரம் சாலை, புதூர் மேற்கு வீதியைச் சேர்ந்த 52 வயது கூலித் தொழிலாளி முத்துகுமார் மாயமாகியுள்ளார். அவரது மனைவி மல்லிகா (46 வயது) அளித்த புகாரின்படி கொடுமுடி போலீசார் தேடி வருகின்றனர்.\nதம்பதியருக்குள் ஏற்பட்ட தகராறில் மல்லிகா அதே பகுதியில் உள்ள ஒரு பரிகார மையத்துக்குச் சென்றார். மல்லிகா அழைத்தும் முத்துகுமார் வர மறுத்தார். இதனால் மல்லிகா வீட்டுக்குத் திரும்பிவிட்டார். மறுநாள் பார்த்தபோது முத்துகுமார் வீட்டில் இல்லை.\n📍 இடம்: கொடுமுடி, ஈரோடு மாவட்டம்\n👮 நடவடிக்கை: மல்லிகாவின் புகாரின்படி கொடுமுடி போலீசார் தேடுதல் பணியில் உள்ளனர்.\nமுத்துகுமார் பற்றித் தகவல் தெரிந்தவர்கள் கொடுமுடி போலீசுக்குத் தெரிவிக்கலாம்.\n\nKodumudi husband missing, wife files complaint | Erode news\n📍 கொடுமுடி, ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Kodumudi #ErodeNews #ஈரோடு",
-   "prompts": "A woman in a saree stands with her daughter on a quiet residential street in Kodumudi, Erode district, looking down a lane of small tiled-roof houses and concrete houses, while a Tamil Nadu police constable in khaki uniform stands nearby, writing in a notebook. The street has a roadside water tank, a few two-wheelers parked against house walls, and a small temple-like remedy centre with a simple entrance a short distance away. Daylight, slightly overcast, shot at eye level with a 35 mm lens wide enough to show the street, the houses and the figures seen from behind or far away, faces not visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a folded handwritten complaint paper resting on a plain wooden table in a small police station room in Erode district, with a khaki-uniformed police hand holding a pen beside it and a steel tumbler of water nearby. Behind the table a blurred shadow of a woman in a saree sits on a bench. Daylight from a barred window falls across the paper, shot slightly high with a 35 mm lens, no readable text on the paper, no faces shown. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/husband-missing-wife-complains/4379348",
-   "published": "2026-11-18T06:50:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('கணவன் மாயம்: மனைவி புகார்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; known issue meta_article: script talks about the article instead of the news ('தகவல் கிடைக்கவில்லை') - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003121/erode360/jisrqnhyvfh9amvfjxir.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003125/erode360/lgmhf8uagf5ccojaewbv.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு அரசு மருத்துவமனையில் ரூ.40 கோடியில் தீவிர சிகிச்சைப் பிரிவு திறப்பு",
-   "english_headline": "Erode Government Hospital gets Rs.40 crore intensive care block as CM Vijay opens 9 buildings worth Rs.210 crore",
-   "category": "Government & Services",
-   "location": "Erode Government Hospital, Erode district",
+   "tamil_headline": "ஈரோடு பார்க் சாலையில் சுமை தூக்கும் தொழிலாளர்கள் ஆர்ப்பாட்டம்: நவம்பர் 23 முதல் காலவரையற்ற வேலைநிறுத்தம் என எச்சரிக்கை",
+   "english_headline": "Loadmen protest on Erode Park Road over wage agreement, warn of indefinite strike from Nov 23",
+   "category": "Business & Prices",
+   "location": "Park Road, Erode town, Erode district",
    "importance": "High",
-   "scope": "",
+   "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு திறப்பு விழா",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோடு மருத்துவமனையில் புதிய தீவிர",
-    "hl2": "ரூ.40 கோடி மதிப்பில் கட்டடம்",
+    "cat": "தொழிலாளர் போராட்டம்",
+    "loc": "பார்க் சாலை, ஈரோடு",
+    "hl1": "ஈரோட்டில் சுமை தூக்குவோர் ஆர்ப்பாட்டம்",
+    "hl2": "நவ. 23 முதல் வேலைநிறுத்தம்?",
     "slides": [
      {
-      "title": "என்ன",
+      "title": "ஆர்ப்பாட்டம்",
       "lines": [
-       "ஈரோடு அரசு மருத்துவமனையில் <b>40 கோடி ரூபாய்</b> தீவிர",
-       "மொத்தம் <b>210 கோடி ரூபாய்</b> மதிப்பில் <b>9 கட்டடங்கள்</b>",
-       "முதலமைச்சர் விஜய் திறந்து வைத்தார்"
+       "ஈரோடு பார்க் சாலையில் சுமை தூக்கும் தொழிலாளர்கள் போராட்டம்",
+       "சி.ஐ.டி.யு. மாவட்ட தலைவர் <b>சுப்பிரமணியன்</b> தலைமையில் நடந்தது",
+       "புதிய கூலி உயர்வு ஒப்பந்தம் கோரி முழக்கம்"
       ]
      },
      {
-      "title": "கல்லூரிகளில்",
+      "title": "காரணம் என்ன?",
       "lines": [
-       "அரசுக் கல்லூரிகளில் <b>52 கோடி ரூபாய்</b> மதிப்பில் தங்கும்",
-       "கூடுதல் வகுப்பறைகள், ஆய்வகங்கள் திறப்பு",
-       "உள்விளையாட்டரங்கம், திறந்தவெளி அரங்கமும் திறப்பு"
+       "ஜவுளி மூட்டை தொழிலாளர் ஒப்பந்தம் <b>மார்ச் 2025</b>டன் முடிந்தது",
+       "லாரி ஆபீஸ் தொழிலாளர் ஒப்பந்தம் <b>ஆகஸ்ட் 1</b>டன் முடிந்தது",
+       "புதிய கூலி ஒப்பந்தத்துக்கு உரிமையாளர்கள் முன்வரவில்லை"
       ]
      },
      {
-      "title": "நகராட்சி",
+      "title": "வேலைநிறுத்த",
       "lines": [
-       "நகராட்சி, குடிநீர் வழங்கல் துறை சார்பில் <b>12 திட்டப் பணிகள்</b>",
-       "மொத்தச் செலவு <b>174 கோடியே 97 லட்சம் ரூபாய்</b>",
-       "பொதுமக்கள் பயன்பாட்டுக்குத் திறக்கப்பட்டன"
+       "தொழிலாளர் நலத்துறை பேச்சுவார்த்தையில் உடன்பாடில்லை",
+       "<b>நவம்பர் 23</b>ஆம் தேதி மீண்டும் தொழிலாளர் அலுவலகத்தில் பேச்சு",
+       "உடன்பாடு ஏற்படாவிட்டால் அன்று முதல் காலவரையற்ற வேலைநிறுத்தம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு அரசு மருத்துவமனையில் 40 கோடி ரூபாய் மதிப்பில் தீவிர சிகிச்சைப் பிரிவு கட்டடம் திறக்கப்பட்டது. நவம்பர் 18ஆம் தேதி முதலமைச்சர் விஜய் இந்தக் கட்டடம் உள்ளிட்ட 9 கட்டடங்களைத் திறந்து வைத்தார். இவற்றின் மொத்த மதிப்பு 210 கோடி ரூபாய். இதையடுத்து, உயர்கல்வித் துறை சார்பில் அரசுக் கல்லூரிகளில் 52 கோடி ரூபாய் மதிப்பில் கூடுதல் தங்கும் விடுதிக் கட்டடம் திறக்கப்பட்டது. மேலும், கூடுதல் வகுப்பறைகள், ஆய்வகங்கள், பன்நோக்கு திறந்தவெளி அரங்கம், உள்விளையாட்டரங்கம் ஆகியவையும் திறந்து வைக்கப்பட்டன. இந்நிலையில், நகராட்சி நிர்வாகம் மற்றும் குடிநீர் வழங்கல் துறை சார்பில் 174 கோடியே 97 லட்சம் ரூபாய் செலவில் முடிவுற்ற 12 திட்டப் பணிகளும் பொதுமக்கள் பயன்பாட்டுக்குத் திறக்கப்பட்டன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏥 ஈரோடு அரசு மருத்துவமனையில் ரூ.40 கோடியில் புதிய தீவிர சிகிச்சைப் பிரிவு\n\n📰 முழு விவரம்:\nமுதலமைச்சர் விஜய் ஈரோடு அரசு மருத்துவமனையில் 40 கோடி ரூபாய் மதிப்பிலான தீவிர சிகிச்சைப் பிரிவு கட்டடம் உள்ளிட்ட 210 கோடி ரூபாய் மதிப்பிலான 9 கட்டடங்களைத் திறந்து வைத்தார்.\nஉயர்கல்வித் துறை சார்பில் அரசுக் கல்லூரிகளில் 52 கோடி ரூபாய் மதிப்பிலான கூடுதல் தங்கும் விடுதிக் கட்டடம், கூடுதல் வகுப்பறைகள், ஆய்வகங்கள், பன்நோக்கு திறந்தவெளி அரங்கம், உள்விளையாட்டரங்கம் ஆகியவையும் திறக்கப்பட்டன.\nநகராட்சி நிர்வாகம், குடிநீர் வழங்கல் துறை சார்பில் 174 கோடியே 97 லட்சம் ரூபாய் செலவில் முடிவுற்ற 12 திட்டப் பணிகள் பொதுமக்கள் பயன்பாட்டுக்குத் திறக்கப்பட்டன.\nமுதலமைச்சர் விஜய் திருக்கோவிலூர் அரசு தலைமை மருத்துவமனையையும் திறந்து வைத்தார்.\n📍 இடம்: ஈரோடு அரசு மருத்துவமனை, ஈரோடு மாவட்டம்\n🗓️ நாள்: நவம்பர் 18, 2026\n\nErode Government Hospital intensive care block Rs.40 crore | Erode news\n📍 ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #அரசு",
-   "prompts": "A group of hospital staff in white coats and nurses in white saris stand outside the new multi-storey intensive care block at the Erode Government Hospital as the building is opened. The setting is the compound of a large government hospital in Erode city, with a fresh concrete building, glass windows, and a short flight of steps at the entrance. Several officials and hospital doctors gather in a loose cluster near the doorway, seen from behind and far away, with a few patients' relatives standing at a distance in the forecourt. The clothing is sober: shirts and trousers for men, sarees and salwar for women. It is daylight with clear sky and a warm morning sun. The camera is at eye level, 35 mm, wide enough to show the new building and the hospital compound. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the new intensive care unit's entrance door and the wall beside it, showing the freshly finished concrete facade, tiled floor at the threshold and a row of hospital beds visible faintly through the glass inside the ward. Near the doorway a stainless steel trolley and a bundle of oxygen cylinders stand against the wall, and a few white-clad staff walk past in the background, seen from behind. The light is soft daytime sunlight falling on the new paint and tiles, with no visible text or signboards. The camera is at eye level, 35 mm, close enough to show the new building's finish and the ward interior. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.polimernews.com/tamilnadunews/new-buildings-at-government-hospitals-and-colleges-chief-minister-vijay-inaugurates-them-12819870",
-   "published": "2026-11-18T13:52:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 11 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஈரோட்டில் கூலி உயர்வு கோரி சுமை தூக்கும் தொழிலாளர்கள் ஆர்ப்பாட்டம் நடத்தினர். ஈரோடு பார்க் சாலையில் இன்று நவம்பர் 18ம் தேதி இந்த ஆர்ப்பாட்டம் நடைபெற்றது. சி ஐ டி யு மாவட்ட தலைவர் சுப்பிரமணியன் தலைமையில் தொழிலாளர்கள் திரண்டனர். நூல் மற்றும் ஜவுளி கட்டுகள் ஏற்றி இறக்கும் தொழிலாளர்களின் கூலி ஒப்பந்தம் 2025ம் ஆண்டு மார்ச் மாதத்துடன் முடிவடைந்தது. புதிய கூலி ஒப்பந்தம் ஏற்படுத்த உரிமையாளர் சங்கம் ஒத்துழைக்கவில்லை என்று தெரிவித்துள்ளனர். தொழிலாளர் நலத்துறை வாயிலாக பலமுறை பேச்சுவார்த்தை நடத்தியும் உடன்பாடு எட்டப்படவில்லை. மேலும் கூட்ஸ் டிரான்ஸ்போர்ட் லாரி அலுவலக தொழிலாளர்களின் ஒப்பந்தமும் ஆகஸ்ட் 1ம் தேதியுடன் முடிவடைந்துள்ளது. இதனால் நவம்பர் 23ம் தேதி நடக்கும் பேச்சில் உடன்பாடு ஏற்படாவிட்டால், அன்று முதல் காலவரையற்ற வேலைநிறுத்தம் செய்ய முடிவு செய்யப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📢 ஈரோடு பார்க் சாலையில் சுமை தூக்குவோர் ஆர்ப்பாட்டம்: நவ. 23 முதல் காலவரையற்ற வேலைநிறுத்தம் எச்சரிக்கை\n\n📰 முழு விவரம்:\nஈரோடு பார்க் சாலையில் சுமை தூக்கும் தொழிற்சங்கங்கள் சார்பில் இன்று (நவ. 18) கண்டன ஆர்ப்பாட்டம் நடைபெற்றது. சி.ஐ.டி.யு. மாவட்ட தலைவர் சுப்பிரமணியன் தலைமையில் இந்த ஆர்ப்பாட்டம் நடந்தது. நூல் மற்றும் ஜவுளி கட்டுகள் ஏற்றி இறக்கும் சுமை தூக்கும் தொழிலாளர்களுக்கான கூலி உயர்வு ஒப்பந்தம் 2025 மார்ச் மாதத்துடன் முடிவடைந்த நிலையில், புதிய ஒப்பந்தம் செய்ய உரிமையாளர்கள் சங்கம் முன்வரவில்லை எனக் கூறப்பட்டது. தொழிலாளர் நலத்துறை மூலம் நடத்தப்பட்ட பேச்சுவார்த்தைகளிலும் உடன்பாடு ஏற்படவில்லை. மேலும் கூட்ஸ் டிரான்ஸ்போர்ட் லாரி அலுவலக சுமை தொழிலாளர்களின் ஒப்பந்தமும் ஆகஸ்ட் 1 உடன் முடிவடைந்துள்ளது. இதனால் வரும் நவம்பர் 23 அன்று நடைபெறும் பேச்சுவார்த்தையில் முடிவு எட்டப்படாவிட்டால் அன்று முதல் காலவரையற்ற வேலைநிறுத்தத்தில் ஈடுபட உள்ளதாகத் தெரிவித்துள்ளனர்.\n\n📍 இடம்: பார்க் சாலை, ஈரோடு\n🗓️ நாள்: 18 நவம்பர் 2026\n👤 தலைமை: சுப்பிரமணியன் (சி.ஐ.டி.யு. மாவட்ட தலைவர்)\n⚠️ எச்சரிக்கை: நவம்பர் 23 பேச்சுவார்த்தையில் உடன்பாடு இல்லையெனில் காலவரையற்ற வேலைநிறுத்தம்\n\nஜவுளி மற்றும் சுமை தூக்கும் தொழிலாளர்களுக்கு இந்தச் செய்தியை Share செய்யுங்கள்\n\nErode Park Road loadmen protest wage hike strike warning Nov 23 | Erode news\n📍 பார்க் சாலை, ஈரோடு | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ParkRoad",
+   "prompts": "A crowd of loadmen and CITU union members stage a demonstration on Park Road in Erode town, raising union flags and placards as they gather in front of a row of shops and commercial buildings. Seen from behind and at a distance, the workers wear plain shirts, trousers and towels over their shoulders, many with a dhoti-clad elder at the front addressing the group. The road is lined with parked goods lorries and two-wheelers, and stacked yarn and textile bundles sit outside a shop front on the pavement. It is a bright daytime scene in Erode town, with the typical busy commercial street look of the city around the bus stand area. Shot at eye level or slightly high, 35 mm, wide enough to show the road, the protesting crowd and the goods vehicles together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked yarn and textile bundles tied with rope, placed on a lorry bed or a loading platform beside Park Road, showing the cargo that loadmen lift and unload every day. Behind the bundles, a pair of workers in shirts and veshti stand with their backs to the camera, one holding a rolled union flag. The shot shows the rough, heavy texture of the bundles and the worn wooden platform, with a blurred stretch of the busy road in the background. Daylight, slightly overcast, Erode town commercial street. Shot at eye level, 35 mm, shallow depth of field to isolate the bundles and the workers' hands. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/loaders-union-stages-protest/4379590",
+   "published": "2026-11-18T17:55:03+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: fact-check: Caption mentions the year '2026' in '18 நவம்பர் 2026', which is incorrect and not in the article; fact-check: Slide 3 title 'வேலைநிறுத்த' is truncated and incomplete in Tamil",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 2 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003162/erode360/ve0iyfrdciksftmbbxco.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795003167/erode360/tvkecaahwrzttsyxjuos.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020330/erode360/nxdkhvljowwxbfrid8we.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020365/erode360/pojdaj8q7ihjuxiel2xh.jpg"
    ]
   }
  ]
