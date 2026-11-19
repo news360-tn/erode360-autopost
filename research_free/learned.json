@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-19T22:12+05:30",
- "posts_measured": 122,
+ "updated": "2026-11-20T04:30+05:30",
+ "posts_measured": 125,
  "topic_weight": {
   "crime": 1.5,
   "weather": -0.5,
-  "civic": -0.5,
-  "accident": 1.18,
-  "education": -0.44,
-  "temple": -0.16,
+  "civic": -0.48,
+  "accident": 1.2,
+  "education": -0.42,
+  "temple": -0.3,
   "politics": 0.03,
-  "power_cut": -0.24,
+  "power_cut": -0.34,
   "poultry_agri": -0.5
  },
  "topic_n": {
@@ -18,7 +18,7 @@
   "civic": 13,
   "accident": 14,
   "education": 15,
-  "temple": 14,
+  "temple": 15,
   "politics": 6,
   "power_cut": 3,
   "poultry_agri": 4
@@ -27,7 +27,7 @@
   1,
   6,
   7,
-  10
+  17
  ],
  "top_openings": [
   "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
@@ -35,7 +35,7 @@
   "🚨 பவானி அருகே கஞ்சா விற்பனை: 7 பேர் கைது",
   "🚨 அந்தியூரில் பஸ் பூக்கடைக்குள் பாய்ந்தது; தாயும் மகளும் உயிர் தப்பினர்"
  ],
- "avg_watch_s": 7.8,
+ "avg_watch_s": 7.7,
  "best_topics": [
   "crime",
   "accident",
@@ -43,6 +43,6 @@
  ],
  "weak_topics": [
   "weather",
-  "civic"
+  "poultry_agri"
  ]
 }
