@@ -83,6 +83,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-19 | `ac12c57` | rasipalan + goldrate: publish again when Instagram says 'media not ready' (9007, nothing posted - Erode 19 Nov); Cloudinary upload tried 3 times with its reason in the log (Rasipuram rasipalan posted 18:43 on 18 Nov after 3 refusals) |
+| 2026-11-19 | `79a869a` | PROJECT_CONTEXT.md: wording ('<district>-district news') |
+| 2026-11-19 | `1716c54` | PROJECT_CONTEXT.md: page names with a space (Salem 360 style), not an underscore |
+| 2026-11-19 | `a09e2c3` | PROJECT_CONTEXT.md: own page name, handle, Sheet value, token and e-mail tag (was the Coimbatore copy); status live |
+| 2026-11-19 | `6365136` | goldrate posted |
 | 2026-11-19 | `b1254d2` | tests: install pytest and run the suite with pytest (gold reel tests were red since 19 Nov); insights: retry the save when another job saved at the same moment; README: page is live |
 | 2026-11-19 | `e7e69a8` | Gold reel: new bright poster design and faster pace (short lines, quicker voice, fast cuts) |
 | 2026-11-19 | `324c357` | pick: written and posted |
@@ -108,9 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-19 | `2e3eb72` | pick: picked news saved |
 | 2026-11-19 | `45542db` | pick: list sent |
 | 2026-11-18 | `bbb66d0` | pick: written and posted |
-| 2026-11-18 | `8fe027b` | pick: list sent |
-| 2026-11-18 | `71a8ec6` | powercut: notices written |
-| 2026-11-18 | `7d4dee0` | powercut: notices written |
-| 2026-11-18 | `cf1fe61` | pick: written and posted |
-| 2026-11-18 | `ecd8af8` | pick: picked news saved |
 <!-- recent-changes:end -->
