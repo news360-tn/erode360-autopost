@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-19T08:25+05:30",
- "posts_measured": 107,
+ "updated": "2026-11-19T10:27+05:30",
+ "posts_measured": 112,
  "topic_weight": {
   "crime": 1.5,
-  "weather": -0.5,
-  "civic": -0.46,
-  "accident": 1.5,
-  "education": -0.1,
-  "temple": -0.19,
-  "politics": 0.43,
-  "poultry_agri": -0.44
+  "weather": -0.42,
+  "civic": -0.47,
+  "accident": 1.43,
+  "education": -0.22,
+  "temple": -0.26,
+  "politics": 0.33,
+  "poultry_agri": -0.5
  },
  "topic_n": {
-  "crime": 22,
-  "weather": 7,
+  "crime": 25,
+  "weather": 8,
   "civic": 12,
   "accident": 12,
-  "education": 13,
+  "education": 14,
   "temple": 14,
   "politics": 6,
   "power_cut": 2,
@@ -34,14 +34,14 @@
   "🚨 கொடுமுடியில் சோகம்: மாடியிலிருந்து மயங்கி கீழே விழுந்த 23 வயது பெண் உயிரிழப்பு",
   "🚨 கருங்கல்பாளையத்தில் மனைவி பிரிந்ததால் வாலிபர் காவிரியில் தற்கொலை"
  ],
- "avg_watch_s": 7.5,
+ "avg_watch_s": 7.6,
  "best_topics": [
   "crime",
   "accident",
   "politics"
  ],
  "weak_topics": [
-  "weather",
+  "poultry_agri",
   "civic"
  ]
 }
