@@ -2,3 +2,87 @@ bridge 'recent' failed: {'ok': False, 'error': "TypeError: Cannot read propertie
 writer exit 1 (try 1)
 bridge 'recent' failed: {'ok': False, 'error': "TypeError: Cannot read properties of null (reading 'getLastRow')"}
 writer exit 1 (try 2)
+writing [N]: சிவகிரி பகுதியில் நவ. 21இல் மின் நிறுத்தம்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1113 (char 1112)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (3s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+ok groq/openai/gpt-oss-120b (2s)
+factcheck by groq/openai/gpt-oss-120b: 2 problems
+  Caption includes year 2026 which is not mentioned in the article
+  Typo "மாாதாந்திரப்" (should be "மாதாந்திரப்") makes the phrase ungrammatical
+attempt 1 groq/qwen/qwen3.8-27b: 2 problems
+  fact-check: Caption includes year 2026 which is not mentioned in the article
+  fact-check: Typo "மாாதாந்திரப்" (should be "மாதாந்திரப்") makes the phrase ungrammatical
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  numbers not found in the article: 7
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The reel_script adds the claim 'மொபைல் சார்ஜ், குடிநீர் தேவைகளை முன்கூட்டியே தயார் செய்துகொள்ளுங்கள்' (advice to charge phones and prepare drinking water), which is not in the article.
+  The reel_script says 'சிவகிரி பகுதியில்' and lists the areas as 'சிவகிரி, தேவிப்பட்டணம்...' with the power cut covering 'சிவகிரி பகுதியில்', which is a fair summary, but the reel_script's phrase 'மின்சாரம் இருக்காது' for the listed areas is consistent; however the slides_spec 'மக்கள் கவனத்திற்கு' slide's advice to prepare mobile charge and drinking water is likewise not in the article.
+  The slides_spec 'மக்கள் கவனத்திற்கு' slide and the caption also repeat the invented advice about mobile charging and drinking water.
+  The reel_script states the power cut is 'மின் நிறுத்தம் செய்யப்படும்' and the caption's '🔋' line presents the same invented advice as an instruction to residents.
+claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The reel_script adds the claim 'மொபைல் சார்ஜ், குடிநீர் தேவைகளை முன்கூட்டியே தயார் செய்துகொள்ளுங்கள்' (advice to charge phones and prepare drinking water), which is not in the article.
+  fact-check: The reel_script says 'சிவகிரி பகுதியில்' and lists the areas as 'சிவகிரி, தேவிப்பட்டணம்...' with the power cut covering 'சிவகிரி பகுதியில்', which is a fair summary, but the reel_script's phrase 'மின்சாரம் இருக்காது' for the listed areas is consistent; however the slides_spec 'மக்கள் கவனத்திற்கு' slide's advice to prepare mobile charge and drinking water is likewise not in the article.
+  fact-check: The slides_spec 'மக்கள் கவனத்திற்கு' slide and the caption also repeat the invented advice about mobile charging and drinking water.
+  fact-check: The reel_script states the power cut is 'மின் நிறுத்தம் செய்யப்படும்' and the caption's '🔋' line presents the same invented advice as an instruction to residents.
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+real photo skipped (photo uploaded 2026-01-30 (older than the news)): https://media.dinamani.com/dinamani/2026-01-30/dfmwhqpi/TNIEimport20201012originalElectric
+imagegen: cloudflare black-forest-labs/flux-1-schnell 429: {"errors":[{"message":"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like 
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Power cut in Sivagiri area on 21 Nov (Sa'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1316","first":"RN-146"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-thirunelveli/tenkasi/2026/Nov/18/%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF-%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%A8%E0%AE%B5-21%E0%AE%87%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D-%E0%AE%A8%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D
+candidate filter: collected=1
+to write: 1 Erode district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Erode; time left 39 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-thirunelveli/t
+auto images: 1 of 1 stories ({'pollinations': 2})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 36 min
+filed: 1 Erode district stories (target 1), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
