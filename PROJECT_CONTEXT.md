@@ -1,6 +1,6 @@
 # erode360-autopost - project context
 
-Automatic Erode 360-district news reels for the Instagram page **ஈரோடு 360** (`@erode360.official`, placeholder; hashtag `#Erode360`;
+Automatic Erode-district news reels for the Instagram page **ஈரோடு 360** (`@erode360.official`, placeholder; hashtag `#Erode360`;
 `post_to` value in the Sheet: `Erode 360`). A separate, fully independent copy of the Namakkal project `news360-autopost`:
 own GitHub repository, own Google account / Sheet / Apps Script, own Instagram token, own Cloudinary account and own free API keys.
 Namakkal 360 / Rasipuram 360 are never touched. Same file structure and function names as Namakkal, so Namakkal fixes can be
