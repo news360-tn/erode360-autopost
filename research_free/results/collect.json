@@ -3,128 +3,126 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-in-sivagiri-over-dead-man-s-body/4380039",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/loaders-union-stages-protest/4379590",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/will-the-excavations-resume-at-koodamala-which-reflects-antiquity/4379642",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/municipal-councillor-dies/4379353",
-  "candidate filter: collected=4",
-  "to write: 4 Erode district candidates (max 4 stories)",
-  "round: top 4 of 4 candidates",
-  "candidates waiting: 4 Erode; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/சித்தோட்டில்-கஞ்சா-விற்பனை-இளைஞா்-கைது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/ganja-sold-from-a-rented-house-in-ammapettai-6-people-including-a-minor-arrested",
+  "manual link added: https://www.dinakaran.com/news/controversy-involving-senior-female-police-officer-minister-kallakurichi-erode/amp",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/8-people-sold-and-drank-alcohol-arrested/4380284",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/7-people-arrested-4-bikes-airgun-car-seized-for-selling-cannabis/4380289",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/fire-breaks-out-at-municipal-garbage-dump/4380288",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/gun-police-security-for-exam-paper-room/4380294",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/man-falls-into-well-dies/4380273",
+  "candidate filter: collected=8",
+  "to write: 8 Erode district candidates (max 8 stories)",
+  "round: top 8 of 8 candidates",
+  "candidates waiting: 8 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/will-the-exca",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/loaders-union",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "try (N) manual=True: https://www.dinakaran.com/news/controversy-involving-senior-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 75 min",
-  "filed: 4 Erode district stories (target 4), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 13})",
+  "NOT filed (N) அம்மாபேட்டையில் வீட்டை வாடகைக்கு எடுத்து கஞ்சா விற: duplicate after write",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 15})",
+  "candidate loop ended: left 0, tried={'N': 8}, done={'N': 7}, time left 73 min",
+  "filed: 7 Erode district stories (target 8), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":8,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (21s)",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (8s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (15s)",
+  "ok gemini/gemini-3-flash-preview (17s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (19s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok gemini/gemini-3-flash-preview (28s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -132,243 +130,466 @@
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பவானி நகராட்சி 15வது வார்டு திமுக கவுன்சிலர் ரவி உடல்நலக்குறைவால் காலமானார்",
-   "english_headline": "Bhavani municipality 15th ward DMK councillor Ravi passes away due to illness",
-   "category": "Government & Services",
-   "location": "Bhavani town, Erode district",
-   "importance": "Medium",
+   "tamil_headline": "ஈரோடு குப்பை கிடங்கில் தீ விபத்து",
+   "english_headline": "Fire breaks out at Erode municipal dumpsite",
+   "category": "Civic Issues",
+   "location": "Vendipalayam, Erode city, Erode district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "துயர செய்தி",
-    "loc": "பவானி",
-    "hl1": "பவானி நகராட்சி கவுன்சிலர் சாவு",
-    "hl2": "திமுக கவுன்சிலர் ரவி மறைவு",
+    "cat": "தீ விபத்து",
+    "loc": "வெண்டிபாளையம், ஈரோடு",
+    "hl1": "ஈரோடு குப்பை கிடங்கில் தீ விபத்து",
+    "hl2": "1 ஏக்கர் குப்பை எரிந்தது",
     "slides": [
      {
-      "title": "கவுன்சிலர் மறைவு",
+      "title": "தீ பிடித்தது",
       "lines": [
-       "பவானி <b>15வது வார்டு</b> கவுன்சிலர் ரவி மறைவு",
-       "திமுகவை சேர்ந்த இவர் உடல்நலக்குறைவால் காலமானார்",
-       "நேற்று காலை உயிரிழந்தார்"
+       "வெண்டிபாளையம் குப்பை கிடங்கில் தீ பிடித்தது",
+       "நேற்று முன்தினம் இரவு 10:15 மணிக்கு தீ பிடித்தது"
       ]
      },
      {
-      "title": "அஞ்சலி செலுத்தினர்",
+      "title": "தீயணைப்பு பணி",
       "lines": [
-       "நகர்மன்ற தலைவர் <b>சிந்தூரி</b> நேரில் அஞ்சலி",
-       "நகராட்சி அலுவலர்கள், கவுன்சிலர்கள் அஞ்சலி செலுத்தினர்"
+       "தொழிலாளர்கள் தீயை அணைக்க முயற்சித்தனர்",
+       "தீயணைப்பு வீரர்கள் அதிகாலை 1:30 மணிக்கு தீயை அணைத்தனர்"
       ]
      },
      {
-      "title": "முந்தைய மறைவு",
+      "title": "தீ விபத்து விவரம்",
       "lines": [
-       "கடந்த <b>ஆகஸ்ட்</b> மாதம் 11வது வார்டு கவுன்சிலர் மணி மறைந்தார்",
-       "கம்யூனிஸ்ட் கட்சியை சேர்ந்த இவர் துணைத்தலைவராக இருந்தார்"
+       "1 ஏக்கர் பரப்பில் குப்பை எரிந்து சாம்பலானது",
+       "அப்பகுதி புகை மண்டலமாக காணப்பட்டது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பவானி நகராட்சியின் 15வது வார்டு கவுன்சிலர் ரவி உடல்நலக்குறைவு காரணமாக காலமானார். திமுகவை சேர்ந்த இவர் நேற்று காலை உயிரிழந்தார் என்று தெரிவிக்கப்பட்டுள்ளது. மறைந்த கவுன்சிலர் ரவியின் உடலுக்கு பவானி நகர்மன்ற தலைவர் சிந்தூரி அஞ்சலி செலுத்தினார். அவருடன் நகராட்சி அலுவலர்கள் மற்றும் சக நகராட்சி கவுன்சிலர்களும் ரவியின் உடலுக்கு அஞ்சலி செலுத்தினார்கள். ஏற்கனவே பவானி நகராட்சியின் 11வது வார்டு கவுன்சிலராக இருந்த மணி கடந்த ஆகஸ்ட் மாதம் காலமானார். கம்யூனிஸ்ட் கட்சியை சேர்ந்த மணி பவானி நகராட்சியின் துணைத்தலைவராகவும் பொறுப்பு வகித்து வந்தார். அவரும் உடல்நலக்குறைவு காரணமாகவே உயிரிழந்தார் என்பது குறிப்பிடத்தக்கது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🥀 பவானி நகராட்சி 15வது வார்டு திமுக கவுன்சிலர் ரவி காலமானார்\n\n📰 முழு விவரம்:\nபவானி நகராட்சியின் 15வது வார்டு கவுன்சிலரான திமுகவை சேர்ந்த ரவி உடல்நலக்குறைவால் நேற்று காலை காலமானார். அவரது உடலுக்கு பவானி நகர்மன்ற தலைவர் சிந்தூரி, நகராட்சி அலுவலர்கள் மற்றும் கவுன்சிலர்கள் நேரில் சென்று அஞ்சலி செலுத்தினர். முன்னதாக, பவானி நகராட்சியின் 11வது வார்டு கவுன்சிலரும் துணைத்தலைவருமான கம்யூனிஸ்ட் கட்சியை சேர்ந்த மணி, கடந்த ஆகஸ்ட் மாதம் உடல்நலக்குறைவால் காலமானார்.\n\n📍 இடம்: பவானி, ஈரோடு மாவட்டம்\n🗓️ நாள்: 17 நவம்பர் 2026 (நேற்று காலை)\n👥 அஞ்சலி: நகர்மன்ற தலைவர் சிந்தூரி, நகராட்சி அலுவலர்கள், கவுன்சிலர்கள்\n\nதகவலை பிறருக்கு Share செய்யுங்கள்\n\nBhavani municipality councillor Ravi passes away | Erode news\n📍 பவானி, ஈரோடு | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #ErodeNews #ஈரோடு",
-   "prompts": "A group of municipal officials and fellow DMK councillors stand solemnly in a modest council hall, heads bowed, as a floral wreath rests on a podium in memory of the late councillor Ravi. The hall is a plain government building in Bhavani town, with simple white walls, a wooden stage, and a Tamil Nadu state flag hanging on the back wall. From behind, the municipal chairman Sinthoori, dressed in a white shirt and trousers, leads the tribute, while several councillors in formal shirts stand beside him, their backs to the camera. The floral wreath, white lilies and marigolds, is the only visible object, symbolising the condolence. Morning light filters through high windows, casting a soft glow; the scene is captured at eye level with a 35 mm lens, wide enough to frame the hall and the gathering. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view shows the condolence wreath placed on a polished wooden podium inside the council hall. The arrangement consists of white lilies, bright marigold petals, and a green garland, all tied together with a simple white ribbon. Beside the wreath lies a folded Indian flag draped over a small stand, its saffron, white and green colors visible but without any legible text. The background is a muted wall with a faint outline of the hall’s ceiling beams, keeping focus on the tribute objects. The shot is taken slightly above eye level with a 35 mm lens, isolating the wreath and flag as the detail that tells the story of the councillor’s passing. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/municipal-councillor-dies/4379353",
-   "published": "2026-11-18T06:53:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "ஈரோடு வெண்டிபாளையம் குப்பை கிடங்கில் 1 ஏக்கர் குப்பை எரிந்து சாம்பலானது. நேற்று முன்தினம் இரவு 10:15 மணிக்கு அங்குள்ள குப்பைக்கு தீ பிடித்தது. அப்பகுதியில் இருந்த தொழிலாளர்கள் நீண்ட நேரம் தீயை அணைக்க முயற்சித்தனர். ஆனால் அவர்களுக்கு தீயை கட்டுப்படுத்த முடியவில்லை. பின்னர் ஈரோடு தீயணைப்பு நிலைய வீரர்கள் அங்கு சென்றனர். அவர்கள் நேற்று அதிகாலை 1:30 மணி வரை தீயை அணைக்கும் பணியில் ஈடுபட்டனர். தீயால் அப்பகுதி முழுவதும் புகை மண்டலமாக காணப்பட்டது. தீ விபத்துக்கான காரணம் இதுவரை தெரியவில்லை. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🔥 ஈரோடு வெண்டிபாளையம் குப்பை கிடங்கில் 1 ஏக்கர் குப்பை எரிந்து சாம்பலானது\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சி குப்பை கிடங்கு வெண்டிபாளையத்தில் உள்ளது. நேற்று முன்தினம் இரவு 10:15 மணிக்கு அங்குள்ள குப்பைக்கு தீ பிடித்து எரியத் துவங்கியது. அப்பகுதியில் இருந்த தொழிலாளர்கள் நீண்ட நேரம் தீயை அணைக்க முயற்சித்தனர். ஆனால் அவர்களுக்கு தீயை கட்டுப்படுத்த முடியவில்லை. பின்னர் ஈரோடு தீயணைப்பு நிலைய வீரர்கள் அங்கு சென்று தீயை அணைக்க தொடங்கினர். அவர்கள் நேற்று அதிகாலை 1:30 மணி வரை தீயை அணைக்கும் பணியில் ஈடுபட்டனர். தீ விபத்துக்கான காரணம் இதுவரை தெரியவில்லை.\n\n📍 இடம்: வெண்டிபாளையம், ஈரோடு\n🗓️ நாள்: நேற்று முன்தினம்\n🕘 நேரம்: இரவு 10:15 மணி\n👮 நடவடிக்கை: தீயணைப்பு வீரர்கள் அதிகாலை 1:30 மணிக்கு தீயை அணைத்தனர்\nℹ️ மக்கள் கவனத்திற்கு: தீ விபத்துக்கான காரணம் இதுவரை தெரியவில்லை\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nErode dumpsite fire | Erode news\n📍 Vendipalayam, Erode | 19 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Erode360 #Erode #ErodeNews #ஈரோடு #ErodeCity",
+   "prompts": "A Erode city fire station crew in uniform aims water hoses at a smouldering garbage heap at the Vendipalayam municipal dumpsite as thick grey smoke rises into the dark night sky. A red fire tender stands on the open ground beside the dump, its lights flashing, while a few corporation workers in shirts and trousers stand at a distance, seen from behind. Around the edge of the dump, scattered plastic waste, sacks and heaps of mixed garbage glow faintly orange where the fire still burns. Low concrete boundary wall and a few distant rooftops of Vendipalayam appear in the background under the dim night light. The fire has already burnt a large area, with blackened ash spread across the ground. Camera at eye level, 35 mm lens, wide enough to show the whole dump, the fire tender and the smoke cloud. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a heap of smouldering garbage at the edge of the Vendipalayam dumpsite, with blackened plastic, torn sacks and grey ash piled on the ground. Thin wisps of white smoke curl up from the charred waste, and a corporation fire hose lies across the ash, its water still wet on the ground. Patches of orange ember glow through the dark debris, and dust and ash cover the surface around them. In the background, out of focus, a fire fighter in uniform stands near the fire tender under the night sky. Dim night light with a hint of fire glow, no readable text or signs. Camera at low angle, 35 mm, focused on the burnt garbage and hose. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/fire-breaks-out-at-municipal-garbage-dump/4380288",
+   "published": "2026-11-19T06:17:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020199/erode360/m1zqhivjyrxzuixegmpf.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020207/erode360/dfhfu4jjas5hzdg3l6hi.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051258/erode360/i7lvxr2q4uxuo0cytnmd.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051263/erode360/gznpidjlbqzf0z1jajfr.jpg"
    ]
   },
   {
-   "tamil_headline": "கொடுமணலில் மீண்டும் அகழ்வாராய்ச்சி தொடங்க வேண்டும் என கோரிக்கை",
-   "english_headline": "Demand to restart excavation at Kodumanal in Erode district, a site of ancient civilisation",
-   "category": "Government & Services",
-   "location": "Kodumanal, Chennimalai union, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வரலாறு",
-    "loc": "கொடுமணல், சென்னிமலை",
-    "hl1": "கொடுமணலில் அகழ்வாராய்ச்சி மீண்டும்",
-    "hl2": "2,400 ஆண்டு பழமையான நாகரிகம்",
-    "slides": [
-     {
-      "title": "கொடுமணலின் வரலாறு",
-      "lines": [
-       "1950களில் சீனிவாச தேசிகர் முதல் அகழ்வாராய்ச்சி தொடங்கினார்",
-       "1961ல் நாகசாமி குழு நகரப்பகுதி இருந்ததை உறுதி செய்தது",
-       "சங்க காலத்துக்கு முந்தைய நாகரிகம் இருந்தது"
-      ]
-     },
-     {
-      "title": "முக்கிய",
-      "lines": [
-       "1,000க்கும் மேற்பட்ட தமிழ் பிராமி ஆவணங்கள் கிடைத்தன",
-       "கி.மு. 400க்கு முன்பே நாகரிகம், வணிகம் இருந்தது",
-       "மண் பாத்திரம், கத்தி, ஈட்டி கண்டறியப்பட்டது"
-      ]
-     },
-     {
-      "title": "2021 அகழாய்வு",
-      "lines": [
-       "2021ல் 2,400 ஆண்டுகளுக்கு முன் மக்கள் வாழ்ந்தனர்",
-       "ஜெ.ரஞ்சித் தலைமையில் அகழாய்வு நடந்தது",
-       "2021 ஜூன் – ஜூலையுடன் பணி நிறைவு பெற்றது"
-      ]
-     },
-     {
-      "title": "இப்போதைய கோரிக்கை",
-      "lines": [
-       "அரசு ஆண்டுதோறும் அகழாய்வு நடத்த வேண்டும்",
-       "கண்டுபிடிப்புகளை மாவட்டத்திலேயே காட்சிப்படுத்த வேண்டும்",
-       "மாணவர்களுக்கு சுற்றுலாவும் ஏற்படுத்த வேண்டும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னிமலை அருகே கொடுமணலில் மீண்டும் அகழ்வாராய்ச்சி தொடங்க வேண்டும் என கோரிக்கை எழுந்துள்ளது. கொடுமணலில் 1950களில் சீனிவாச தேசிகர் முதல் முறையாக முறையான அகழ்வாராய்ச்சியைத் தொடங்கினார். 1961ல் தமிழக அரசின் தொல்லியல் துறை அதிகாரி நாகசாமி தலைமையிலான குழு அகழாய்வு செய்தது. அப்போது அங்கு ஒரு நகரப்பகுதி இருந்ததும், சங்க காலத்துக்கு முந்தைய நாகரிகம் இருந்ததும் உறுதி செய்யப்பட்டது. 1990களில் கல்வெட்டு அறிஞர் புலவர் ராசு, சங்க பாடல்களில் வரும் கொடுமணம் என்ற ஊர்தான் கொடுமணல் என ஆய்வுக் கட்டுரை சமர்ப்பித்தார். 2021ல் தொல்லியல் துறை அகழாய்வு திட்ட இயக்குனர் ஜெ.ரஞ்சித் தலைமையில் அகழாய்வு நடத்தப்பட்டது. அதில் 2,400 ஆண்டுகளுக்கு முன் மக்கள் வாழ்ந்தது தெரியவந்தது. 1,000க்கும் மேற்பட்ட தமிழ் பிராமி ஆவணங்கள் இங்கு கிடைத்தன. 2021 ஜூன் – ஜூலையுடன் அந்தப் பணி நிறைவடைந்தது. அதன்பின் அரசு சார்பில் முறையான அகழாய்வு நடைபெறவில்லை. அரசு ஆண்டுதோறும் அகழாய்வு நடத்தி, கண்டுபிடிப்புகளை மாவட்டத்திலேயே காட்சிப்படுத்த வேண்டும் என்று கோரப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ கொடுமணலில் மீண்டும் அகழ்வாராய்ச்சி தொடங்குமா? 2,400 ஆண்டு பழமை\n\n📰 முழு விவரம்:\nசென்னிமலை யூனியனில் உள்ள கொடுமணல் பகுதியில் 1950களில் சீனிவாச தேசிகர் முதல் முறையாக முறையான அகழ்வாராய்ச்சியைத் தொடங்கினார். 1961ல் தொல்லியல் துறை அதிகாரி நாகசாமி தலைமையிலான குழு அகழாய்வு செய்து, அங்கு ஒரு நகரப்பகுதி இருந்ததையும் சங்க காலத்துக்கு முந்தைய நாகரிகம் இருந்ததையும் உறுதி செய்தது. கடந்த 1990களில் கல்வெட்டு அறிஞர் புலவர் ராசு, சங்க பாடல்களில் வரும் கொடுமணம் என்ற ஊர்தான் கொடுமணல் என ஆய்வுக் கட்டுரை சமர்ப்பித்தார். பின்னர் பேராசிரியர் சுப்பராயலு அகழாய்வு செய்து, கொடுமணல் நாகரிகம் நொய்யலாற்றை மையமாக கொண்டு இயங்கியதை உறுதி செய்தார். அதன்பின் அகழாய்வில் பெரிய தொய்வு ஏற்பட்டது.\n🏺 2021ல் தொல்லியல் துறை அகழாய்வு திட்ட இயக்குனர் ஜெ.ரஞ்சித் தலைமையில் அகழாய்வு நடந்தது. இப்பகுதியில் 2,400 ஆண்டுகளுக்கு முன் மக்கள் வாழ்ந்ததும், குடியிருப்பு, பண்பாட்டுப் பொருட்கள், நாணயம், மண் பானை ஓடுகள் கிடைத்ததும் தெரியவந்தது.\n📜 பல இடங்களில் கிடைத்த 1,999 தமிழ் பிராமி ஆவணங்களில் 1,000க்கும் மேற்பட்டவை கொடுமணலில் கிடைத்தவை. கி.மு. 400க்கு முன்பே நாகரிகம், வணிகம், பண்டமாற்று, அறிவியல் தொழில்நுட்பங்கள் இருந்ததை இது உறுதி செய்கிறது.\n🔨 மண் பாத்திரம், கத்தி, ஈட்டி போன்ற ஆயுதங்கள், ஆணி, கம்பி போன்ற பொருட்கள் செய்யப்பட்டதற்கான அடையாளங்களும் கண்டறியப்பட்டன.\n⏳ 2021 ஜூன் – ஜூலையுடன் அகழாய்வுப் பணி நிறைவடைந்தது. அதன்பின் சிறிய அளவில் அறிஞர்கள் வந்து சென்றாலும், அரசு சார்பில் முறையான அகழாய்வு நடைபெறவில்லை. 2021க்கு முந்தைய ஆய்வுத் தரவுகளும் மக்களிடம் கொண்டு சேர்க்கப்படவில்லை.\n🎓 கொடுமணலின் மகத்துவத்தை மக்கள் அறிய, அரசு ஆண்டுதோறும் அகழாய்வு நடத்தி, கூடுதல் நிதி ஒதுக்கி, அகழாய்வில் ஆர்வமுள்ளவர்களை ஈடுபடுத்த தனி அமைப்பை உருவாக்க வேண்டும். பள்ளி, கல்லூரி மாணவர்களுக்கு அகழாய்வை அறியும் சுற்றுலாக்களை ஏற்படுத்த வேண்டும் என்றும் கோரப்பட்டுள்ளது.\n\nKodumanal excavation restart demand | Erode news\n📍 கொடுமணல், சென்னிமலை, ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
-   "prompts": "A small group of local researchers and archaeology enthusiasts stands at the edge of the old Kodumanal excavation trenches in Chennimalai union, Erode district, appealing for the government to restart digging at this 2,400-year-old site. The setting is an open dry mound of reddish-brown earth, with shallow excavation pits, exposed brick and earth walls, and heaps of soil piled beside the trenches. Two or three men in shirts and veshti, and a woman in a cotton saree, stand from behind, looking toward the pits, with a few bare palm trees and open paddy fields on the flat land beyond. Scattered broken pottery shards lie on the ground near the trench edges. It is bright daylight with soft clear sky. Camera at eye level, 35 mm lens, wide enough to show the trenches, the mound and the open fields around the site. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the excavation site at Kodumanal: a shallow trench cut into reddish-brown earth, showing layers of soil and a cluster of broken terracotta pottery shards and a few rusted iron tool fragments lying on the exposed ground. A small wooden peg and a coil of string mark the grid of the old dig, with dry grass at the edges. Behind the trench, a low heap of loose soil and a bare patch of ground suggest the site has been left untouched for years. Harsh but gentle daylight highlights the texture of the pottery and soil. Camera close to ground level, 35 mm lens, shallow depth of field, no people in frame. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/will-the-excavations-resume-at-koodamala-which-reflects-antiquity/4379642",
-   "published": "2026-11-18T18:10:34+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; caption talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; known issue meta_article: script talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020305/erode360/w5t3ous5vyz1mgrdizee.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020312/erode360/ccq0soht7q80ji7sdbdk.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சிவகிரியில் இறந்தவர் உடலை சாலையில் வைத்து மறியல்: எஸ்.ஐ. மீது நடவடிக்கை உறுதி",
-   "english_headline": "Relatives block road in Sivagiri with body of man who died in Salem hospital, alleging SI spoke rudely; police assure action",
+   "tamil_headline": "கவுந்தப்பாடி அருகே கிணற்றில் தவறி விழுந்த விவசாயி உயிரிழப்பு",
+   "english_headline": "Farmer dies after falling into well near Kavundappadi, Gobichettipalayam",
    "category": "Crime & Safety",
-   "location": "Sivagiri, Erode district",
+   "location": "Periyapuliyur, Kavundappadi, Gobichettipalayam taluk, Erode district",
    "importance": "Medium",
-   "scope": "local",
+   "scope": "",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மறியல் போராட்டம்",
-    "loc": "சிவகிரி",
-    "hl1": "சிவகிரியில் உடலை வைத்து மறியல் போராட்டம்",
-    "hl2": "எஸ்.ஐ. மீது நடவடிக்கை உறுதி",
+    "cat": "விபத்து",
+    "loc": "கவுந்தப்பாடி",
+    "hl1": "கவுந்தப்பாடி அருகே கிணற்றில் விழுந்து",
+    "hl2": "நவ. 16 மாலை 5:30 மணி",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சிவகிரி அரசு மருத்துவமனை முன் சாலையில் உடலை வைத்து மறியல்",
-       "எஸ்.ஐ. தரக்குறைவாக, ஒருமையில் பேசியதாக உறவினர்கள் புகார்",
-       "சுமார் <b>20 நிமிடங்கள்</b> போராட்டம் நீடித்தது"
+       "கவுந்தப்பாடி அருகே பெரியபுலியூரில் சம்பவம்",
+       "தோட்டத்தில் தண்ணீர் பாய்ச்சும்போது கிணற்றில் தவறி விழுந்தார்",
+       "எதிர்பாராத விதமாக நடந்த இந்த விபத்தில் <b>74 வயது</b>"
       ]
      },
      {
-      "title": "யார் இறந்தார்?",
+      "title": "யார் அவர்?",
       "lines": [
-       "சின்னியம்பாளையத்தை சேர்ந்த கோவிந்தசாமி, <b>47 வயது</b>",
-       "கூலி தொழிலாளி; <b>14ஆம் தேதி</b> பொது கழிப்பறையில் வழுக்கி",
-       "பின் தலையில் பலத்த காயம்; சேலம் மருத்துவமனையில் <b>17ஆம்"
+       "உயிரிழந்தவர் பெரியபுலியூரைச் சேர்ந்த மாரிமுத்து",
+       "<b>74 வயது</b> விவசாயி",
+       "நவம்பர் <b>16</b> மாலை <b>5:30</b> மணிக்கு நடந்தது"
       ]
      },
      {
-      "title": "போராட்டம் முடிவு",
+      "title": "அடுத்து என்ன?",
       "lines": [
-       "பிரேத பரிசோதனைக்கு பின் சிவகிரிக்கு உடல் கொண்டு வரப்பட்டது",
-       "எஸ்.ஐ. மீது சட்ட நடவடிக்கை வேண்டும் என உறவினர்கள்",
-       "நடவடிக்கை எடுக்கப்படும் என இன்ஸ்பெக்டர்கள் உறுதி"
+       "உடல் மீட்கப்பட்டு பெருந்துறை அரசு மருத்துவக் கல்லூரி",
+       "மகன் ராமசாமி அளித்த புகாரின்படி கவுந்தப்பாடி போலீசார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சிவகிரியில் உடலை சாலையில் வைத்து உறவினர்கள் மறியல் நடத்தினர். சின்னியம்பாளையத்தைச் சேர்ந்த 47 வயது கூலி தொழிலாளி கோவிந்தசாமி, கடந்த 14ஆம் தேதி காலை சின்னியம்பாளையத்தில் உள்ள பொது கழிப்பறைக்குச் சென்றபோது வழுக்கி விழுந்தார். பின் தலையில் பலத்த காயம் அடைந்தார். ஈரோடு அரசு மருத்துவமனைக்குக் கொண்டு செல்லப்பட்டு, அதே நாளில் சேலம் அரசு மருத்துவமனைக்கு அழைத்துச் செல்லப்பட்டார். அங்கு 17ஆம் தேதி சிகிச்சை பலனின்றி உயிரிழந்தார். நேற்று மதியம் பிரேத பரிசோதனைக்குப் பின் உடல் சிவகிரிக்குக் கொண்டு வரப்பட்டது. அப்போது உறவினர்கள் சிவகிரி அரசு மருத்துவமனை சந்திப்பு பகுதியில் சாலையின் நடுவே உடலை வைத்து மறியலில் ஈடுபட்டனர். சிவகிரி இன்ஸ்பெக்டர் கிருஷ்ணகுமார், மலையம்பாளையம் இன்ஸ்பெக்டர் வினோதினி ஆகியோர் அவர்களிடம் பேச்சு நடத்தினர். உடற்கூறாய்வுக் கடிதம் வாங்க சிவகிரி போலீஸ் ஸ்டேஷனுக்குச் சென்றபோது, அங்கிருந்த காவல் உதவி ஆய்வாளர் முருகேஷ் தரக்குறைவாக, ஒருமையில் பேசியதாக உறவினர்கள் குற்றம் சாட்டினர். காவல் உதவி ஆய்வாளர் மீது சட்ட நடவடிக்கை எடுத்தால்தான் உடலை எடுப்போம் என்று அவர்கள் தெரிவித்தனர். தரக்குறைவாகப் பேசிய காவல் உதவி ஆய்வாளர் மீது உரிய நடவடிக்கை எடுக்கப்படும் என இன்ஸ்பெக்டர்கள் உறுதியளித்தனர். இதையடுத்து சுமார் 20 நிமிடங்களுக்குப் பிறகு உறவினர்கள் அங்கிருந்து கலைந்து சென்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சிவகிரியில் உடலை சாலையில் வைத்து மறியல்: எஸ்.ஐ. மீது நடவடிக்கை உறுதி\n\n📰 முழு விவரம்:\nசிவகிரி அரசு மருத்துவமனை சந்திப்பில், இறந்தவரின் உடலை சாலையின் நடுவே வைத்து உறவினர்கள் மறியல் போராட்டம் நடத்தினர். சின்னியம்பாளையத்தைச் சேர்ந்த 47 வயது கூலி தொழிலாளி கோவிந்தசாமி, அக். 14ஆம் தேதி பொது கழிப்பறையில் வழுக்கி விழுந்து பின் தலையில் படுகாயம் அடைந்தார். ஈரோடு, சேலம் அரசு மருத்துவமனைகளில் சிகிச்சை பெற்றும் 17ஆம் தேதி உயிரிழந்தார். நேற்று மதியம் உடல் சிவகிரிக்குக் கொண்டு வரப்பட்டபோது மறியல் நடந்தது. காவல் உதவி ஆய்வாளர் முருகேஷ் தரக்குறைவாகப் பேசியதாகக் குற்றம்சாட்டிய உறவினர்கள், அவர் மீது சட்ட நடவடிக்கை கோரினர். இன்ஸ்பெக்டர்கள் உறுதியளித்ததையடுத்து சுமார் 20 நிமிடங்களுக்குப் பிறகு கலைந்தனர்.\n📍 இடம்: சிவகிரி அரசு மருத்துவமனை சந்திப்பு\n👮 நடவடிக்கை: எஸ்.ஐ. மீது உரிய நடவடிக்கை எடுக்கப்படும் என இன்ஸ்பெக்டர்கள் உறுதி\n\nSivagiri body road blockade, SI action assured | Erode news\n📍 சிவகிரி, ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sivagiri #ErodeNews #ஈரோடு",
-   "prompts": "A group of relatives in a sombre protest blocks a road junction in front of the Sivagiri government hospital in Erode district, with a body lying in the middle of the tarred road on a stretcher-style bier draped in white cloth. Around it, men in shirts and veshti and women in cotton sarees stand close together, some seated on the road edge, their backs to the camera and faces turned away. Two police inspectors in khaki uniform stand at a distance on the pavement, in conversation with a small cluster of men. Hospital compound walls, a few parked two-wheelers and an autorickshaw line the roadside, and a town bus waits behind the blockade. It is an afternoon in Erode city with bright daylight and a hazy sky. Camera at eye level, 35 mm, wide enough to show the hospital entrance, the crowd and the road. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a white cloth-draped body lying on a bier in the middle of a tarred road, with the edge of a hospital gate and concrete kerb in the background. A few sandals and a plastic water pot lie scattered near the bier, and a pair of khaki-uniformed police boots stands at the edge of the frame. Hands of relatives rest on the bier. Afternoon daylight falls across the road surface, showing scuff marks and a little dust. Camera at slightly high angle, 35 mm, focusing on the blockade object and the road surface, with the blurred hospital wall behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-in-sivagiri-over-dead-man-s-body/4380039",
-   "published": "2026-11-18T21:10:32+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: slides_spec slide 2 line is truncated/ungrammatical: \"சேலம் மருத்துவமனையில் <b>17ஆம்\" ends mid-sentence with an unclosed tag and no clear meaning; fact-check: reel_script says the body was taken to Erode government hospital and then Salem on the same day (14th), but the article says he was taken to Erode on the 14th and moved to Salem on the 14th only after; the draft's sequencing is compressed and implies the Salem transfer happened that day, which the article states as \"பின்னர், 14ல்\" (not clearly the same day as Erode); fact-check: slides_spec slide 3 says the body was brought to Sivagiri 'after post-mortem' which is accurate, but the reel_script omits the 'police station letter' detail in relation to the SI's remarks being made there; minor, not a fact error; fact-check: caption states the SI's name as 'காவல் உதவி ஆய்வாளர் முருகேஷ்' and the caption and reel say the deceased 'கூலி தொழிலாளி' is correct, but the caption attributes the 14th date as 'அக். 14ஆம் தேதி' which adds a month (October) not stated in the article",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 4 validator problem(s)",
+   "reel_script": "கவுந்தப்பாடி அருகே கிணற்றில் தவறி விழுந்த 74 வயது விவசாயி உயிரிழந்தார். கோபி பகுதியில் பெரியபுலியூரைச் சேர்ந்த விவசாயி மாரிமுத்து, நவம்பர் 16ஆம் தேதி மாலை 5:30 மணிக்குத் தோட்டத்தில் தண்ணீர் பாய்ச்சிக்கொண்டிருந்தபோது எதிர்பாராத விதமாகக் கிணற்றில் தவறி விழுந்தார். அவரது உடல் மீட்கப்பட்டு பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு அனுப்பப்பட்டது. அவரது மகன் ராமசாமி அளித்த புகாரின்படி கவுந்தப்பாடி போலீசார் விசாரணை நடத்துகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கவுந்தப்பாடி அருகே கிணற்றில் தவறி விழுந்து 74 வயது விவசாயி பலி\n\n📰 முழு விவரம்:\nகோபி அருகே கவுந்தப்பாடி பகுதியில் உள்ள பெரியபுலியூரைச் சேர்ந்த விவசாயி மாரிமுத்து (74 வயது), நவம்பர் 16ஆம் தேதி மாலை 5:30 மணிக்குத் தங்களது தோட்டத்தில் தண்ணீர் பாய்ச்சிக்கொண்டிருந்தபோது எதிர்பாராத விதமாகக் கிணற்றில் தவறி விழுந்து உயிரிழந்தார்.\n📍 இடம்: பெரியபுலியூர், கவுந்தப்பாடி அருகே, கோபி\n🗓️ நாள்: நவம்பர் 16\n🕘 நேரம்: மாலை 5:30 மணி\n🚑 உடல் மீட்பு: உடல் மீட்கப்பட்டு பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு அனுப்பப்பட்டது\n👮 நடவடிக்கை: மகன் ராமசாமி அளித்த புகாரின்படி கவுந்தப்பாடி போலீசார் விசாரிக்கின்றனர்\n\nFarmer dies after falling into well near Kavundappadi | Erode news\n📍 பெரியபுலியூர், கவுந்தப்பாடி, கோபி, ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A rescue team in a village farm lifts a body from an open stone well at dusk, as police in khaki stand at the edge and villagers watch from a distance. The setting is a dry farm plot (thottam) in Periyapuliyur village near Kavundappadi, Gobichettipalayam taluk, Erode district, with green paddy and sugarcane fields stretching behind, and distant low hills in the haze. Two or three rescue workers in shirts and lungis, seen from behind, are pulling a rope, while a police constable in khaki stands at the well's rim and two or three villagers in veshti and shirts stand quietly a few metres back, their faces turned away. A black electric irrigation motor and a coiled water pipe lie on the mud beside the well. The time is early evening with soft fading daylight and a calm, cloudy sky. Camera: eye level, 35 mm, wide enough to show the well, the farm and the surrounding fields, people kept small and seen from behind, no bodies or blood visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the open stone well's rim in a farm plot in Periyapuliyur, Kavundappadi, with a wet rope tied to a wooden post and a black electric water pump with a coiled pipe lying beside it on the damp earth. The well's low parapet is cracked and weathered, with a small bucket and a torn gunny sack placed nearby, and water glistens darkly far below. In the soft background a police constable in khaki stands out of focus, seen from behind, with a few villagers blurred in the dusk. The light is fading early evening, warm and low. Camera: slightly high, 35 mm macro-leaning, shallow depth of field focusing on the well edge and the rope, no faces and no bodies visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/man-falls-into-well-dies/4380273",
+   "published": "2026-11-19T06:02:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020320/erode360/hcpdndxfzxbyhgjefp5w.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020323/erode360/rgzyfuoq2vr8g45gjhsa.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051272/erode360/j1hrmcv4d2nlc2ra9yr3.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051274/erode360/ajoxbmqnnt59f3v0zitw.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோடு பார்க் சாலையில் சுமை தூக்கும் தொழிலாளர்கள் ஆர்ப்பாட்டம்: நவம்பர் 23 முதல் காலவரையற்ற வேலைநிறுத்தம் என எச்சரிக்கை",
-   "english_headline": "Loadmen protest on Erode Park Road over wage agreement, warn of indefinite strike from Nov 23",
-   "category": "Business & Prices",
-   "location": "Park Road, Erode town, Erode district",
+   "tamil_headline": "ஈரோட்டில் ஊரக திறனாய்வு தேர்வு வினாத்தாளுக்கு துப்பாக்கி போலீஸ் பாதுகாப்பு",
+   "english_headline": "Rural Talent Search exam question papers reach Erode under armed police guard; exam on 21st",
+   "category": "Education",
+   "location": "Erode city, Erode district",
    "importance": "High",
    "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தொழிலாளர் போராட்டம்",
-    "loc": "பார்க் சாலை, ஈரோடு",
-    "hl1": "ஈரோட்டில் சுமை தூக்குவோர் ஆர்ப்பாட்டம்",
-    "hl2": "நவ. 23 முதல் வேலைநிறுத்தம்?",
+    "cat": "தேர்வு பாதுகாப்பு",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் தேர்வு வினாத்தாளுக்கு",
+    "hl2": "21ம் தேதி ஊரக திறனாய்வு",
     "slides": [
      {
-      "title": "ஆர்ப்பாட்டம்",
+      "title": "என்ன தேர்வு?",
       "lines": [
-       "ஈரோடு பார்க் சாலையில் சுமை தூக்கும் தொழிலாளர்கள் போராட்டம்",
-       "சி.ஐ.டி.யு. மாவட்ட தலைவர் <b>சுப்பிரமணியன்</b> தலைமையில் நடந்தது",
-       "புதிய கூலி உயர்வு ஒப்பந்தம் கோரி முழக்கம்"
+       "ஊரக திறனாய்வு தேர்வு <b>21ம் தேதி</b> நடைபெறுகிறது",
+       "9ம் வகுப்பு அரசுப் பள்ளி மாணவர்களுக்கான தேர்வு",
+       "தேர்ச்சி பெறுவோருக்கு மாதம் <b>1,000 ரூபாய்</b> ஊக்கத்தொகை"
       ]
      },
      {
-      "title": "காரணம் என்ன?",
+      "title": "எங்கே, யார்?",
       "lines": [
-       "ஜவுளி மூட்டை தொழிலாளர் ஒப்பந்தம் <b>மார்ச் 2025</b>டன் முடிந்தது",
-       "லாரி ஆபீஸ் தொழிலாளர் ஒப்பந்தம் <b>ஆகஸ்ட் 1</b>டன் முடிந்தது",
-       "புதிய கூலி ஒப்பந்தத்துக்கு உரிமையாளர்கள் முன்வரவில்லை"
+       "ஈரோடு மாவட்டத்தில் <b>17 மையங்களில்</b> தேர்வு",
+       "<b>3,786 மாணவ, மாணவியர்</b> எழுதுகின்றனர்",
+       "மொடக்குறிச்சி, கோபி, சத்தி உள்ளிட்ட பகுதிகள்"
       ]
      },
      {
-      "title": "வேலைநிறுத்த",
+      "title": "வினாத்தாள்",
       "lines": [
-       "தொழிலாளர் நலத்துறை பேச்சுவார்த்தையில் உடன்பாடில்லை",
-       "<b>நவம்பர் 23</b>ஆம் தேதி மீண்டும் தொழிலாளர் அலுவலகத்தில் பேச்சு",
-       "உடன்பாடு ஏற்படாவிட்டால் அன்று முதல் காலவரையற்ற வேலைநிறுத்தம்"
+       "வினாத்தாள் ஈரோடு காந்திஜி சாலை அரசு மகளிர்",
+       "கட்டுப்பாட்டு மையத்தில் வைக்கப்பட்டு சீல் வைக்கப்பட்டது",
+       "துப்பாக்கி போலீஸ் பாதுகாப்பு போடப்பட்டுள்ளது"
+      ]
+     },
+     {
+      "title": "திறன் போட்டி",
+      "lines": [
+       "தமிழக திறன் போட்டி தேர்வு <b>21ம் தேதி</b> மாலை 3 முதல் 4 மணி வரை",
+       "ஈரோட்டில் <b>3,642 கல்லூரி மாணவ, மாணவியர்</b> எழுதுகின்றனர்",
+       "வினாத்தாள்கள் அதே பள்ளியில் ஓர் அறையில் சீல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோட்டில் கூலி உயர்வு கோரி சுமை தூக்கும் தொழிலாளர்கள் ஆர்ப்பாட்டம் நடத்தினர். ஈரோடு பார்க் சாலையில் இன்று நவம்பர் 18ம் தேதி இந்த ஆர்ப்பாட்டம் நடைபெற்றது. சி ஐ டி யு மாவட்ட தலைவர் சுப்பிரமணியன் தலைமையில் தொழிலாளர்கள் திரண்டனர். நூல் மற்றும் ஜவுளி கட்டுகள் ஏற்றி இறக்கும் தொழிலாளர்களின் கூலி ஒப்பந்தம் 2025ம் ஆண்டு மார்ச் மாதத்துடன் முடிவடைந்தது. புதிய கூலி ஒப்பந்தம் ஏற்படுத்த உரிமையாளர் சங்கம் ஒத்துழைக்கவில்லை என்று தெரிவித்துள்ளனர். தொழிலாளர் நலத்துறை வாயிலாக பலமுறை பேச்சுவார்த்தை நடத்தியும் உடன்பாடு எட்டப்படவில்லை. மேலும் கூட்ஸ் டிரான்ஸ்போர்ட் லாரி அலுவலக தொழிலாளர்களின் ஒப்பந்தமும் ஆகஸ்ட் 1ம் தேதியுடன் முடிவடைந்துள்ளது. இதனால் நவம்பர் 23ம் தேதி நடக்கும் பேச்சில் உடன்பாடு ஏற்படாவிட்டால், அன்று முதல் காலவரையற்ற வேலைநிறுத்தம் செய்ய முடிவு செய்யப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📢 ஈரோடு பார்க் சாலையில் சுமை தூக்குவோர் ஆர்ப்பாட்டம்: நவ. 23 முதல் காலவரையற்ற வேலைநிறுத்தம் எச்சரிக்கை\n\n📰 முழு விவரம்:\nஈரோடு பார்க் சாலையில் சுமை தூக்கும் தொழிற்சங்கங்கள் சார்பில் இன்று (நவ. 18) கண்டன ஆர்ப்பாட்டம் நடைபெற்றது. சி.ஐ.டி.யு. மாவட்ட தலைவர் சுப்பிரமணியன் தலைமையில் இந்த ஆர்ப்பாட்டம் நடந்தது. நூல் மற்றும் ஜவுளி கட்டுகள் ஏற்றி இறக்கும் சுமை தூக்கும் தொழிலாளர்களுக்கான கூலி உயர்வு ஒப்பந்தம் 2025 மார்ச் மாதத்துடன் முடிவடைந்த நிலையில், புதிய ஒப்பந்தம் செய்ய உரிமையாளர்கள் சங்கம் முன்வரவில்லை எனக் கூறப்பட்டது. தொழிலாளர் நலத்துறை மூலம் நடத்தப்பட்ட பேச்சுவார்த்தைகளிலும் உடன்பாடு ஏற்படவில்லை. மேலும் கூட்ஸ் டிரான்ஸ்போர்ட் லாரி அலுவலக சுமை தொழிலாளர்களின் ஒப்பந்தமும் ஆகஸ்ட் 1 உடன் முடிவடைந்துள்ளது. இதனால் வரும் நவம்பர் 23 அன்று நடைபெறும் பேச்சுவார்த்தையில் முடிவு எட்டப்படாவிட்டால் அன்று முதல் காலவரையற்ற வேலைநிறுத்தத்தில் ஈடுபட உள்ளதாகத் தெரிவித்துள்ளனர்.\n\n📍 இடம்: பார்க் சாலை, ஈரோடு\n🗓️ நாள்: 18 நவம்பர் 2026\n👤 தலைமை: சுப்பிரமணியன் (சி.ஐ.டி.யு. மாவட்ட தலைவர்)\n⚠️ எச்சரிக்கை: நவம்பர் 23 பேச்சுவார்த்தையில் உடன்பாடு இல்லையெனில் காலவரையற்ற வேலைநிறுத்தம்\n\nஜவுளி மற்றும் சுமை தூக்கும் தொழிலாளர்களுக்கு இந்தச் செய்தியை Share செய்யுங்கள்\n\nErode Park Road loadmen protest wage hike strike warning Nov 23 | Erode news\n📍 பார்க் சாலை, ஈரோடு | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ParkRoad",
-   "prompts": "A crowd of loadmen and CITU union members stage a demonstration on Park Road in Erode town, raising union flags and placards as they gather in front of a row of shops and commercial buildings. Seen from behind and at a distance, the workers wear plain shirts, trousers and towels over their shoulders, many with a dhoti-clad elder at the front addressing the group. The road is lined with parked goods lorries and two-wheelers, and stacked yarn and textile bundles sit outside a shop front on the pavement. It is a bright daytime scene in Erode town, with the typical busy commercial street look of the city around the bus stand area. Shot at eye level or slightly high, 35 mm, wide enough to show the road, the protesting crowd and the goods vehicles together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of stacked yarn and textile bundles tied with rope, placed on a lorry bed or a loading platform beside Park Road, showing the cargo that loadmen lift and unload every day. Behind the bundles, a pair of workers in shirts and veshti stand with their backs to the camera, one holding a rolled union flag. The shot shows the rough, heavy texture of the bundles and the worn wooden platform, with a blurred stretch of the busy road in the background. Daylight, slightly overcast, Erode town commercial street. Shot at eye level, 35 mm, shallow depth of field to isolate the bundles and the workers' hands. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/loaders-union-stages-protest/4379590",
-   "published": "2026-11-18T17:55:03+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: fact-check: Caption mentions the year '2026' in '18 நவம்பர் 2026', which is incorrect and not in the article; fact-check: Slide 3 title 'வேலைநிறுத்த' is truncated and incomplete in Tamil",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 2 validator problem(s)",
+   "reel_script": "ஈரோட்டில் ஊரக திறனாய்வு தேர்வு வினாத்தாளுக்கு துப்பாக்கி போலீஸ் பாதுகாப்பு போடப்பட்டுள்ளது. வரும் 21ம் தேதி நடைபெறும் இந்தத் தேர்வுக்கான வினாத்தாள் ஈரோட்டுக்கு வந்தடைந்தது. தமிழக கிராமப்புறங்களில் உள்ள அரசுப் பள்ளி மாணவர்களின் கல்வியை ஊக்குவிக்கும் வகையில் இந்தத் தேர்வு நடத்தப்படுகிறது. 9ம் வகுப்பு மாணவர்களுக்கான இந்தத் தேர்வில் தேர்ச்சி பெறுவோருக்கு பிளஸ் 2 வரை, 4 ஆண்டுகளுக்கு மாதம் 1,000 ரூபாய் கல்வி ஊக்கத்தொகை அரசால் வழங்கப்படும். ஈரோடு மாவட்டத்தில் மொடக்குறிச்சி, சிவகிரி, கொடுமுடி, கவுந்தப்பாடி, கோபி, சத்தி, நம்பியூர் உள்ளிட்ட பகுதிகளில் 17 மையங்களில் 3,786 மாணவ, மாணவியர் தேர்வு எழுதவுள்ளனர். வினாத்தாள்கள் ஈரோடு காந்திஜி சாலை அரசு மாதிரி மகளிர் மேல்நிலைப்பள்ளியில் உள்ள கட்டுப்பாட்டு மையத்தில் வைக்கப்பட்டு, சீல் வைக்கப்பட்டு துப்பாக்கி போலீஸ் பாதுகாப்பு போடப்பட்டுள்ளது. இதேபோல் தமிழக திறன் போட்டி தேர்வு 21ம் தேதி மாலை 3 மணி முதல் 4 மணி வரை நடைபெறுகிறது. இதில் ஈரோடு மாவட்டத்தில் கல்லூரி மாணவ, மாணவியர் 3,642 பேர் தேர்வு எழுதுகின்றனர். இதற்கான வினாத்தாள்களும் அதே காந்திஜி சாலை அரசு மகளிர் மேல்நிலைப் பள்ளியில் ஓர் அறையில் வைக்கப்பட்டு சீல் வைக்கப்பட்டுள்ளன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📝 ஈரோட்டில் ஊரக திறனாய்வு தேர்வு வினாத்தாளுக்கு துப்பாக்கி போலீஸ் பாதுகாப்பு\n\n📰 முழு விவரம்:\nஈரோட்டில் 21ம் தேதி நடைபெறும் ஊரக திறனாய்வு தேர்வுக்கான வினாத்தாள் வந்தடைந்தது. ஈரோடு காந்திஜி சாலை அரசு மாதிரி மகளிர் மேல்நிலைப்பள்ளியில் உள்ள கட்டுப்பாட்டு மையத்தில் வைக்கப்பட்டு, சீல் வைக்கப்பட்டு துப்பாக்கி போலீஸ் பாதுகாப்பு போடப்பட்டுள்ளது.\nஅரசுப் பள்ளி 9ம் வகுப்பு மாணவர்களுக்கான இத்தேர்வில் தேர்ச்சி பெறுவோருக்கு பிளஸ் 2 வரை 4 ஆண்டுகளுக்கு மாதம் 1,000 ரூபாய் கல்வி ஊக்கத்தொகை வழங்கப்படும்.\n📍 இடங்கள்: மொடக்குறிச்சி, சிவகிரி, கொடுமுடி, கவுந்தப்பாடி, கோபி, சத்தி, நம்பியூர் உள்ளிட்ட பகுதிகளில் 17 மையங்கள்\n👨‍🎓 தேர்வு எழுதுவோர்: 3,786 மாணவ, மாணவியர்\n🗓️ நாள்: 21ம் தேதி\n🎓 தமிழக திறன் போட்டி தேர்வு 21ம் தேதி மாலை 3 முதல் 4 மணி வரை நடைபெறுகிறது. ஈரோட்டில் 3,642 கல்லூரி மாணவ, மாணவியர் எழுதுகின்றனர். இதற்கான வினாத்தாள்களும் அதே பள்ளியின் ஓர் அறையில் வைக்கப்பட்டு சீல் வைக்கப்பட்டுள்ளன.\n\nErode rural talent search exam papers under armed police guard | Erode news\n📍 ஈரோடு நகரம், ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #கல்வி",
+   "prompts": "An armed police constable in khaki uniform stands guard with a rifle slung across his shoulder outside a government girls' higher secondary school building in Erode city, Tamil Nadu. Sealed brown cardboard boxes of question papers are stacked on a wooden table inside an open doorway of a classroom-turned-control room, its entrance sealed with a paper seal and wax. A second policeman in khaki stands further back near the school gate, while a school staff member in a cotton saree and a few students in Tamil Nadu school uniform walk past at a distance, seen from behind. The school campus has a single-storey concrete building with a tiled roof and a few neem trees, with a town bus and two-wheelers parked along the road beyond the gate. It is daylight with soft morning sun, and the camera is at eye level, 35 mm, wide enough to show the building and the guarded entrance. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a sealed cardboard box of exam question papers resting on a wooden table, its flap closed with a paper seal and red wax, and a policeman's hand in khaki sleeve with a rifle strap resting on the table edge beside it. Behind the table, a classroom door is partly open showing a few more stacked sealed bundles and a wooden bench. Soft daylight falls through a window, the camera is slightly high, 35 mm, focused on the sealed box and the rifle strap, with blurred figures of officials far in the background. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/gun-police-security-for-exam-paper-room/4380294",
+   "published": "2026-11-19T06:21:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the 21st exam is held in Erode and that the 4-year stipend is paid monthly, but the article's place and timing detail is accurate; however reel_script and caption state the rural talent search exam is for '9ம் வகுப்பு' students in a way that matches, so no issue there; the real problem: reel_script says the Tamil talent competition exam papers are kept in 'ஓர் அறை' of the same school without mentioning it is the Gandhiji Road government girls' higher secondary school, which is an acceptable paraphrase — no issue there either; flagged issue: slides_spec slide 3 says the papers were sealed 'வினாத்தாள் ஈரோடு காந்திஜி சாலை அரசு மகளிர்' which mixes the paper arrival place with the control room, and slide 4 says 'அதே பள்ளியில்' which is unclear about which school, and the caption's 'ஈரோடு காந்திஜி சாலை அரசு மாதிரி மகளிர் மேல்நிலைப்பள்ளி' name is inconsistent with 'அரசு மகளிர் மேல்நிலைப் பள்ளி' used for the talent exam papers",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020330/erode360/nxdkhvljowwxbfrid8we.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795020365/erode360/pojdaj8q7ihjuxiel2xh.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051297/erode360/qaulhkjdmbrkxeeqly5s.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051329/erode360/u1boz3f2ppgu4bvgpzxg.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பவானி அருகே கஞ்சா விற்பனை: 7 பேர் கைது, 4 பைக், கார், ஏர்கன் பறிமுதல்",
+   "english_headline": "7 arrested for ganja sale near Bhavani; 4 bikes, a car and an air gun seized",
+   "category": "Crime & Safety",
+   "location": "Poonatchi area near Ammapettai, Bhavani, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கஞ்சா கைது",
+    "loc": "அம்மாபேட்டை, பவானி",
+    "hl1": "பவானி அருகே கஞ்சா விற்பனை: 7 பேர் கைது",
+    "hl2": "2.5 கிலோ கஞ்சா பறிமுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அம்மாபேட்டை அருகே பூனாட்சி பகுதியில் கஞ்சா விற்பனை",
+       "போலீசார் சுற்றி வளைத்து பிடித்தனர்",
+       "அவர்களிடம் கஞ்சா இருந்தது உறுதியானது"
+      ]
+     },
+     {
+      "title": "யார் கைது?",
+      "lines": [
+       "7 பேர் கைது செய்யப்பட்டனர்",
+       "16 வயது சிறுவனும் இதில் அடங்குவார்",
+       "சித்தோடு, சேலம் மாவட்டம் உள்ளிட்ட பகுதியினர்"
+      ]
+     },
+     {
+      "title": "பறிமுதல் பொருட்கள்",
+      "lines": [
+       "<b>2.5 கிலோ</b> கஞ்சா பறிமுதல்",
+       "4 பைக், ஒரு கார், ஏர்கன் பறிமுதல்",
+       "2 கத்தி, 6 மொபைல்போன்களும் பறிமுதல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பவானி அருகே கஞ்சா விற்பனை செய்த 7 பேர் போலீசாரால் கைது செய்யப்பட்டனர். அம்மாபேட்டை அருகே பூனாட்சி பகுதியில் சிலர் சட்டவிரோதமாக கஞ்சா விற்பனை செய்வதாக போலீசாருக்கு தகவல் கிடைத்தது. அம்மாபேட்டை போலீசார் சம்பவ இடத்திற்குச் சென்று அங்கிருந்தவர்களைச் சுற்றி வளைத்துப் பிடித்தனர். அவர்களிடம் கஞ்சா இருந்தது தெரியவந்தது. விசாரணையில் சித்தோடு, நடுப்பாளையத்தைச் சேர்ந்த 26 வயது கார்த்திக் உள்ளிட்ட 7 பேர் கைது செய்யப்பட்டனர். அவர்களில் 16 வயது சிறுவனும் அடங்குவார். அவர்களிடமிருந்து 2.5 கிலோ கஞ்சா, 2 கத்தி, ஏர்கன், ஒரு கார், 4 பைக், 6 மொபைல்போன்கள் பறிமுதல் செய்யப்பட்டன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பவானி அருகே கஞ்சா விற்பனை: 7 பேர் கைது\n\n📰 முழு விவரம்:\nஅம்மாபேட்டை அருகே பூனாட்சி பகுதியில் சிலர் சட்டவிரோதமாக கஞ்சா விற்பனை செய்வதாக போலீசாருக்குத் தகவல் கிடைத்தது. அம்மாபேட்டை போலீசார் அங்கு சென்று அங்கிருந்தவர்களைச் சுற்றி வளைத்துப் பிடித்தனர். விசாரணையில் சித்தோடு, நடுப்பாளையத்தைச் சேர்ந்த கார்த்திக் (26 வயது), செங்குந்தர்பாளையம் கோகுல் (20 வயது), வெள்ளோடு கோகுல்ராஜ் (29 வயது), சேலம் மாவட்டம் நவபட்டி பாலு (26 வயது), காவேரி பாலம் விஜய் (25 வயது), கருமலைகூடல் சதீஷ் (25 வயது), மற்றும் 16 வயது சிறுவன் என 7 பேர் கைது செய்யப்பட்டனர்.\n🌿 அவர்களிடமிருந்து 2.5 கிலோ கஞ்சா பறிமுதல் செய்யப்பட்டது.\n🔪 2 கத்தி, ஏர்கன், ஒரு கார், 4 பைக், 6 மொபைல்போன்களும் பறிமுதல் செய்யப்பட்டன.\n\nBhavani ganja sale 7 arrested | Erode news\n📍 அம்மாபேட்டை, பவானி, ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #கஞ்சா #ErodeNews",
+   "prompts": "Police in khaki uniform surround a group of seven young men on the edge of a dusty village road near Ammapettai in Bhavani, Erode district, as they are led away after the ganja sale was intercepted. Four two-wheelers and a car are parked along the roadside behind them, and a few policemen stand with their backs to the camera, one holding a seized plastic packet. The area is a semi-rural lane with low houses, a few palm trees and a distant line of Sathyamangalam forest hills under bright daylight. Some of the youths wear shirts and trousers, one wears a veshti, and they are seen from behind or far away with their faces not visible. Camera: eye level, 35 mm lens, wide enough to show the vehicles, the police and the road. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the seized items spread on a metal police table outside a station: a small heap of dried ganja in clear plastic packets, two knives with dull blades, and a grey air gun beside a stack of six mobile phones, with a few Tamil Nadu police khaki sleeves visible at the edge of the frame. Four two-wheelers and a small car are blurred in the background, and the setting is a daylight police yard in Bhavani with a concrete wall. No readable text, labels or signboards are visible. Camera: slightly high angle, 35 mm lens, shallow depth of field to keep the focus on the ganja packets and the air gun. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/7-people-arrested-4-bikes-airgun-car-seized-for-selling-cannabis/4380289",
+   "published": "2026-11-19T06:17:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051364/erode360/aa8q1l2wphttjh3laa3q.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051398/erode360/w9sztw7ejdjyq8b5mcri.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் மதுபான பாட்டில்கள் அதிக விலைக்கு விற்ற 2 பேர் கைது",
+   "english_headline": "Two men arrested in Erode for keeping liquor bottles to sell at higher prices; 6 others arrested for public drinking",
+   "category": "Crime & Safety",
+   "location": "Karungalpalayam, Erode city, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "கருங்கல்பாளையம், ஈரோடு",
+    "hl1": "ஈரோட்டில் மது விற்ற 2 பேர் கைது",
+    "hl2": "மொத்தம் 8 பேர் கைது",
+    "slides": [
+     {
+      "title": "கருங்கல்பாளையம்",
+      "lines": [
+       "அசோக்குமார், <b>33</b>, கமலா நகர், மதுபான பாட்டில்களை அதிக",
+       "கிருஷ்ணம்பாளையம் சாலை, பாட்டில் குடோன் அருகே",
+       "<b>9</b> மதுபான பாட்டில்கள் பறிமுதல்"
+      ]
+     },
+     {
+      "title": "இரண்டாவது கைது",
+      "lines": [
+       "வெங்கடேஸ்வரன், <b>49</b>, மாதவ கிருஷ்ணா வீதி, அதிக விலைக்கு",
+       "அகில்மேடு 6வது வீதி, மகாலட்சுமி டிரேடர்ஸ் எதிரே உள்ள காலி",
+       "மதுவிலக்கு போலீசார் வழக்குப் பதிந்து கைது செய்தனர்"
+      ]
+     },
+     {
+      "title": "பொது இடத்தில்",
+      "lines": [
+       "பொது இடத்தில் மக்களுக்கும் போக்குவரத்துக்கும் இடையூறாக மது",
+       "ஈரோடு மாவட்டத்தில் நேற்று முன்தினம் போலீசார் நடவடிக்கை",
+       "மொத்தம் <b>8</b> பேர் கைது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் மதுபான பாட்டில்களை அதிக விலைக்கு விற்க வைத்திருந்த 2 பேர் கைது செய்யப்பட்டனர். கருங்கல்பாளையம் கமலா நகரைச் சேர்ந்த 33 வயது அசோக்குமார், கிருஷ்ணம்பாளையம் சாலையில் பாட்டில் குடோன் அருகே 9 மதுபான பாட்டில்களை அதிக விலைக்கு விற்க வைத்திருந்தார். ஈரோடு மதுவிலக்கு போலீசார் அவர் மீது வழக்குப் பதிந்து கைது செய்தனர். மதுபான பாட்டில்களும் பறிமுதல் செய்யப்பட்டன. மாதவ கிருஷ்ணா வீதியைச் சேர்ந்த 49 வயது வெங்கடேஸ்வரன், அகில்மேடு 6வது வீதியில் மகாலட்சுமி டிரேடர்ஸ் எதிரே உள்ள காலி இடத்தில் மதுபான பாட்டில்களை அதிக விலைக்கு விற்க வைத்திருந்தார். அவர் மீதும் வழக்குப் பதிந்த மதுவிலக்கு போலீசார் அவரைக் கைது செய்தனர். இதேபோல், ஈரோடு மாவட்டத்தில் பொது இடத்தில் மக்களுக்கும் போக்குவரத்துக்கும் இடையூறு ஏற்படுத்தும் வகையில் மது குடித்ததாக நேற்று முன்தினம் 6 பேரை போலீசார் கைது செய்தனர். மொத்தம் 8 பேர் கைது செய்யப்பட்டனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கருங்கல்பாளையத்தில் மதுபான பாட்டில்கள் அதிக விலைக்கு விற்ற 2 பேர் கைது\n\n📰 முழு விவரம்:\nகருங்கல்பாளையம் கமலா நகரைச் சேர்ந்த அசோக்குமார் (33 வயது), கிருஷ்ணம்பாளையம் சாலையில் பாட்டில் குடோன் அருகே 9 மதுபான பாட்டில்களை அதிக விலைக்கு விற்க வைத்திருந்தார். ஈரோடு மதுவிலக்கு போலீசார் வழக்குப் பதிந்து அவரைக் கைது செய்து பாட்டில்களைப் பறிமுதல் செய்தனர்.\nமாதவ கிருஷ்ணா வீதியைச் சேர்ந்த வெங்கடேஸ்வரன் (49 வயது), அகில்மேடு 6வது வீதியில் மகாலட்சுமி டிரேடர்ஸ் எதிரே உள்ள காலி இடத்தில் மதுபான பாட்டில்களை அதிக விலைக்கு விற்க வைத்திருந்தார். அவர் மீது வழக்குப் பதிந்த மதுவிலக்கு போலீசார் அவரைக் கைது செய்தனர்.\nஈரோடு மாவட்டத்தில் பொது இடத்தில் மக்களுக்கும் போக்குவரத்துக்கும் இடையூறு ஏற்படுத்தும் வகையில் மது குடித்ததாக நேற்று முன்தினம் 6 பேரை போலீசார் கைது செய்தனர்.\n📍 இடம்: கருங்கல்பாளையம், ஈரோடு\n👮 நடவடிக்கை: மதுவிலக்கு போலீசார் வழக்குப் பதிந்து கைது\n\nErode 2 arrested for selling liquor at higher price | Erode news\n📍 கருங்கல்பாளையம், ஈரோடு | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Karungalpalayam #ErodeNews #ஈரோடு",
+   "prompts": "Khaki-uniformed Tamil Nadu police stand beside a roadside plot in Karungalpalayam, Erode city, where a man in a shirt and veshti sits with his back to the camera on the dusty ground, flanked by two officers as a line of standing liquor bottles and a small heap of seized bottles lie on a low plastic sheet. Behind them is a plain roadside stretch with a compound wall, a two-wheeler parked at the edge, and a few local men watching from a distance without faces visible. The scene is set on a morning in daylight with bright, even sunlight and a clear sky. Shot at eye level, 35 mm, wide enough to show the empty plot, the road and the police presence, the seized bottles clearly the focus of the arrest. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat row of nine seized liquor bottles with their caps still on, placed on a wooden table or a police station desk in front of a khaki-clad officer whose sleeve and hand are visible, with no readable labels or logos showing. The bottles stand in the foreground against a plain background of a government office wall, lit by soft morning light through a window. Shot slightly high, 35 mm, tightly framed on the bottles and the officer's hand to tell the story of seized liquor sold at inflated prices, with no faces and no text visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/8-people-sold-and-drank-alcohol-arrested/4380284",
+   "published": "2026-11-19T06:15:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 8 ('மது விற்ற, குடித்ததாக 8 பேர் கைது')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051415/erode360/nevbls7xd1tk7he0xgrv.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051447/erode360/jkyklbobwjvbv4e2efux.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் அமைச்சர் பெண் போலீஸ் உயரதிகாரியை வீட்டுக்கு அழைத்த விவகாரம் சர்ச்சை",
+   "english_headline": "Minister's call to a woman police senior officer to come home with files stirs controversy in Erode",
+   "category": "Government & Services",
+   "location": "Erode city, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசியல் சர்ச்சை",
+    "loc": "ஈரோடு நகரம்",
+    "hl1": "ஈரோட்டில் அமைச்சர் சர்ச்சை",
+    "hl2": "பெண் உயரதிகாரிக்கு அழைப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஈரோட்டில் அமைச்சர் ஒருவர் பெண் போலீஸ் உயரதிகாரியை",
+       "சகோதரர்கள் மீதான புகார் கோப்புகளுடன் வருமாறு",
+       "அதிகாரி விதிகளை காரணம் காட்டி மறுத்தார்"
+      ]
+     },
+     {
+      "title": "கலெக்டர் தலையீடு",
+      "lines": [
+       "அதிகாரி இந்தத் தகவலை மாவட்ட கலெக்டரிடம் தெரிவித்தார்",
+       "கலெக்டர் அமைச்சரிடம் பேசி, நடைமுறைகளை விளக்கினார்",
+       "இதனால் விவகாரம் அங்கேயே முடிவுக்கு வந்தது"
+      ]
+     },
+     {
+      "title": "பின்னணி",
+      "lines": [
+       "கள்ளக்குறிச்சி எம்எல்ஏ விவகாரம் பேசுபொருளான பின் இது",
+       "தொடர்புடைய பெண் அதிகாரி இது ஆதாரமற்ற தகவல் என்றார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் அமைச்சர் ஒருவர் பெண் போலீஸ் உயரதிகாரியை வீட்டுக்கு அழைத்த விவகாரம் பெரும் சர்ச்சையாகியுள்ளது. சகோதரர்கள் மீது வந்துள்ள புகார்கள் மற்றும் விசாரணை கோப்புகளுடன் வீட்டுக்கு வந்து சந்திக்குமாறு அமைச்சர் அறிவுறுத்தியதாகக் கூறப்படுகிறது. கோப்புகளுடன் சந்திக்கக் கூடாது என்ற விதிகள் உள்ளதால் அதிகாரி அதை மறுத்துள்ளார். ஆனால் அமைச்சர், மரியாதை நிமித்தமாக வீட்டுக்கு வந்து சந்திக்கலாம் என்று கறாராகக் கூறியதாகத் தகவல் வெளியாகியுள்ளது. இதையடுத்து அதிகாரி இந்தத் தகவலை மாவட்ட கலெக்டரின் கவனத்துக்குக் கொண்டு சென்றார். கலெக்டர் அமைச்சரிடம் பேசி, அதிகாரிகளுடனான சந்திப்புகளுக்கு நடைமுறைகள் உள்ளன என்பதை விளக்கி விவகாரத்தை முடித்து வைத்துள்ளார். கள்ளக்குறிச்சி எம்எல்ஏ விவகாரம் பேசுபொருளான நிலையில் இந்தத் தகவல் வெளியாகி பெரும் சர்ச்சையாகியுள்ளது. இதுகுறித்து தொடர்புடைய பெண் அதிகாரியைத் தொடர்புகொண்டபோது, இது ஆதாரமற்ற தகவல் என்று அவர் கூறினார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோட்டில் அமைச்சர் பெண் போலீஸ் உயரதிகாரியை வீட்டுக்கு அழைத்ததாக சர்ச்சை\n\n📰 முழு விவரம்:\nஈரோட்டில் அமைச்சர் ஒருவர், மாவட்ட காவல் துறையின் பெண் உயரதிகாரியை செல்போனில் தொடர்புகொண்டு, அவரது சகோதரர்கள் மீதான புகார்கள் மற்றும் விசாரணை கோப்புகளுடன் வீட்டுக்கு வந்து சந்திக்குமாறு அறிவுறுத்தியதாகக் கூறப்படுகிறது.\nஅதிகாரி, விசாரணை கோப்புகளுடன் சந்திக்கக் கூடாது என்ற விதிகள் இருப்பதால் தன்னால் வர இயலாது என்று கூறினார். ஆனால் அமைச்சர், நான் அமைச்சர், மரியாதை நிமித்தமாக வீட்டுக்கு வந்து சந்திக்கலாம் என்று கறாராகக் கூறியதாகத் தகவல்.\nஇதையடுத்து அதிகாரி இந்தத் தகவலை மாவட்ட கலெக்டரின் கவனத்துக்குக் கொண்டு சென்றார். கலெக்டர் அமைச்சரிடம் பேசி, அதிகாரிகளுடனான சந்திப்புகளுக்கு நடைமுறைகள் உள்ளன என்று விளக்கி விவகாரத்தை முடித்து வைத்துள்ளார்.\nகள்ளக்குறிச்சி எம்எல்ஏ ஆபாச குறுஞ்செய்தி விவகாரம் பேசுபொருளான நிலையில் இந்தத் தகவல் வெளியாகி பெரும் சர்ச்சையாகியுள்ளது.\nதொடர்புடைய பெண் அதிகாரியைத் தொடர்புகொண்டபோது, இது ஆதாரமற்ற தகவல் என்று கூறி அவர் பேச்சை முடித்துக்கொண்டார்.\n\nErode minister summons woman police officer controversy | Erode news\n📍 ஈரோடு நகரம், ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Erode360News",
+   "prompts": "A woman senior police officer in a crisp khaki uniform sits at a wooden desk in a government office in Erode city, a stack of investigation files in brown folders placed in front of her, her back partly turned toward the camera and her face not shown. Behind the desk stands a tall steel cabinet and a framed portrait area left blank, with a ceiling fan above and tube lights glowing in the room. Through an open window the street of Erode city is visible, with two-wheelers and an autorickshaw passing and a bus stand's roofline in the distance. Officials in shirts and trousers, seen from behind, walk along the corridor outside the open door. It is daytime with soft natural light from the window mixing with the room's yellow lights. The image is shot at eye level with a 35 mm lens, wide enough to show the office, the files, the window and the street beyond. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a thick stack of official investigation files tied with a red cloth tape lying on a government office desk, the top folder slightly open to show blank pages with no readable text. Beside it sits a black mobile phone resting face down on the wood, and a glass of water with a steel tumbler nearby. Soft daylight falls from a window at the side, casting gentle shadows across the wood grain and the paper edges. The background is a blurred view of a cream painted wall and a corner of a steel almirah. No faces are visible and no text or signboards appear. The image is a tight detail shot at slightly high angle, 35 mm, showing the files and phone as the central subject. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinakaran.com/news/controversy-involving-senior-female-police-officer-minister-kallakurichi-erode/amp",
+   "published": "2026-11-19T03:26:30+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 94 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); not grounded: location 'நகரம்' is not in the article",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051451/erode360/shhjvmqogfkbf7yqr6rq.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051453/erode360/fpdxjqycx476wrej8xpf.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சித்தோட்டில் கஞ்சா விற்பனை: இளைஞர் கைது",
+   "english_headline": "Youth arrested for selling ganja in Chithode",
+   "category": "Crime & Safety",
+   "location": "Chithode, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "சித்தோடு",
+    "hl1": "சித்தோட்டில் கஞ்சா விற்ற இளைஞர் கைது",
+    "hl2": "300 கிராம் கஞ்சா பறிமுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "சித்தோடு அருகே கஞ்சா விற்பனை செய்த இளைஞர் கைது",
+       "போலீசார் புதன்கிழமை அவரைக் கைது செய்தனர்",
+       "சித்தோடு - பவானி சாலையில் சந்தேகத்துக்கிடமாக நடமாடினார்"
+      ]
+     },
+     {
+      "title": "யார்? எங்கே?",
+      "lines": [
+       "சந்தைக்கடை மேடு, பேட்டைக்காடு பகுதியைச் சேர்ந்தவர்",
+       "அப்புகுட்டி மகன் சந்தோஷ், வயது <b>29</b>",
+       "சித்தோடு போலீசார் சோதனை நடத்தினர்"
+      ]
+     },
+     {
+      "title": "பறிமுதல்",
+      "lines": [
+       "விற்பனைக்காக வைத்திருந்த <b>300 கிராம்</b> கஞ்சா பறிமுதல்",
+       "சந்தோஷ் நீதிமன்றக் காவலுக்கு அனுப்பப்பட்டார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சித்தோடு அருகே விற்பனைக்காக வைத்திருந்த 300 கிராம் கஞ்சாவுடன் இளைஞர் ஒருவர் கைது செய்யப்பட்டார். சித்தோடு - பவானி சாலையில் சந்தேகத்துக்கிடமாக நடமாடிய 29 வயது சந்தோஷிடம் சித்தோடு போலீசார் சோதனை நடத்தினர். சோதனையில் அவர் 300 கிராம் கஞ்சாவை விற்பனைக்காக வைத்திருந்தது தெரியவந்தது. இதையடுத்து போலீசார் கஞ்சாவைப் பறிமுதல் செய்து, சந்தோஷைக் கைது செய்தனர். அவர் நீதிமன்றக் காவலுக்கு அனுப்பப்பட்டார். இச்சம்பவம் புதன்கிழமை நடைபெற்றது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 சித்தோட்டில் கஞ்சா விற்ற இளைஞர் கைது\n\n📰 முழு விவரம்:\nசித்தோடு அருகே கஞ்சா விற்பனை செய்த இளைஞரை போலீசார் புதன்கிழமை கைது செய்தனர். சித்தோடு - பவானி சாலையில் சந்தேகத்துக்கிடமாக நடமாடிய சந்தைக்கடை மேடு, பேட்டைக்காட்டைச் சேர்ந்த அப்புகுட்டி மகன் சந்தோஷிடம் (29 வயது) போலீசார் சோதனை நடத்தினர். அவர் 300 கிராம் கஞ்சாவை விற்பனைக்காக வைத்திருந்தது தெரியவந்தது. கஞ்சாவைப் பறிமுதல் செய்த போலீசார் சந்தோஷைக் கைது செய்து நீதிமன்றக் காவலுக்கு அனுப்பினர்.\n\n📍 இடம்: சித்தோடு - பவானி சாலை, சித்தோடு அருகே, ஈரோடு மாவட்டம்\n👮 நடவடிக்கை: 300 கிராம் கஞ்சா பறிமுதல்; சந்தோஷ் கைது, நீதிமன்றக் காவலுக்கு அனுப்பப்பட்டார்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chithode #ErodeNews #ஈரோடு",
+   "prompts": "A Tamil Nadu police constable in khaki uniform stands beside a young man in a plain shirt and trousers on the side of a busy road in Chithode, Erode district, as the youth is taken into custody. The roadside is lined with small shops, two-wheelers parked along the kerb, and an autorickshaw passing in the background on the Chithode-Bhavani road. The youth is seen from behind and at a distance, his face not visible, his hands held in front of him as police escort him toward a waiting police jeep. Several onlookers stand at a safe distance on the pavement. It is daylight with a plain, overcast sky. The camera sits at eye level, 35 mm, wide enough to show the road, shops, and the police jeep together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a plastic bag of seized ganja, roughly 300 grams of dried green cannabis, placed on a police table or the bonnet of a police jeep. Behind it, a khaki-uniformed police officer's sleeve and boot are partly visible, and a dusty roadside with a parked two-wheeler is blurred in the background. The light is natural daylight from the side. No readable labels or text appear on the bag. The camera is close and slightly high, 35 mm, focused on the seized packet with a shallow depth of field to separate it from the blurred road and police figures. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/சித்தோட்டில்-கஞ்சா-விற்பனை-இளைஞா்-கைது",
+   "published": "2026-11-18T22:09:18.823Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051483/erode360/rtfy3bbdp922qju64fcb.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795051485/erode360/jzlbyresmugi0jnmsnfd.jpg"
    ]
   }
  ]
