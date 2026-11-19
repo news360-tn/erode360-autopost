@@ -81,6 +81,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-19 | `e7e69a8` | Gold reel: new bright poster design and faster pace (short lines, quicker voice, fast cuts) |
+| 2026-11-19 | `324c357` | pick: written and posted |
+| 2026-11-19 | `aa19880` | pick: picked news saved |
+| 2026-11-19 | `f717f59` | pick: picked news saved |
+| 2026-11-19 | `561456e` | pick: list sent |
 | 2026-11-19 | `46792d1` | Gold reel: modern theme - full-screen scenes (hook, 22K, 24K, silver, follow) changing with each spoken line |
 | 2026-11-19 | `dde8568` | powercut: notices written |
 | 2026-11-19 | `fa90d28` | Gold & silver rate also as a reel, posted after the carousel (never twice; a reel problem never touches the carousel) |
@@ -106,9 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-18 | `cf1fe61` | pick: written and posted |
 | 2026-11-18 | `ecd8af8` | pick: picked news saved |
 | 2026-11-18 | `b50b67b` | pick: picked news saved |
-| 2026-11-18 | `ed70b52` | pick: list sent |
-| 2026-11-18 | `00467c1` | schedule: rasipalan 6:40 AM, gold 9:40 AM (MJDTA 9:30), afternoon gold change post after MJDTA's 3:30 PM rate, watchdog in the posting job starts them (and an overdue news round) when GitHub skips the schedule |
-| 2026-11-18 | `5fb1dee` | pick: written and posted |
-| 2026-11-18 | `219d747` | pick: picked news saved |
-| 2026-11-18 | `d2d3209` | pick: picked news saved |
 <!-- recent-changes:end -->
