@@ -3,117 +3,131 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/சிவகிரியில்-காவல்-உதவி-ஆய்வாளரைக்-கண்டித்து-பிரேதத்துடன்-பொதுமக்கள்-சாலைமறியல்",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/operation-of-a-special-train-via-erode",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/track-maintenance-work-changes-to-the-services-of-4-trains-in-erode",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/postal-workers-protest-for-180-posts/4380279",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/பவானி-லட்சுமி-நகரில்-கட்டப்படும்-மேம்பாலத்தின்-சா்வீஸ்-சாலை-அகலத்தை-அதிகரிக்கக்-கோரிக்கை",
-  "candidate filter: collected=5",
-  "to write: 5 Erode district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/attention-grabbing-protest-demanding-house-site-pattas/4380280",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/mother-daughter-escape-unhurt-as-private-bus-plunges-into-flower-shop/4380291",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/suspicion-of-wifes-behaviour/4380296",
+  "candidate filter: collected=3",
+  "to write: 3 Erode district candidates (max 3 stories)",
+  "round: top 3 of 3 candidates",
+  "candidates waiting: 3 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "auto images: 1 of 1 stories ({'pollinations': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Erode district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'pollinations': 4})",
+  "auto images: 1 of 1 stories ({'pollinations': 6})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 73 min",
+  "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (23s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (37s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (19s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3.6-flash (18s)",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (5s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
@@ -122,330 +136,189 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "180 அஞ்சல் பணியிடங்களை திரும்ப வழங்கக் கோரி ஈரோட்டில் ஊழியர்கள் ஆர்ப்பாட்டம்",
-   "english_headline": "Erode postal staff protest demanding return of 180 posts taken away and 1,300 additional posts in Tamil Nadu",
-   "category": "Government & Services",
-   "location": "Erode city, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அஞ்சல் ஊழியர்கள்",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் அஞ்சல் ஊழியர்கள் ஆர்ப்பாட்டம்",
-    "hl2": "<b>180</b> பணியிடங்கள்",
-    "slides": [
-     {
-      "title": "எங்கே, யார்?",
-      "lines": [
-       "ஈரோடு காந்திஜி சாலை தலைமை தபால் அலுவலகம் முன்",
-       "அஞ்சல் ஊழியர்களின் தேசிய கூட்டமைப்பு, அகில இந்திய",
-       "கருப்பு பட்டை அணிந்து ஆர்ப்பாட்டம்"
-      ]
-     },
-     {
-      "title": "தலைமை யார்?",
-      "lines": [
-       "அஞ்சல்-3 கோட்ட செயலர் சக்திவேல் தலைமை வகித்தார்",
-       "அஞ்சல்-4 கோட்ட செயலர் செந்தில்குமார் முன்னிலை வகித்தார்"
-      ]
-     },
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "பறிக்கப்பட்ட <b>180</b> அஞ்சல் பணியிடங்களை திரும்ப வழங்க வேண்டும்",
-       "தமிழகத்துக்கு <b>1,300</b> கூடுதல் பணியிடங்களை உடனே",
-       "பணிச்சுமைக்கு ஏற்ப ஊழியர்களை நியமிக்க வேண்டும்"
-      ]
-     },
-     {
-      "title": "வலியுறுத்தல்",
-      "lines": [
-       "தமிழக இளைஞர்களின் வேலைவாய்ப்பு உரிமையை பறிக்கக்கூடாது",
-       "பதவி உயர்வு உரிமையையும் பறிக்கக்கூடாது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோட்டில் 180 அஞ்சல் பணியிடங்களை திரும்ப வழங்கக் கோரி ஊழியர்கள் ஆர்ப்பாட்டம் நடத்தினர். ஈரோடு காந்திஜி சாலையில் உள்ள தலைமை தபால் அலுவலகம் முன்பு இந்த ஆர்ப்பாட்டம் நடைபெற்றது. அஞ்சல் ஊழியர்களின் தேசிய கூட்டமைப்பு, அகில இந்திய ஜி டீ எஸ், யூனியன் சார்பில் ஊழியர்கள் கருப்பு பட்டை அணிந்து பங்கேற்றனர். அஞ்சல்-3 கோட்ட செயலர் சக்திவேல் தலைமை வகித்தார். அஞ்சல்-4 கோட்ட செயலர் செந்தில்குமார் முன்னிலை வகித்தார். பறிக்கப்பட்ட 180 அஞ்சல் பணியிடங்களை திரும்ப வழங்க வேண்டும் என ஊழியர்கள் வலியுறுத்தினர். தமிழகத்துக்கு 1,300 கூடுதல் பணியிடங்களை உடனே உருவாக்க வேண்டும் என்றும் கோரினர். பணிச்சுமைக்கு ஏற்ப ஊழியர்களை நியமிக்க வேண்டும் என்றும் கேட்டனர். தமிழக இளைஞர்களின் வேலைவாய்ப்பு மற்றும் பதவி உயர்வு உரிமையை பறிக்கக்கூடாது என்றும் வலியுறுத்தினர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📮 ஈரோட்டில் 180 அஞ்சல் பணியிடங்களை திரும்ப வழங்கக் கோரி ஊழியர்கள் ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nஈரோடு காந்திஜி சாலையில் உள்ள தலைமை தபால் அலுவலகம் முன்பு அஞ்சல் ஊழியர்களின் தேசிய கூட்டமைப்பு, அகில இந்திய ஜி.டீ.எஸ்., யூனியன் சார்பில் கருப்பு பட்டை அணிந்து ஆர்ப்பாட்டம் நடைபெற்றது.\nஅஞ்சல்-3 கோட்ட செயலர் சக்திவேல் தலைமை வகித்தார். அஞ்சல்-4 கோட்ட செயலர் செந்தில்குமார் முன்னிலை வகித்தார்.\nபறிக்கப்பட்ட 180 அஞ்சல் பணியிடங்களை திரும்ப வழங்க வேண்டும் என்பது முக்கிய கோரிக்கை.\nதமிழகத்துக்கு 1,300 கூடுதல் பணியிடங்களை உடனே உருவாக்க வேண்டும்; பணிச்சுமைக்கு ஏற்ப ஊழியர்களை நியமிக்க வேண்டும் என்றும் வலியுறுத்தப்பட்டது.\nதமிழக இளைஞர்களின் வேலைவாய்ப்பு மற்றும் பதவி உயர்வு உரிமையை பறிக்கக்கூடாது என்றும் கோரிக்கை வைக்கப்பட்டது.\n\nErode postal staff protest 180 posts | Erode news\n📍 ஈரோடு, ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு",
-   "prompts": "Postal employees in white shirts and trousers stand in a line on the footpath in front of the Head Post Office on Gandhiji Road in Erode city, each wearing a black band on the arm as a sign of protest. Some hold up hand-lettered placards demanding the return of 180 posts and 1,300 additional posts for Tamil Nadu, their faces turned away from the camera. The red-and-cream front of the government post office building stands behind them with its arched entrance and a row of pillars, a few two-wheelers parked along the kerb and an autorickshaw passing on the road. It is bright daylight with a clear sky. Camera at eye level, 35 mm, wide enough to show the building facade, the road and the protesting crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a hand-lettered protest placard held up by a postal employee, its surface marked with black Tamil script demanding the return of posts, with a black cloth band tied around the wrist of the same arm. Behind it, out of focus, the pillars and entrance of the Head Post Office and a few standing protesters in shirts. Bright daylight, shallow depth of field, shot from slightly above at 35 mm to keep the placard and the black band in sharp focus. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/postal-workers-protest-for-180-posts/4380279",
-   "published": "2026-11-19T06:10:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The article says 'அகில இந்திய ஜி.டீ.எஸ்., யூனியன்' (All India GDS Union) — the reel_script renders it as 'அகில இந்திய ஜி டீ எஸ், யூனியன்', which is a minor transliteration variance but not a factual error; no substantive problems found in the headline, reel_script, slides_spec or caption.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064401/erode360/flfovaakm6uzhudmfi4n.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064404/erode360/e285n0acscu4qu6ca7ql.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பவானி லட்சுமி நகர் மேம்பாலம்: சர்வீஸ் சாலை அகலத்தை 10.5 மீட்டராக உயர்த்தக் கோரிக்கை",
-   "english_headline": "Public demand to widen the service road of the new flyover at Bhavani Lakshmi Nagar to 10.5 metres",
-   "category": "Roads & Transport",
-   "location": "Lakshmi Nagar, Bhavani, Erode district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை",
-    "loc": "பவானி லட்சுமி நகர்",
-    "hl1": "பவானி லட்சுமி நகர் மேம்பாலத்தில் சாலை",
-    "hl2": "7 மீட்டர்  10.5 மீட்டர்",
-    "slides": [
-     {
-      "title": "என்ன திட்டம்?",
-      "lines": [
-       "சேலம் - கொச்சி தேசிய நெடுஞ்சாலையில் ரூ.<b>45 கோடியில்</b>",
-       "லட்சுமி நகர் சந்திப்பில் நெரிசலைக் குறைக்க அமைக்கப்படுகிறது",
-       "இடதுபுற சர்வீஸ் சாலை <b>7 மீட்டர்</b> அகலத்தில் திட்டம்"
-      ]
-     },
-     {
-      "title": "மக்களின் புகார்",
-      "lines": [
-       "வாகன நெரிசல் அதிகரிக்கும் என மக்கள் புகார்",
-       "விபத்து அபாயமும் உள்ளதாக மக்கள் தெரிவித்துள்ளனர்",
-       "சர்வீஸ் சாலையை <b>10.5 மீட்டராக</b> அதிகரிக்கக் கோரிக்கை"
-      ]
-     },
-     {
-      "title": "கோரிக்கைகள்",
-      "lines": [
-       "புதிய பாலத்தின் தொடக்கத்தை வலதுபுற பாலத்துக்கு இணையாக",
-       "திட்ட அறிக்கையில் திருத்தம் செய்யும் வரை பணியை நிறுத்த",
-       "தேசிய நெடுஞ்சாலை ஆணையத்திடம் மனு அளிக்கப்பட்டது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பவானி லட்சுமி நகரில் கட்டப்படும் புதிய மேம்பாலத்தின் சர்வீஸ் சாலையை 10.5 மீட்டராக அதிகரிக்க வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர். சேலம் - கொச்சி தேசிய நெடுஞ்சாலையில் லட்சுமி நகர் சந்திப்பில் ரூ.45 கோடியில் புதிய மேம்பாலம் அமைக்கப்படுகிறது. இடதுபுற சர்வீஸ் சாலை 7 மீட்டர் அகலத்தில் அமைக்கத் திட்டமிடப்பட்டுள்ளது. இதனால் வாகன நெரிசலும் விபத்து அபாயமும் அதிகரிக்கும் என பொதுமக்கள் புகார் தெரிவித்துள்ளனர். தமிழ் மாநில காங்கிரஸ் கட்சியின் ஈரோடு மாநகரத் தலைவர் பி.விஜயகுமார் தலைமையில் நடைபெற்ற ஆலோசனைக் கூட்டத்தில் இக்கோரிக்கை எழுப்பப்பட்டது. புதிய பாலத்தின் தொடக்கத்தை வலதுபுற பாலத்துக்கு இணையாக அமைக்கவும் வலியுறுத்தப்பட்டது. திட்ட அறிக்கையில் திருத்தம் செய்யும் வரை கட்டுமானப் பணியை நிறுத்தி வைக்க வேண்டும் என தேசிய நெடுஞ்சாலை ஆணையத்தை வலியுறுத்த முடிவு செய்யப்பட்டது. சேலம் கோட்ட தலைமைப் பொறியாளரிடம் மனு அளிக்கப்பட்டது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛣️ பவானி லட்சுமி நகர் மேம்பாலம்: சர்வீஸ் சாலை அகலத்தை 10.5 மீட்டராக உயர்த்தக் கோரிக்கை\n\n📰 முழு விவரம்:\nசேலம் - கொச்சி தேசிய நெடுஞ்சாலையில் லட்சுமி நகர் சந்திப்பில் போக்குவரத்து நெரிசலைத் தடுக்க ரூ.45 கோடியில் புதிய மேம்பாலம் கட்டப்படுகிறது.\nஇதன் இடதுபுற சர்வீஸ் சாலை 7 மீட்டர் அகலத்தில் அமைக்கத் திட்டமிடப்பட்டுள்ளது. இதனால் வாகன நெரிசலும் விபத்து அபாயமும் அதிகரிக்கும் என பொதுமக்கள் புகார் தெரிவித்துள்ளனர்.\nதமிழ் மாநில காங்கிரஸ் கட்சியின் ஈரோடு மாநகரத் தலைவர் பி.விஜயகுமார் தலைமையில் பொதுமக்கள், அனைத்து அமைப்புகளின் நிர்வாகிகள் பங்கேற்ற ஆலோசனைக் கூட்டம் புதன்கிழமை நடைபெற்றது.\nசர்வீஸ் சாலையை 10.5 மீட்டராக அதிகரிக்கவும், புதிய பாலத்தின் தொடக்கத்தை வலதுபுற பாலத்துக்கு இணையாக அமைக்கவும் வலியுறுத்தப்பட்டது.\nதிட்ட அறிக்கையில் திருத்தம் செய்யும் வரை கட்டுமானப் பணியை நிறுத்தி வைக்க தேசிய நெடுஞ்சாலை ஆணையத்தை வலியுறுத்த முடிவு செய்யப்பட்டது. சேலம் கோட்ட தலைமைப் பொறியாளரிடம் மனு அளிக்கப்பட்டது.\n\nBhavani Lakshmi Nagar flyover service road widening demand | Erode news\n📍 பவானி லட்சுமி நகர், ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #ErodeNews #ஈரோடு",
-   "prompts": "A crowd of local residents and trade association office-bearers stands on the service road beside the half-built concrete pillars of a new flyover at the Lakshmi Nagar junction in Bhavani, Erode district, as a petition is raised for widening the road. Most men wear shirts with veshti or trousers, and a few hold up a folded paper petition seen from behind. The place is a busy national highway junction with the Salem-Kochi road, where lorries, a town bus, two-wheelers and autorickshaws pass on the adjacent carriageway. Concrete pillars, steel reinforcement rods and yellow barricades line the edge of the road under bright daylight with a clear sky. The camera is at eye level, about 35 mm, wide enough to show the flyover structure, the road lanes and the gathered crowd from a distance, with people seen from behind or slightly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a folded petition paper resting on a plastic table beside a stack of printed documents, with a row of concrete pillars and a section of the half-built flyover blurred in the background at the Lakshmi Nagar junction in Bhavani. Pale grey concrete barricades and a strip of the service road with a parked lorry tyre edge are visible at the frame's edge, and the light is bright daylight. A man's hand in a white shirt sleeve rests on the paper, face not shown. The camera is at eye level, 35 mm, shallow depth of field so the paper is sharp and the road and pillars soften behind it. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/பவானி-லட்சுமி-நகரில்-கட்டப்படும்-மேம்பாலத்தின்-சா்வீஸ்-சாலை-அகலத்தை-அதிகரிக்கக்-கோரிக்கை",
-   "published": "2026-11-18T22:08:22.213Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: place word 'நகர்' is not in the article; not grounded: location 'நகர்' is not in the article",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064413/erode360/vabmeozk3tahft1vzbbo.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064417/erode360/m1ivmpcgh3brbqezvfde.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு ரயில் நிலையப் பராமரிப்பு: 4 ரயில்களின் சேவையில் மாற்றம்",
-   "english_headline": "Erode railway station track maintenance: service changes for 4 trains on 20 and 22 November",
-   "category": "Roads & Transport",
-   "location": "Erode railway station, Erode district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரயில் சேவை மாற்றம்",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் 4 ரயில்களின் சேவையில் மாற்றம்",
-    "hl2": "நவ. 20, 22 தேதிகளில் மாற்றம்",
-    "slides": [
-     {
-      "title": "ஏன் மாற்றம்?",
-      "lines": [
-       "ஈரோடு ரயில் நிலையத்தில் தண்டவாள இணைப்புகள்",
-       "இதற்காக பொறியியல், பராமரிப்புப் பணிகள் நடைபெற உள்ளன",
-       "இந்தப் பணிகளால் 4 ரயில்களின் சேவையில் மாற்றம்"
-      ]
-     },
-     {
-      "title": "செங்கோட்டை ரயில்",
-      "lines": [
-       "செங்கோட்டை - ஈரோடு எக்ஸ்பிரஸ் (எண் 16846), <b>நவ. 20</b> வெள்ளி",
-       "காலை <b>5.20</b> மணிக்கு செங்கோட்டையிலிருந்து புறப்படும்",
-       "சாவடிப்பாளையத்துடன் நிறுத்தப்படும்; பிறகு சாவடிப்பாளையம்"
-      ]
-     },
-     {
-      "title": "திருச்சி, கரூர்",
-      "lines": [
-       "திருச்சி - ஈரோடு பயணிகள் ரயில் (எண் 56809), <b>நவ. 20</b>",
-       "கரூர் சந்திப்புடன் நிறுத்தப்படும்; ஈரோடு சந்திப்புக்கு வராது",
-       "ஈரோடு - செங்கோட்டை எக்ஸ்பிரஸ் (எண் 16845), நவ. 20 வெள்ளி"
-      ]
-     },
-     {
-      "title": "பாலக்காடு ரயில்",
-      "lines": [
-       "திருச்சி - பாலக்காடு டவுன் எக்ஸ்பிரஸ் (மதியம் <b>1</b>",
-       "பணி முடிந்த பிறகு கரூர் - பாலக்காடு டவுன் முன்பதிவில்லா"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு ரயில் நிலையத்தில் தண்டவாள பராமரிப்புப் பணிகளால் 4 ரயில்களின் சேவையில் மாற்றம் செய்யப்பட்டுள்ளது. தண்டவாள இணைப்பு அமைப்புகளைப் புதுப்பிக்கும் பொறியியல் பணிகள் நடைபெற உள்ளன. சேலம் கோட்ட ரயில்வே நிர்வாகம் இதுகுறித்து செய்திக் குறிப்பு வெளியிட்டுள்ளது. செங்கோட்டை - ஈரோடு எக்ஸ்பிரஸ் ரயில், நவம்பர் 20ஆம் தேதி வெள்ளிக்கிழமை காலை 5.20 மணிக்குப் புறப்படும். அந்த ரயில் சாவடிப்பாளையம் ரயில் நிலையத்துடன் நிறுத்தப்படும். பணிகள் முடிந்ததும் சாவடிப்பாளையம் முதல் ஈரோடு சந்திப்பு வரை முன்பதிவில்லா சிறப்பு ரயிலாக இயக்கப்படும். திருச்சி - ஈரோடு பயணிகள் ரயில், நவம்பர் 20ஆம் தேதி காலை 7.25 மணிக்குப் புறப்படும். அது கரூர் சந்திப்புடன் நிறுத்தப்படும்; ஈரோடு சந்திப்புக்கு வராது. ஈரோடு - செங்கோட்டை எக்ஸ்பிரஸ் ரயில், நவம்பர் 20ஆம் தேதி ஈரோடு சந்திப்புக்கு பதிலாக கரூர் சந்திப்பிலிருந்து பிற்பகல் 3.05 மணிக்குப் புறப்படும். திருச்சி - பாலக்காடு டவுன் எக்ஸ்பிரஸ், நவம்பர் 20 மற்றும் 22ஆம் தேதிகளில் கரூர் சந்திப்புடன் நிறுத்தப்படும். பணிகள் முடிந்ததும் கரூர் முதல் பாலக்காடு டவுன் வரை முன்பதிவில்லா சிறப்பு ரயிலாக இயக்கப்படும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 ஈரோடு ரயில் நிலையப் பராமரிப்பு: 4 ரயில்களின் சேவையில் மாற்றம்\n\n📰 முழு விவரம்:\nஈரோடு ரயில் நிலையத்தில் தண்டவாள இணைப்பு அமைப்புகளைப் புதுப்பிக்கும் பொறியியல் மற்றும் பராமரிப்புப் பணிகள் நடைபெற உள்ளன. இதன் காரணமாக 4 ரயில்களின் சேவையில் மாற்றம் செய்யப்பட்டுள்ளது. சேலம் கோட்ட ரயில்வே நிர்வாகம் இதனைத் தெரிவித்துள்ளது.\n🚆 செங்கோட்டை - ஈரோடு எக்ஸ்பிரஸ் (எண் 16846): நவம்பர் 20 வெள்ளிக்கிழமை காலை 5.20 மணிக்கு செங்கோட்டையிலிருந்து புறப்படும்; சாவடிப்பாளையத்துடன் நிறுத்தப்படும். பணிகள் முடிந்ததும் சாவடிப்பாளையம் – ஈரோடு சந்திப்பு வரை முன்பதிவில்லா சிறப்பு ரயிலாக இயக்கப்படும்.\n🚆 திருச்சி - ஈரோடு பயணிகள் ரயில் (எண் 56809): நவம்பர் 20 வெள்ளிக்கிழமை காலை 7.25 மணிக்கு திருச்சியிலிருந்து புறப்படும்; கரூர் சந்திப்புடன் நிறுத்தப்படும். ஈரோடு சந்திப்புக்கு வராது.\n🚆 ஈரோடு - செங்கோட்டை எக்ஸ்பிரஸ் (எண் 16845): நவம்பர் 20 வெள்ளிக்கிழமை ஈரோடு சந்திப்புக்கு பதிலாக கரூர் சந்திப்பிலிருந்து பிற்பகல் 3.05 மணிக்கு புறப்படும்.\n🚆 திருச்சி - பாலக்காடு டவுன் எக்ஸ்பிரஸ்: நவம்பர் 20 மற்றும் 22 ஆம் தேதிகளில் மதியம் 1 மணிக்கு திருச்சியிலிருந்து புறப்படும்; கரூர் சந்திப்புடன் நிறுத்தப்படும். பணிகள் முடிந்ததும் கரூர் – பாலக்காடு டவுன் வரை முன்பதிவில்லா சிறப்பு ரயிலாக இயக்கப்படும்.\n\nErode railway track work, 4 trains changed | Erode news\n📍 ஈரோடு ரயில் நிலையம், ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ஈரோடு #ரயில் #ErodeNews",
-   "prompts": "Railway maintenance engineers in orange safety vests and helmets work on the steel tracks at Erode railway station, tightening bolts on a rail joint with hand tools while a track-gang team stands alongside a stack of concrete sleepers and rails. The setting is the Erode Junction platform and yard, with the platform edge, overhead signal posts and a few parked goods wagons visible in the background, and the Bhavani-side hills faintly on the horizon. Some passengers in shirts, sarees and salwar wait behind the yellow safety line on the platform, seen from behind and at a distance. It is daytime under clear sky with soft natural light. Camera: eye level, 35 mm, wide enough to show the platform, tracks and workers together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a railway track joint on Erode station's main line: two steel rails meeting over a concrete sleeper, with heavy fishplate bars and bolts being tightened by a gloved hand holding a spanner. Ballast gravel and a freshly painted white track marking surround the joint, with the sheen of metal catching the daylight. Behind the blurred rail, a worker in an orange safety vest stands out of focus and a platform edge with a waiting passenger's feet is faintly visible. It is daytime, with clear natural light. Camera: low angle near track level, 35 mm, shallow depth of field focusing on the bolts and joint. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/track-maintenance-work-changes-to-the-services-of-4-trains-in-erode",
-   "published": "2026-11-18T21:58:13.348Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('கரூரில் இருந்து ஈரோடு சந்திப்புக்கு வராது..ஈரோடு சந்திப்பில்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064423/erode360/refh0glsrqmb3najxs3f.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064426/erode360/cbdvpg4mv7ln4nu1oyoi.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு வழியாக சபரிமலை பக்தர்களுக்கு சிறப்பு ரயில்",
-   "english_headline": "Special weekly trains via Erode for Sabarimala pilgrims from Srikakulam Road to Kollam",
-   "category": "Roads & Transport",
-   "location": "Erode, Erode district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரயில் அறிவிப்பு",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோடு வழியாக சிறப்பு ரயில்",
-    "hl2": "ஞாயிறு தோறும் புறப்படும்",
-    "slides": [
-     {
-      "title": "எந்த ரயில்?",
-      "lines": [
-       "ஸ்ரீகாகுளம் சாலை – கொல்லம் வாராந்திர சிறப்பு ரயில்",
-       "சபரிமலை ஐயப்ப பக்தர்களுக்காக இயக்கப்படுகிறது",
-       "சேலம் கோட்ட ரயில்வே நிர்வாகம் அறிவிப்பு"
-      ]
-     },
-     {
-      "title": "எப்போது?",
-      "lines": [
-       "<b>22</b> ஆம் தேதி முதல் <b>ஜனவரி 24</b> வரை",
-       "ஒவ்வொரு ஞாயிற்றுக்கிழமையும் காலை <b>9.20</b> மணிக்குப் புறப்படும்",
-       "மொத்தம் <b>10</b> சேவைகள்"
-      ]
-     },
-     {
-      "title": "ஈரோட்டுக்கு நேரம்",
-      "lines": [
-       "திங்கள்கிழமை காலை <b>9.40</b> மணிக்கு ஈரோடு வந்தடையும்",
-       "முன்னதாக ஜோலார்பேட்டை, சேலம் வழியாக வரும்",
-       "ஈரோட்டிலிருந்து திருப்பூர், போத்தனூர் வழியாகச் செல்லும்"
-      ]
-     },
-     {
-      "title": "திரும்பும் ரயில்",
-      "lines": [
-       "கொல்லம் – ஸ்ரீகாகுளம் சாலை ரயில் (எண் 08540)",
-       "<b>24</b> ஆம் தேதி முதல் <b>ஜனவரி 26</b> வரை ஒவ்வொரு செவ்வாய்க்கிழமை",
-       "ஈரோட்டுக்கு மதியம் <b>1.15</b> மணிக்கு வந்து சேரும்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு வழியாக சபரிமலை பக்தர்களுக்காக சிறப்பு ரயில்கள் இயக்கப்பட உள்ளன. ஸ்ரீகாகுளம் சாலையிலிருந்து கொல்லம் வரை வாராந்திர சிறப்பு ரயில் இயக்கப்பட உள்ளது. இந்த ரயில் வருகிற 22ஆம் தேதி முதல் ஜனவரி 24ஆம் தேதி வரை ஒவ்வொரு ஞாயிற்றுக்கிழமையும் காலை 9.20 மணிக்கு ஸ்ரீகாகுளம் சாலையிலிருந்து புறப்படும். மொத்தம் 10 சேவைகள் இயக்கப்படும். திங்கள்கிழமை காலை 7.05 மணிக்கு ஜோலார்பேட்டையையும், காலை 8.37 மணிக்கு சேலத்தையும், காலை 9.40 மணிக்கு ஈரோட்டையும் வந்தடையும். பின்னர் ஈரோட்டிலிருந்து திருப்பூர், போத்தனூர் வழியாக இரவு 9.30 மணிக்கு கொல்லத்தை சென்றடையும். மறு மார்க்கமாக, கொல்லத்திலிருந்து ஸ்ரீகாகுளம் சாலைக்கு வாராந்திர சிறப்பு ரயில் (எண் 08540) வருகிற 24ஆம் தேதி முதல் ஜனவரி 26ஆம் தேதி வரை ஒவ்வொரு செவ்வாய்க்கிழமையும் அதிகாலை 2.30 மணிக்கு புறப்படும். இது 10 சேவைகள் இயக்கப்படும். போத்தனூருக்கு பகல் 11.10 மணிக்கும், திருப்பூருக்கு மதியம் 12.15 மணிக்கும், ஈரோட்டுக்கு மதியம் 1.15 மணிக்கும் வந்து சேரும். பின்னர் சேலம், ஜோலார்பேட்டை வழியாக சென்று புதன்கிழமை மாலை 4.50 மணிக்கு ஸ்ரீகாகுளம் சாலையை சென்றடையும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 ஈரோடு வழியாக சபரிமலை பக்தர்களுக்கு சிறப்பு ரயில் – ஞாயிறு தோறும் புறப்படும்\n\n📰 முழு விவரம்:\nசபரிமலைக்குச் செல்லும் ஐயப்ப பக்தர்களின் வசதிக்காக, ஆந்திர மாநிலம் ஸ்ரீகாகுளம் சாலையிலிருந்து ஈரோடு வழியாக கொல்லம் வரை வாராந்திர சிறப்பு ரயில்கள் இயக்கப்பட உள்ளன.\nஸ்ரீகாகுளம் சாலை – கொல்லம் சிறப்பு ரயில் (எண் 08539) வருகிற 22ஆம் தேதி முதல் ஜனவரி 24ஆம் தேதி வரை (10 சேவைகள்) ஒவ்வொரு ஞாயிற்றுக்கிழமையும் காலை 9.20 மணிக்கு ஸ்ரீகாகுளம் சாலையிலிருந்து புறப்படும்.\nஇந்த ரயில் திங்கள்கிழமை காலை 7.05 மணிக்கு ஜோலார்பேட்டை, 8.37 மணிக்கு சேலம், 9.40 மணிக்கு ஈரோடு வந்தடையும். பின்னர் ஈரோட்டிலிருந்து திருப்பூர், போத்தனூர் வழியாக இரவு 9.30 மணிக்கு கொல்லம் சென்றடையும்.\nகொல்லம் – ஸ்ரீகாகுளம் சாலை சிறப்பு ரயில் (எண் 08540) வருகிற 24ஆம் தேதி முதல் ஜனவரி 26ஆம் தேதி வரை (10 சேவைகள்) ஒவ்வொரு செவ்வாய்க்கிழமையும் அதிகாலை 2.30 மணிக்கு கொல்லத்திலிருந்து புறப்படும்.\nபோத்தனூருக்கு பகல் 11.10 மணிக்கும், திருப்பூருக்கு மதியம் 12.15 மணிக்கும், ஈரோட்டுக்கு 1.15 மணிக்கும் வரும். பின்னர் சேலம், ஜோலார்பேட்டை வழியாக சென்று புதன்கிழமை மாலை 4.50 மணிக்கு ஸ்ரீகாகுளம் சாலையை சென்றடையும்.\n\n🚉 இடம்: ஈரோடு வழியாக இயக்கம், ஈரோடு மாவட்டம்\n🗓️ நாள்: ஞாயிறு தோறும் புறப்பாடு (நவம்பர் 22 முதல் ஜனவரி 24 வரை)\n🕘 நேரம்: ஸ்ரீகாகுளம் சாலையில் காலை 9.20 மணி; ஈரோட்டுக்கு திங்கள் காலை 9.40 மணி\n📞 தகவல்: சேலம் கோட்ட ரயில்வே நிர்வாகம் வெளியிட்ட செய்திக் குறிப்பு\n\nSpecial train via Erode for Sabarimala pilgrims | Erode news\n📍 ஈரோடு, ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nபக்தர்களுடன் Share செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ரயில்",
-   "prompts": "A long passenger train with several coaches stands at Erode railway station platform as Ayyappa devotees in black and blue dhotis and shirts, carrying irumudi bags and bundles of luggage, board the coaches for the special weekly service towards Sabarimala. The railway platform of Erode junction is busy with pilgrims and a few railway staff in uniform near the coaches, with the station roof and overhead lights visible. The scene is early morning, soft light with a faint pale sky through the station shed. Men wait in a queue and some stand in groups with their bags, seen from behind and at a distance so no faces are visible. The camera sits at eye level, 35 mm, wide enough to show the full train, platform and crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an Ayyappa devotee's irumudi bag, a woven cloth bundle tied with a cord, resting on the grey concrete floor of Erode railway platform beside a steel railway track. Next to it lie a few other bags and a rolled black dhoti, and the edge of a train coach with steel panels is visible in soft focus behind. The light is early morning daylight falling on the bag, showing its worn cloth texture. The camera is slightly high and close, 35 mm, focusing on the bag and track to tell the story of the pilgrim travel and the special train. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/operation-of-a-special-train-via-erode",
-   "published": "2026-11-18T21:41:42.415Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption must contain the exact follow line",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064453/erode360/dhbanjzbguqxcmh7by4t.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064455/erode360/lkeembnlyojenwpa090n.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சிவகிரியில் உதவி ஆய்வாளரைக் கண்டித்து சாலை மறியல்: உடலுடன் பொதுமக்கள் போராட்டம்",
-   "english_headline": "Sivagiri: relatives and residents block road with body after sub-inspector allegedly insulted family seeking post-mortem permission",
+   "tamil_headline": "கரட்டாங்காட்டில் மனைவிக்கு கத்திக்குத்து: கணவர் விசாரணைக்கு அழைத்துச் செல்லப்பட்டார்",
+   "english_headline": "Husband stabs wife at orphanage in Karattankadu, Erode; husband taken for questioning",
    "category": "Crime & Safety",
-   "location": "Chinniyagoundanpalayam, Sivagiri town, Erode district",
+   "location": "Karattankadu, Erode city, Erode district",
    "importance": "Medium",
-   "scope": "",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போலீஸ் மீது புகார்",
-    "loc": "சிவகிரி, ஈரோடு",
-    "hl1": "சிவகிரியில் உதவி ஆய்வாளரைக் கண்டித்து",
-    "hl2": "உடலுடன் பொதுமக்கள் போராட்டம்",
+    "cat": "குற்றச் செய்தி",
+    "loc": "கரட்டாங்காடு, ஈரோடு",
+    "hl1": "கரட்டாங்காட்டில் மனைவிக்கு கத்திக்குத்து",
+    "hl2": "கணவர் விசாரணைக்கு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "சிவகிரி சின்னியகவுண்டன்பாளையத்தில் <b>100-க்கும்",
-       "இறந்த தொழிலாளியின் உடலுடன் போராட்டம்",
-       "<b>1 மணி நேரம்</b> போக்குவரத்து பாதிப்பு"
+       "ஈரோடு கரட்டாங்காட்டில் உள்ள ஆதரவற்றோர் காப்பகத்தில் சம்பவம்",
+       "நேற்று காலை <b>8:30 மணி</b> அளவில் நவோமியா சமையல்",
+       "கணவர் மோகன்ராஜ் முதுகின் வலது புறம் கத்தியால் குத்தினார்"
       ]
      },
      {
-      "title": "ஏன் போராட்டம்?",
+      "title": "பின்னணி",
       "lines": [
-       "அனுமதி கடிதம் வாங்கச் சென்ற உறவினர்களை அவமதித்ததாகப் புகார்",
-       "உதவி ஆய்வாளர் முருகேசன் மீது நடவடிக்கை கோரிக்கை",
-       "அனுமதி கடிதம் மாலையில்தான் கொடுக்கப்பட்டது"
+       "நவோமியா <b>6 ஆண்டுகளுக்கு முன்</b> கணவரைப் பிரிந்தார்",
+       "மோகன்ராஜ் குடிபோதைக்கு அடிமையானவர் என்று கூறப்படுகிறது",
+       "நவோமியா குழந்தைகளுடன் காப்பகத்தில் தங்கி சமையல் வேலை"
       ]
      },
      {
-      "title": "போலீஸ் உறுதி",
+      "title": "போலீஸ் நடவடிக்கை",
       "lines": [
-       "காவல் ஆய்வாளர்கள் கிருஷ்ணகுமார், வினிதா பேச்சுவார்த்தை",
-       "சம்பந்தப்பட்ட உதவி ஆய்வாளர் மீது நடவடிக்கை எடுப்பதாக உறுதி",
-       "பின்னர் உடலுடன் மயானத்துக்குச் சென்றனர்"
+       "மொடக்குறிச்சி போலீசார் நவோமியாவை மீட்டனர்",
+       "ஈரோடு அரசு மருத்துவமனையில் <b>3 தையல்</b> போடப்பட்டது",
+       "மோகன்ராஜ் விசாரணைக்காக அழைத்துச் செல்லப்பட்டார்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சிவகிரியில் உதவி ஆய்வாளரைக் கண்டித்து 100-க்கும் மேற்பட்டோர் சாலை மறியல் செய்தனர். கூலித் தொழிலாளி கோவிந்தசாமி நவம்பர் 17ஆம் தேதி சேலம் அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் உயிரிழந்தார். உடலைக் கூறாய்வு செய்ய அனுமதி கடிதம் பெற அவரது குடும்பத்தினர் சிவகிரி காவல் நிலையத்துக்குச் சென்றனர். அங்கு பணியில் இருந்த உதவி ஆய்வாளர் முருகேசன், உறவினர்களை அவமதித்ததாகவும், தரக்குறைவாகப் பேசியதாகவும் கூறப்படுகிறது. அவர் மாலையில்தான் அனுமதி கடிதம் கொடுத்தார். இதனால் செவ்வாய்க்கிழமை கூறாய்வு செய்ய முடியவில்லை. புதன்கிழமை பிற்பகலில் சின்னியகவுண்டன்பாளையத்தில் உறவினர்களும் பொதுமக்களும் உடலுடன் சாலை மறியலில் ஈடுபட்டனர். இதனால் ஒரு மணி நேரம் போக்குவரத்து பாதிக்கப்பட்டது. காவல் ஆய்வாளர்கள் கிருஷ்ணகுமார், வினிதா ஆகியோர் பேச்சுவார்த்தை நடத்தினர். சம்பந்தப்பட்ட உதவி ஆய்வாளர் மீது நடவடிக்கை எடுப்பதாக உறுதி அளித்தனர். அதன் பின்னர் போராட்டக்காரர்கள் உடலுடன் மயானத்துக்குச் சென்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 சிவகிரியில் உதவி ஆய்வாளரைக் கண்டித்து உடலுடன் சாலை மறியல்\n\n📰 முழு விவரம்:\nசிவகிரி பேரூராட்சி சின்னியகவுண்டன்பாளையத்தைச் சேர்ந்த கூலித் தொழிலாளி கோவிந்தசாமி நவம்பர் 17ஆம் தேதி மயங்கி விழுந்ததால் ஈரோடு அரசு தலைமை மருத்துவமனைக்கும், பின்னர் சேலம் அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கும் கொண்டு செல்லப்பட்டார். அங்கு அவர் உயிரிழந்தார்.\nஉடலைக் கூறாய்வு செய்ய அனுமதி கடிதம் பெற அவரது குடும்பத்தினர் சிவகிரி காவல் நிலையம் சென்றனர். அங்கு பணியில் இருந்த உதவி ஆய்வாளர் முருகேசன், உறவினர்களை அவமதித்து, காலம் தாழ்த்தி, தரக்குறைவாகப் பேசியதாகக் கூறப்படுகிறது. மாலையில்தான் அனுமதி கடிதம் கொடுக்கப்பட்டதால் செவ்வாய்க்கிழமை கூறாய்வு செய்ய முடியவில்லை.\nஇதைக் கண்டித்து புதன்கிழமை பிற்பகலில் 100-க்கும் மேற்பட்டோர் சாலை மறியல் செய்தனர். இதனால் ஒரு மணி நேரம் போக்குவரத்து பாதிக்கப்பட்டது. காவல் ஆய்வாளர்கள் கிருஷ்ணகுமார், வினிதா பேச்சுவார்த்தை நடத்தி, சம்பந்தப்பட்ட உதவி ஆய்வாளர் மீது நடவடிக்கை எடுப்பதாக உறுதி அளித்தனர். இதையடுத்து போராட்டக்காரர்கள் உடலுடன் மயானத்துக்குச் சென்றனர்.\n\nSivagiri protest over police sub-inspector, body taken to cemetery | Erode news\n📍 சிவகிரி, ஈரோடு மாவட்டம் | 18 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sivagiri #ErodeNews #ஈரோடு",
-   "prompts": "A crowd of about one hundred relatives and residents sits and stands across a village road in Chinniyagoundanpalayam colony, Sivagiri town, Erode district, blocking traffic while a body wrapped for the funeral lies on a bier in their midst. The place is a narrow colony street of small tiled and concrete houses with a public toilet block nearby, a few two-wheelers and an autorickshaw stopped at the edge of the road. Men in shirts and veshti and women in sarees sit on the tarmac seen from behind or from a distance, some holding plastic chairs and water pots, while a few khaki-uniformed Tamil Nadu police officers stand at the side in conversation with them. It is a Wednesday afternoon under bright daylight with a clear sky. Camera at eye level, 35 mm, wide enough to show the blocked road, the crowd and the houses. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a bamboo bier and a white cloth-wrapped body, with garlands of flowers on top, resting on the tarmac of a Sivagiri colony road where relatives sit around it in protest. Behind it, a pair of worn chappals and a few plastic water bottles lie on the road, and a wooden stick or banner pole leans against a concrete wall of a small house. The surrounding figures are seen only from the knees down or from behind, in dhoti and saree hems, with daylight falling across the road surface. Camera slightly high, 35 mm, focusing on the bier and the blocked road with the houses softly blurred behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/சிவகிரியில்-காவல்-உதவி-ஆய்வாளரைக்-கண்டித்து-பிரேதத்துடன்-பொதுமக்கள்-சாலைமறியல்",
-   "published": "2026-11-18T22:07:38.186Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 97 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "reel_script": "ஈரோடு கரட்டாங்காட்டில் ஆதரவற்றோர் காப்பகத்தில் பெண்ணுக்கு கத்திக்குத்து நடந்துள்ளது. நேற்று காலை 8 மணி 30 நிமிடத்தில் நவோமியா காப்பகத்தில் சமையல் செய்துகொண்டிருந்தார். அப்போது அங்கு வந்த அவரது கணவர் மோகன்ராஜ், நவோமியாவின் முதுகின் வலது புறம் கத்தியால் குத்தினார். நவோமியா 6 ஆண்டுகளுக்கு முன் அடிக்கடி ஏற்பட்ட தகராறுகளால் மோகன்ராஜை பிரிந்தார். அதன் பின் குழந்தைகளுடன் அந்தக் காப்பகத்தில் தங்கி சமையல் வேலை செய்கிறார். மோகன்ராஜ் எலக்ட்ரீஷியனாக வேலை செய்பவர்; குடிபோதைக்கு அடிமையானவர் என்று கூறப்படுகிறது. ரத்த வெள்ளத்தில் சரிந்த நவோமியாவை மொடக்குறிச்சி போலீசார் மீட்டு, ஈரோடு அரசு மருத்துவமனைக்கு அனுப்பினர். அங்கு அவருக்கு 3 தையல் போடப்பட்டுள்ளது. மோகன்ராஜை போலீசார் விசாரணைக்காக அழைத்துச் சென்றனர். மனைவியின் நடத்தையில் சந்தேகம் அடைந்து இந்தத் தாக்குதல் நடந்ததாக விசாரணைக்குப் பின் போலீசார் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கரட்டாங்காட்டில் மனைவிக்கு கத்திக்குத்து: கணவர் விசாரணைக்கு அழைத்துச் செல்லப்பட்டார்\n\n📰 முழு விவரம்:\nஈரோடு கரட்டாங்காட்டில் உள்ள மரிய நிவாஸ் ஆதரவற்றோர் காப்பகத்தில், நேற்று காலை சுமார் 8:30 மணிக்கு நவோமியா சமையல் செய்துகொண்டிருந்தார். அப்போது அங்கு வந்த கணவர் மோகன்ராஜ் அவரது முதுகின் வலது புறம் கத்தியால் குத்தினார். நவோமியா 6 ஆண்டுகளுக்கு முன் தகராறுகள் காரணமாக மோகன்ராஜை பிரிந்து, குழந்தைகளுடன் காப்பகத்தில் தங்கி சமையல் வேலை செய்கிறார்.\n🚔 மொடக்குறிச்சி போலீசார் நவோமியாவை மீட்டு ஈரோடு அரசு மருத்துவமனைக்கு அனுப்பினர். அங்கு 3 தையல் போடப்பட்டுள்ளது.\n👮 மோகன்ராஜ் விசாரணைக்காக அழைத்துச் செல்லப்பட்டார். மனைவியின் நடத்தையில் சந்தேகம் அடைந்து தாக்குதல் நடத்தியதாக விசாரணைக்குப் பின் போலீசார் தெரிவித்துள்ளனர்.\n\nErode husband stabs wife at orphanage, Karattankadu | Erode news\n📍 கரட்டாங்காடு, ஈரோடு | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Karattankadu #ErodeNews #ஈரோடு",
+   "prompts": "A Tamil Nadu police constable in khaki uniform leads a man away from the entrance of a shelter home in Karattankadu, Erode city, as he is taken in for questioning. The place is a modest two-storey orphanage building on a narrow residential street, with a plain front gate, a few plastic chairs and a stack of water pots near the verandah. Two police officers in khaki stand beside a white police jeep parked at the roadside, with a motorcycle and an autorickshaw passing in the background. Two shelter workers in cotton sarees watch quietly from the doorway, and a few children in simple home clothes peek out from behind the gate, seen from a distance and slightly blurred. It is around 9 in the morning in bright daylight, with dust on the road and a few people passing on foot. The camera is at eye level, 35 mm, wide enough to show the building, the gate, the police jeep and the street. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a steel cooking vessel and a wooden ladle resting on a kitchen platform inside an orphanage kitchen in Karattankadu, Erode. The stove is an unlit gas burner, the platform is stained with turmeric and sprinkled with onion skins, and a stack of stainless-steel plates sits beside a plastic bucket of water. Behind the platform, a blurred figure in a cotton saree stands with her back turned, and a police officer in khaki is visible at the doorway, seen from behind. Morning light enters through a barred window, falling across the scattered kitchen tools and a small pile of rice sacks. The camera is at a slightly high angle, 35 mm, focused on the cooking vessel and ladle in the foreground, with the kitchen and doorway softly visible behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/suspicion-of-wifes-behaviour/4380296",
+   "published": "2026-11-19T06:21:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 46 ('ஈரோடு:ஈரோடு, 46 புதூர் கரட்டாங்காடு 4வது வீதியை சேர்ந்தவர் ம'); 4 ('ஈரோடு:ஈரோடு, 46 புதூர் கரட்டாங்காடு 4வது வீதியை சேர்ந்தவர் ம'); 35 ('ஈரோடு:ஈரோடு, 46 புதூர் கரட்டாங்காடு 4வது வீதியை சேர்ந்தவர் ம')",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064478/erode360/zlalnwsycmbx8pgfoyph.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795064482/erode360/hpsnegicctsdvayfktn1.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795077690/erode360/mzqkwdlfrqtamgbou1lb.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795077701/erode360/zudp2moktnppvilovyjo.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அந்தியூரில் தனியார் பஸ் பூக்கடைக்குள் பாய்ந்தது; தாயும் மகளும் உயிர் தப்பினர்",
+   "english_headline": "Private bus rams into flower shop in Anthiyur; mother and daughter escape unhurt",
+   "category": "Crime & Safety",
+   "location": "Anthiyur town, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விபத்து",
+    "loc": "அந்தியூர்",
+    "hl1": "அந்தியூரில் பஸ் பூக்கடைக்குள் பாய்ந்தது",
+    "hl2": "தாயும் மகளும் உயிர் தப்பினர்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அந்தியூரில் அதிவேகமாக வந்த தனியார் பஸ் பூக்கடைக்குள்",
+       "நேற்றிரவு <b>9 மணிக்கு</b> அரசு மருத்துவமனை வளைவில் விபத்து",
+       "பஸ் சிலர் மீது உரசியபடி சென்றது; சிலர் பதறி தப்பினர்"
+      ]
+     },
+     {
+      "title": "எங்கே மோதியது?",
+      "lines": [
+       "பூக்கடை, பேக்கரி பகுதியில் பாய்ந்த பஸ் மின்கம்பத்தில் மோதி",
+       "பூக்கடை முற்றிலும் சேதமடைந்தது",
+       "கடை வெளியே நின்ற சில இரு சக்கர வாகனங்கள் மீதும் ஏறின"
+      ]
+     },
+     {
+      "title": "உயிர் தப்பியவர்கள்",
+      "lines": [
+       "கடை உரிமையாளர் அனிதா, <b>38</b> வயது; மகள் கிருபாஸ்ரீ, <b>16</b> வயது",
+       "விபத்துக்கு <b>30 நிமிடம்</b> முன் சாப்பிட வெளியே சென்றிருந்தனர்",
+       "இருவரும் அதிர்ஷ்டவசமாக உயிர் தப்பினர்"
+      ]
+     },
+     {
+      "title": "மின் தடை, போலீஸ்",
+      "lines": [
+       "மின்கம்பம் சேதத்தால் தேர்வீதி, பர்கூர் ரோட்டில் மின்சாரம்",
+       "பஸ்சை ஓட்டியவர் வர வேண்டும் என மக்கள் வாக்குவாதம்",
+       "<b>1 மணி நேரத்துக்கும்</b> மேல் பரபரப்பு; போலீசார் விசாரணை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அந்தியூரில் அதிவேகமாக வந்த தனியார் பஸ் பூக்கடைக்குள் பாய்ந்து மின்கம்பத்தில் மோதி நின்றது. நேற்றிரவு 9 மணிக்கு அரசு மருத்துவமனை வளைவில் இந்த விபத்து நடந்தது. ஈரோடு மாவட்டம் அந்தியூரில் இருந்து கோவை செல்லும் ஏ எஸ் எம் தன்ஸ்ரீ தனியார் பஸ் வளைவில் திரும்பியபோது சிலர் மீது உரசியபடி சென்றது. பதறிய சிலர் அங்கிருந்து தப்பினர். அதே நேரத்தில் பஸ் பூக்கடை, பேக்கரிக்குள் பாய்ந்தது. இதில் பூக்கடை முற்றிலும் சேதமடைந்தது. கடைக்கு வெளியே நிறுத்தியிருந்த சில இரு சக்கர வாகனங்கள் மீதும் பஸ் ஏறியது. விபத்துக்கு 30 நிமிடம் முன்பு சாப்பிட வெளியே சென்றிருந்ததால், கடை உரிமையாளர் அனிதா, 38 வயது, அவரது மகள் கிருபாஸ்ரீ, 16 வயது, அதிர்ஷ்டவசமாக உயிர் தப்பினர். பஸ்சை ஓட்டியவர் தப்பியதாகக் கூறப்படுகிறது. மின்கம்பம் சேதமடைந்ததால் தேர்வீதி, பர்கூர் ரோட்டில் மின்சாரம் துண்டிக்கப்பட்டது. 100க்கும் மேற்பட்டோர் கூடினர். போலீசார் பஸ்சை அப்புறப்படுத்த முயன்றபோது, ஓட்டுநர் வர வேண்டும் என மக்கள் வாக்குவாதம் செய்ததால் 1 மணி நேரத்துக்கும் மேல் பரபரப்பு ஏற்பட்டது. விபத்தை ஏற்படுத்தியது ஓட்டுநரா, உரிமையாளரா என்பது சிசிடிவி கேமராவைப் பார்த்த பிறகே தெரியும் என போலீசார் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அந்தியூரில் பஸ் பூக்கடைக்குள் பாய்ந்தது; தாயும் மகளும் உயிர் தப்பினர்\n\n📰 முழு விவரம்:\nநேற்றிரவு 9 மணிக்கு அந்தியூரில் அதிவேகமாக வந்த ஏ.எஸ்.எம். தன்ஸ்ரீ தனியார் பஸ், அரசு மருத்துவமனை வளைவில் திரும்பும்போது சிலர் மீது உரசியபடி சென்றது. பின்னர் பூக்கடை, பேக்கரியில் பாய்ந்து மின்கம்பத்தில் மோதி நின்றது. பூக்கடை முற்றிலும் சேதமடைந்தது; கடைக்கு வெளியே நின்ற சில இரு சக்கர வாகனங்கள் மீதும் பஸ் ஏறி சேதமடைந்தது.\nவிபத்துக்கு 30 நிமிடம் முன் சாப்பிட வெளியே சென்றிருந்ததால், கடை உரிமையாளர் அனிதா (38 வயது), மகள் கிருபாஸ்ரீ (16 வயது) உயிர் தப்பினர். பஸ்சை ஓட்டியவர் தப்பியதாகக் கூறப்படுகிறது.\n\n📍 இடம்: அந்தியூர், ஈரோடு மாவட்டம்\n🗓️ நாள்: 18 நவம்பர் 2026 (நேற்றிரவு)\n🕘 நேரம்: இரவு 9 மணி\n⚡ மின்தடை: தேர்வீதி, பர்கூர் ரோடு\n👮 நடவடிக்கை: அந்தியூர் போலீசார் விசாரணை; பஸ்சை ஓட்டியது ஓட்டுநரா உரிமையாளரா என சிசிடிவி கேமராவைப் பார்த்து உறுதி செய்யப்படும்\n\nAnthiyur private bus rams flower shop | Erode news\n📍 அந்தியூர், ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Anthiyur #ErodeNews #ஈரோடு",
+   "prompts": "A private bus has crashed into a flower shop at a busy junction in Anthiyur town, Erode district, its front pressed hard against a concrete electricity pole that has tilted at an angle. The bus is painted in plain bright colours and sits nose-first in the shop front, with scattered flowers and broken shop frames on the pavement. It is night, and the street is dark because the power has been cut, so only a few weak lights from nearby shops and the bus headlights illuminate the scene. Around a hundred people stand at a distance on the road, seen from behind, with men in shirts and veshti and women in sarees gathered in a loose crowd. Two Tamil Nadu police officers in khaki stand near the bus, and a few two-wheelers lie crushed beside the pavement. The town's houses, shops and the hospital curve are visible in the background. Camera at eye level, 35 mm, wide enough to show the whole junction. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the damaged front of a flower shop in Anthiyur town, where a private bus has crushed the shop frame and pushed in the tin roof. Scattered marigold and jasmine flowers lie on the wet pavement among broken wooden planks and shattered glass fragments. In the foreground, two crushed two-wheelers lie against the pavement edge, their handlebars bent. Behind them a concrete electricity pole leans at an angle, and the bus's large front grille and bumper are visible pressed against the shop. The scene is lit by night street light and a few hanging shop lamps, with the power cut evident from the dark street beyond. No people are in focus; a distant crowd is only faintly visible at the edge of the frame. Camera at slightly high angle, 35 mm, focused on the damage. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/mother-daughter-escape-unhurt-as-private-bus-plunges-into-flower-shop/4380291",
+   "published": "2026-11-19T06:19:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 100 ('முக்கியமான சந்திப்பு என்பதால், விபத்து நடந்த அடுத்த சில நிமி'); 1 ('அவர்கள் பஸ்சை அப்புறப்படுத்த முயற்சித்தபோது, பஸ்சை ஓட்டியவர்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795077722/erode360/fljcx9dqer4hcaemwqsn.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795077735/erode360/t3hfxgvdkqqptk0aobpk.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெருந்துறையில் பட்டா கோரி ஆர்ப்பாட்டம்: 300 குடும்பங்களின் 5 ஆண்டு கால கோரிக்கை",
+   "english_headline": "Protest in Perundurai demanding house site pattas for 300 families of Murungatholuvu village",
+   "category": "Civic Issues",
+   "location": "Perundurai New Bus Stand, Perundurai taluk, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பட்டா கோரிக்கை",
+    "loc": "பெருந்துறை",
+    "hl1": "பெருந்துறையில் பட்டா கோரி ஆர்ப்பாட்டம்",
+    "hl2": "300 குடும்பங்களின் கோரிக்கை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பெருந்துறை புதிய பஸ் ஸ்டாண்ட் அருகே ஆர்ப்பாட்டம்",
+       "<b>300-க்கும் மேற்பட்ட</b> குடும்பங்கள் பங்கேற்பு",
+       "வீட்டுமனை பட்டா வழங்கக் கோரி முழக்கம்"
+      ]
+     },
+     {
+      "title": "எந்தப் பகுதி?",
+      "lines": [
+       "சென்னிமலை ஒன்றியம் <b>முருங்கதொழுவு</b> கிராமம்",
+       "5 ஆண்டுகளாக பட்டா கோரி மனு அளிப்பு",
+       "இதுவரை நடவடிக்கை இல்லை என குற்றச்சாட்டு"
+      ]
+     },
+     {
+      "title": "யார் பங்கேற்பு?",
+      "lines": [
+       "சமூக அடக்குமுறைக்கு எதிரான கூட்டமைப்பு",
+       "பெண்கள் பதாகை ஏந்தி போராட்டம்",
+       "அரசு விரைந்து நடவடிக்கை எடுக்கக் கோரிக்கை"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பெருந்துறையில் 300 குடும்பங்களுக்கு பட்டா கோரி கவன ஈர்ப்பு ஆர்ப்பாட்டம் நடைபெற்றது. சென்னிமலை ஒன்றியம் முருங்கதொழுவு கிராமத்தைச் சேர்ந்த மக்கள் பெருந்துறை புதிய பேருந்து நிலையம் அருகே நேற்று இந்தப் போராட்டத்தை நடத்தினர். சமூக அடக்குமுறைக்கு எதிரான கூட்டமைப்பு சார்பில் இந்த கவன ஈர்ப்பு ஆர்ப்பாட்டம் நடைபெற்றது. முருங்கதொழுவு கிராமத்தில் வசிக்கும் 300-க்கும் மேற்பட்ட குடும்பங்களுக்கு வீட்டுமனை பட்டா வழங்கக் கோரி கடந்த 5 ஆண்டுகளாக மனு அளிக்கப்பட்டு வருகிறது. ஆனால் இதுவரை தமிழக அரசு எந்த நடவடிக்கையும் எடுக்கவில்லை என்று போராட்டக்காரர்கள் குற்றம் சாட்டினர். கூட்டமைப்பின் தலைவர் புதியவன் தலைமையில் நடைபெற்ற இந்த ஆர்ப்பாட்டத்தில் சமூகநீதி மக்கள் கட்சித் தலைவர் வடிவேல்ராமன் உள்ளிட்ட பல்வேறு நிர்வாகிகள் பங்கேற்றனர். போராட்டத்தில் கலந்துகொண்ட பெண்கள் கைகளில் பதாகைகளை ஏந்தி அரசுக்கு எதிராக முழக்கங்களை எழுப்பினர். பட்டா வழங்கும் வரை போராட்டங்கள் தொடரும் என அவர்கள் தெரிவித்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📍 பெருந்துறையில் 300 குடும்பங்களுக்கு பட்டா கோரி ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் பெருந்துறை புதிய பேருந்து நிலையம் அருகே நேற்று கவன ஈர்ப்பு ஆர்ப்பாட்டம் நடைபெற்றது. சென்னிமலை ஒன்றியம் முருங்கதொழுவு கிராமத்தில் வசிக்கும் 300-க்கும் மேற்பட்ட குடும்பங்களுக்கு வீட்டுமனை பட்டா வழங்கக் கோரி இந்தப் போராட்டம் நடத்தப்பட்டது. கடந்த 5 ஆண்டுகளாக இது தொடர்பாக பலமுறை மனு அளித்தும் அரசு எந்த நடவடிக்கையும் எடுக்கவில்லை என மக்கள் குற்றம் சாட்டியுள்ளனர். சமூக அடக்குமுறைக்கு எதிரான கூட்டமைப்பு சார்பில் நடைபெற்ற இந்த ஆர்ப்பாட்டத்தில் பெண்கள் திரளாகப் பங்கேற்று பதாகைகளை ஏந்தி முழக்கமிட்டனர்.\n\n📍 இடம்: புதிய பேருந்து நிலையம் அருகே, பெருந்துறை\n🗓️ நாள்: 18 நவம்பர் 2026\n👥 பங்கேற்பு: முருங்கதொழுவு கிராம மக்கள் மற்றும் பல்வேறு அமைப்பினர்\nℹ️ கோரிக்கை: 300-க்கும் மேற்பட்ட குடும்பங்களுக்கு உடனடியாக வீட்டுமனை பட்டா வழங்க வேண்டும்.\n\nPerundurai protest for house site patta Murungatholuvu village | Erode news\n📍 Perundurai, Erode | 19 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ஆர்ப்பாட்டம் #ஈரோடு",
+   "prompts": "A crowd of men and women protesters holds up placards and raises slogans at the Perundurai New Bus Stand in Erode district, a civic protest demanding house site pattas for 300 families of Murungatholuvu village. The protesters stand on the open road beside the bus stand, the women in front in cotton sarees and salwars, some men in shirts and veshti, all seen from behind or from a distance so no faces are visible. Behind them stand town buses and a few autorickshaws parked along the bus stand edge, with two-wheelers and low shop fronts lining the road. The scene is in daylight under a clear sky, with the morning sun casting soft shadows on the tarmac. The camera is at eye level, 35 mm, wide enough to show the bus stand and the crowd together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of several hand-held placards and banners raised above a group of protesters at the Perundurai New Bus Stand, the blank white cloth and painted boards carried by women's hands at the front of the crowd, with no readable text visible. The placards are held by arms in sarees and salwar sleeves, slightly blurred against the background of a town bus parked at the stand and a row of two-wheelers. Daylight falls on the boards, showing their edges and the rough texture of the cloth and paint. The camera is slightly high, 35 mm, focused on the raised placards with the bus stand softly out of focus behind them. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/attention-grabbing-protest-demanding-house-site-pattas/4380280",
+   "published": "2026-11-19T06:11:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: fact-check: The reel_script includes an invented detail stating that protests will continue until the patta is issued, which is not mentioned in the article.",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795077749/erode360/ljzjfy7uml6wypqlmioy.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795077761/erode360/bzults6m6ftx2ycj7nky.jpg"
    ]
   }
  ]
