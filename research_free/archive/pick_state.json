@@ -63,7 +63,8 @@
    "category": "மின்தடை",
    "score": 11.66,
    "power_cut": true,
-   "listed_at": "2026-11-20T04:30:22.876910+05:30"
+   "listed_at": "2026-11-20T04:30:22.876910+05:30",
+   "picked_at": "2026-11-20T04:33:51.378565+05:30"
   },
   "C7500552": {
    "id": "C7500552",
@@ -78,7 +79,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AE%BF%E0%AE%AE%E0%AE%BE%E0%AE%A8%E0%AE%BF%E0%AE%B2-%E0%AE%AE%E0%AE%A4%E0%AF%81-%E0%AE%B5%E0%AE%BF%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AF%88-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%B5%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81"
    ],
-   "listed_at": "2026-11-20T04:30:22.876910+05:30"
+   "listed_at": "2026-11-20T04:30:22.876910+05:30",
+   "picked_at": "2026-11-20T04:33:51.378569+05:30"
   },
   "C586e0b9": {
    "id": "C586e0b9",
@@ -93,7 +95,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/உணவக-உரிமையாளா்-வீட்டில்-ரூ280-லட்சம்-திருடிய-வழக்கில்-இருவா்-கைது"
    ],
-   "listed_at": "2026-11-20T04:30:22.876910+05:30"
+   "listed_at": "2026-11-20T04:30:22.876910+05:30",
+   "picked_at": "2026-11-20T04:33:51.378571+05:30"
   },
   "Ca57c49d": {
    "id": "Ca57c49d",
@@ -105,7 +108,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:30:22.876910+05:30"
+   "listed_at": "2026-11-20T04:30:22.876910+05:30",
+   "picked_at": "2026-11-20T04:33:51.378573+05:30"
   },
   "Cb77fd35": {
    "id": "Cb77fd35",
@@ -117,7 +121,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:30:22.876910+05:30"
+   "listed_at": "2026-11-20T04:30:22.876910+05:30",
+   "picked_at": "2026-11-20T04:33:51.378576+05:30"
   },
   "C47ce6ae": {
    "id": "C47ce6ae",
@@ -129,7 +134,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:30:22.876910+05:30"
+   "listed_at": "2026-11-20T04:30:22.876910+05:30",
+   "picked_at": "2026-11-20T04:33:51.378578+05:30"
   },
   "Cf171357": {
    "id": "Cf171357",
@@ -141,7 +147,8 @@
    "category": "விபத்து",
    "score": 11.2,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:30:22.876910+05:30"
+   "listed_at": "2026-11-20T04:30:22.876910+05:30",
+   "picked_at": "2026-11-20T04:33:51.378580+05:30"
   },
   "Cafa427d": {
    "id": "Cafa427d",
@@ -153,7 +160,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-20T04:30:22.876910+05:30"
+   "listed_at": "2026-11-20T04:30:22.876910+05:30",
+   "picked_at": "2026-11-20T04:33:51.378582+05:30"
   },
   "C43fc4f2": {
    "id": "C43fc4f2",
@@ -1106,8 +1114,30 @@
    ],
    "sent": false,
    "deadline": "2026-11-20T05:30:22.876910+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 7 of 21 by insights + 1 power cut",
+    "ids": [
+     "C522d259",
+     "C7500552",
+     "C586e0b9",
+     "Ca57c49d",
+     "Cb77fd35",
+     "C47ce6ae",
+     "Cf171357",
+     "Cafa427d"
+    ],
+    "at": "2026-11-20T04:33:51.378552+05:30"
+   },
+   "written": [
+    "C47ce6ae",
+    "C522d259",
+    "C586e0b9",
+    "C7500552",
+    "Ca57c49d",
+    "Cafa427d",
+    "Cb77fd35",
+    "Cf171357"
+   ]
   }
  },
  "retry": {}
