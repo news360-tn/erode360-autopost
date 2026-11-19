@@ -29,7 +29,8 @@
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/%E0%AE%9A%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%B5%E0%AE%BF%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AF%88-%E0%AE%87%E0%AE%B3%E0%AF%88%E0%AE%9E%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81"
    ],
    "listed_at": "2026-11-19T06:46:35.517991+05:30",
-   "picked_at": "2026-11-19T06:48:33.951836+05:30"
+   "picked_at": "2026-11-19T06:48:33.951836+05:30",
+   "posted": true
   },
   "C323057f": {
    "id": "C323057f",
@@ -42,7 +43,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-19T06:46:35.517991+05:30",
-   "picked_at": "2026-11-19T06:48:33.951838+05:30"
+   "picked_at": "2026-11-19T06:48:33.951838+05:30",
+   "refused": "not filed: duplicate after write"
   },
   "C14e175e": {
    "id": "C14e175e",
@@ -55,7 +57,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-19T06:46:35.517991+05:30",
-   "picked_at": "2026-11-19T06:48:33.951840+05:30"
+   "picked_at": "2026-11-19T06:48:33.951840+05:30",
+   "posted": true
   },
   "C4db9c9a": {
    "id": "C4db9c9a",
@@ -68,7 +71,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-19T06:46:35.517991+05:30",
-   "picked_at": "2026-11-19T06:48:33.951842+05:30"
+   "picked_at": "2026-11-19T06:48:33.951842+05:30",
+   "posted": true
   },
   "C71d1d99": {
    "id": "C71d1d99",
@@ -81,7 +85,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-19T06:46:35.517991+05:30",
-   "picked_at": "2026-11-19T06:48:33.951843+05:30"
+   "picked_at": "2026-11-19T06:48:33.951843+05:30",
+   "posted": true
   },
   "Ca0e6d3c": {
    "id": "Ca0e6d3c",
@@ -94,7 +99,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-19T06:46:35.517991+05:30",
-   "picked_at": "2026-11-19T06:48:33.951844+05:30"
+   "picked_at": "2026-11-19T06:48:33.951844+05:30",
+   "posted": true
   },
   "C0e95033": {
    "id": "C0e95033",
@@ -107,7 +113,8 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-19T06:46:35.517991+05:30",
-   "picked_at": "2026-11-19T06:48:33.951846+05:30"
+   "picked_at": "2026-11-19T06:48:33.951846+05:30",
+   "posted": true
   },
   "C7c21166": {
    "id": "C7c21166",
@@ -120,7 +127,8 @@
    "score": 11.5,
    "power_cut": false,
    "listed_at": "2026-11-19T06:46:35.517991+05:30",
-   "picked_at": "2026-11-19T06:48:33.951848+05:30"
+   "picked_at": "2026-11-19T06:48:33.951848+05:30",
+   "posted": true
   },
   "C7b117a4": {
    "id": "C7b117a4",
@@ -1146,7 +1154,10 @@
     "C71d1d99",
     "C7c21166",
     "Ca0e6d3c"
-   ]
+   ],
+   "refused": {
+    "C323057f": "not filed: duplicate after write"
+   }
   }
  },
  "retry": {}
