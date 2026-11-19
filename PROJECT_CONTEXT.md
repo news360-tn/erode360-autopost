@@ -81,6 +81,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-19 | `b1254d2` | tests: install pytest and run the suite with pytest (gold reel tests were red since 19 Nov); insights: retry the save when another job saved at the same moment; README: page is live |
 | 2026-11-19 | `e7e69a8` | Gold reel: new bright poster design and faster pace (short lines, quicker voice, fast cuts) |
 | 2026-11-19 | `324c357` | pick: written and posted |
 | 2026-11-19 | `aa19880` | pick: picked news saved |
@@ -110,5 +111,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-18 | `7d4dee0` | powercut: notices written |
 | 2026-11-18 | `cf1fe61` | pick: written and posted |
 | 2026-11-18 | `ecd8af8` | pick: picked news saved |
-| 2026-11-18 | `b50b67b` | pick: picked news saved |
 <!-- recent-changes:end -->
