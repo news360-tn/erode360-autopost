@@ -1,240 +1,238 @@
-writing [N]: தமிழ் சோறு போடுமா? தமிழ் விருந்தே வைக்கும்!
-writing [N]: தரமற்ற வேட்டி சேலைகளை ஒருபோதும்  வாங்க மாட்டோம்.. உற்பத்தியா
-writing [N]: பவானி சாகர் அணையிலிருந்து இரண்டாம் போக பாசனத்திற்கு நாளை முத
+writing [N]: ஈரோடு அரசு மருத்துவமனை புதிய சிற்றுண்டியகம் மூடல்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+writing [N]: நீர் நிலைகளை சீரமைக்க ஆன்லைனில் அனுமதி
+writing [N]: ஈரோட்டில் சத்துணவு ஊழியர்கள் ஆர்ப்பாட்டம்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high d
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
   "error": {
     "code": 503,
     "message": "This model is currently experiencing high d
 fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
 poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.5-flash for 10 min
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
 ok gemini/gemini-3-flash-preview (10s)
-attempt 1 gemini/gemini-3-flash-preview: 1 problems
-  caption needs 5 hashtags (Instagram max), has 6
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
-fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3.6-flash
-ok gemini/gemini-3-flash-preview (16s)
-attempt 2 gemini/gemini-3-flash-preview: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 11 ('இதுதொடர்பாக வெளியிடப்பட்டுள்ள செய்திக்குறிப்பில் தெரிவிக்கப்'); 04 ('இதுதொடர்பாக வெளியிடப்பட்டுள்ள செய்திக்குறிப்பில் தெரிவிக்கப்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (11s)
-attempt 1 gemini/gemini-3-flash-preview: 3 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 400 ('இப்போது மாதம் 400 பேர் வரும் அளவிற்கு நாங்கள் தொடங்கிய தமிழ்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (16s)
-attempt 1 gemini/gemini-3-flash-preview: 3 problems
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 566 ('2027 பொங்கல் பண்டிகைக்கு ரேஷன் அட்டைதாரர்களுக்கு புதிய தரத்த'); 26 ('2027 பொங்கல் பண்டிகைக்கு ரேஷன் அட்டைதாரர்களுக்கு புதிய தரத்த'); 2 ('நிகழாண்டில் பயனாளிகளைக் கணக்கீடு செய்வதற்காக மாவட்ட வாரியாக '); 27 ('நிகழாண்டில் பயனாளிகளைக் கணக்கீடு செய்வதற்காக மாவட்ட வாரியாக '); 83,417 ('நிகழாண்டில் பயனாளிகளைக் கணக்கீடு செய்வதற்காக மாவட்ட வாரியாக '); 25 ('நிகழாண்டில் பயனாளிகளைக் கணக்கீடு செய்வதற்காக மாவட்ட வாரியாக ')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (12s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (15s)
-attempt 2 gemini/gemini-3-flash-preview: 1 problems
-  reel_script must end with exactly: மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-ok gemini/gemini-3-flash-preview (16s)
-attempt 2 gemini/gemini-3-flash-preview: 3 problems
-  reel_script has 99 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  hl1 (the first headline on screen) must name the place 'ஈரோடு', e.g. 'ஈரோடு: ...' or 'ஈரோடு-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2'); 177 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2'); 64 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2'); 22 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2')
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  reel_script has numbers without their meaning (10); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+  numbers not found in the article: 7
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
-switching away from gemini/gemini-3-flash-preview for 10 min
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok gemini/gemini-3-flash-preview (20s)
-attempt 3 gemini/gemini-3-flash-preview: 2 problems
-  sentence 1 (one-line story) has 19 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 3 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {"error":{"message":"Request too large for model `openai/gpt-oss-120b` in organization `or
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'ஈரோடு' and the news itself, e.g. 'ஈரோடு-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has 81 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 300 ('இதற்காக அப்போதே முதற்கட்டமாக 300 கோடி ஒதுக்கீடு செய்யப்பட்டத'); 3 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2'); 177 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2'); 64 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2'); 22 ('கடந்த 3 ஆண்டுகளைப் போலவே சுமார் 177.64 லட்சம் சேலைகள், 177.2')
-fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
-ok groq/openai/gpt-oss-120b (6s)
-proofread rejected (3 problems)
-  missing key: reel_script
-  missing key: caption
-  missing key: scenes
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+dead for this round: gemini/gemini-3-flash-preview
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok groq/openai/gpt-oss-120b (3s)
-factcheck by groq/openai/gpt-oss-120b: 0 problems
-attempt 3 gemini/gemini-3-flash-preview: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-not available on this plan: groq/openai/gpt-oss-120b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 ok groq/qwen/qwen3.8-27b (4s)
-proofread rejected (3 problems)
-  missing key: reel_script
-  missing key: caption
-  missing key: scenes
+attempt 2 groq/qwen/qwen3.8-27b: 3 problems
+  reel_script has numbers without their meaning (10, 20); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+  numbers not found in the article: 6
+  not grounded: location 'நகரம்' is not in the article
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
+fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/openai/gpt-oss-120b (6s)
-proofread rejected (3 problems)
-  missing key: reel_script
-  missing key: caption
-  missing key: scenes
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
-ok anthropic/claude-haiku-5-5
-writing [N]: வார இறுதி நாட்களை முன்னிட்டு 3,195 சிறப்பு பேருந்துகள் இயக்க
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 ok anthropic/claude-haiku-5-5
 claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
-ok groq/qwen/qwen3.8-27b (1s)
+  reel_script has numbers without their meaning (10, 20); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  reel_script has English words (eri, gov, https, in) - the voice cannot read them; write them in Tamil letters
+  reel_script must have no English letters (write English words and abbreviations in Tamil script)
+  source/outlet name or link appears: http, www.
+  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  known issue english_in_voice: voice script has English words the voice skips (eri, gov, https, in) - rewrite so it does not happen again
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has numbers without their meaning (10, 20); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The caption adds an advisory not in the article: 'நோயாளிகள், உறவினர்கள் மாற்று உணவு ஏற்பாடுகளை முன்கூட்டியே பார்த்துக்கொள்ளுங்கள்' (patients and relatives should arrange alternative food in advance) is an invented instruction.
+  The caption's English line 'Erode Government Hospital canteen closed suddenly | Erode news' is an extra claim beyond the article's content, though it restates the same event.
+  The reel_script says the canteen was opened and closed on the same basis as the article, but the article says the canteen was closed 'திடீரென திங்கள்கிழமை' (on Monday); the reel_script omits that the closure was described as temporary by the banner only in the 'தற்போதைய நிலை' slide, which is consistent, so no problem there. However, the slides_spec 'ஏன் முக்கியம்?' slide states 'இப்போது சிரமத்தில் மக்கள்' which is a reasonable paraphrase and not a problem.
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: The caption adds an advisory not in the article: 'நோயாளிகள், உறவினர்கள் மாற்று உணவு ஏற்பாடுகளை முன்கூட்டியே பார்த்துக்கொள்ளுங்கள்' (patients and relatives should arrange alternative food in advance) is an invented instruction.
+  fact-check: The caption's English line 'Erode Government Hospital canteen closed suddenly | Erode news' is an extra claim beyond the article's content, though it restates the same event.
+  fact-check: The reel_script says the canteen was opened and closed on the same basis as the article, but the article says the canteen was closed 'திடீரென திங்கள்கிழமை' (on Monday); the reel_script omits that the closure was described as temporary by the banner only in the 'தற்போதைய நிலை' slide, which is consistent, so no problem there. However, the slides_spec 'ஏன் முக்கியம்?' slide states 'இப்போது சிரமத்தில் மக்கள்' which is a reasonable paraphrase and not a problem.
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has numbers without their meaning (10, 20); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  reel_script has English words (eri, gov, in, tn) - the voice cannot read them; write them in Tamil letters
+  reel_script must have no English letters (write English words and abbreviations in Tamil script)
+  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  known issue english_in_voice: voice script has English words the voice skips (eri, gov, in, tn) - rewrite so it does not happen again
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
 real photo: vision check out of free quota
 ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('சென்னை, வார இறுதி நாட்களை முன்னிட்டு தமிழ்நாடு அரசு போக்குவர')
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
-  hl1 (the first headline on screen) must name the place 'சென்னை', e.g. 'சென்னை: ...' or 'சென்னை-இல் ...' - viewers share news of their own area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1 ('சென்னை, வார இறுதி நாட்களை முன்னிட்டு தமிழ்நாடு அரசு போக்குவர')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Can Tamil feed you? Raji Aishwarya from '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1830","first":"RN-150"}
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Erode Government Hospital canteen sudden'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-2217","first":"RN-153"}
 posting job started at once
-real photo: vision check resting (free quota busy)
-writing [N]: எர்ணாகுளம் – பாட்னா சிறப்பு ரயில் நீட்டிப்பு
+real photo: no picture on the source page -> AI pictures
+writing [N]: சென்னிமலை முக்கோணவியல் நிலையம் புராதன சின்னமாக அறிவிக்க நடவட
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 free models unavailable: no free model answered: None
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Erode: online permission portal launched'
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 0 problems
-claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
+factcheck by anthropic/claude-haiku-5-5: 6 problems
+  reel_script says 'முதல்கட்ட நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன' for heritage declaration — article says 'புராதன சின்னமாக அறிவித்து பாதுகாப்பதற்கான' (for declaring and protecting as heritage), but the reel_script drops the heritage-declaration context in the slide (acceptable), though the slides_spec 'பாதுகாப்பு' slide line 'தொல்லியல் துறை சார்பில் முதல்கட்ட நடவடிக்கைகள்' is an incomplete sentence without clear meaning
+  slides_spec slide 1 line 'எவரெஸ்ட் சிகரத்தின் உயரமும் இந்தப் பணியால்' is an incomplete/ungrammatical sentence with no clear meaning
+  slides_spec slide 1 line 'சென்னிமலை சுப்ரமணியர் கோவில் பின்புற மலை உச்சி ஒரு' is cut off mid-sentence and has no clear meaning
+  slides_spec slide 1 line '1802 ஏப்ரல் 10 அன்று சென்னை பரங்கிமலையில் தொடங்கிய இந்திய' is incomplete (missing the survey name and purpose), so the sentence has no clear meaning
+  caption states the trigonometric station was selected and the Indian survey stone installed as part of the 1802 survey, while the article only says this was done during the southern Indian survey work; the caption attributes the 'தென்னிந்திய' context loosely, mixing the 1802 start date with the Chennimalai selection event
+  reel_script and caption phrase 'இந்திய அளவீட்டுக் கல் நிறுவப்பட்டுள்ளது' is fine, but the reel_script mixes the 1802 Chennai start date with the Chennimalai selection in one sentence, combining two different facts
+claude rewrite 1 anthropic/claude-haiku-5-5: 6 problems
+  fact-check: reel_script says 'முதல்கட்ட நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன' for heritage declaration — article says 'புராதன சின்னமாக அறிவித்து பாதுகாப்பதற்கான' (for declaring and protecting as heritage), but the reel_script drops the heritage-declaration context in the slide (acceptable), though the slides_spec 'பாதுகாப்பு' slide line 'தொல்லியல் துறை சார்பில் முதல்கட்ட நடவடிக்கைகள்' is an incomplete sentence without clear meaning
+  fact-check: slides_spec slide 1 line 'எவரெஸ்ட் சிகரத்தின் உயரமும் இந்தப் பணியால்' is an incomplete/ungrammatical sentence with no clear meaning
+  fact-check: slides_spec slide 1 line 'சென்னிமலை சுப்ரமணியர் கோவில் பின்புற மலை உச்சி ஒரு' is cut off mid-sentence and has no clear meaning
+  fact-check: slides_spec slide 1 line '1802 ஏப்ரல் 10 அன்று சென்னை பரங்கிமலையில் தொடங்கிய இந்திய' is incomplete (missing the survey name and purpose), so the sentence has no clear meaning
+  fact-check: caption states the trigonometric station was selected and the Indian survey stone installed as part of the 1802 survey, while the article only says this was done during the southern Indian survey work; the caption attributes the 'தென்னிந்திய' context loosely, mixing the 1802 start date with the Chennimalai selection event
+  fact-check: reel_script and caption phrase 'இந்திய அளவீட்டுக் கல் நிறுவப்பட்டுள்ளது' is fine, but the reel_script mixes the 1802 Chennai start date with the Chennimalai selection in one sentence, combining two different facts
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-2217","first":"RN-154"}
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1802 ('சென்னிமலை: சென்னை, பரங்கிமலையில் இருந்து, ‘இந்திய முக்கோணவிய'); 10 ('சென்னிமலை: சென்னை, பரங்கிமலையில் இருந்து, ‘இந்திய முக்கோணவிய')
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Noon meal workers protest at Erode colle'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-2218","first":"RN-155"}
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-images made: 2 for 'Water release from Bhavanisagar Dam for '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1830","first":"RN-151"}
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
+real photo: vision check resting (free quota busy)
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Ernakulam–Patna special weekly train ext'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-1830","first":"RN-152"}
+images made: 2 for 'First steps taken to declare Chennimalai'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261119-2218","first":"RN-156"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-news/ernakulam-patna-special-train-neet-tipu/4380549
-manual link added: https://www.dailythanthi.com/news/tamilnadu/3195-special-buses-to-operate-for-the-weekend
-manual link added: https://tamil.oneindia.com/news/erode/tn-government-will-never-procure-substandard-dhotis-and-sarees-says-minister-vijay-balaji-846601.html
-manual link added: https://www.dailythanthi.com/news/tamilnadu/bhavani-sagar-dam-water-release-for-irrigation
-manual link added: https://www.dinakaran.com/ladies/will-tamil-provide-a-meal-tamil-will-host-a-feast/amp
-candidate filter: collected=5
-to write: 5 Erode district candidates (max 5 stories)
-round: top 5 of 5 candidates
-candidates waiting: 5 Erode; time left 79 min
-try (N) manual=True: https://www.dinakaran.com/ladies/will-tamil-provide-a-meal-t
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/bhavani-sagar-da
-try (N) manual=True: https://tamil.oneindia.com/news/erode/tn-government-will-nev
-NOT filed (N) தரமற்ற வேட்டி சேலைகளை ஒருபோதும்  வாங்க மாட்டோம்.. : not Erode district news (the story's first lines name another place and no Erode place)
-try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/3195-special-bus
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-trigonometry-station-to-be-declared-an-ancient-monument/4380957
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/ஈரோடு-அரசு-மருத்துவமனை-புதிய-சிற்றுண்டியகம்-மூடல்
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/nutritious-meal-workers-protest-in-erode/4380271
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/online-permission-to-restore-water-levels/4380272
+candidate filter: collected=4
+to write: 4 Erode district candidates (max 4 stories)
+round: top 4 of 4 candidates
+candidates waiting: 4 Erode; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/ernakulam-pat
-NOT filed (N) வார இறுதி நாட்களை முன்னிட்டு 3,195 சிறப்பு பேருந்த: not Erode district news (the story's first lines name another place and no Erode place)
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-t
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-candidate loop ended: left 0, tried={'N': 5}, done={'N': 3}, time left 75 min
-filed: 3 Erode district stories (target 5), reels only
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 76 min
+filed: 4 Erode district stories (target 4), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":5,"updated":0} 
-stories: 3
+All News sheet: {"ok":true,"added":4,"updated":0} 
+stories: 4
