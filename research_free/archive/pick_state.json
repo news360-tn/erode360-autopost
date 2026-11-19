@@ -28,7 +28,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/18/%E0%AE%9A%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%B5%E0%AE%BF%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A9%E0%AF%88-%E0%AE%87%E0%AE%B3%E0%AF%88%E0%AE%9E%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81"
    ],
-   "listed_at": "2026-11-19T06:46:35.517991+05:30"
+   "listed_at": "2026-11-19T06:46:35.517991+05:30",
+   "picked_at": "2026-11-19T06:48:33.951836+05:30"
   },
   "C323057f": {
    "id": "C323057f",
@@ -40,7 +41,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:46:35.517991+05:30"
+   "listed_at": "2026-11-19T06:46:35.517991+05:30",
+   "picked_at": "2026-11-19T06:48:33.951838+05:30"
   },
   "C14e175e": {
    "id": "C14e175e",
@@ -52,7 +54,8 @@
    "category": "பொது",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:46:35.517991+05:30"
+   "listed_at": "2026-11-19T06:46:35.517991+05:30",
+   "picked_at": "2026-11-19T06:48:33.951840+05:30"
   },
   "C4db9c9a": {
    "id": "C4db9c9a",
@@ -64,7 +67,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:46:35.517991+05:30"
+   "listed_at": "2026-11-19T06:46:35.517991+05:30",
+   "picked_at": "2026-11-19T06:48:33.951842+05:30"
   },
   "C71d1d99": {
    "id": "C71d1d99",
@@ -76,7 +80,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:46:35.517991+05:30"
+   "listed_at": "2026-11-19T06:46:35.517991+05:30",
+   "picked_at": "2026-11-19T06:48:33.951843+05:30"
   },
   "Ca0e6d3c": {
    "id": "Ca0e6d3c",
@@ -88,7 +93,8 @@
    "category": "விபத்து",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:46:35.517991+05:30"
+   "listed_at": "2026-11-19T06:46:35.517991+05:30",
+   "picked_at": "2026-11-19T06:48:33.951844+05:30"
   },
   "C0e95033": {
    "id": "C0e95033",
@@ -100,7 +106,8 @@
    "category": "பொது",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:46:35.517991+05:30"
+   "listed_at": "2026-11-19T06:46:35.517991+05:30",
+   "picked_at": "2026-11-19T06:48:33.951846+05:30"
   },
   "C7c21166": {
    "id": "C7c21166",
@@ -112,7 +119,8 @@
    "category": "விபத்து",
    "score": 11.5,
    "power_cut": false,
-   "listed_at": "2026-11-19T06:46:35.517991+05:30"
+   "listed_at": "2026-11-19T06:46:35.517991+05:30",
+   "picked_at": "2026-11-19T06:48:33.951848+05:30"
   },
   "C7b117a4": {
    "id": "C7b117a4",
@@ -1115,8 +1123,30 @@
    ],
    "sent": false,
    "deadline": "2026-11-19T07:46:35.517991+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 25 by insights + 3 more well-watched",
+    "ids": [
+     "C568c05a",
+     "C323057f",
+     "C14e175e",
+     "C4db9c9a",
+     "C71d1d99",
+     "Ca0e6d3c",
+     "C0e95033",
+     "C7c21166"
+    ],
+    "at": "2026-11-19T06:48:33.951823+05:30"
+   },
+   "written": [
+    "C0e95033",
+    "C14e175e",
+    "C323057f",
+    "C4db9c9a",
+    "C568c05a",
+    "C71d1d99",
+    "C7c21166",
+    "Ca0e6d3c"
+   ]
   }
  },
  "retry": {}
