@@ -3,28 +3,28 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/people-protest-against-setting-up-of-mobile-phone-tower/4381166",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/farmers-hold-protest-demanding-release-of-water-to-low-lying-areas/4381161",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/free-mushroom-training-called-in-erode/4381164",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/rural-development-department-officials-stage-protest/4381174",
-  "manual link added: https://www.dinamalar.com/news/premium-news/even-half-the-production-of-dhotis-and-saris-is-not-possible-it-is-doubtful-that-this-year-will-also-be-available-for-pongal/4381210",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/so-far-only-34-per-cent-of-the-saris-and-48-per-cent-of-the-dhotis-have-been-produced-by-the-end-of-september-making-it-difficult-to-complete-them-by-pongal/4381170",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/selection-of-new-office-bearers/4381167",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/sharp-rise-in-small-onion-prices-sold-at-rs-200-per-kg",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/பொங்கல்-விலையில்லா-வேஷ்டி-சேலை-உற்பத்தியை-விரைந்து-முடிக்க-வேண்டும்",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/air-pollution-at-perundurai-sipcot-residents-complain-of-difficulty-breathing",
   "candidate filter: collected=5",
   "to write: 5 Erode district candidates (max 5 stories)",
   "round: top 5 of 5 candidates",
   "candidates waiting: 5 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/premium-news/even-half-the-pr",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "NOT filed (N) சின்னவெங்காயம் விலை கிடுகிடு உயா்வு: கிலோ ரூ.200-க: duplicate after write",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 13})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 75 min",
-  "filed: 5 Erode district stories (target 5), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "NOT filed (N) இதுவரை 34 சதவீத சேலை; 48 சதவீத வேட்டி மட்டுமே உற்ப: duplicate after write",
+  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 3}, time left 77 min",
+  "filed: 3 Erode district stories (target 5), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
  ],
@@ -35,94 +35,47 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (3s)",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "ok gemini/gemini-3.6-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok gemini/gemini-3-flash-preview (24s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (1s)",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
@@ -130,317 +83,233 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோட்டில் 10 நாட்கள் இலவச காளான் வளர்ப்பு பயிற்சி: நவம்பர் 30 முதல் தொடக்கம்",
-   "english_headline": "Free 10-day mushroom cultivation training in Erode from Nov 30: Registration open for ages 19-49",
-   "category": "Education",
-   "location": "Chithode, Erode district",
-   "importance": "Medium",
-   "scope": "district",
+   "tamil_headline": "பெருந்துறை சிப்காட்டில் காற்று மாசு: மக்கள் சுவாசிக்க முடியவில்லை என புகார்",
+   "english_headline": "Air pollution at Perundurai SIPCOT: residents say they cannot breathe, complaint filed with district collector",
+   "category": "Civic Issues",
+   "location": "Perundurai SIPCOT, Perundurai taluk, Erode district",
+   "importance": "High",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "இலவசப் பயிற்சி",
-    "loc": "சித்தோடு, ஈரோடு",
-    "hl1": "ஈரோட்டில் இலவச காளான் வளர்ப்பு பயிற்சி",
-    "hl2": "10 நாட்கள் - உணவு இலவசம்",
+    "cat": "காற்று மாசு",
+    "loc": "பெருந்துறை சிப்காட்",
+    "hl1": "பெருந்துறை சிப்காட்டில் காற்று மாசு",
+    "hl2": "மக்கள் சுவாசிக்க முடியவில்லை",
     "slides": [
      {
-      "title": "பயிற்சி விவரம்",
+      "title": "என்ன பிரச்சனை?",
       "lines": [
-       "<b>10 நாட்கள்</b> இலவச காளான் வளர்ப்பு பயிற்சி",
-       "<b>நவம்பர் 30</b> முதல் <b>டிசம்பர் 10</b> வரை நடைபெறும்",
-       "பயிற்சி முடிவில் <b>அரசு சான்றிதழ்</b> வழங்கப்படும்"
+       "பெருந்துறை சிப்காட் தொழிற்சாலைகளில் இருந்து புகை",
+       "கடுமையான துர்நாற்றமும் ரசாயன நெடியும் வீசுகிறது",
+       "மாலை நேரங்களில் வீட்டுக்கு வெளியே வேலை பார்க்க முடியவில்லை"
       ]
      },
      {
-      "title": "யார் சேரலாம்?",
+      "title": "எங்கே?",
       "lines": [
-       "ஈரோடு மாவட்டத்தைச் சேர்ந்தவர்கள் மட்டும்",
-       "<b>19</b> முதல் <b>49</b> வயது வரை உள்ளவர்கள்",
-       "ஆண், பெண் இருபாலரும் பங்கேற்கலாம்"
+       "பெருந்துறை ஒன்றியம், பொன்முடி பகுதி மக்கள் பாதிப்பு",
+       "சிறுவர்கள், முதியவர்கள் சுவாசிக்கச் சிரமப்படுகின்றனர்",
+       "மாலையில் கதவு, ஜன்னல்களை மூடி வீட்டுக்குள் இருக்க வேண்டிய"
       ]
      },
      {
-      "title": "முன்பதிவு செய்ய",
+      "title": "புகார்",
       "lines": [
-       "பயிற்சி, சீருடை, உணவு அனைத்தும் <b>இலவசம்</b>",
-       "முன்பதிவு செய்ய: <b>87783 23213</b>",
-       "இடம்: சித்தோடு கனரா வங்கி பயிற்சி மையம்"
+       "யசோதரன் என்பவர் சார்பில் மாவட்ட ஆட்சியருக்கு மனு",
+       "வியாழக்கிழமை மனு அனுப்பப்பட்டது",
+       "<b>16, 17, 18</b> தேதிகளில் பாதிப்பு வழக்கத்தை விட அதிகம்"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "உடனடியாக ஆய்வு செய்ய வேண்டும் என மனுவில் கோரிக்கை",
+       "சம்பந்தப்பட்ட தொழிற்சாலைகள் மீது நடவடிக்கை வேண்டும்",
+       "மக்கள் மாலை நேரத்தில் கவனமாக இருங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோட்டில் 10 நாட்கள் இலவச காளான் வளர்ப்பு பயிற்சி வழங்கப்பட உள்ளது. சித்தோடு அரசினர் பொறியியல் கல்லூரி சாலை வாசவி கல்லூரி அருகே கனரா வங்கி கிராமப்புற சுயவேலைவாய்ப்பு பயிற்சி நிலையம் செயல்படுகிறது. இங்கு வரும் நவம்பர் 30ஆம் தேதி முதல் டிசம்பர் 10ஆம் தேதி வரை இலவச காளான் வளர்ப்பு பயிற்சி நடைபெறுகிறது. ஆண் மற்றும் பெண் என இரு பாலருக்கும் 10 நாட்களுக்கு இந்தப் பயிற்சி அளிக்கப்படும். பயிற்சியின் போது சீருடை மற்றும் உணவு ஆகியவை இலவசமாக வழங்கப்படும். பயிற்சி நிறைவில் அரசு சான்றிதழ் வழங்கப்படும். ஈரோடு மாவட்டத்தைச் சேர்ந்த 19 வயது முதல் 49 வயதுக்கு உட்பட்டவர்கள் இந்தப் பயிற்சியில் சேரலாம். விருப்பமுள்ளவர்கள் 0424 2400338 அல்லது 87783 23213 என்ற எண்களில் தொடர்பு கொண்டு முன்பதிவு செய்யலாம். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🍄 ஈரோட்டில் 10 நாட்கள் இலவச காளான் வளர்ப்பு பயிற்சி - நவம்பர் 30 முதல் தொடக்கம்\n\n📰 முழு விவரம்:\nஈரோடு சித்தோடு கனரா வங்கி கிராமப்புற சுயவேலைவாய்ப்பு பயிற்சி நிலையத்தில் இலவச காளான் வளர்ப்பு பயிற்சி நடைபெற உள்ளது.\n📍 இடம்: சித்தோடு வாசவி கல்லூரி அருகே, ஈரோடு\n🗓️ நாள்: நவம்பர் 30 முதல் டிசம்பர் 10 வரை (10 நாட்கள்)\n🕘 தகுதி: 19 முதல் 49 வயது வரை (ஈரோடு மாவட்டத்தினர் மட்டும்)\n🎁 சலுகைகள்: பயிற்சி, சீருடை மற்றும் உணவு இலவசம்; அரசு சான்றிதழ் வழங்கப்படும்.\n📞 முன்பதிவுக்கு: 0424 2400338, 87783 23213\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nFree mushroom cultivation training in Erode Chithode | Erode news\n📍 சித்தோடு, ஈரோடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chithode #காளான்வளர்ப்பு #ErodeNews",
-   "prompts": "A group of young men and women in casual clothes stand in a line outside a government training centre building, waiting to enter for a mushroom cultivation class. The location is a quiet street in Chithode, Erode, near the Government Engineering College Road, with the training centre’s plain concrete facade visible. The trainees, aged between 19 and 49, are seen from behind, some carrying small bags, while a few trainers in formal shirts stand near the entrance. No vehicles are prominently visible, but a parked two-wheeler is seen at the edge of the frame. The scene is set in bright daylight with clear skies, highlighting the educational nature of the event. The camera is at eye level, 35 mm, wide enough to capture the queue and the building’s entrance, emphasizing the community participation in the free training program. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a table inside the training room, displaying fresh mushroom spawn bags and cultivation tools, with a government certificate sample placed neatly on the side. The table is covered with a white cloth, and the mushroom bags are arranged in rows, showing the practical aspect of the training. In the background, slightly blurred, trainees in uniform are seen observing the demonstration. The room has simple concrete walls and fluorescent lighting, typical of a government training centre. The camera is slightly high, 35 mm, focusing on the objects that define the training’s purpose, ensuring the viewer understands the hands-on nature of the mushroom cultivation course. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/free-mushroom-training-called-in-erode/4381164",
-   "published": "2026-11-20T03:47:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
+   "reel_script": "பெருந்துறை சிப்காட்டில் காற்று மாசு அதிகமாக உள்ளதால் மக்கள் சுவாசிக்கச் சிரமப்படுவதாகப் புகார் எழுந்துள்ளது. பெருந்துறை ஒன்றியம், பொன்முடி பகுதி மக்கள் சார்பில் யசோதரன் என்பவர் மாவட்ட ஆட்சியருக்கு வியாழக்கிழமை மனு அனுப்பியுள்ளார். சிப்காட் தொழிற்சாலைகளில் இருந்து வெளியேறும் புகை மற்றும் கடுமையான துர்நாற்றத்தால் பொதுமக்கள் பாதிக்கப்படுகின்றனர். மாலை நேரங்களில் காற்றில் கலந்து வீசும் ரசாயன நெடியால் வீட்டுக்கு வெளியே சென்று இயல்பான வேலைகளைக்கூடப் பார்க்க முடியவில்லை. சிறுவர்கள், முதியவர்கள் உள்ளிட்ட மக்கள் சுவாசிப்பதற்கே சிரமப்படுகின்றனர். மக்கள் மாலை நேரங்களில் கதவு, ஜன்னல்களை மூடிக்கொண்டு வீட்டுக்குள்ளேயே இருக்க வேண்டிய நிலை உள்ளது. கடந்த 16, 17, 18ஆம் தேதிகளில் புகை மற்றும் துர்நாற்றப் பாதிப்பு வழக்கத்தை விட அதிகமாக இருந்தது. உடனடியாக ஆய்வு செய்து, சம்பந்தப்பட்ட தொழிற்சாலைகள் மீது நடவடிக்கை எடுக்க வேண்டும் என மனுவில் கோரப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பெருந்துறை சிப்காட்டில் காற்று மாசு: மக்கள் சுவாசிக்க முடியவில்லை என புகார்\n\n📰 முழு விவரம்:\nபெருந்துறை சிப்காட் தொழிற்சாலைகளில் இருந்து வெளியேறும் புகை மற்றும் கடுமையான துர்நாற்றத்தால் பொதுமக்கள் பாதிக்கப்படுவதாகப் புகார் எழுந்துள்ளது. மாலை நேரங்களில் காற்றில் கலந்து வீசும் ரசாயன நெடியால் வீட்டுக்கு வெளியே சென்று வேலை பார்க்க முடியவில்லை என மக்கள் கூறுகின்றனர். சிறுவர்கள், முதியவர்கள் சுவாசிக்கச் சிரமப்படுகின்றனர். கடந்த 16, 17, 18ஆம் தேதிகளில் பாதிப்பு வழக்கத்தை விட அதிகமாக இருந்தது. பொன்முடி பகுதி மக்கள் சார்பில் யசோதரன் என்பவர் வியாழக்கிழமை மாவட்ட ஆட்சியருக்கு மனு அனுப்பினார். உடனடியாக ஆய்வு செய்து சம்பந்தப்பட்ட தொழிற்சாலைகள் மீது நடவடிக்கை எடுக்க வேண்டும் என மனுவில் கோரப்பட்டுள்ளது.\n📍 இடம்: பெருந்துறை சிப்காட், பொன்முடி பகுதி, பெருந்துறை ஒன்றியம்\n🗓️ நாள்: கடந்த 16, 17, 18 (அக்டோபர்/நவம்பர் மாத தேதிகளுடன் வழக்கத்தை விட அதிகப் பாதிப்பு)\nℹ️ மக்கள் கவனத்திற்கு: மாலை நேரங்களில் கதவு, ஜன்னல்களை மூடி வைத்திருங்கள்.\n\nPerundurai SIPCOT air pollution complaint | Erode news\n📍 பெருந்துறை சிப்காட், ஈரோடு மாவட்டம் | 19 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
+   "prompts": "A hazy evening scene at the Perundurai SIPCOT industrial estate in Erode district, where grey-white smoke rises from tall factory chimneys of industrial sheds and drifts low over a road lined with compound walls and a few parked two-wheelers. Along the edge of the road, a few residents from the Ponmudi area stand at a distance, seen from behind, one older man in a shirt and veshti and a woman in a cotton saree holding a folded paper, as if handing over a complaint. Small children stand close to a doorway of a nearby house with its door and windows shut. The sky is dusky orange and the smoke haze softens the outline of the factory buildings. Taken at eye level with a 35 mm lens, wide enough to show the chimneys, the road, the residents and the industrial sheds together, with the dull evening light filtered through the smoke. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up detail of a factory chimney on the Perundurai SIPCOT estate releasing a thick plume of dark grey smoke into the evening air, the top of the chimney cut into the frame and the smoke trailing across a corner of a wall. In the lower foreground, a window of a nearby residential house is shut tight with its curtain drawn, showing the closed-window precaution residents have taken against the fumes. A few dry leaves and a faint haze of smoke hang in the air. The light is dim evening orange and grey, and the scene is shot at slight angle with a 35 mm lens, focused on the chimney smoke and the shut window to tell the story of polluted air forcing people indoors. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/air-pollution-at-perundurai-sipcot-residents-complain-of-difficulty-breathing",
+   "published": "2026-11-19T23:34:44.537Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (16, 17); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145522/erode360/oqcb457dncksocbumhsp.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145567/erode360/ommewopaps6acvb8hovf.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795146796/erode360/mscqbbspa3o0wmp6avcb.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795146799/erode360/far1ppjsvfdiraypc5rs.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோடு: வேட்டி, சேலை உற்பத்தி பாதி கூட முடியல; இந்தாண்டும் பொங்கலுக்கு கிடைப்பது சந்தேகம்",
-   "english_headline": "Erode: Less than half of dhotis and sarees made so far; supply for Pongal this year in doubt",
+   "tamil_headline": "பொங்கல் 2027 வேஷ்டி, சேலை உற்பத்தியை விரைந்து முடிக்க அமைச்சர் அறிவுறுத்தல்",
+   "english_headline": "Minister urges officials to finish Pongal 2027 free dhoti and saree production quickly",
    "category": "Government & Services",
-   "location": "Erode, Erode district",
+   "location": "Erode Collectorate, Erode district",
    "importance": "High",
    "scope": "",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பொங்கல் வேட்டி சேலை",
+    "cat": "அரசு அறிவிப்பு",
     "loc": "ஈரோடு",
-    "hl1": "ஈரோடு: பொங்கலுக்கு வேட்டி, சேலை சந்தேகம்",
-    "hl2": "உற்பத்தி பாதிக்கும் கீழ்",
+    "hl1": "ஈரோட்டில் பொங்கல் வேஷ்டி, சேலை உற்பத்தி",
+    "hl2": "விரைவாக முடிக்க அறிவுறுத்தல்",
     "slides": [
      {
-      "title": "இப்போதைய நிலை",
+      "title": "எங்கே, எப்போது?",
       "lines": [
-       "விசைத்தறியில் <b>48%</b> வேட்டிகள் மட்டுமே உற்பத்தி",
-       "விசைத்தறியில் <b>34%</b> சேலைகள் மட்டுமே உற்பத்தி",
-       "நவம்பர் 18ஆம் தேதி வரையிலான நிலவரம்"
+       "ஈரோடு மாவட்ட ஆட்சியர் அலுவலக கூட்டரங்கில் வியாழக்கிழமை",
+       "கைத்தறி அமைச்சர் <b>எம்.விஜய் பாலாஜி</b> தலைமையில் நடைபெற்றது",
+       "ஈரோடு, நாமக்கல் நெசவாளர் கூட்டுறவு சங்கங்கள் பங்கேற்பு"
       ]
      },
      {
-      "title": "இலக்கு எவ்வளவு?",
+      "title": "உற்பத்தி இலக்கு",
       "lines": [
-       "ரேஷன் கார்டுதாரர்களுக்கு <b>1.77 கோடி</b> வேட்டி, <b>1.77",
-       "வேட்டி, சேலைகளை அரசு உற்பத்தி செய்ய அறிவித்தது",
-       "பெரும்பாலானவை விசைத்தறியில் உற்பத்தியாகிறது"
+       "ஈரோடு மாவட்டம்: <b>80 லட்சம்</b> சேலைகள், <b>89.51 லட்சம்</b> வேஷ்டிகள்",
+       "நாமக்கல் மாவட்டம்: <b>59.50 லட்சம்</b> சேலைகள், <b>75.21",
+       "ஈரோடு 50, நாமக்கல் 77 விசைத்தறி சங்கங்களுக்குப் பகிர்வு"
       ]
      },
      {
-      "title": "தாமதத்திற்குக்",
+      "title": "அமைச்சர் உத்தரவு",
       "lines": [
-       "தேர்தல் பணி, புதிய அரசு பதவியேற்பால் அறிவிப்பு தாமதம்",
-       "தங்க, வெள்ளி பார்டர் வேட்டிகளால் வேலைப்பளு அதிகம்",
-       "நூல், ஜரிகை விரைவாகத் தரப்படவில்லை"
-      ]
-     },
-     {
-      "title": "அமைச்சர் கூறியது",
-      "lines": [
-       "டிசம்பர் 15ஆம் தேதிக்குள் உற்பத்தியை முடிக்க வேண்டும் என",
-       "மார்ச் இறுதி வரை அவகாசம் வேண்டும் என நெசவாளர்கள்",
-       "இலவச உற்பத்தி ஆட்டோலூமில் துவங்கியுள்ளது"
+       "கூடுதல் தறிகளை உடனடியாக உற்பத்தியில் ஈடுபடுத்த வேண்டும்",
+       "தரமாகவும் உரிய காலத்திலும் உற்பத்தியை முடிக்க வேண்டும்",
+       "போர்க்கால அடிப்படையில் நடவடிக்கை எடுக்க அறிவுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோட்டில் இந்தாண்டும் பொங்கலுக்கு வேட்டி, சேலை கிடைப்பது சந்தேகமாக உள்ளது. நவம்பர் 18ஆம் தேதி நிலவரப்படி விசைத்தறியில் 48 சதவீத வேட்டிகளும், 34 சதவீத சேலைகளும் மட்டுமே உற்பத்தி செய்யப்பட்டுள்ளன. ரேஷன் கார்டுதாரர்களுக்கு 1.77 கோடி வேட்டி, 1.77 கோடி சேலை உற்பத்தி செய்ய அரசு இலக்கு நிர்ணயித்துள்ளது. இதில் பெரும்பகுதி விசைத்தறியில் உற்பத்தியாகிறது. தேர்தல் பணி, புதிய அரசு பதவியேற்பு காரணமாக இந்த ஆண்டு அறிவிப்பும் டெண்டரும் தாமதமாகின. நூல் செப்டம்பர் இறுதியில்தான் வழங்கப்பட்டது. தங்க, வெள்ளி பார்டர் வேட்டிகளால் வேலைப்பளு அதிகரித்துள்ளது. நூல், ஜரிகையும் விரைவாகத் தரப்படவில்லை. டிசம்பர் 15ஆம் தேதிக்குள் உற்பத்தியை முடிக்க வேண்டும் என அமைச்சர் கூறுகிறார். ஆனால் மார்ச் இறுதி வரை அவகாசம் வேண்டும் என நெசவாளர்கள் வலியுறுத்துகின்றனர். இலவச உற்பத்தி ஆட்டோலூமில் தொடங்கியுள்ளதாகவும், இது கண்டிக்கத்தக்கது என்றும் நெசவாளர் சங்கத் தலைவர் கூறியுள்ளார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧵 ஈரோடு: இந்தாண்டும் பொங்கலுக்கு வேட்டி, சேலை கிடைப்பது சந்தேகம்\n\n📰 முழு விவரம்:\nவிசைத்தறியில் நவம்பர் 18ஆம் தேதி வரை 48 சதவீத வேட்டிகளும், 34 சதவீத சேலைகளும் மட்டுமே உற்பத்தி செய்யப்பட்டுள்ளன.\nரேஷன் கார்டுதாரர்களுக்கு 1.77 கோடி வேட்டி, 1.77 கோடி சேலை உற்பத்தி செய்ய அரசு இலக்கு நிர்ணயித்துள்ளது.\nதேர்தல் பணி, புதிய அரசு பதவியேற்பால் அறிவிப்பும் டெண்டரும் தாமதமாகி, நூல் செப்டம்பர் இறுதியில் வழங்கப்பட்டது.\nதங்க, வெள்ளி பார்டர் வேட்டிகளால் வேலைப்பளு அதிகரித்ததுடன், நூல், ஜரிகையும் விரைவாகத் தரப்படவில்லை.\n🕘 காலக்கெடு: டிசம்பர் 15க்குள் உற்பத்தியை முடிக்க வேண்டும் என அமைச்சர் கூறுகிறார்; மார்ச் இறுதி வரை அவகாசம் வேண்டும் என நெசவாளர்கள் வலியுறுத்துகின்றனர்.\n⚠️ இலச உற்பத்தி ஆட்டோலூமில் தொடங்கியுள்ளது; இது கண்டிக்கத்தக்கது என நெசவாளர் சங்கம் கூறியுள்ளது.\n\nErode pongal veshti saree production delayed | Erode news\n📍 ஈரோடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #பொங்கல் #ஈரோடு",
-   "prompts": "Rows of power looms clatter inside a weaving shed in Erode, where weavers in shirts and lungis work at the machines while white dhotis and coloured sarees hang on wooden rods and stacks of finished cloth lie unsorted on the floor, showing that much of the Pongal free dhoti and saree order is still unfinished. The shed is a large industrial hall with a tin or concrete roof, tube lights overhead, open shutters letting in daylight, and yarn bobbins piled along the walls. Workers are seen from behind or far away, some women in cotton sarees threading yarn, with no faces visible. The time is midday on a working day, lit by mixed daylight and tube light. Camera at eye level, 35 mm lens, wide enough to show the whole loom shed and its rows of machines. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a power loom in Erode's weaving unit, its warp threads stretched tight and a half-woven white dhoti with a zari border, golden thread spools and a metal shuttle resting on the wooden frame, while a stack of unfinished saree fabric lies beside it, showing the slow pace of Pongal free cloth production. The background is slightly blurred with other looms and a worker's hand and bare forearm at the edge of the frame, the face not visible. The light is soft daylight from an open shutter mixed with white tube light, dust motes faintly visible. Camera close and slightly high, 35 mm lens, shallow depth of field focused on the loom mechanism and the cloth. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/premium-news/even-half-the-production-of-dhotis-and-saris-is-not-possible-it-is-doubtful-that-this-year-will-also-be-available-for-pongal/4381210",
-   "published": "2026-11-20T05:40:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 60 ('இதில், சேலைகள், கைத்தறியில், 60 ஆயிரத்து 950, பெடல் தறியில்,'); 950, ('இதில், சேலைகள், கைத்தறியில், 60 ஆயிரத்து 950, பெடல் தறியில்,'); 23 ('இதில், சேலைகள், கைத்தறியில், 60 ஆயிரத்து 950, பெடல் தறியில்,'); 90 ('இதில், சேலைகள், கைத்தறியில், 60 ஆயிரத்து 950, பெடல் தறியில்,'); 448, ('இதில், சேலைகள், கைத்தறியில், 60 ஆயிரத்து 950, பெடல் தறியில்,'); 53 ('இதில், சேலைகள், கைத்தறியில், 60 ஆயிரத்து 950, பெடல் தறியில்,')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஈரோட்டில் பொங்கல் வேஷ்டி, சேலை உற்பத்தியை விரைந்து முடிக்க அறிவுறுத்தல். கைத்தறி அமைச்சர் எம் விஜய் பாலாஜி தலைமையில் ஈரோடு மாவட்ட ஆட்சியர் அலுவலக கூட்டரங்கில் வியாழக்கிழமை உற்பத்தி திறனாய்வுக் கூட்டம் நடைபெற்றது. பொங்கல் 2027 திட்டத்தின் கீழ் ஈரோடு மாவட்டத்துக்கு 80 லட்சம் சேலைகள், 89.51 லட்சம் வேஷ்டிகள் உற்பத்தி செய்ய இலக்கு வழங்கப்பட்டுள்ளது. நாமக்கல் மாவட்டத்துக்கு 59.50 லட்சம் சேலைகள், 75.21 லட்சம் வேஷ்டிகள் இலக்கு. இந்த இலக்கு ஈரோடு மாவட்டத்தில் 50 விசைத்தறி கூட்டுறவு சங்கங்களுக்கும், நாமக்கல் மாவட்டத்தில் 77 சங்கங்களுக்கும் பகிர்ந்து வழங்கப்பட்டுள்ளது. கூடுதல் தறிகளை உடனடியாக உற்பத்தியில் ஈடுபடுத்த அமைச்சர் அறிவுறுத்தினார். பின்னர் பவானி சாலையில் உள்ள தமிழ்நாடு கூட்டுறவு துணிநூல் பதனிடும் ஆலை உள்ளிட்ட விசைத்தறி சங்கங்களில் அமைச்சர் ஆய்வு செய்தார். தரமாகவும் உரிய காலத்திலும் உற்பத்தியை முடிக்க அதிகாரிகளுக்கு உத்தரவிட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🧵 ஈரோட்டில் பொங்கல் 2027 வேஷ்டி, சேலை உற்பத்தியை விரைந்து முடிக்க அமைச்சர் உத்தரவு\n\n📰 முழு விவரம்:\nகைத்தறி, துணிநூல் மற்றும் கதர்த் துறை அமைச்சர் எம்.விஜய் பாலாஜி தலைமையில் பொங்கல் 2027 உற்பத்தி திறனாய்வுக் கூட்டம் ஈரோடு மாவட்ட ஆட்சியர் அலுவலக கூட்டரங்கில் வியாழக்கிழமை நடைபெற்றது.\nகைத்தறி, துணிநூல் மற்றும் கதர்த் துறை அரசு செயலாளர் லில்லி, கைத்தறித் துறை இயக்குநர் உமாமகேஸ்வரி, ஈரோடு மாவட்ட ஆட்சியர் ச.கந்தசாமி, நாமக்கல் மாவட்ட ஆட்சியர் எல்.மதுபாலன், ஈரோடு மேற்குத் தொகுதி எம்எல்ஏ ஆனந்த்மோகன் ஆகியோர் முன்னிலை வகித்தனர்.\nஈரோடு மாவட்டத்துக்கு 80 லட்சம் சேலைகள், 89.51 லட்சம் வேஷ்டிகள்; நாமக்கல் மாவட்டத்துக்கு 59.50 லட்சம் சேலைகள், 75.21 லட்சம் வேஷ்டிகள் உற்பத்தி செய்ய இலக்கு வழங்கப்பட்டுள்ளது.\nஈரோடு மாவட்டத்தில் 50 விசைத்தறி நெசவாளர் கூட்டுறவு சங்கங்களுக்கும், நாமக்கல் மாவட்டத்தில் 77 சங்கங்களுக்கும் உற்பத்தி பகிர்ந்து வழங்கப்பட்டுள்ளது.\nஈரோடு-பவானி சாலையில் உள்ள தமிழ்நாடு கூட்டுறவு துணிநூல் பதனிடும் ஆலை, வீரப்பன்சத்திரம் அண்ணா மற்றும் வள்ளலார் விசைத்தறிகள், ஈரோடு விசைத்தறி சங்கம், நசியனூர் பஞ்சாலை சேமிப்புக் கிடங்கு ஆகியவற்றில் அமைச்சர் ஆய்வு செய்தார்.\nஉற்பத்தியை தரமாகவும் உரிய காலத்திலும் முடிக்க போர்க்கால அடிப்படையில் நடவடிக்கை எடுக்க அமைச்சர் அறிவுறுத்தினார்.\n\nErode Pongal 2027 free dhoti saree production review | Erode news\n📍 ஈரோடு மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ஈரோடு #ErodeNews #ஈரோடு",
+   "prompts": "Inside the Erode Collectorate conference hall, Tamil Nadu handloom minister and senior officials sit at a long table reviewing the Pongal 2027 free dhoti and saree production targets, with a row of folded white dhotis and coloured sarees stacked on the table in front of them. The hall is a government meeting room in Erode district with plain walls, wooden chairs, a microphone on the table and officials in formal shirts and sarees seen from behind or slightly to the side. The Collector and MLA sit near the minister, and cooperative weavers in simple cotton clothes sit in the back rows. The table holds files and papers, and the room is lit by ceiling tube lights in the daytime. Shot at eye level with a 35 mm lens, wide enough to show the whole table and the room. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat pile of folded white cotton dhotis and bright coloured sarees placed on a government meeting table, with a stack of official files and a microphone beside them, all sitting in the Erode Collectorate conference hall. Blurred figures of officials sit behind the table, seen from behind and out of focus, while a cooperative weaver's hand rests near the stack of sarees. The soft indoor light of ceiling tube lights shows the fabric texture of the sarees and the crisp folds of the dhotis, emphasising the production targets for Pongal. Shot at slightly high angle with a 35 mm lens, tight enough to show the textiles clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/பொங்கல்-விலையில்லா-வேஷ்டி-சேலை-உற்பத்தியை-விரைந்து-முடிக்க-வேண்டும்",
+   "published": "2026-11-19T21:13:18.379Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 99 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145579/erode360/xrqirtkjoq6ajiafpgpp.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145586/erode360/ftdzocxaj6smgxat56iy.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795146809/erode360/v27l0zkbpdgpxbumlwob.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795146811/erode360/uiuhkjzl4e1gifdnvbj7.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோடு கலெக்டர் அலுவலகத்தில் ஊரக வளர்ச்சி அலுவலர்கள் ஆர்ப்பாட்டம்",
-   "english_headline": "Rural Development Officers Protest at Erode Collectorate",
+   "tamil_headline": "சென்னிமலையில் ஊரக வளர்ச்சி அலுவலர் சங்கத்துக்குப் புதிய நிர்வாகிகள் தேர்வு",
+   "english_headline": "New office-bearers elected for Chennimalai block unit of Tamil Nadu Rural Development Officers Association",
    "category": "Government & Services",
-   "location": "Erode Collectorate, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "அலுவலர் கோரிக்கை",
-    "loc": "ஈரோடு கலெக்டர் அலுவலகம்",
-    "hl1": "ஈரோடு கலெக்டர் அலுவலகத்தில் ஆர்ப்பாட்டம்",
-    "hl2": "6 முக்கிய கோரிக்கைகள்",
-    "slides": [
-     {
-      "title": "ஆர்ப்பாட்டம்",
-      "lines": [
-       "ஈரோடு கலெக்டர் அலுவலக வளாகத்தில் ஆர்ப்பாட்டம்",
-       "மாவட்ட தலைவர் கிருஷ்ணசாமி தலைமையில் நடந்தது",
-       "தமிழ்நாடு ஊரக வளர்ச்சி துறை அலுவலர்கள் சங்கம் சார்பில்"
-      ]
-     },
-     {
-      "title": "வீடு திட்டம்",
-      "lines": [
-       "வெற்றி வீடு திட்டத்திற்கு தனியாக துணை வட்டார வளர்ச்சி",
-       "பயனாளிகள் தேர்வுக்கு போதிய கால அவகாசம் வழங்க வேண்டும்",
-       "அவசர கதியை காட்டாமல் செயல்பட வேண்டும்"
-      ]
-     },
-     {
-      "title": "ஊதியம் & பணி",
-      "lines": [
-       "ஊராட்சி செயலர்களுக்கு தேர்வு நிலை, சிறப்பு நிலை ஊதிய உயர்வு",
-       "டி.ஏ.பி.எஸ்., ஓய்வூதிய திட்டத்தில் இணைக்க வேண்டும்",
-       "காலியாக உள்ள ஊராட்சி செயலர் பணியிடங்களை நிரப்ப வேண்டும்"
-      ]
-     },
-     {
-      "title": "கணினி உதவியாளர்",
-      "lines": [
-       "வி.பி.ஜி.ராம்-ஜி திட்டத்தில் கணினி உதவியாளர்களை பணி",
-       "காலமுறை ஊதியம் வழங்க வேண்டும்",
-       "இந்த கோரிக்கைகளை வலியுறுத்தினர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு கலெக்டர் அலுவலகத்தில் ஊரக வளர்ச்சி அலுவலர்கள் ஆர்ப்பாட்டம் செய்தனர். தமிழ்நாடு ஊரக வளர்ச்சி துறை அலுவலர்கள் சங்கம் சார்பில் இது நடந்தது. மாவட்ட தலைவர் கிருஷ்ணசாமி தலைமையில் இந்த ஆர்ப்பாட்டம் நடைபெற்றது. வெற்றி வீடு திட்டத்திற்கு தனியாக துணை வட்டார வளர்ச்சி அலுவலர் பணியிடம் ஏற்படுத்த வேண்டும் என கோரினர். பயனாளிகள் தேருக்கு போதிய கால அவகாசம் வழங்க வேண்டும் என வலியுறுத்தினர். ஊராட்சி செயலர்களுக்கு தேர்வு நிலை மற்றும் சிறப்பு நிலை ஊதிய உயர்வு வழங்க வேண்டும். ஊராட்சி செயலர்களை டி ஏ பி எஸ், ஓய்வூதிய திட்டத்தில் இணைக்க வேண்டும். காலியாக உள்ள ஊராட்சி செயலர் பணியிடங்களை நிரப்ப வேண்டும். வி பி ஜி ராம்-ஜி திட்டத்தில் கணினி உதவியாளர்களை பணி நிரந்தரம் செய்ய வேண்டும். காலமுறை ஊதியம் வழங்க வேண்டும் என கோரிக்கை வைத்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏛️ ஈரோடு கலெக்டர் அலுவலகத்தில் ஊரக வளர்ச்சி அலுவலர்கள் ஆர்ப்பாட்டம் - 6 முக்கிய கோரிக்கைகள்\n\n📰 முழு விவரம்:\nஈரோடு கலெக்டர் அலுவலக வளாகத்தில் தமிழ்நாடு ஊரக வளர்ச்சி துறை அலுவலர்கள் சங்கம் சார்பில் ஆர்ப்பாட்டம் நடந்தது. மாவட்ட தலைவர் கிருஷ்ணசாமி தலைமையில் இந்த ஆர்ப்பாட்டம் நடைபெற்றது. வெற்றி வீடு திட்டத்திற்கு தனியாக துணை வட்டார வளர்ச்சி அலுவலர் பணியிடம் ஏற்படுத்த வேண்டும் என கோரினர். பயனாளிகள் தேர்வுக்கு போதிய கால அவகாசம் வழங்க வேண்டும் என வலியுறுத்தினர். ஊராட்சி செயலர்களுக்கு தேர்வு நிலை மற்றும் சிறப்பு நிலை ஊதிய உயர்வு வழங்க வேண்டும். ஊராட்சி செயலர்களை டி.ஏ.பி.எஸ்., ஓய்வூதிய திட்டத்தில் இணைக்க வேண்டும். காலியாக உள்ள ஊராட்சி செயலர் பணியிடங்களை நிரப்ப வேண்டும். வி.பி.ஜி.ராம்-ஜி திட்டத்தில் கணினி உதவியாளர்களை பணி நிரந்தரம் செய்து காலமுறை ஊதியம் வழங்க வேண்டும்.\n\n📍 இடம்: ஈரோடு கலெக்டர் அலுவலகம்\n🗓️ நாள்: நவம்பர் 20, 2026\nℹ️ மக்கள் கவனத்திற்கு: ஊரக வளர்ச்சி துறை அலுவலர்களின் கோரிக்கைகள்\n\nErode Rural Development Officers Protest | Erode news\n📍 Erode Collectorate, Erode | 20 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #GovernmentNews",
-   "prompts": "A group of rural development officers stands together in a demonstration on the campus of the Erode Collectorate, a government office compound in Erode city, Tamil Nadu. Men in formal shirts and trousers and women in cotton sarees and salwar gather in a loose crowd, some holding placards raised above their heads, with a leader standing slightly forward near a small loudspeaker stand. The background shows the grey concrete facade and tall pillars of the district Collectorate building, with a few parked two-wheelers and a flagpole at the edge of the compound. It is a bright daytime scene with soft daylight and a clear sky. Shot at eye level from a slightly distant angle, 35 mm, wide enough to show the crowd, the building and the open government campus, with people seen from behind or at a distance. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the protesters' placards and a small loudspeaker on a stand at the Erode Collectorate campus, with the hands of several officers holding the placard poles in the foreground. The placards are blank and unreadable from this distance, their edges and handles in focus while the people behind them are softly blurred in strong daylight. Concrete pavement and a corner of the government office building appear in the background. Shot at a close, slightly low angle, 50 mm, shallow depth of field, showing the protest material and the officers' hands without any faces visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/rural-development-department-officials-stage-protest/4381174",
-   "published": "2026-11-20T03:53:00+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: numbers not found in the article: 6",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145592/erode360/p3fewoi5mgikae4dd9cu.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145608/erode360/sxjzpcxdb1mhbwgqovrj.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கீழ்பவானி பாசனத்துக்குத் தண்ணீர் திறக்கக் கோரி விவசாயிகள் காத்திருப்புப் போராட்டம்",
-   "english_headline": "Farmers begin sit-in protest at Gobichettipalayam? no — at Erode Kizhbhavani irrigation engineer's office at Konavaikkal, demanding water release under Cauvery final verdict",
-   "category": "Weather & Agriculture",
-   "location": "Konavaikkal, Erode, Erode district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "கோணவாய்க்கால், ஈரோடு",
-    "hl1": "கீழ்பவானி தண்ணீருக்காக விவசாயிகள்",
-    "hl2": "உயிர் நீர் 20 நாட்கள், டிச.",
-    "slides": [
-     {
-      "title": "எங்கே போராட்டம்?",
-      "lines": [
-       "ஈரோடு, கோணவாய்க்காலில் நீர்வளத்துறை செயற்பொறியாளர் அலுவலகம்",
-       "கீழ்பவானி பாசன விவசாயிகள்",
-       "காவிரி இறுதித் தீர்ப்பின்படி தண்ணீர் திறக்க வலியுறுத்தல்"
-      ]
-     },
-     {
-      "title": "விவசாயிகளின்",
-      "lines": [
-       "பவானிசாகர் அணையில் இருந்து பாசனத்துக்கு நீர் திறக்க வேண்டும்",
-       "காவிரி இறுதித் தீர்ப்பின்படி தண்ணீர் திறக்க வேண்டும்",
-       "கீழ்பவானி புஞ்சை பாசனத்துக்கு டிசம்பரில் தொடங்கி 4 மாதங்கள்"
-      ]
-     },
-     {
-      "title": "பேச்சுவார்த்தை",
-      "lines": [
-       "நேற்று இரவு 7 மணிக்கு கலெக்டர் அலுவலகத்தில் பேச்சுவார்த்தை",
-       "டி.ஆர்.ஓ. ஜெயராமன் தலைமையில் நடந்தது",
-       "இன்று முதல் கீழ்பவானி முதல் போக பாசனத்துக்கு 20 நாட்கள்"
-      ]
-     },
-     {
-      "title": "அடுத்த நடவடிக்கை",
-      "lines": [
-       "டிச. 15 முதல் இரண்டாம் போக பாசனத்துக்கு அரசாணை பெற்று நீர்",
-       "ஏப். 15 வரை ஆறு சுற்றுகளாக முறை வைத்து நீர் திறப்பு",
-       "டி.ஆர்.ஓ. அரசிடம் பேசி நடவடிக்கை எடுப்பதாக உறுதியளித்தார்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கீழ்பவானி பாசனத்துக்குத் தண்ணீர் திறக்கக் கோரி விவசாயிகள் ஈரோடு கோணவாய்க்காலில் காத்திருப்புப் போராட்டத்தைத் தொடங்கினர். நீர்வளத்துறை செயற்பொறியாளர் அலுவலகம் முன் இந்தப் போராட்டம் நடைபெற்றது. கீழ்பவானி பாசன விவசாயிகள் நலச்சங்கச் செயலர் நல்லசாமி தலைமை வகித்தார். தமிழ்நாடு விவசாயிகள் சங்க மாநில துணைத் தலைவர் துளசிமணி பேசினார். காவிரி இறுதித் தீர்ப்பின்படி பவானிசாகர் அணையில் இருந்து பாசனத்துக்கு நீர் திறக்க வேண்டும் என்று அவர் வலியுறுத்தினார். விருப்பு வெறுப்பு அடிப்படையில் நீர்வளத்துறை நீர் திறப்பதாக அவர் குற்றம்சாட்டினார். கீழ்பவானி புஞ்சை பாசனத்துக்கு டிசம்பரில் தொடங்கி 4 மாதங்களுக்குத் தண்ணீர் திறப்பு தேதியை அறிவிக்க வேண்டும் என்றும் கோரினார். நேற்று இரவு 7 மணிக்கு கலெக்டர் அலுவலகத்தில் மாவட்ட வருவாய் அலுவலர் ஜெயராமன் தலைமையில் பேச்சுவார்த்தை நடந்தது. இன்று முதல் கீழ்பவானி முதல் போக பாசனப் பகுதிக்கு 20 நாட்கள் உயிர் நீர் திறக்கப்படும். டிசம்பர் 15 முதல் இரண்டாம் போக பாசனத்துக்கு அரசாணை பெற்று நீர் திறக்கப்படும். ஏப்ரல் 15 வரை ஆறு சுற்றுகளாக முறை வைத்துத் தண்ணீர் திறக்கப்படும். இதை அரசிடம் பேசி நடவடிக்கை எடுப்பதாக மாவட்ட வருவாய் அலுவலர் உறுதியளித்தார். இதையடுத்து விவசாயிகள் காத்திருப்புப் போராட்டத்தை விலக்கிக் கொண்டனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💧 கீழ்பவானி தண்ணீருக்காக கோணவாய்க்காலில் விவசாயிகள் போராட்டம்\n\n📰 முழு விவரம்:\nகாவிரி இறுதித் தீர்ப்பின்படி கீழ்பவானி பாசனத்துக்குத் தண்ணீர் திறக்கக் கோரி, ஈரோடு கோணவாய்க்காலில் உள்ள நீர்வளத்துறை செயற்பொறியாளர் அலுவலகம் முன் கீழ்பவானி பாசன விவசாயிகள் காத்திருப்புப் போராட்டத்தைத் தொடங்கினர். கீழ்பவானி பாசன விவசாயிகள் நலச்சங்கச் செயலர் நல்லசாமி தலைமை வகித்தார். தமிழ்நாடு விவசாயிகள் சங்க மாநிலத் துணைத் தலைவர் துளசிமணி பேசினார். பவானிசாகர் அணையில் இருந்து பாசனத்துக்கு நீர் திறப்பை காவிரி இறுதித் தீர்ப்பின்படி உறுதி செய்ய வேண்டும் என்று அவர் கோரினார். 2018ல் காவிரி இறுதித் தீர்ப்பு அமலானதும், 1952ல் பிறப்பிக்கப்பட்ட பிற நீர் திறப்பு உத்தரவுகள் தானாகக் காலாவதியாகும் என்றும் அவர் குறிப்பிட்டார்.\n🗣️ தீர்ப்பை அமல்படுத்தாமல் நீர்வளத்துறை விருப்பு வெறுப்பின் அடிப்படையில் நீர் திறப்பதாக அவர் குற்றம்சாட்டினார்.\n\n📍 இடம்: கோணவாய்க்கால், ஈரோடு\n🗓️ நாள்: நவம்பர் 20, 2026 (வெள்ளிக்கிழமை)\n🕘 நேரம்: நேற்று இரவு 7 மணிக்குப் பேச்சுவார்த்தை\n👮 நடவடிக்கை: டி.ஆர்.ஓ. உறுதியளித்ததால் போராட்டம் விலக்கிக் கொள்ளப்பட்டது\nℹ️ இன்று முதல் கீழ்பவானி முதல் போக பாசனத்துக்கு 20 நாட்கள் உயிர் நீர்; டிசம்பர் 15 முதல் அரசாணை பெற்று இரண்டாம் போக பாசனத்துக்கு ஏப்ரல் 15 வரை ஆறு சுற்றுகளாக நீர் திறப்பு.\n\nKizhbhavani irrigation protest Erode | Konavaikkal farmers\n📍 கோணவாய்க்கால், ஈரோடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #விவசாயம்",
-   "prompts": "A crowd of farmers sits on the ground in front of a government office block of the Water Resources Department at Konavaikkal in Erode city, holding up placards and green-and-red flags as they begin a sit-in protest demanding water release from the Bhavanisagar dam for the Kizhbhavani irrigation area under the Cauvery final verdict. Seen from behind and at a distance, the men wear shirts with veshti or trousers and a few women wear sarees; some sit in rows under a blue tarpaulin shamiana stretched over the compound, while a leader in a white shirt stands at the front addressing them. The setting is a plain government office compound with a concrete building, low walls, a few two-wheelers parked at the gate, and an autorickshaw passing on the road beside it. The time is evening with the light fading and the office lights just switched on, the sky dim over the city. Shot at eye level with a 35 mm lens, wide enough to show the office building, the seated crowd and the road. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close view of a stack of protest placards and bundled red and green flags lying on the ground beside a folded white tarpaulin, with a few plastic water pots and a steel vessel placed near the seated farmers' feet. Behind them, the blurred concrete wall and steps of the water resources department office in Konavaikkal, Erode, with the sandals of many people scattered at the entrance. Soft evening light from a nearby lamp falls on the cloth and paper, showing the everyday gear of a long sit-in waiting for the water release, with no readable text visible. Shot slightly high at a close distance with a 35 mm lens, focusing on the placards and flags with the crowd softly out of focus behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/farmers-hold-protest-demanding-release-of-water-to-low-lying-areas/4381161",
-   "published": "2026-11-20T03:46:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'கோணவாய்க்கால்', e.g. 'கோணவாய்க்கால்: ...' or 'கோணவாய்க்கால்-இல் ...' - viewers share news of their own area; caption misses facts of the article (put every one in 📰 முழு விவரம்): 4 ('கீழ்பவானி புஞ்சை பாசனத்துக்கு டிச.,ல் துவங்கி, 4 மாத காலத்து')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145628/erode360/bnvxf5llngabnyszmeip.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145633/erode360/bbm2klg74guznbaukkvl.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "பெரியசேமூரில் மொபைல் டவர் அமைக்க மக்கள் எதிர்ப்பு",
-   "english_headline": "Residents of Periyasemur, Erode protest against mobile tower construction near schools and hospital",
-   "category": "Civic Issues",
-   "location": "Periyasemur, Erode Corporation 12th Ward, Erode district",
-   "importance": "Medium",
+   "location": "Chennimalai, Erode district",
+   "importance": "Low",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பொதுமக்கள் எதிர்ப்பு",
-    "loc": "பெரியசேமூர், ஈரோடு",
-    "hl1": "பெரியசேமூரில் மொபைல் டவருக்கு எதிர்ப்பு",
-    "hl2": "4,500க்கும் மேற்பட்ட",
+    "cat": "அரசு பணியாளர்",
+    "loc": "சென்னிமலை",
+    "hl1": "சென்னிமலையில் புதிய நிர்வாகிகள் தேர்வு",
+    "hl2": "ஊரக வளர்ச்சி அலுவலர் சங்கம்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கே, என்ன?",
       "lines": [
-       "ஈரோடு மாநகராட்சி 12வது வார்டில் டவர் அமைக்க எதிர்ப்பு",
-       "பெரியசேமூர், ஈ.பி.பி.நகர், பி.பி.கார்டன் பகுதி மக்கள் மனு",
-       "கலெக்டர் அலுவலகத்தில் மனு வழங்கப்பட்டது"
+       "சென்னிமலை வட்டார மாநாடு நடைபெற்றது",
+       "தமிழ்நாடு ஊரக வளர்ச்சி அலுவலர்கள் சங்கத்தின் நிர்வாகிகள்",
+       "புதிய வட்டார நிர்வாகிகள் தேர்வு செய்யப்பட்டனர்"
       ]
      },
      {
-      "title": "ஏன் எதிர்ப்பு?",
+      "title": "வட்டார நிர்வாகிகள்",
       "lines": [
-       "<b>4,500</b>க்கும் மேற்பட்ட குடும்பங்கள் வசிக்கின்றன",
-       "பல டவர்கள் அமைந்தால் கதிர்வீச்சால் பாதிப்பு என்கின்றனர்",
-       "குழந்தைகள், கர்ப்பிணிகள், முதியோர் அதிகம் பாதிப்பர்"
+       "வட்டார தலைவர்: சக்திவேல்",
+       "துணைத் தலைவர்: உஷா",
+       "செயலாளர்: சண்முகசுந்தரம் (பனியம்பள்ளி ஊராட்சி செயலாளர்)"
       ]
      },
      {
-      "title": "பணிகள் எப்படி?",
+      "title": "மற்ற பொறுப்புகள்",
       "lines": [
-       "2020இல் ஜியோ சார்பில் டவர் அமைப்பு ஏற்படுத்தப்பட்டது",
-       "நீதிமன்றத் தடையாணை நிறைவு பெற்றதால் பணிகள் தொடங்கின",
-       "பள்ளி, மருத்துவமனை, கோவில் அருகே டவர் கூடாது என வலியுறுத்தல்"
+       "இணைச் செயலாளர்: மணிகண்டன்",
+       "பொருளாளர்: சிதம்பரநாதன் (முகாசிபிடாரியூர் ஊராட்சி செயலாளர்)",
+       "மாவட்ட செயற்குழு உறுப்பினர்: வையாபுரி"
+      ]
+     },
+     {
+      "title": "பிரதிநிதிகள்",
+      "lines": [
+       "வட்டார இளம் பிரதிநிதி: சுபாஷினி",
+       "மகளிர் பிரதிநிதி: ரவிப்பிரியா"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பெரியசேமூரில் மொபைல் டவர் அமைக்க மக்கள் கடும் எதிர்ப்பு தெரிவித்துள்ளனர். ஈரோடு மாநகராட்சி 12வது வார்டு, பெரியசேமூர், ஈ பி பி நகர், பி பி கார்டன் பகுதியில் 4,500க்கும் மேற்பட்ட குடும்பங்கள் வசிக்கின்றன. மாநகராட்சி 12வது வார்டு தி மு க கவுன்சிலர் ஜெகதீசன் தலைமையில் பொதுமக்கள் ஈரோடு கலெக்டர் அலுவலகத்தில் மனு வழங்கினர். 2020ஆம் ஆண்டு இங்குள்ள தனியார் இடத்தில் ஜியோ சார்பில் மொபைல் டவர்கள் அமைக்க ஏற்பாடு செய்யப்பட்டது. வாடகை அடிப்படையில் எந்த நிறுவனங்களும் டவர் அமைத்துக்கொள்ள வழி செய்யப்பட்டது. இதை எதிர்த்து ஈ பி பி நகர் குடியிருப்போர் சங்கம் சார்பில் நீதிமன்றத்தில் தடையாணை பெறப்பட்டது. தடையாணை நிறைவு பெற்றதையடுத்து கடந்த 10ஆம் தேதி முதல் டவர் அமைக்கும் பணிகள் தொடங்கின. இங்கு பல டவர்கள் அமைந்தால் கதிர்வீச்சால் மக்கள், குடிநீர், இயற்கை பாதிக்கப்படும் என மக்கள் கூறுகின்றனர். அருகில் பள்ளி, அரசு ஆரம்ப சுகாதார நிலையம், மருத்துவமனை, கோவில், பூங்கா உள்ளதால் அங்கு டவர் அமைக்க அனுமதிக்கக்கூடாது என வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📡 பெரியசேமூரில் மொபைல் டவர் அமைக்க மக்கள் எதிர்ப்பு: 4,500 குடும்பங்கள் கவலை\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சி, 12வது வார்டு, பெரியசேமூர், ஈ.பி.பி.நகர், பி.பி.கார்டன் பகுதியில் 4,500க்கும் மேற்பட்ட குடும்பங்கள் வசிக்கின்றன.\nஇப்பகுதியில் மொபைல் டவர் அமைக்க எதிர்ப்பு தெரிவித்து, 12வது வார்டு தி.மு.க. கவுன்சிலர் ஜெகதீசன் தலைமையில் பொதுமக்கள் ஈரோடு கலெக்டர் அலுவலகத்தில் மனு வழங்கினர்.\n2020ஆம் ஆண்டு ஜியோ சார்பில் தனியார் இடத்தில் மொபைல் டவர்கள் அமைக்கும் அமைப்பு ஏற்படுத்தப்பட்டது. அதில் வாடகை அடிப்படையில் எந்த நிறுவனங்களும் டவர் அமைத்துக்கொள்ள ஏற்பாடு செய்யப்பட்டது.\nஇதை எதிர்த்து ஈ.பி.பி.நகர் குடியிருப்போர் சங்கம் சார்பில் நீதிமன்றத்தில் தடையாணை பெறப்பட்டது. தடையாணை நிறைவு பெற்ற நிலையில், கடந்த 10ஆம் தேதி முதல் டவர் அமைக்கும் பணிகள் தொடங்கின.\n☢️ பல டவர்கள் அமைந்தால் கதிர்வீச்சால் மக்கள், குடிநீர், இயற்கை பாதிக்கப்படும் என மக்கள் கவலை தெரிவிக்கின்றனர். குழந்தைகள், கர்ப்பிணிகள், முதியோர் அதிகம் பாதிக்கப்படுவர்.\n🏫 அருகில் பள்ளி, அரசு ஆரம்ப சுகாதார நிலையம், மருத்துவமனை, கோவில், பூங்கா உள்ளதால் அங்கு டவர் அமைக்க அனுமதிக்கக்கூடாது என்பது மக்களின் கோரிக்கை.\n\nPeriyasemur mobile tower protest Erode | Erode news\n📍 பெரியசேமூர், ஈரோடு மாநகராட்சி 12வது வார்டு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Periyasemur #ErodeNews #ஈரோடு",
-   "prompts": "A group of residents of Periyasemur in Erode city gathers outside the Erode Collectorate compound, holding a petition paper and placards that protest a mobile tower being built nearby. Men in shirts and trousers and women in sarees and salwar stand together in a crowd near the collectorate gate, a few of them raising placards and a councillor leading the group from the front. The collectorate is a government building with a plain compound, a flagpole, and Tamil Nadu police in khaki standing at the gate. Behind the crowd, a row of two-wheelers and an autorickshaw are parked along the road. It is daytime under a clear sky with bright sunlight. Shot at eye level from about 15 metres back, 35 mm lens, wide enough to show the crowd, the gate and the government building, with the people seen from behind or in profile at a distance. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose view of a freshly erected steel mobile phone tower lattice on a plot of open ground in a residential area of Periyasemur, Erode, with a concrete base and construction materials scattered near it. Behind the structure, the rooftops and walls of nearby houses and a few coconut palms are visible, with a school-type building and a green park patch in the distance. Ground-level construction debris, iron rods and a pile of sand lie at the base, and a few people in the far background stand watching the work. It is daytime in soft morning light with a light haze. Shot at a low-to-eye angle, 35 mm lens, focused on the tower base and steel framework with the houses and open plot visible behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/people-protest-against-setting-up-of-mobile-phone-tower/4381166",
-   "published": "2026-11-20T03:48:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 4500",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "சென்னிமலை வட்டாரத்தில் ஊரக வளர்ச்சி அலுவலர்கள் சங்கத்துக்குப் புதிய நிர்வாகிகள் தேர்வு செய்யப்பட்டனர். தமிழ்நாடு ஊரக வளர்ச்சி அலுவலர்கள் சங்கத்தின் சென்னிமலை வட்டார மாநாடு நடைபெற்றது. இந்த மாநாட்டில் புதிய வட்டார நிர்வாகிகள் தேர்வு செய்யப்பட்டனர். வட்டாரத் தலைவராக சக்திவேல் தேர்வு செய்யப்பட்டார். வட்டார வளர்ச்சி அலுவலராக உள்ள அவர் கிராம ஊராட்சிப் பணியில் உள்ளார். வட்டாரத் துணைத் தலைவராக உஷா தேர்வு செய்யப்பட்டார். வட்டாரச் செயலாளராக பனியம்பள்ளி ஊராட்சி செயலாளர் சண்முகசுந்தரம் தேர்வு செய்யப்பட்டார். இணைச் செயலாளராக மணிகண்டன் தேர்வு செய்யப்பட்டார். பொருளாளராக முகாசிபிடாரியூர் ஊராட்சி செயலாளர் சிதம்பரநாதன் தேர்வு செய்யப்பட்டார். மாவட்ட செயற்குழு உறுப்பினராக வையாபுரி தேர்வாகியுள்ளார். வட்டார இளம் பிரதிநிதியாக சுபாஷினி தேர்வாகியுள்ளார். மகளிர் பிரதிநிதியாக ரவிப்பிரியா தேர்வாகியுள்ளார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🤝 சென்னிமலையில் ஊரக வளர்ச்சி அலுவலர் சங்கத்துக்குப் புதிய நிர்வாகிகள் தேர்வு\n\n📰 முழு விவரம்:\nதமிழ்நாடு ஊரக வளர்ச்சி அலுவலர்கள் சங்கத்தின் சென்னிமலை வட்டார மாநாடு நடைபெற்றது. இம்மாநாட்டில் சங்கத்தின் புதிய வட்டார நிர்வாகிகள் தேர்வு செய்யப்பட்டனர்.\n🧑‍💼 வட்டாரத் தலைவர்: சக்திவேல் (வட்டார வளர்ச்சி அலுவலர், கிராம ஊராட்சி)\n🧑‍💼 வட்டாரத் துணைத் தலைவர்: உஷா\n🧑‍💼 வட்டாரச் செயலாளர்: சண்முகசுந்தரம் (பனியம்பள்ளி ஊராட்சி செயலாளர்)\n🧑‍💼 இணைச் செயலாளர்: மணிகண்டன்\n🧑‍💼 பொருளாளர்: சிதம்பரநாதன் (முகாசிபிடாரியூர் ஊராட்சி செயலாளர்)\n🧑‍💼 மாவட்ட செயற்குழு உறுப்பினர்: வையாபுரி\n🧑‍💼 வட்டார இளம் பிரதிநிதி: சுபாஷினி\n🧑‍💼 மகளிர் பிரதிநிதி: ரவிப்பிரியா\n\nErode Chennimalai rural officers association new block office-bearers | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
+   "prompts": "Officials of the Tamil Nadu Rural Development Officers Association gather in a meeting hall in Chennimalai, Erode district, to elect their new block office-bearers. Seen from the back of the hall at eye level, rows of plastic chairs face a front table where a few office-bearers in shirts and trousers, and women in cotton sarees, sit in a line. Some members hold folded papers and a stack of paper lies on the table, with a microphone stand and a small water bottle beside it. The room has tube lights and a whiteboard-style wall behind the dais, with a ceiling fan turning. Ceiling fans and daylight filtering through high windows give a calm, official atmosphere. Camera: 35 mm, eye level, wide enough to show the full hall and the seated group from behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the front table at a block conference in Chennimalai, Erode district, where the new association office-bearers' seats are set up. Two white paper sheets, a stack of files, a ballpoint pen and a steel water tumbler sit on a plain table covered with a cream cloth, with a microphone stand and the sleeve of a man's shirt visible at the edge of the frame. Behind the table, out of focus, a few seated members in sarees and shirts watch from a distance. The light is soft tube light mixed with window daylight. Camera: 35 mm, slightly high angle, shallow depth of field, showing the table and the seated officials blurred from behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/selection-of-new-office-bearers/4381167",
+   "published": "2026-11-20T03:49:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145650/erode360/wzfm0dbtreyrgohhllhs.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795145670/erode360/ycnzwuvohipqtfrpinc8.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795146844/erode360/jpnukafvw87i78kzhuci.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795146846/erode360/felouwv67ow9unnrphdy.jpg"
    ]
   }
  ]
