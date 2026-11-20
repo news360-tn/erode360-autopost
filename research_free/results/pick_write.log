@@ -1,0 +1,288 @@
+writing [N]: பவானி நகராட்சி தூய்மைப் பணியாளா்கள் ஆா்ப்பாட்டம்
+writing [N]: எல்லீஸ்பேட்டையில் புதிய தேவாலய மங்கலப் படைப்பு விழா
+writing [N]: பவானி நகராட்சியில் 3,000 மரக்கன்றுகள் நடவு
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3.6-flash (29s)
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 42 ('குறைந்தபட்ச மாத ஊதியம் ரூ.42 ஆயிரம் வழங்க வேண்டும்.')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (30s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+ok groq/openai/gpt-oss-120b (4s)
+factcheck by groq/openai/gpt-oss-120b: 4 problems
+  Reel script gives a specific date (Nov 20) for the dedication, but the article only says it was on a Friday with no date mentioned
+  Reel script misspells the priest’s name – article has எபினேசா் ஜெயக்குமாா், draft says எபினேசர் ஜெயக்குமார்
+  Reel script omits Jada Kalvin, who the article lists as a special invitee alongside Prince Kalvin
+  Reel script leaves out several officials named in the article (former municipal chairman Thangamuthu, councilor Sujatha Mecheri, women’s association leader Sheela Epinesa, secretary Milton Prabhu, treasurer Esunathan, church secretary Uttamasilan)
+attempt 1 gemini/gemini-3-flash-preview: 4 problems
+  fact-check: Reel script gives a specific date (Nov 20) for the dedication, but the article only says it was on a Friday with no date mentioned
+  fact-check: Reel script misspells the priest’s name – article has எபினேசா் ஜெயக்குமாா், draft says எபினேசர் ஜெயக்குமார்
+  fact-check: Reel script omits Jada Kalvin, who the article lists as a special invitee alongside Prince Kalvin
+  fact-check: Reel script leaves out several officials named in the article (former municipal chairman Thangamuthu, councilor Sujatha Mecheri, women’s association leader Sheela Epinesa, secretary Milton Prabhu, treasurer Esunathan, church secretary Uttamasilan)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok gemini/gemini-3.6-flash (37s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (3s)
+factcheck by groq/openai/gpt-oss-120b: 2 problems
+  Reel script omits two officials (Vincent and Nithiyanandhi) mentioned in article
+  Caption provides a specific date (20 November 2026) not stated in the article
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  fact-check: Reel script omits two officials (Vincent and Nithiyanandhi) mentioned in article
+  fact-check: Caption provides a specific date (20 November 2026) not stated in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok gemini/gemini-3-flash-preview (13s)
+attempt 2 gemini/gemini-3-flash-preview: 3 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 6
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 42 ('குறைந்தபட்ச மாத ஊதியம் ரூ.42 ஆயிரம் வழங்க வேண்டும்.')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+ok groq/qwen/qwen3.8-27b (4s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 8 problems
+  reel_script says 'பேராயர் விக்டர்ராஜு விழாவை வரவேற்றார்' (welcomed the function) but article says பேராயா் விக்டர்ராஜு welcomed the gathering; minor, but reel_script also states 'பேராயர் ஜே விக்டர்ராஜ் தலைமை வகித்தார்' in slides_spec, which mixes up the chair: the article says Elders' pastor Ebinesar Jeyakumar presided, not Victor Raju
+  slides_spec second slide states 'பேராயர் ஜே.விக்டர்ராஜ் தலைமை வகித்தார்' (Victor Raju presided), contradicting the article, which says Ayar Ebinesar Jeyakumar presided
+  reel_script says 'ஈரோடு-சேலம் திருமண்டல பேராயர்... பொது மக்களுக்கு அர்ப்பணித்தார்' is fine, but reel_script omits that the people of the village gave the pastor a procession-style welcome, while caption says 'ஊர்வலமாக' which is not described in reel_script (missing detail, minor)
+  reel_script says 'பள்ளபாளையம் பேரூராட்சித் தலைவர் கோகிலா தங்கமுத்து கலந்து கொண்டார்' and then lists 'முன்னாள் பேரூராட்சித் தலைவர் தங்கமுத்து, கவுன்சிலர் சுஜாதா மொச்சி, ஷீலா எபினேசர், மில்டன் பிரபு, ஏசுநேசன், உத்தமசீலன் ஆகியோரும் வந்தனர்' – the article names ஷீலா எபினேசர as representing பெண்கள் ஐக்கிய சங்கம் and மில்டன் பிரபு as போதக சேகர செயலாளர, which are dropped, so roles are lost (ungrammatical/unclear grouping with no role for each name)
+  slides_spec titled 'நிர்வாகிகள்' lists 'ஊர் மக்கள் வரவேற்பு அளித்தனர்' under administrators, mixing two different groups (administrators and village people) in one slide
+  caption says 'வரேற்பு' – misspelling of வரவேற்பு, making the Tamil word ungrammatical
+  caption and reel_script state 'பேராயர் பிரின்ஸ் கால்வின், ஜடா கால்வின்' as 'பேராயர்' for both, but article identifies only Prince Calvin as கோவை திருமண்டல பேராயர்; Jada Calvin's role is not stated, so calling her a pastor is an invented role
+  reel_script omits the arrest/result-type key facts? Not applicable here, but reel_script omits that the rite was a 'திருவழிபாடு' (worship service) and that the church was 'கோபுரம் புதுப்பிக்கப்பட்ட' so consecration is the core event; the main event (dedication of renovated church by special Holy Communion) is only partly covered
+attempt 2 groq/qwen/qwen3.8-27b: 8 problems
+  fact-check: reel_script says 'பேராயர் விக்டர்ராஜு விழாவை வரவேற்றார்' (welcomed the function) but article says பேராயா் விக்டர்ராஜு welcomed the gathering; minor, but reel_script also states 'பேராயர் ஜே விக்டர்ராஜ் தலைமை வகித்தார்' in slides_spec, which mixes up the chair: the article says Elders' pastor Ebinesar Jeyakumar presided, not Victor Raju
+  fact-check: slides_spec second slide states 'பேராயர் ஜே.விக்டர்ராஜ் தலைமை வகித்தார்' (Victor Raju presided), contradicting the article, which says Ayar Ebinesar Jeyakumar presided
+  fact-check: reel_script says 'ஈரோடு-சேலம் திருமண்டல பேராயர்... பொது மக்களுக்கு அர்ப்பணித்தார்' is fine, but reel_script omits that the people of the village gave the pastor a procession-style welcome, while caption says 'ஊர்வலமாக' which is not described in reel_script (missing detail, minor)
+  fact-check: reel_script says 'பள்ளபாளையம் பேரூராட்சித் தலைவர் கோகிலா தங்கமுத்து கலந்து கொண்டார்' and then lists 'முன்னாள் பேரூராட்சித் தலைவர் தங்கமுத்து, கவுன்சிலர் சுஜாதா மொச்சி, ஷீலா எபினேசர், மில்டன் பிரபு, ஏசுநேசன், உத்தமசீலன் ஆகியோரும் வந்தனர்' – the article names ஷீலா எபினேசர as representing பெண்கள் ஐக்கிய சங்கம் and மில்டன் பிரபு as போதக சேகர செயலாளர, which are dropped, so roles are lost (ungrammatical/unclear grouping with no role for each name)
+  fact-check: slides_spec titled 'நிர்வாகிகள்' lists 'ஊர் மக்கள் வரவேற்பு அளித்தனர்' under administrators, mixing two different groups (administrators and village people) in one slide
+  fact-check: caption says 'வரேற்பு' – misspelling of வரவேற்பு, making the Tamil word ungrammatical
+  fact-check: caption and reel_script state 'பேராயர் பிரின்ஸ் கால்வின், ஜடா கால்வின்' as 'பேராயர்' for both, but article identifies only Prince Calvin as கோவை திருமண்டல பேராயர்; Jada Calvin's role is not stated, so calling her a pastor is an invented role
+  fact-check: reel_script omits the arrest/result-type key facts? Not applicable here, but reel_script omits that the rite was a 'திருவழிபாடு' (worship service) and that the church was 'கோபுரம் புதுப்பிக்கப்பட்ட' so consecration is the core event; the main event (dedication of renovated church by special Holy Communion) is only partly covered
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok groq/qwen/qwen3.8-27b (0s)
+factcheck by groq/qwen/qwen3.8-27b: 0 problems
+claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  stray Tamil sign '்' after 'ா' in «பினேசா், ப»
+  stray Tamil sign '்' after 'ா' in «பினேசா், ப»
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The reel_script and slides omit that the event was organized by AITUC and was held at the municipal office; the reel mentions AITUC but does not mention that the protest was led/attended by other named officials (minor), however the key omission is that the article states the demands were raised by the union, which is acceptable.
+  The slides_spec 'hl2' and slide 1 title 'முக்கியக்' is an incomplete/ungrammatical Tamil word (should be 'முக்கியக் கோரிக்கைகள்'), so it has no clear meaning.
+  The slides_spec 'cat' and 'hl1' describe the protest as a 'போராட்டம்' and the headline 'தூய்மைப் பணியாளர் போராட்டம்' is acceptable, but slide 1 line 'பவானி நகராட்சி தூய்மைப் பணியாளர்கள் ஆர்ப்பாட்டம்' merely repeats the headline without describing an event detail, not an error.
+  The reel_script says the demand to make all contract workers permanent was 'கோரப்பட்டது' and the minimum wage demand is stated correctly; no invented facts found in that section.
+  The caption's 'முழு விவரம்' omits nothing critical, but the reel_script and slides omit the chairman's full name spelling and the fact that the Communist party and unorganised workers' union leaders attended beyond 'பலர்' (only minor).
+claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The reel_script and slides omit that the event was organized by AITUC and was held at the municipal office; the reel mentions AITUC but does not mention that the protest was led/attended by other named officials (minor), however the key omission is that the article states the demands were raised by the union, which is acceptable.
+  fact-check: The slides_spec 'hl2' and slide 1 title 'முக்கியக்' is an incomplete/ungrammatical Tamil word (should be 'முக்கியக் கோரிக்கைகள்'), so it has no clear meaning.
+  fact-check: The slides_spec 'cat' and 'hl1' describe the protest as a 'போராட்டம்' and the headline 'தூய்மைப் பணியாளர் போராட்டம்' is acceptable, but slide 1 line 'பவானி நகராட்சி தூய்மைப் பணியாளர்கள் ஆர்ப்பாட்டம்' merely repeats the headline without describing an event detail, not an error.
+  fact-check: The reel_script says the demand to make all contract workers permanent was 'கோரப்பட்டது' and the minimum wage demand is stated correctly; no invented facts found in that section.
+  fact-check: The caption's 'முழு விவரம்' omits nothing critical, but the reel_script and slides omit the chairman's full name spelling and the fact that the Communist party and unorganised workers' union leaders attended beyond 'பலர்' (only minor).
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 9 problems
+  Reel script says Bishop Victor Raju gave the welcome speech (வரவேற்புரை), but the article says Victor Raju was welcomed/escorted, and the welcome was given by the local people; the article's 'பேராயா் விக்டர்ராஜு வரவேற்றாா்' is ambiguous, but the draft's 'வரவேற்புரை' (welcome address) is not stated and may be an invented role.
+  Reel script says the event was organized by the Tamil Nadu/South India Church Erode-Salem diocese, and the script states 'ஏற்பாடு' only in caption; the article says the diocese 'சாா்பில்' (on behalf of) organized it, which is consistent, but the caption also adds 'ஏற்பாடு' as a separate fact—acceptable.
+  Reel script says 'வெள்ளிக்கிழமை' and 'பெருந்துறை ஒன்றியம்' correctly, but the caption and slides mention 'லாரா'/'ஜடா கால்வின' only partially: the caption lists 'ஜடா கால்வின், எஸ்.லாரா விக்டர்ராஜ்' as 'சிறப்பு அழைப்பாளர்கள்' which matches the article; no error there.
+  Slides_spec 'யார் பங்கேற்றனர்?' lists Bishop Victor Raju with 'சிறப்பு' and Erode-Salem Bishop as participants; the article only calls Victor Raju the Erode-Salem diocese bishop who performed the special thirupali, which matches.
+  Slides_spec 'விழா விவரம்' line 'ஊர் மக்கள் சார்பில் பேராயருக்கு வரவேற்பு அளிக்கப்பட்டு' is cut off mid-sentence and lacks a clear meaning (missing the 'ஊர்வலமாக அழைத்து வரப்பட்டார்' conclusion), making it ungrammatical/incomplete.
+  Slides_spec 'யார் பங்கேற்றனர்?' line 'ஈரோடு-சேலம் திருமண்டல பேராயர் ஜே.விக்டர்ராஜ் சிறப்பு' is an incomplete, unclear sentence fragment.
+  Slides_spec 'கோவை திருமண்டல பேராயர் பிரின்ஸ் கால்வின் சிறப்பு அழைப்பாளர்' mixes the bishop's name with the role in a broken phrasing; the article says he participated as a special guest, so the phrase is awkward but the fact is present.
+  Reel script omits the key fact that the special thirupali was followed by dedication of the church to the public in a clear sentence combining who/what; it does mention it, but the reel_script first sentence says the church was dedicated before the event details, which is an order mismatch but not a factual error.
+  Reel script omits the specific named participants 'எஸ்.லாரா விக்டர்ராஜ்' and 'ஜடா கால்வின' and the Pallabalayam guests such as the former chairman Thangamuthu, shop secretary Milton Prabhu, etc.—these are not essential, so this is not flagged as a missing key fact.
+claude rewrite 2 anthropic/claude-haiku-5-5: 9 problems
+  fact-check: Reel script says Bishop Victor Raju gave the welcome speech (வரவேற்புரை), but the article says Victor Raju was welcomed/escorted, and the welcome was given by the local people; the article's 'பேராயா் விக்டர்ராஜு வரவேற்றாா்' is ambiguous, but the draft's 'வரவேற்புரை' (welcome address) is not stated and may be an invented role.
+  fact-check: Reel script says the event was organized by the Tamil Nadu/South India Church Erode-Salem diocese, and the script states 'ஏற்பாடு' only in caption; the article says the diocese 'சாா்பில்' (on behalf of) organized it, which is consistent, but the caption also adds 'ஏற்பாடு' as a separate fact—acceptable.
+  fact-check: Reel script says 'வெள்ளிக்கிழமை' and 'பெருந்துறை ஒன்றியம்' correctly, but the caption and slides mention 'லாரா'/'ஜடா கால்வின' only partially: the caption lists 'ஜடா கால்வின், எஸ்.லாரா விக்டர்ராஜ்' as 'சிறப்பு அழைப்பாளர்கள்' which matches the article; no error there.
+  fact-check: Slides_spec 'யார் பங்கேற்றனர்?' lists Bishop Victor Raju with 'சிறப்பு' and Erode-Salem Bishop as participants; the article only calls Victor Raju the Erode-Salem diocese bishop who performed the special thirupali, which matches.
+  fact-check: Slides_spec 'விழா விவரம்' line 'ஊர் மக்கள் சார்பில் பேராயருக்கு வரவேற்பு அளிக்கப்பட்டு' is cut off mid-sentence and lacks a clear meaning (missing the 'ஊர்வலமாக அழைத்து வரப்பட்டார்' conclusion), making it ungrammatical/incomplete.
+  fact-check: Slides_spec 'யார் பங்கேற்றனர்?' line 'ஈரோடு-சேலம் திருமண்டல பேராயர் ஜே.விக்டர்ராஜ் சிறப்பு' is an incomplete, unclear sentence fragment.
+  fact-check: Slides_spec 'கோவை திருமண்டல பேராயர் பிரின்ஸ் கால்வின் சிறப்பு அழைப்பாளர்' mixes the bishop's name with the role in a broken phrasing; the article says he participated as a special guest, so the phrase is awkward but the fact is present.
+  fact-check: Reel script omits the key fact that the special thirupali was followed by dedication of the church to the public in a clear sentence combining who/what; it does mention it, but the reel_script first sentence says the church was dedicated before the event details, which is an order mismatch but not a factual error.
+  fact-check: Reel script omits the specific named participants 'எஸ்.லாரா விக்டர்ராஜ்' and 'ஜடா கால்வின' and the Pallabalayam guests such as the former chairman Thangamuthu, shop secretary Milton Prabhu, etc.—these are not essential, so this is not flagged as a missing key fact.
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 42 ('குறைந்தபட்ச மாத ஊதியம் ரூ.42 ஆயிரம் வழங்க வேண்டும்.')
+hl1 shortened at a natural break: 'பவானியில் தூய்மைப் பணியாளர்கள் ஆர்ப்பாட்டம்' -> 'பவானியில் பணியாளர்கள் ஆர்ப்பாட்டம்'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for '3,000 saplings planted in Bhavani munici'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-0031","first":"RN-177"}
+posting job started at once
+writing [N]: பவானியில் கஞ்சா விற்ற இளைஞா் கைது
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  slides must have 3 or 4 items
+  reel_script has 47 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Bhavani municipality sanitation workers '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-0031","first":"RN-178"}
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'New church dedication ceremony held at E'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-0032","first":"RN-179"}
+writing [N]: கொடுமுடியில் இன்றைய மின்தடை ரத்து
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Youth arrested for selling ganja in Bhav'
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 57 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-0032","first":"RN-180"}
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  slides must have 3 or 4 items
+  reel_script has 57 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Power cut in Kodumudi cancelled for toda'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-0033","first":"RN-181"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/20/todays-power-cut-in-kodumudi-has-been-cancelled
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/20/youth-arrested-for-selling-ganja-in-bhavani
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/20/consecration-ceremony-of-the-new-church-at-ellispettai
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/20/protest-by-bhavani-municipality-sanitation-workers
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/20/planting-of-3000-saplings-in-bhavani-municipality
+candidate filter: collected=5
+to write: 5 Erode district candidates (max 5 stories)
+round: top 5 of 5 candidates
+candidates waiting: 5 Erode; time left 79 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})
+candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 75 min
+filed: 5 Erode district stories (target 5), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":5,"updated":0} 
+stories: 5
