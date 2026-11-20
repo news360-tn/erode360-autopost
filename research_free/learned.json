@@ -1,33 +1,34 @@
 {
- "updated": "2026-11-20T09:21+05:30",
- "posts_measured": 131,
+ "updated": "2026-11-20T13:28+05:30",
+ "posts_measured": 139,
  "topic_weight": {
   "crime": 1.5,
   "weather": -0.5,
-  "civic": -0.5,
-  "accident": 1.04,
-  "education": -0.48,
-  "temple": -0.06,
-  "politics": -0.03,
+  "civic": -0.49,
+  "accident": 1.15,
+  "education": -0.5,
+  "temple": -0.1,
+  "politics": -0.16,
   "power_cut": -0.39,
   "poultry_agri": -0.5
  },
  "topic_n": {
   "crime": 30,
   "weather": 8,
-  "civic": 13,
+  "civic": 15,
   "accident": 15,
-  "education": 15,
-  "temple": 15,
-  "politics": 6,
+  "education": 16,
+  "temple": 16,
+  "politics": 8,
   "power_cut": 3,
-  "poultry_agri": 5
+  "poultry_agri": 6,
+  "jobs": 1
  },
  "best_hours_ist": [
   1,
   7,
   17,
-  10
+  6
  ],
  "top_openings": [
   "🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு",
@@ -35,14 +36,14 @@
   "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
   "🚨 அந்தியூரில் பஸ் பூக்கடைக்குள் பாய்ந்தது; தாயும் மகளும் உயிர் தப்பினர்"
  ],
- "avg_watch_s": 7.9,
+ "avg_watch_s": 7.8,
  "best_topics": [
   "crime",
   "accident",
-  "politics"
+  "temple"
  ],
  "weak_topics": [
   "weather",
-  "civic"
+  "education"
  ]
 }
