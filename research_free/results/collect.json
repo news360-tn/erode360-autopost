@@ -3,305 +3,227 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/pillar-plantation-ceremony-at-karungalpalayam-mariamman-temple/4381171",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-demanding-resignation-of-mla-arul-vignesh/4381176",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/sathyamangalam-solid-waste-management-project-works-survey-by-municipal-administrative-zonal-director",
-  "candidate filter: collected=3",
-  "to write: 3 Erode district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "real photo from the source (Dinamalar) for 'Kambam Nadum Vizha celebrated at Karunga'",
-  "auto images: 1 of 1 stories ({})",
+  "manual link added: https://www.maalaimalar.com/news/tamilnadu/woman-dies-of-dengue-fever",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/erode-hindu-people-carrying-banners-at-the-mosque-opening-ceremony",
+  "candidate filter: collected=2",
+  "to write: 2 Erode district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/erode-hindu-peop",
+  "try (N) manual=True: https://www.maalaimalar.com/news/tamilnadu/woman-dies-of-den",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 71 min",
-  "filed: 3 Erode district stories (target 3), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 75 min",
+  "filed: 2 Erode district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (46s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (51s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3.6-flash (27s)",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.5-flash for 10 min",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (5s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok groq/openai/gpt-oss-120b (4s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (3s)",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கருங்கல்பாளையம் மாரியம்மன் கோவில் திருவிழா: கோலாகலமாக நடைபெற்ற கம்பம் நடும் விழா",
-   "english_headline": "Kambam Nadum Vizha celebrated at Karungalpalayam Periya and Chinna Mariamman Kovil in Erode",
+   "tamil_headline": "குருமந்தூரில் பள்ளிவாசல் திறப்பு விழாவில் இந்து மக்கள் சீர்வரிசை கொண்டு வந்தனர்",
+   "english_headline": "Hindu residents carry gifts in procession to mosque opening at Kurumanthur near Gobichettipalayam, Erode district",
    "category": "Temples & Events",
-   "location": "Karungalpalayam, Erode city, Erode district",
+   "location": "Kurumanthur near Gobichettipalayam, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கோவில் திருவிழா",
-    "loc": "கருங்கல்பாளையம், ஈரோடு",
-    "hl1": "கருங்கல்பாளையத்தில் கம்பம் நடும் விழா",
-    "hl2": "நவ. 29-ல் குண்டம் இறங்குதல்",
+    "cat": "மத நல்லிணக்கம்",
+    "loc": "குருமந்தூர், கோபிசெட்டிபாளையம்",
+    "hl1": "குருமந்தூரில் பள்ளிவாசல் திறப்பு விழா",
+    "hl2": "இந்து மக்கள் சீர்வரிசை",
     "slides": [
      {
-      "title": "கம்பம் நடும் விழா",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "ஈரோடு <b>கருங்கல்பாளையம்</b> மாரியம்மன் கோவில்",
-       "குண்டம் மற்றும் தேர்த்திருவிழா நடைபெறுகிறது",
-       "நேற்றிரவு <b>2 கம்பங்கள்</b> நடப்பட்டன"
+       "குருமந்தூரில் புதிய பள்ளிவாசல் திறப்பு விழா இன்று நடந்தது",
+       "இந்து மக்கள் திரளாக ஊர்வலமாகச் சென்று சீர்வரிசை வழங்கினர்",
+       "மேளதாளத்துடன் பழம், இனிப்புகளை ஏந்தி சென்றனர்"
       ]
      },
      {
-      "title": "சிறப்பு வழிபாடு",
+      "title": "எப்படி வரவேற்பு?",
       "lines": [
-       "பெரிய மாரியம்மனுக்கு சிறப்பு அபிஷேகம்",
-       "<b>தங்கம், வெள்ளி கவசத்தில்</b> அம்மன் அருள்",
-       "பக்தர்கள் கம்பத்திற்கு பால் ஊற்றி வழிபாடு"
+       "இஸ்லாமிய மக்கள் ஆரத்தழுவி உற்சாகமாக வரவேற்றனர்",
+       "இந்த நிகழ்வு மத நல்லிணக்கத்திற்கு சிறந்த எடுத்துக்காட்டு",
+       "ஊர் மக்களிடம் பெரும் பாராட்டு கிடைத்துள்ளது"
       ]
      },
      {
-      "title": "விழா நிகழ்ச்சிகள்",
+      "title": "பாரம்பரியம்",
       "lines": [
-       "<b>நவம்பர் 29</b>: குண்டம், தேர்வடம் பிடித்தல்",
-       "<b>டிசம்பர் 1</b>: பொங்கல் விழா",
-       "<b>டிசம்பர் 2</b>: கம்பம் பிடுங்குதல்"
-      ]
-     },
-     {
-      "title": "நிறைவு நாள்",
-      "lines": [
-       "<b>டிசம்பர் 3</b>: மஞ்சள் நீராட்டு விழா",
-       "சுவாமி திருவீதி உலா நடைபெறும்",
-       "<b>டிசம்பர் 4</b>: மறுபூஜையுடன் விழா நிறைவு"
+       "மதங்களைக் கடந்த சகோதரத்துவம் பல தலைமுறைகளாகத் தொடர்கிறது",
+       "கோவில் திருவிழாக்களில் இஸ்லாமிய மக்கள் சீர்வரிசை வழங்குவது",
+       "இது 'தாய்வீட்டுச் சீதனம்' என அழைக்கப்படுகிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு கருங்கல்பாளையம் மாரியம்மன் கோவில் திருவிழாவில் நேற்றிரவு கம்பம் நடும் விழா நடைபெற்றது. பெரிய மாரியம்மன் மற்றும் சின்ன மாரியம்மன் கோவில் குண்டம், தேர்த்திருவிழா கடந்த 17ஆம் தேதி துவங்கியது. நேற்றிரவு பெரிய மாரியம்மனுக்கு சிறப்பு அபிஷேகம் மற்றும் ஆராதனை நடைபெற்றன. அம்மன் தங்கம் மற்றும் வெள்ளி கவச அலங்காரத்தில் பக்தர்களுக்கு அருள்பாலித்தார். பின்னர் சிறப்பு பூஜையுடன் 2 கம்பங்கள் ஊர்வலமாக எடுத்துவரப்பட்டு கோவில் முன்பாக நடப்பட்டன. ஏராளமான பக்தர்கள் கம்பத்திற்கு பால் மற்றும் புனிதநீர் ஊற்றி அம்மனை தரிசனம் செய்தனர். வரும் நவம்பர் 29ஆம் தேதி குண்டம் இறங்குதல் மற்றும் தேர்வடம் பிடித்தல் நிகழ்ச்சிகள் நடைபெறும். டிசம்பர் 1ஆம் தேதி பொங்கல் விழாவும், டிசம்பர் 2ஆம் தேதி கம்பம் பிடுங்குதலும் நடைபெறும். டிசம்பர் 3ஆம் தேதி மஞ்சள் நீராட்டு விழா மற்றும் சுவாமி திருவீதி உலா நடைபெறும். டிசம்பர் 4ஆம் தேதி மறுபூஜையுடன் திருவிழா நிறைவு பெறுகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 ஈரோடு கருங்கல்பாளையத்தில் கம்பம் நடும் விழா: நவ. 29-ல் குண்டம் இறங்குதல்\n\n📰 முழு விவரம்:\nஈரோடு கருங்கல்பாளையத்தில் அமைந்துள்ள பெரிய மாரியம்மன் மற்றும் சின்ன மாரியம்மன் கோவில் குண்டம் மற்றும் தேர்த்திருவிழா கடந்த 17ஆம் தேதி கணபதி பூஜையுடன் துவங்கியது. விழாவின் முக்கிய நிகழ்ச்சியான கம்பம் நடும் விழா நேற்றிரவு நடைபெற்றது. முன்னதாக பெரிய மாரியம்மனுக்கு சிறப்பு அபிஷேகம் நடந்து, தங்கம் மற்றும் வெள்ளி கவச அலங்காரத்தில் அம்மன் அருள்பாலித்தார். சிறப்பு பூஜைக்குப் பின் 2 கம்பங்கள் ஊர்வலமாக எடுத்துவரப்பட்டு கோவில் முன் நடப்பட்டன. பக்தர்கள் கம்பத்திற்கு பால், புனிதநீர் ஊற்றி வழிபாடு செய்தனர்.\n\n📍 இடம்: பெரிய மாரியம்மன், சின்ன மாரியம்மன் கோவில், கருங்கல்பாளையம், ஈரோடு\n🗓️ முக்கிய நாட்கள்:\n• நவம்பர் 29: குண்டம் இறங்குதல், தேர்வடம் பிடித்தல்\n• டிசம்பர் 1: பொங்கல் விழா\n• டிசம்பர் 2: கம்பம் பிடுங்குதல்\n• டிசம்பர் 3: மஞ்சள் நீராட்டு விழா, சுவாமி திருவீதி உலா\n• டிசம்பர் 4: மறுபூஜையுடன் நிறைவு\n\nபக்தர்களுக்கு இந்தத் தகவலை Share செய்யுங்கள்.\n\nErode Karungalpalayam Mariamman temple festival Kambam Nadum Vizha | Erode news\n📍 கருங்கல்பாளையம், ஈரோடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Karungalpalayam #ErodeNews #ஈரோடு",
-   "prompts": "Two tall wooden sacred poles, decorated with fresh neem leaves and flower garlands, stand upright in the stone-paved courtyard in front of the Karungalpalayam Mariamman temple. In the background, the temple entrance is illuminated with colorful festival serial lights. A crowd of devotees, including men in white veshtis and women in bright sarees, are gathered around the base of the poles, seen from behind. The night sky is dark, but the scene is brightly lit by temple floodlights. The camera is at eye level, using a 35mm lens to capture the height of the poles and the temple structure. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the base of one of the sacred wooden poles, which is heavily coated in yellow turmeric paste and red kumkum. Devotees, whose hands are visible but faces are not, are pouring white milk from small brass and stainless steel pots onto the pole. The milk flows down the textured wood and over the green neem leaves tied to it. The ground is wet with a mixture of milk and holy water. The lighting is bright from the temple's festive lamps, highlighting the textures of the wood and the liquid. The camera is at a slightly high angle, focusing on the ritualistic offering. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/pillar-plantation-ceremony-at-karungalpalayam-mariamman-temple/4381171",
-   "published": "2026-11-20T03:51:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795161864/erode360/eqpv8166sswot3oo9dud.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795161865/erode360/gaprbsit0gxouowmgj3t.jpg"
-   ],
-   "real_photo": "Dinamalar"
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் எம்.எல்.ஏ. பதவி விலக கோரி ஆர்ப்பாட்டம்",
-   "english_headline": "Protest in Erode demands resignation of Kallakurichi MLA Arul Vignesh and other accused MLAs and ministers",
-   "category": "Government & Services",
-   "location": "Surampatti Four Road, Erode city, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ஆர்ப்பாட்டம்",
-    "loc": "சூரம்பட்டி, ஈரோடு",
-    "hl1": "ஈரோட்டில் எம்.எல்.ஏ. பதவி விலக கோரி",
-    "hl2": "விசாரணைக்கு வலியுறுத்தல்",
-    "slides": [
-     {
-      "title": "எங்கே நடந்தது?",
-      "lines": [
-       "ஈரோடு, சூரம்பட்டி நாலு ரோட்டில் ஆர்ப்பாட்டம்",
-       "இந்திய ஜனநாயக வாலிபர் சங்கம் சார்பில் நடைபெற்றது",
-       "மாவட்ட பொருளாளர் அன்பு ஜனாதிபதி தலைமையில்"
-      ]
-     },
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "த.வெ.க. எம்.எல்.ஏ.க்கள், அமைச்சர்கள் மீது விசாரணை",
-       "கள்ளக்குறிச்சி எம்.எல்.ஏ. அருள் விக்னேஷ் பதவி விலக வேண்டும்",
-       "குற்றச்சாட்டுக்கு ஆளானவர்கள் மீது குற்றவியல் நடவடிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோட்டில் சட்டமன்ற உறுப்பினர் பதவி விலக கோரி ஆர்ப்பாட்டம் நடைபெற்றது. ஈரோடு, சூரம்பட்டி நாலு ரோட்டில் இந்திய ஜனநாயக வாலிபர் சங்கம் சார்பில் இந்த ஆர்ப்பாட்டம் நடந்தது. மாவட்டப் பொருளாளர் அன்பு ஜனாதிபதி தலைமையில் போராட்டக்காரர்கள் கோஷமிட்டனர். உயர் அதிகாரிகளுக்குத் தொடர்ந்து தொல்லை கொடுப்பதாகக் கூறி, த வெ க சட்டமன்ற உறுப்பினர்க்கள் மற்றும் அமைச்சர்கள் மீது உரிய விசாரணை நடத்த வேண்டும் என வலியுறுத்தப்பட்டது. குறிப்பாக, கள்ளக்குறிச்சி சட்டமன்ற உறுப்பினர் அருள் விக்னேஷ் பதவி விலக வேண்டும் என்று கோரிக்கை வைக்கப்பட்டது. குற்றச்சாட்டுக்கு ஆளான மற்ற சட்டமன்ற உறுப்பினர்க்கள், அமைச்சர்களும் பதவி விலக வேண்டும் என்றும், அவர்கள் மீது குற்றவியல் நடவடிக்கை எடுக்க வேண்டும் என்றும் போராட்டக்காரர்கள் வலியுறுத்தினர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஈரோடு சூரம்பட்டியில் எம்.எல்.ஏ. பதவி விலக கோரி ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nஈரோடு, சூரம்பட்டி நாலு ரோட்டில் இந்திய ஜனநாயக வாலிபர் சங்கம் சார்பில் ஆர்ப்பாட்டம் நடைபெற்றது. மாவட்டப் பொருளாளர் அன்பு ஜனாதிபதி தலைமையில் போராட்டக்காரர்கள் கோஷமிட்டனர்.\nஉயர் அதிகாரிகளுக்குத் தொடர்ந்து தொல்லை கொடுப்பதாகக் கூறப்படும் த.வெ.க. எம்.எல்.ஏ.க்கள், அமைச்சர்கள் மீது உரிய விசாரணை நடத்தி உண்மைத் தன்மையை வெளியிட வேண்டும் என வலியுறுத்தப்பட்டது.\nகுறிப்பாக, கள்ளக்குறிச்சி எம்.எல்.ஏ. அருள் விக்னேஷ் மற்றும் குற்றச்சாட்டுக்கு ஆளான மற்ற எம்.எல்.ஏ.க்கள், அமைச்சர்கள் பதவி விலக வேண்டும் என்றும், அவர்கள் மீது குற்றவியல் நடவடிக்கை எடுக்க வேண்டும் என்றும் கோஷமிட்டனர்.\n\n📍 இடம்: சூரம்பட்டி நாலு ரோடு, ஈரோடு\n\nErode protest demands MLA Arul Vignesh resignation | Erode news\n📍 ஈரோடு நகரம், ஈரோடு மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Surampatti #ErodeNews #ஈரோடு",
-   "prompts": "A group of DYFI youth protesters raises slogans and holds red party flags and placards at the Surampatti Four Road junction in Erode city, Erode district. The road is a busy urban crossroads with two-wheelers, autorickshaws and a town bus passing behind the crowd, and shops with shuttered fronts line the pavement. About thirty men in shirts and trousers, some in veshti, stand in a tight cluster in the middle of the road, arms raised, seen from behind and from a distance so no faces are visible. Red and white banners are held up above their heads. It is bright daylight with a clear sky and warm light, shot at eye level from the pavement with a 35 mm lens, wide enough to show the junction, the traffic signal pole and the surrounding buildings. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a handheld protest placard and a bundle of red party flags held up by protesters at the Surampatti Four Road junction in Erode city. The placard's written Tamil text is blurred and unreadable, with the bold red colour and white lettering forming the main visual. The flag fabric is slightly crumpled from being raised, and behind it the blurred shapes of a two-wheeler and a shop front on a busy urban road are visible. Hands of several protesters, seen from behind and slightly out of focus, grip the poles. Bright daylight, shot at slightly high angle with a 35 mm lens, shallow depth of field keeping the placard sharp and the background softly out of focus. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-demanding-resignation-of-mla-arul-vignesh/4381176",
-   "published": "2026-11-20T03:54:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides must have 3 or 4 items",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795161976/erode360/fswywfhel9nldbwsjqh3.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795162039/erode360/f7onhqdnwtngkfuhkttx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சத்தியமங்கலம் நகராட்சியில் மரக்கன்று, உரம் பணிகள் ஆய்வு: மண்டல இயக்குநர் பாராட்டு",
-   "english_headline": "Zonal director inspects tree-planting and compost works in Sathyamangalam municipality, praises civic body",
-   "category": "Civic Issues",
-   "location": "Sathyamangalam municipality, Erode district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நகராட்சி ஆய்வு",
-    "loc": "சத்தியமங்கலம்",
-    "hl1": "சத்தியமங்கலத்தில் மரக்கன்று, உரம்",
-    "hl2": "மண்டல இயக்குநர் பாராட்டு",
-    "slides": [
-     {
-      "title": "யார் ஆய்வு?",
-      "lines": [
-       "திருப்பூர் நகராட்சி நிர்வாக மண்டல இயக்குநர் ஏ.தாணுமூர்த்தி",
-       "வியாழக்கிழமை சத்தியமங்கலத்தில் ஆய்வு செய்தார்",
-       "பின்னர் புன்செய் புளியம்பட்டி நகராட்சியிலும் ஆய்வு"
-      ]
-     },
-     {
-      "title": "என்ன ஆய்வு?",
-      "lines": [
-       "நகர்ப்புற பசுமையாக்கத் திட்ட மரக்கன்று நடும் பணிகள்",
-       "<b>10 ஆயிரம்</b> மரக்கன்றுகளின் பராமரிப்புப் பணிகள்",
-       "கலைஞர் மேம்பாட்டுத் திட்ட குடிநீர் பணிகள்"
-      ]
-     },
-     {
-      "title": "உரம், பாராட்டு",
-      "lines": [
-       "குப்பைக் கிடங்கில் உரம் தயாரிப்புப் பணிகளின் நிலை",
-       "சுற்றுச்சூழல் பாதுகாப்புப் பணிகளுக்காக பாராட்டு",
-       "ஆணையர்களும் அலுவலர்களும் உடனிருந்தனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சத்தியமங்கலம் நகராட்சியில் மரக்கன்று நடும் பணிகளை மண்டல இயக்குநர் ஆய்வு செய்தார். திருப்பூர் நகராட்சி நிர்வாக மண்டல இயக்குநர் ஏ தாணுமூர்த்தி வியாழக்கிழமை இந்த ஆய்வை மேற்கொண்டார். நகர்ப்புற பசுமையாக்கத் திட்டத்தின் கீழ் நடைபெறும் மரக்கன்று நடும் பணிகளின் முன்னேற்றத்தை அவர் பார்வையிட்டார். <b>10 ஆயிரம்</b> மரக்கன்றுகளின் பராமரிப்புப் பணிகளும் ஆய்வு செய்யப்பட்டன. கலைஞர் மேம்பாட்டுத் திட்டக் குடிநீர் பணிகளையும் அவர் ஆய்வு செய்தார். நகராட்சி குப்பைக் கிடங்கில் நடைபெறும் திடக்கழிவு மேலாண்மைத் திட்டத்தில் உரம் தயாரிப்புப் பணிகளின் நிலையையும் பார்வையிட்டார். சுற்றுச்சூழல் பாதுகாப்பை மேம்படுத்தும் வகையில் பசுமையாக்கப் பணிகளைச் சிறப்பாகக் கையாண்ட சத்தியமங்கலம் நகராட்சிக்கு அவர் பாராட்டு தெரிவித்தார். இதைத் தொடர்ந்து புன்செய் புளியம்பட்டி நகராட்சியிலும் அவர் ஆய்வு செய்தார். ஆய்வின்போது சத்தியமங்கலம் நகராட்சி ஆணையர் எஸ் வெங்கடேஷ்வரன், புன்செய் புளியம்பட்டி நகராட்சி ஆணையர் கருணாம்பாள் மற்றும் அலுவலர்கள் உடனிருந்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌳 சத்தியமங்கலத்தில் மரக்கன்று, உரம் பணிகள் ஆய்வு; மண்டல இயக்குநர் பாராட்டு\n\n📰 முழு விவரம்:\nசத்தியமங்கலம் நகராட்சியில் நகர்ப்புற பசுமையாக்கத் திட்டத்தின் கீழ் நடைபெறும் மரக்கன்று நடும் பணிகள் மற்றும் உரம் தயாரிப்புப் பணிகளை திருப்பூர் நகராட்சி நிர்வாக மண்டல இயக்குநர் ஏ.தாணுமூர்த்தி வியாழக்கிழமை ஆய்வு செய்தார்.\n10 ஆயிரம் மரக்கன்றுகளின் பராமரிப்புப் பணிகள் மற்றும் கலைஞர் மேம்பாட்டுத் திட்ட குடிநீர் பணிகளும் ஆய்வு செய்யப்பட்டன.\nசுற்றுச்சூழல் பாதுகாப்பை மேம்படுத்தும் வகையில் பசுமையாக்கப் பணிகளைச் சிறப்பாகக் கையாண்ட சத்தியமங்கலம் நகராட்சிக்கு அவர் பாராட்டு தெரிவித்தார்.\nஇதைத் தொடர்ந்து புன்செய் புளியம்பட்டி நகராட்சியிலும் மண்டல இயக்குநர் ஆய்வு செய்தார். ஆய்வின்போது சத்தியமங்கலம் நகராட்சி ஆணையர் எஸ்.வெங்கடேஷ்வரன், புன்செய் புளியம்பட்டி நகராட்சி ஆணையர் கருணாம்பாள் மற்றும் அலுவலர்கள் உடனிருந்தனர்.\n\n📍 இடம்: சத்தியமங்கலம் நகராட்சி, ஈரோடு மாவட்டம்\n🗓️ நாள்: 20 நவம்பர் 2026 (வியாழக்கிழமை)\n\nSathyamangalam municipality tree planting and compost works inspected | Erode news\n📍 சத்தியமங்கலம், ஈரோடு | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #ErodeNews #ஈரோடு",
-   "prompts": "A group of municipal officers and corporation workers in Sathyamangalam walks along a newly planted row of young saplings on a roadside strip, with the Sathyamangalam forest hills faintly visible in the background. The Zonal Director of Municipal Administration stands at the front in a formal shirt and trousers, while the Municipal Commissioner and several municipal officials follow in a loose group. Workers in shirts and veshti or trousers stand near the planted saplings with bamboo guards and water pipes lying on the ground. Shot seen from behind the group at eye level, in bright daylight on a Thursday, with a clear sky. Shot on a 35 mm lens, wide enough to show the tree-lined urban roadside and the distant hills. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a large compost heap at the municipal garbage dump in Sathyamangalam, with dark, crumbling organic manure piled in neat rows and green saplings in polybags placed nearby. Two corporation workers in shirts and veshti stand at the edge, one of them with a fork, while an official in trousers examines the heap from a distance, seen from behind. Sorted waste and an open yard surround the compost area under bright daylight. Camera at slightly high eye level, 35 mm, close enough to show the texture of the compost and the polybag saplings. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/19/sathyamangalam-solid-waste-management-project-works-survey-by-municipal-administrative-zonal-director",
-   "published": "2026-11-19T21:03:55.741Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script must have no English letters (write English words and abbreviations in Tamil script)",
+   "reel_script": "கோபிசெட்டிபாளையம் அருகே குருமந்தூரில் இந்து மக்கள் சீர்வரிசை கொண்டு ஊர்வலமாகச் சென்றனர். இன்று வெள்ளிக்கிழமை நடந்த புதிய பள்ளிவாசல் திறப்பு விழாவில் இந்த நிகழ்வு நடைபெற்றது. அப்பகுதி இந்து மக்கள் தட்டுகளில் பழங்கள், இனிப்புகளை ஏந்தி, மேளதாளத்துடன் பள்ளிவாசலுக்குச் சென்றனர். அங்கு இஸ்லாமிய மக்கள் அவர்களை ஆரத்தழுவி உற்சாகமாக வரவேற்றனர். குருமந்தூரில் மதங்களைக் கடந்த சகோதரத்துவம் பல தலைமுறைகளாகத் தொடர்கிறது. கோவில் திருவிழாக்களின்போது இஸ்லாமிய மக்கள் 'தாய்வீட்டுச் சீதனமாக' சீர்வரிசை வழங்குவது வழக்கம். இந்த நிகழ்வு சமூக வலைதளங்களிலும் பொதுமக்களிடையேயும் பெரும் பாராட்டைப் பெற்று வருகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🤝 குருமந்தூரில் பள்ளிவாசல் திறப்பு விழாவில் இந்து மக்கள் சீர்வரிசை ஊர்வலம்\n\n📰 முழு விவரம்:\nகோபிசெட்டிபாளையம் அருகே குருமந்தூரில் புதிதாகக் கட்டப்பட்ட பள்ளிவாசலின் திறப்பு விழா இன்று (வெள்ளிக்கிழமை) நடைபெற்றது. இதில் அப்பகுதி இந்து மக்கள் திரளாக ஒன்றிணைந்து, தட்டுகளில் பழங்கள், இனிப்புகள் உள்ளிட்ட மங்கலப் பொருட்களை ஏந்தியபடி மேளதாளங்களுடன் ஊர்வலமாகப் பள்ளிவாசலுக்குச் சென்றனர். அங்கு இஸ்லாமிய மக்கள் அவர்களை ஆரத்தழுவி உற்சாகமாக வரவேற்றனர்.\nகுருமந்தூரில் மதங்களைக் கடந்த சகோதரத்துவம் பல தலைமுறைகளாகத் தொடர்கிறது. கோவில் திருவிழாக்களின்போது இஸ்லாமிய மக்கள் 'தாய்வீட்டுச் சீதனமாக' சீர்வரிசை பொருட்களை வழங்குவது வழக்கம்.\nஇந்த நிகழ்வு சமூக வலைதளங்களிலும் பொதுமக்களிடையேயும் பெரும் பாராட்டைப் பெற்று வருகிறது.\n\nKurumanthur mosque opening Hindu gifts procession | Erode news\n📍 குருமந்தூர், கோபிசெட்டிபாளையம், ஈரோடு மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #மதநல்லிணக்கம் #ErodeNews",
+   "prompts": "A long procession of Hindu villagers in Kurumanthur, near Gobichettipalayam in Erode district, walks along a village street towards a newly built mosque for its opening ceremony, carrying brass plates heaped with fruits and sweets above their heads. Drummers and a melam band in front play drums and nadaswaram, and the procession is led by women in bright cotton sarees and men in white veshti and shirts. Ahead, the new mosque with its white dome and minaret stands in daylight, and some Muslim villagers in white kurta and skull caps are gathered at its gate to welcome them. The street is a plain rural village road with mud-plastered houses, a few two-wheelers parked at the side, and paddy fields visible at the edge of the village under a clear sky. Seen from behind and slightly above eye level with a 35 mm lens, the scene is wide enough to show the procession, the mosque and the village in one frame. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of brass and steel plates carried in the procession, heaped with bananas, coconuts, sweets and flowers, held by the hands of village women in sarees, bangles visible on their wrists. The plates are arranged on a white cloth, with a tray of sweets and a few marigold garlands in the foreground. Behind the plates, a blurred row of festive villagers and a drummer's hands striking a drum can be seen, and the soft white wall of the new mosque lies out of focus in the background. Natural daylight falls on the bright fruits and metal plates, and the camera is held at waist height with a shallow depth of field, close enough to show the gifts clearly without showing any faces or readable text. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/erode-hindu-people-carrying-banners-at-the-mosque-opening-ceremony",
+   "published": "2026-11-20T08:38:17Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: source/outlet name or link appears: தி இந்து",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795162120/erode360/tzwegiaevi2qyv5rkvm1.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795162123/erode360/nibylm0zwgvcdsnssns3.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795171572/erode360/flcwnecqjucjnup9c1i0.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795171575/erode360/an95acv1fzlufhlgvpjh.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "மொடக்குறிச்சியில் டெங்கு காய்ச்சலால் 7 மாத கர்ப்பிணி பெண் உயிரிழப்பு",
+   "english_headline": "7-month pregnant woman from Modakkurichi dies of dengue fever while undergoing treatment in Coimbatore",
+   "category": "Health",
+   "location": "Modakkurichi, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "டெங்கு பாதிப்பு",
+    "loc": "மொடக்குறிச்சி",
+    "hl1": "மொடக்குறிச்சியில் டெங்குக்கு கர்ப்பிணி",
+    "hl2": "7 மாத கர்ப்பிணி காந்திமதி",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "மொடக்குறிச்சியைச் சேர்ந்த <b>39 வயது</b> காந்திமதிக்கு",
+       "தனியார் மருத்துவமனை, ஈரோடு அரசு மருத்துவக்கல்லூரி",
+       "சோதனையில் டெங்கு காய்ச்சல் இருப்பது உறுதி"
+      ]
+     },
+     {
+      "title": "உயிரிழப்பு",
+      "lines": [
+       "மேல்சிகிச்சைக்கு கோவை அரசு மருத்துவக் கல்லூரி",
+       "தீவிர சிகிச்சை பலனின்றி நேற்று உயிரிழப்பு",
+       "7 மாத கர்ப்பிணியாக இருந்தார்"
+      ]
+     },
+     {
+      "title": "சுகாதாரத்துறை",
+      "lines": [
+       "சுகாதாரத்துறையினர் குடியிருப்பு பகுதியில் நேரில் ஆய்வு",
+       "கொசு ஒழிப்பு, தூய்மைப் பணிகள் தீவிரம்",
+       "டெங்கு தடுப்பு விழிப்புணர்வு நடவடிக்கைகள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "மொடக்குறிச்சியில் டெங்கு காய்ச்சலால் 7 மாத கர்ப்பிணி பெண் உயிரிழந்தார். மொடக்குறிச்சியைச் சேர்ந்த 39 வயது காந்திமதிக்கு கடந்த சில நாட்களாக காய்ச்சல் இருந்தது. முதலில் தனியார் மருத்துவமனையிலும், பின்னர் ஈரோடு அரசு மருத்துவக்கல்லூரி மருத்துவமனையிலும் சேர்க்கப்பட்டார். அங்கு நடத்தப்பட்ட சோதனையில் அவருக்கு டெங்கு காய்ச்சல் இருப்பது உறுதி செய்யப்பட்டது. மேல்சிகிச்சைக்காக கோவை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் அனுமதிக்கப்பட்டார். அங்கு தீவிர சிகிச்சை அளிக்கப்பட்டு வந்தது. ஆனால் நேற்று சிகிச்சை பலனின்றி காந்திமதி உயிரிழந்தார். மாவட்ட சுகாதார அலுவலர் அருணா தெரிவித்தார். உயிரிழந்த காந்திமதியின் குடியிருப்பு பகுதியில் சுகாதாரத்துறையினர் நேரில் ஆய்வு செய்தனர். கொசு ஒழிப்பு மற்றும் தூய்மைப் பணிகளை தீவிரப்படுத்தியுள்ளனர். டெங்கு தடுப்பு குறித்த விழிப்புணர்வு உள்ளிட்ட அனைத்து நடவடிக்கைகளும் எடுக்கப்பட்டு வருவதாக அவர் தெரிவித்தார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 மொடக்குறிச்சியில் டெங்குக்கு 7 மாத கர்ப்பிணி பலி\n\n📰 முழு விவரம்:\nமொடக்குறிச்சியைச் சேர்ந்த 39 வயது காந்திமதிக்கு கடந்த சில நாட்களாக காய்ச்சல் இருந்தது. முதலில் தனியார் மருத்துவமனையிலும், பின்னர் ஈரோடு அரசு மருத்துவக்கல்லூரி மருத்துவமனையிலும் சிகிச்சை பெற்றார். அங்கு நடத்தப்பட்ட சோதனையில் டெங்கு காய்ச்சல் இருப்பது உறுதி செய்யப்பட்டது. மேல்சிகிச்சைக்காக கோவை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் அனுமதிக்கப்பட்டார். தீவிர சிகிச்சை பலனின்றி நேற்று அவர் உயிரிழந்தார்.\n📍 இடம்: மொடக்குறிச்சி, ஈரோடு மாவட்டம்\n👮 நடவடிக்கை: சுகாதாரத்துறையினர் குடியிருப்பு பகுதியில் நேரில் ஆய்வு செய்து கொசு ஒழிப்பு, தூய்மைப் பணிகளைத் தீவிரப்படுத்தியுள்ளனர். டெங்கு தடுப்பு குறித்த விழிப்புணர்வு உள்ளிட்ட நடவடிக்கைகளும் எடுக்கப்பட்டு வருகின்றன என மாவட்ட சுகாதார அலுவலர் அருணா தெரிவித்துள்ளார்.\n\nModakkurichi dengue death pregnant woman | Erode news\n📍 மொடக்குறிச்சி, ஈரோடு மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Modakkurichi #டெங்கு #ErodeNews",
+   "prompts": "A Tamil Nadu health department worker in a white uniform and cap carries a mosquito fogging machine on his back and sprays smoke through a residential lane in Modakkurichi, Erode district. The street is narrow with low concrete houses, tiled roofs and open household water pots stacked along the wall, while a few residents stand at their doorways watching from a distance. Two-wheelers are parked at the roadside and a corporation worker in a green uniform sweeps garbage beside a drain. The scene is in daylight with a soft haze from the fogging, shot at eye level on a 35 mm lens, wide enough to show the houses, the lane and the health workers. Faces are kept away from the camera and people are seen from behind or in the distance. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a mosquito fogging machine's nozzle releasing a white plume of mist over an open drain filled with stagnant water in a residential lane in Modakkurichi. Beside the drain, a plastic water pot and a discarded tyre sit on the wet ground, and a pair of rubber slippers lies near the wall. The shot is taken at low eye level in soft daylight, with the mist lit by sunlight and the houses blurred in the background. Shot on a 35 mm lens, shallow depth of field, focusing on the nozzle, the mist and the standing water, with no people visible in close detail. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.maalaimalar.com/news/tamilnadu/woman-dies-of-dengue-fever",
+   "published": "2026-11-20T10:03:18Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795171590/erode360/p7hxuqe7hno6jx7adacy.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795171594/erode360/g3sazdfh9zhresnstcrr.jpg"
    ]
   }
  ]
