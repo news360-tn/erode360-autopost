@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-20T17:00+05:30",
+ "updated": "2026-11-20T18:57+05:30",
  "posts_measured": 144,
  "topic_weight": {
   "crime": 1.5,
   "weather": -0.5,
   "civic": -0.5,
-  "accident": 0.92,
+  "accident": 0.99,
   "education": -0.5,
-  "temple": -0.17,
-  "politics": -0.08,
-  "power_cut": 0.76,
+  "temple": -0.14,
+  "politics": -0.04,
+  "power_cut": -0.39,
   "poultry_agri": -0.5
  },
  "topic_n": {
@@ -27,8 +27,8 @@
  "best_hours_ist": [
   1,
   7,
-  16,
-  17
+  17,
+  10
  ],
  "top_openings": [
   "🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு",
@@ -40,7 +40,7 @@
  "best_topics": [
   "crime",
   "accident",
-  "power_cut"
+  "politics"
  ],
  "weak_topics": [
   "weather",
