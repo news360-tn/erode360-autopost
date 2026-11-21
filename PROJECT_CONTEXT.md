@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `a519d59` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
+| 2026-11-21 | `f9b8413` | stories shared |
+| 2026-11-21 | `ca173a4` | rasipalan posted |
+| 2026-11-20 | `69ebe59` | pick: written and posted |
+| 2026-11-20 | `4d78422` | pick: picked news saved |
+| 2026-11-20 | `619c663` | pick: picked news saved |
+| 2026-11-20 | `e777795` | pick: list sent |
+| 2026-11-20 | `b9b310f` | pick: written and posted |
+| 2026-11-20 | `2ae4e62` | pick: list sent |
+| 2026-11-20 | `3778194` | pick: written and posted |
+| 2026-11-20 | `894ffd6` | pick: picked news saved |
 | 2026-11-20 | `fc8038b` | pick: picked news saved |
 | 2026-11-20 | `2f61447` | pick: list sent |
 | 2026-11-20 | `861a76a` | Facebook first comment = the same source comment as Instagram (link into the text if Facebook refuses the comment) |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `3075f0a` | pick: list sent |
 | 2026-11-20 | `08db919` | News reels: one design on every page - the earlier, proven design with the source and date shown clearly |
 | 2026-11-20 | `012faaf` | Writer: the opening headline (hl1) is always a complete phrase |
-| 2026-11-20 | `9bdc685` | News reels: the design team's design (Tamil) with the 360 clock branding on every page |
-| 2026-11-20 | `1ec3a97` | pick: written and posted |
-| 2026-11-20 | `af2defd` | pick: list sent |
-| 2026-11-20 | `1ef6294` | goldrate posted |
-| 2026-11-20 | `6c37016` | Posting loop: start the next posting run with 3 tries |
-| 2026-11-20 | `57c6c28` | pick: written and posted |
-| 2026-11-20 | `9a7b685` | pick: picked news saved |
-| 2026-11-20 | `8ae5c55` | pick: picked news saved |
-| 2026-11-20 | `fb4d199` | pick: list sent |
-| 2026-11-20 | `ff9df65` | Cloudinary clean-up every 6 hours; red run + e-mail when the login is refused, usage unreadable or 80% used |
-| 2026-11-20 | `4fbe983` | pick: written and posted |
 <!-- recent-changes:end -->
