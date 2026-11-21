@@ -83,6 +83,13 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `96f4354` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
+| 2026-11-21 | `bf28e80` | powercut: notices written |
+| 2026-11-21 | `2aa7f10` | powercut: notices written |
+| 2026-11-21 | `7199981` | pick: written and posted |
+| 2026-11-21 | `d96d831` | pick: picked news saved |
+| 2026-11-21 | `bd1d320` | pick: picked news saved |
+| 2026-11-21 | `8a0d054` | pick: list sent |
 | 2026-11-21 | `8e96973` | Post news as soon as it is ready; only news with a source link; collect every 4 hours, max 35 a day |
 | 2026-11-21 | `35793f3` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
 | 2026-11-21 | `c37eef8` | pick: written and posted |
@@ -106,11 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `2f61447` | pick: list sent |
 | 2026-11-20 | `861a76a` | Facebook first comment = the same source comment as Instagram (link into the text if Facebook refuses the comment) |
 | 2026-11-20 | `88a33c3` | Facebook: up to 18 news a day per page (45 min apart), article link in the first comment, 3 hashtags |
-| 2026-11-20 | `ff496f5` | Daily rasipalan as a reel in the 360 gold-reel pattern (music only); carousel only if the reel fails |
-| 2026-11-20 | `6eba483` | Reels without a picture: a designed background by news type, never the page logo |
-| 2026-11-20 | `0646347` | stories shared |
-| 2026-11-20 | `e5e1994` | stories shared |
-| 2026-11-20 | `ee33be6` | powercut: notices written |
-| 2026-11-20 | `ffb4079` | Every news reel goes to the story again (stories_urgent_only false) |
-| 2026-11-20 | `625c0fb` | powercut: notices written |
 <!-- recent-changes:end -->
