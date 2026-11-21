@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `35793f3` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
+| 2026-11-21 | `c37eef8` | pick: written and posted |
+| 2026-11-21 | `f788bc2` | goldrate posted |
+| 2026-11-21 | `b25d130` | pick: picked news saved |
+| 2026-11-21 | `3dbc6ea` | pick: picked news saved |
+| 2026-11-21 | `84a7dcf` | pick: list sent |
 | 2026-11-21 | `bfb9393` | Keep 20 of Instagram's 50 daily posts for news: stories stop at 30 (news was waiting at 48/50) |
 | 2026-11-21 | `a519d59` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
 | 2026-11-21 | `f9b8413` | stories shared |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `ffb4079` | Every news reel goes to the story again (stories_urgent_only false) |
 | 2026-11-20 | `625c0fb` | powercut: notices written |
 | 2026-11-20 | `c3a1464` | pick: written and posted |
-| 2026-11-20 | `e714cf1` | pick: list sent |
-| 2026-11-20 | `0b161fe` | Promotion ads (owner-approved only, bottom of the reel during the news) and twice-a-day YouTube details e-mail |
-| 2026-11-20 | `a8f13a9` | Fix: reels again made with reel4 (config reel_design back to v4) |
-| 2026-11-20 | `1316375` | pick: written and posted |
-| 2026-11-20 | `3075f0a` | pick: list sent |
-| 2026-11-20 | `08db919` | News reels: one design on every page - the earlier, proven design with the source and date shown clearly |
 <!-- recent-changes:end -->
