@@ -1,0 +1,51 @@
+writing [N]: நிதி நிறுவனத்தில் கடன் பாக்கி பொறியியல் கல்லூரிக்கு ‘சீல்’
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (26s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (17s)
+factcheck by gemini/gemini-3.6-flash: 1 problems
+  Slide 2 line 1 ('தனியார் நிதி நிறுவனத்தில் பெற்ற') is an incomplete Tamil phrase with no clear meaning.
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  fact-check: Slide 2 line 1 ('தனியார் நிதி நிறுவனத்தில் பெற்ற') is an incomplete Tamil phrase with no clear meaning.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (31s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.6-flash (12s)
+factcheck by gemini/gemini-3.6-flash: 0 problems
+attempt 2 gemini/gemini-3.6-flash: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (29s)
+proofread rejected (2 problems)
+  slide 1 line 2 longer than 60 characters
+  slide 2 line 2 longer than 60 characters
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (36s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+image match: False The photo shows police officers standing at a gate with a police station emblem on the side wall, not Aishwarya Engineer
+image match: False The image features a sign reading 'FINANCIAL COLLEGE' instead of 'Aishwarya Engineering College', and appears to be an A
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+images made: 2 for 'Aishwarya Engineering College near Bhava'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261121-2321","first":"RN-191"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/engineering-college-sealed-for-defaulting-on-loan-at-financial-institution/4382746
+candidate filter: collected=1
+to write: 1 Erode district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Erode; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/engineering-c
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 75 min
+filed: 1 Erode district stories (target 1), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
