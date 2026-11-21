@@ -3,425 +3,129 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/worker-disaster/4382085",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/kumbabhishekam-of-the-anbirpiriyal-amman-temple-in-sathyamangalam",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/decision-on-the-lamp-the-hindu-front-that-gave-the-sweet/4382083",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/20/action-taken-against-factories-that-polluted-ponds-and-small-water-bodies",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kumbhabhishekam-1st-anniversary-celebrations-at-kailasanathar-temple/4382082",
-  "candidate filter: collected=5",
-  "to write: 5 Erode district candidates (max 5 stories)",
-  "round: top 5 of 5 candidates",
-  "candidates waiting: 5 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "manual link added: https://www.hindutamil.in/news/tamilnadu/income-tax-raid-at-lorry-owners-residence-in-erode",
+  "candidate filter: collected=1",
+  "to write: 1 Erode district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Erode; time left 79 min",
+  "try (N) manual=True: https://www.hindutamil.in/news/tamilnadu/income-tax-raid-at-",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 10})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 12})",
-  "candidate loop ended: left 0, tried={'N': 5}, done={'N': 5}, time left 76 min",
-  "filed: 5 Erode district stories (target 5), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 75 min",
+  "filed: 1 Erode district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":5,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3.6-flash (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (18s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 960 (char 959)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (9s)",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (4s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "ok groq/openai/gpt-oss-120b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3.6-flash (29s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "திருப்பரங்குன்றம் தீபம்: தீர்ப்பை வரவேற்று ஈரோட்டில் இனிப்பு வழங்கிய இந்து முன்னணி",
-   "english_headline": "Hindu Munnani distributes sweets in Erode welcoming verdict allowing lamp lighting on Thiruparankundram hill",
-   "category": "Temples & Events",
-   "location": "Erode city, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோவில் நிகழ்வு",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் தீர்ப்பை வரவேற்று இனிப்பு",
-    "hl2": "இந்து முன்னணி சார்பில்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "திருப்பரங்குன்றம் மலை மீது தீபம் ஏற்ற அனுமதி",
-       "உச்சநீதிமன்ற தீர்ப்பை வரவேற்று இனிப்பு வழங்கல்",
-       "இந்து முன்னணியினர் சார்பில் நடந்தது"
-      ]
-     },
-     {
-      "title": "எங்கே?",
-      "lines": [
-       "ஈரோடு மீனாட்சிசுந்தரனார் சாலையில்",
-       "பெரிய மாரியம்மன் கோவில் முன்",
-       "பொதுமக்கள், பக்தர்களுக்கு இனிப்பு வழங்கப்பட்டது"
-      ]
-     },
-     {
-      "title": "முன்னதாக",
-      "lines": [
-       "ஈரோடு கள்ளுக்கடைமேடு பத்ரகாளி அம்மன் கோவிலில் கூட்டு",
-       "தீபம் ஏற்ற அனுமதி வேண்டி பதாகைகள் ஏந்தி பிரார்த்தனை",
-       "மாவட்டப் பொதுச் செயலர் கார்த்திக் தலைமையில் நடந்தது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோட்டில் திருப்பரங்குன்றம் தீர்ப்பை வரவேற்று இந்து முன்னணியினர் இனிப்பு வழங்கினர். திருப்பரங்குன்றம் மலை மீது தீபம் ஏற்ற அனுமதி வழங்கிய உச்சநீதிமன்ற தீர்ப்பை வரவேற்று இந்த நிகழ்வு நடைபெற்றது. நேற்று மாலை மீனாட்சிசுந்தரனார் சாலையில் உள்ள பெரிய மாரியம்மன் கோவில் முன் பொதுமக்கள் மற்றும் பக்தர்களுக்கு இனிப்பு வழங்கப்பட்டது. இதற்கு முன், ஈரோடு கள்ளுக்கடைமேடு பத்ரகாளி அம்மன் கோவிலில் இந்து முன்னணி சார்பில் கூட்டு பிரார்த்தனை செய்யப்பட்டது. மாவட்டப் பொதுச் செயலர் கார்த்திக் தலைமையில் பதாகைகள் ஏந்தி பிரார்த்தனை நடைபெற்றது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🙏 ஈரோட்டில் தீர்ப்பை வரவேற்று இனிப்பு வழங்கிய இந்து முன்னணி\n\n📰 முழு விவரம்:\nதிருப்பரங்குன்றம் மலை மீது தீபம் ஏற்ற அனுமதி வழங்கிய உச்சநீதிமன்ற தீர்ப்பை வரவேற்று, ஈரோடு மீனாட்சிசுந்தரனார் சாலையில் உள்ள பெரிய மாரியம்மன் கோவில் முன் இந்து முன்னணியினர் சார்பில் பொதுமக்கள், பக்தர்களுக்கு இனிப்பு வழங்கப்பட்டது.\nஇதற்கு முன், ஈரோடு கள்ளுக்கடைமேடு பத்ரகாளி அம்மன் கோவிலில் தீபம் ஏற்ற அனுமதி வேண்டி இந்து முன்னணி சார்பில் கூட்டு பிரார்த்தனை செய்யப்பட்டது. மாவட்டப் பொதுச் செயலர் கார்த்திக் தலைமையில் பதாகைகள் ஏந்தி பிரார்த்தனை நடைபெற்றது.\n\n📍 இடம்: மீனாட்சிசுந்தரனார் சாலை, ஈரோடு\n🛕 கோவில்: பெரிய மாரியம்மன் கோவில் (இனிப்பு வழங்கல்), பத்ரகாளி அம்மன் கோவில் (பிரார்த்தனை)\n\nErode Hindu Munnani sweets after Thiruparankundram verdict | Erode news\n📍 ஈரோடு, ஈரோடு மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ஈரோடு #ErodeNews #Thiruparankundram",
-   "prompts": "Hindu Munnani workers hand out sweets to devotees in front of the Periya Mariamman temple on Meenakshisundaranar Road in Erode city, Tamil Nadu. Seen from slightly behind and at a distance, a line of men in white shirts and veshti and women in cotton sarees stand near the temple's colourful gopuram, which rises in tiers of painted deities. Party workers in plain shirts hold open cardboard boxes of sweets and pass small packets to devotees who extend their hands. Two-wheelers and an autorickshaw are parked along the road edge, and a few town buses pass in the background. It is early evening with warm street lights coming on and a soft orange sky. Camera at eye level, 35 mm, wide enough to show the temple entrance, the sweet distribution and the road. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cardboard box of sweets held open in the hands of a Hindu Munnani worker in a white shirt, with small paper packets of sweets being handed out to outstretched hands of devotees in the foreground. Behind, the entrance steps and pillars of a South Indian temple are softly blurred, with a few women in sarees and men in veshti waiting in line. Warm evening light from street lamps and a temple lamp glows on the sweets. Some stacked banners or folded placards lean against a pillar in the background. Camera slightly high, 35 mm, shallow depth of field so the faces stay out of focus or turned away. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/decision-on-the-lamp-the-hindu-front-that-gave-the-sweet/4382083",
-   "published": "2026-11-21T04:27:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231608/erode360/axjl5dlbcj9bqyxgbz9g.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231617/erode360/fkse84qhaaqo1vcyil1p.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சென்னிமலை கைலாசநாதர் கோவில் கும்பாபிஷேக முதலாம் ஆண்டு நிறைவு விழா இன்று",
-   "english_headline": "Chennimalai Kailasanathar temple kumbabhishekam first anniversary festival begins today 9:30 AM",
-   "category": "Temples & Events",
-   "location": "Chennimalai Town East Raja Veethi, Chennimalai, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோவில் விழா",
-    "loc": "சென்னிமலை",
-    "hl1": "சென்னிமலையில் கோவில் விழா இன்று",
-    "hl2": "காலை 9:30 மணி முதல்",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "சென்னிமலை டவுன் கிழக்கு ராஜ வீதி",
-       "கைலாசநாதர் கோவில் கும்பாபிஷேக நிறைவு விழா",
-       "இன்று காலை <b>9:30 மணி</b> முதல் துவங்குகிறது"
-      ]
-     },
-     {
-      "title": "யார் அழைப்பு?",
-      "lines": [
-       "சுப்பிரமணியசுவாமி கோவிலின் உபகோவில் இது",
-       "கோவில் நிர்வாகத் தலைவர் பழனிவேலு அழைப்பு"
-      ]
-     },
-     {
-      "title": "பக்தர்களுக்கு",
-      "lines": [
-       "பக்தர்கள், பொதுமக்கள் திரளாக கலந்துகொள்ளுங்கள்",
-       "இறையருள் பெற அழைக்கப்படுகின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னிமலையில் கைலாசநாதர் கோவிலின் கும்பாபிஷேக முதலாம் ஆண்டு நிறைவு விழா இன்று தொடங்குகிறது. இன்று காலை 9:30 மணிக்கு விழா துவங்குகிறது. விழா நடைபெறும் இடம் சென்னிமலை டவுன் கிழக்கு ராஜ வீதியில் அமைந்துள்ள கைலாசநாதர் கோவில். இந்தக் கோவில் சென்னிமலை சுப்பிரமணியசுவாமி கோவிலின் உபகோவிலாகும். கோவில் நிர்வாகத்தின் தலைவர் பழனிவேலு, பக்தர்களும் பொதுமக்களும் திரளாகக் கலந்துகொண்டு இறையருள் பெறுமாறு வேண்டுகோள் விடுத்துள்ளார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 சென்னிமலையில் கோவில் விழா இன்று காலை 9:30 மணிக்கு\n\n📰 முழு விவரம்:\nசென்னிமலை டவுன் கிழக்கு ராஜ வீதியில் அமைந்துள்ள கைலாசநாதர் கோவில் கும்பாபிஷேக முதலாம் ஆண்டு நிறைவு விழா இன்று காலை 9:30 மணிக்குத் துவங்குகிறது. இந்தக் கோவில் சென்னிமலை சுப்பிரமணியசுவாமி கோவிலின் உபகோவிலாகும்.\n📍 இடம்: சென்னிமலை டவுன் கிழக்கு ராஜ வீதி\n🕘 நேரம்: இன்று காலை 9:30 மணி\nℹ️ மக்கள் கவனத்திற்கு: பக்தர்கள், பொதுமக்கள் திரளாகக் கலந்துகொண்டு இறையருள் பெறுமாறு கோவில் நிர்வாகத் தலைவர் பழனிவேலு வேண்டுகோள் விடுத்துள்ளார்.\n\nChennimalai Kailasanathar temple festival today 9:30 AM | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
-   "prompts": "A crowd of devotees and local residents walks towards the Kailasanathar temple on East Raja Veethi in Chennimalai Town at 9:30 in the morning, marking the start of the first anniversary festival of the temple's kumbabhishekam. The temple gopuram rises above the narrow street lined with old tiled-roof houses and small shops in the Erode district town. Men in shirts with veshti and women in cotton sarees and salwar kameez walk in a loose, orderly flow, some carrying flower garlands, brass plates and coconuts for offering. Two-wheelers are parked along the edge of the road, and a few bright festive flags and a rangoli kolam decorate the temple entrance. Bright morning daylight falls across the street. Shot at eye level and slightly high, 35 mm, wide enough to show the temple tower, the street and the crowd, with the people seen from behind or far away. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a brass puja plate filled with flower garlands, a banana bunch, betel leaves and a coconut, placed on the stone step at the entrance of the Kailasanathar temple in Chennimalai Town, East Raja Veethi. Behind it, the carved pillar and lower part of the temple gopuram are visible, with a decorated kolam on the ground and the bare feet of devotees stepping across the threshold in the soft morning light. The scene shows the start of the anniversary festival in an Erode district temple town, with no faces visible. Shot at a low angle, 35 mm, shallow depth of field to keep the offerings sharp and the background softly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kumbhabhishekam-1st-anniversary-celebrations-at-kailasanathar-temple/4382082",
-   "published": "2026-11-21T04:27:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 52 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231635/erode360/w79bddsaqrk82ozwcsz1.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231644/erode360/odwhsljc1g8pavyuqnhw.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "குளம், குட்டைகளை மாசடைய செய்த தொழிற்சாலைகள் மீது நடவடிக்கை கோரிக்கை",
-   "english_headline": "Villagers petition MLA seeking action against factories that polluted ponds with untreated effluent near Perundurai SIPCOT",
-   "category": "Civic Issues",
-   "location": "Perundurai SIPCOT area, Chennimalai union, Erode district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மாசு கட்டுப்பாடு",
-    "loc": "பெருந்துறை சிப்காட்",
-    "hl1": "பெருந்துறையில் குளம் நடவடிக்கை கோரிக்கை",
-    "hl2": "குளங்களில் 4000 TDS",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சினை?",
-      "lines": [
-       "பெருந்துறை சிப்காட் வளாகத்தில் சிவப்பு, ஆரஞ்ச் வகை ஆலைகள்",
-       "அருகே உள்ள குளம், குட்டைகளில் <b>4000 TDS</b> உப்புத் தன்மை",
-       "மக்களால் தண்ணீரைப் பயன்படுத்த முடியவில்லை"
-      ]
-     },
-     {
-      "title": "ஏன் இந்த நிலை?",
-      "lines": [
-       "கடந்த ஒரு மாதமாக கழிவுநீரை சுத்திகரிக்காமல்",
-       "முன்பு இரண்டு ஆண்டுகள் கட்டுப்பாட்டுடன் இருந்ததாக மக்கள்",
-       "ஓடையக்காட்டூர் குளம், கண்ணைக்காட்டு குட்டை நிரம்பி"
-      ]
-     },
-     {
-      "title": "யார் மனு",
-      "lines": [
-       "பாதிக்கப்பட்ட மக்கள் காங்கயம் MLA என்.எஸ்.என். நடராஜிடம் மனு",
-       "பாலதொழுவு, புதுப்பாளையம், ஓட்டபறை, முகாசி பிடாரியூர் பகுதி",
-       "உடனடி நடவடிக்கை கோரிக்கை"
-      ]
-     },
-     {
-      "title": "அடுத்து என்ன?",
-      "lines": [
-       "நடவடிக்கை எடுப்பதாக MLA உறுதியளித்தார்",
-       "சிப்காட் அதிகாரி, மாசுக் கட்டுப்பாடு வாரிய அதிகாரிகளிடம்",
-       "நடவடிக்கை இல்லையெனில் தன் தலைமையில் போராட்டம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பெருந்துறை சிப்காட் அருகே குளம், குட்டைகள் மாசடைந்துள்ளதால் மக்கள் பயன்படுத்த முடியாத நிலை உள்ளது. சிவப்பு, ஆரஞ்ச் வகை ஆலைகள் கழிவுநீரை சுத்திகரிக்காமல் வெளியேற்றுவதாக மக்கள் குற்றம் சாட்டுகின்றனர். இதனால் அருகே உள்ள குளம், குட்டைகளில் தண்ணீரில் 4000 டி டி எஸ் அளவுக்கு உப்புத் தன்மை உள்ளது. கடந்த இரண்டு ஆண்டுகள் கட்டுப்பாட்டுடன் இருந்த ஆலைகள், கடந்த ஒரு மாதமாக கழிவுநீரை சுத்திகரிக்காமல் வெளியேற்றுவதாக மக்கள் கூறுகின்றனர். சிப்காட் அருகே உள்ள ஓடையக்காட்டூர் குளம் நிரம்பியது; பின்னர் கண்ணைக்காட்டு குட்டை நிரம்பி, அதிக நீர் பாலதொழுவு குளத்தில் கலக்கிறது. பாலதொழுவு, புதுப்பாளையம், ஓட்டபறை, முகாசி பிடாரியூர் மற்றும் சுற்றுவட்டார கிராம மக்கள் காங்கயம் சட்டப்பேரவை உறுப்பினர் என் எஸ் என் நடராஜிடம் மனு அளித்தனர். சம்பந்தப்பட்ட ஆலைகள் மீது உடனடி நடவடிக்கை எடுக்க வேண்டும் என மனுவில் கோரியுள்ளனர். உடனடி நடவடிக்கை எடுப்பதாக அவர் உறுதியளித்தார். சிப்காட் திட்ட அதிகாரி, மாசுக் கட்டுப்பாட்டு வாரிய அதிகாரிகளிடம் தொடர்பு கொண்டு பேசினார். அதிகாரிகள் நடவடிக்கை எடுக்காவிட்டால், பொதுமக்களை திரட்டி அவர் தலைமையில் போராட்டம் நடத்தப்படும் என்று தெரிவித்தார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பெருந்துறை சிப்காட் அருகே குளங்கள் மாசு: ஆலைகள் மீது நடவடிக்கை கோரிக்கை\n\n📰 முழு விவரம்:\nபெருந்துறை சிப்காட் வளாகத்தில் சிவப்பு, ஆரஞ்ச் வகை ஆலைகள் கழிவுநீரை சுத்திகரிக்காமல் வெளியேற்றுவதால் அருகே உள்ள குளம், குட்டைகளில் உள்ள தண்ணீரில் 4000 TDS அளவுக்கு உப்புத் தன்மை உள்ளது. மக்களால் அந்தத் தண்ணீரைப் பயன்படுத்த முடியவில்லை.\nகடந்த இரண்டு ஆண்டுகள் கட்டுப்பாட்டுடன் இருந்த ஆலைகள், கடந்த ஒரு மாதமாக கழிவுநீரை சுத்திகரிக்காமல் வெளியேற்றுவதாக மக்கள் கூறுகின்றனர். சிப்காட் அருகே உள்ள ஓடையக்காட்டூர் குளம் நிரம்பி, கண்ணைக்காட்டு குட்டை நிரம்பியதால், பாலதொழுவு குளத்தில் அதிக நீர் கலக்கிறது.\nபாலதொழுவு, புதுப்பாளையம், ஓட்டபறை, முகாசி பிடாரியூர் மற்றும் சுற்றுவட்டார கிராம மக்களும் போராட்டக் குழுவினரும் காங்கயம் சட்டப்பேரவை உறுப்பினர் என்.எஸ்.என். நடராஜிடம் மனு அளித்தனர்.\n🏭 இடம்: பெருந்துறை சிப்காட் பகுதி, சென்னிமலை ஒன்றியம்\n👮 நடவடிக்கை: MLA உடனடி நடவடிக்கை எடுப்பதாக உறுதியளித்தார். சிப்காட் திட்ட அதிகாரி, மாசுக் கட்டுப்பாட்டு வாரிய அதிகாரிகளிடம் தொலைபேசியில் பேசினார். அதிகாரிகள் நடவடிக்கை எடுக்கவில்லை என்றால், பொதுமக்களை திரட்டி அவர் தலைமையில் போராட்டம் நடத்தப்படும் என்றார்.\nℹ️ மக்கள் கவனத்திற்கு: குளத்து நீரை குடிநீர், பாசனத்துக்குப் பயன்படுத்துவதை தவிர்க்கவும்.\n\nPerundurai SIPCOT effluent ponds polluted, petition to MLA | Erode news\n📍 பெருந்துறை சிப்காட், ஈரோடு மாவட்டம் | 20 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
-   "prompts": "Villagers in a group stand at the edge of a murky village pond near the Perundurai SIPCOT industrial area in Erode district, while a few men in shirts and trousers and women in sarees and salwar hold up a bundle of petition papers in front of a small group of people. Behind them, the pond water looks dull, greenish and still, with a low concrete bund and a few dry palm trees on the bank. Far in the background, the grey sheds and chimneys of factories rise above a flat field, with a patch of dark, discoloured effluent flowing from an outlet pipe into the pond. Daylight, slightly hazy sky. Shot from eye level, 35 mm, wide enough to show the pond, the factories and the crowd, the people seen from behind or far away. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a village pond's edge where a drainage channel from the industrial area pours discoloured, reddish-orange effluent into the still water, forming a dark sludgy film over the surface. Dry cracked mud, scattered plastic and a few stalks of weed line the bank. Behind it, out of focus, factory outlet pipes and a concrete drain run toward the pond. Daylight, slightly overcast. Shot at low angle, 35 mm, focused on the polluted water and the outlet, with no readable text or signs in the frame. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/20/action-taken-against-factories-that-polluted-ponds-and-small-water-bodies",
-   "published": "2026-11-20T23:31:00.000Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231651/erode360/sol0cztonkd2f4xwclc1.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231654/erode360/pxgxa8dosg06oh8toqca.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "சத்தியமங்கலம் அன்பிற்பிரியாள் அம்மன் கோயில் கும்பாபிஷேகம்",
-   "english_headline": "Anbirpiriyal Amman temple kumbabhishekam held in Sathyamangalam with thousands of devotees",
-   "category": "Temples & Events",
-   "location": "Sathyamangalam, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோயில் விழா",
-    "loc": "சத்தியமங்கலம்",
-    "hl1": "சத்தியமங்கலத்தில் கும்பாபிஷேகம்",
-    "hl2": "ஆயிரக்கணக்கான பக்தர்கள்",
-    "slides": [
-     {
-      "title": "எங்கே, எப்போது?",
-      "lines": [
-       "சத்தியமங்கலம் அன்பிற்பிரியாள் அம்மன் கோயில்",
-       "வெள்ளிக்கிழமை கும்பாபிஷேக விழா நடைபெற்றது",
-       "கணபதி யாகம் <b>18ஆம் தேதி</b> தொடங்கியது"
-      ]
-     },
-     {
-      "title": "விழா நிகழ்வுகள்",
-      "lines": [
-       "பவானி ஆற்றில் இருந்து தீர்த்தக் குடம் எடுத்து வரப்பட்டது",
-       "யாக சாலையிலிருந்து புனித தீர்த்தக் குடங்கள் ஊர்வலமாக",
-       "கோயில் விமான கலசத்தில் தீர்த்தம் ஊற்றப்பட்டது"
-      ]
-     },
-     {
-      "title": "பக்தர்கள்",
-      "lines": [
-       "<b>ஆயிரக்கணக்கான</b> பக்தர்கள் கலந்து கொண்டனர்",
-       "பக்தர்கள் அனைவருக்கும் புனித தீர்த்தம் தெளிக்கப்பட்டது",
-       "விழா ஏற்பாடுகளை வட்டார வாணியர் செட்டியார் சங்கத்தினர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சத்தியமங்கலத்தில் ஆயிரக்கணக்கான பக்தர்கள் பங்கேற்ற அன்பிற்பிரியாள் அம்மன் கோயில் கும்பாபிஷேகம் வெள்ளிக்கிழமை நடைபெற்றது. பிரசித்தி பெற்ற இந்தக் கோயிலில் திருப்பணிகள் செய்து புனரமைக்கப்பட்ட பின் இந்த விழா நடைபெற்றது. கும்பாபிஷேக விழா கணபதி யாகத்துடன் 18ஆம் தேதி தொடங்கியது. அதைத் தொடர்ந்து தினமும் சிறப்பு பூஜைகள் நடைபெற்றன. பவானி ஆற்றில் இருந்து தீர்த்தக் குடம் எடுத்து வரப்பட்டு யாக சாலையில் வைத்து பூஜிக்கப்பட்டது. நான்கு கால பூஜைக்குப் பின், சிவாச்சாரியார்கள் வேத மந்திரங்கள் முழங்க புனித தீர்த்தக் குடங்கள் ஊர்வலமாக எடுத்துச் செல்லப்பட்டன. கோயில் விமான கலசம், வாணியர் பிள்ளையார் மற்றும் மூலவருக்குச் சிறப்பு பூஜைகள் செய்யப்பட்டு கும்பாபிஷேகம் நடைபெற்றது. பக்தர்கள் அனைவருக்கும் புனித தீர்த்தம் தெளிக்கப்பட்டது. அதைத் தொடர்ந்து அன்பிற்பிரியாள் அம்மனுக்கு அபிஷேகம், அலங்கார பூஜைகள் மற்றும் மகா தீபாராதனை நடைபெற்றன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 சத்தியமங்கலத்தில் அன்பிற்பிரியாள் அம்மன் கோயில் கும்பாபிஷேகம் - ஆயிரக்கணக்கான பக்தர்கள் பங்கேற்பு\n\n📰 முழு விவரம்:\nசத்தியமங்கலம் அன்பிற்பிரியாள் அம்மன் கோயிலில் வெள்ளிக்கிழமை கும்பாபிஷேக விழா நடைபெற்றது. திருப்பணிகள் செய்து புனரமைக்கப்பட்ட இந்தக் கோயிலில் ஆயிரக்கணக்கான பக்தர்கள் கலந்து கொண்டு சுவாமி தரிசனம் செய்தனர்.\nவிழா கணபதி யாகத்துடன் 18ஆம் தேதி தொடங்கியது. தினமும் சிறப்பு பூஜைகள் நடைபெற்றன. பவானி ஆற்றில் இருந்து தீர்த்தக் குடம் எடுத்து வரப்பட்டு யாக சாலையில் பூஜிக்கப்பட்டது.\nநான்கு கால பூஜைக்குப் பின், புனித தீர்த்தக் குடங்கள் ஊர்வலமாக எடுத்துச் சென்று கோயில் விமான கலசம், வாணியர் பிள்ளையார் மற்றும் மூலவருக்கு ஊற்றப்பட்டது.\nபக்தர்கள் அனைவருக்கும் புனித தீர்த்தம் தெளிக்கப்பட்டது. பின்னர் அம்மனுக்கு அபிஷேகம், அலங்கார பூஜைகள் மற்றும் மகா தீபாராதனை நடைபெற்றன.\nவிழா ஏற்பாடுகளை வட்டார வாணியர் செட்டியார் சங்கத்தினர் செய்திருந்தனர்.\n\nAnbirpiriyal Amman temple kumbabhishekam Sathyamangalam | Erode news\n📍 சத்தியமங்கலம், ஈரோடு மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #கும்பாபிஷேகம் #ErodeNews",
-   "prompts": "A procession of priests in white dhoti carries sacred water pots from the yagasala to the Anbirpiriyal Amman temple in Sathyamangalam, Erode district, during the kumbabhishekam ceremony. The pots, decorated with mango leaves and coconuts, are borne on the heads of sivachariars while drummers and nadaswaram players walk ahead. The scene is set at the temple premises with the tall gopuram and vimana tower rising behind, the kalasam glinting in daylight. Thousands of devotees stand in the courtyard in sarees, salwars and veshti-clad men, seen from behind and at a distance, with orange and white flower garlands and brass lamps in the foreground. Sunlit Friday daytime, clear sky, the temple tower lit by warm light. Camera at eye level, 35 mm lens, wide enough to show the temple tower and the crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a brass sacred water pot (theertha kudam) decorated with fresh mango leaves and a coconut on top, held by a priest in white dhoti during the kumbabhishekam at Anbirpiriyal Amman temple, Sathyamangalam. Holy water glistens on the rim of the pot as it is lifted toward the temple vimana. Behind, slightly blurred, the temple tower's kalasam and carved stone pillars are visible, with devotees standing at a distance in the courtyard. Brass lamps and marigold garlands sit on a stone platform in the foreground. Daylight, warm tones, soft focus on the background. Camera at slightly high angle, 50 mm lens, shallow depth of field to keep the sacred pot sharp. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/kumbabhishekam-of-the-anbirpiriyal-amman-temple-in-sathyamangalam",
-   "published": "2026-11-21T01:54:00.000Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231663/erode360/mq0wmboerphbpsdqegyc.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231668/erode360/gbvonruvvgmi84ecy97m.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு கருங்கல்பாளையத்தில் தொழிலாளி தற்கொலை",
-   "english_headline": "Erode: 62-year-old labourer dies by suicide in Karungalpalayam, police investigating",
+   "tamil_headline": "ஈரோட்டில் லாரி உரிமையாளர் வீட்டில் வருமான வரித்துறை சோதனை",
+   "english_headline": "Income Tax officials raid lorry owner's house and office in Erode in TASMAC irregularity case",
    "category": "Crime & Safety",
-   "location": "Karungalpalayam, Erode",
-   "importance": "Medium",
+   "location": "Thindal Sakthi Nagar, Erode, Erode district",
+   "importance": "High",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தற்கொலை",
-    "loc": "கருங்கல்பாளையம்",
-    "hl1": "கருங்கல்பாளையத்தில் தொழிலாளி தற்கொலை",
-    "hl2": "போலீசார் விசாரணை",
+    "cat": "வருமான வரி சோதனை",
+    "loc": "திண்டல் சக்தி நகர், ஈரோடு",
+    "hl1": "ஈரோட்டில் லாரி உரிமையாளர் வீட்டில் சோதனை",
+    "hl2": "வருமான வரித்துறை அதிகாரிகள்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ஈரோடு கருங்கல்பாளையத்தைச் சேர்ந்த முருகன் (62 வயது), தற்கொலை",
-       "கடந்த 19ஆம் தேதி பி.பி.அக்ரஹாரம், காவிரி ஆற்றங்கரையில்"
+       "ஈரோடு திண்டல் சக்தி நகரில் சோதனை",
+       "லாரி உரிமையாளர் சச்சிதானந்தம் வீடு, அலுவலகத்தில் சோதனை",
+       "வருமான வரித்துறை அதிகாரிகள் நேற்று சோதனை நடத்தினர்"
       ]
      },
      {
-      "title": "பின்னணி",
+      "title": "யார்? எதற்காக?",
       "lines": [
-       "முருகன் கூலி வேலை செய்து வந்தார்",
-       "குடிப்பழக்கத்துக்கு ஆளானவர், வயிற்று வலியால் சிரமப்பட்டு",
-       "10 ஆண்டுகளாக மனைவி பஞ்சவர்ணத்திடம் இருந்து பிரிந்து"
+       "சச்சிதானந்தம் டாஸ்மாக் விநியோக ஒப்பந்ததாரராகச் செயல்பட்டவர்",
+       "டாஸ்மாக் முறைகேடு வழக்கு தொடர்பாகச் சோதனை",
+       "திமுக ஆட்சிக் காலத்தில் லாரிகளை வழங்கி வந்தார்"
       ]
      },
      {
-      "title": "போலீஸ் நடவடிக்கை",
+      "title": "தற்போதைய நிலை",
       "lines": [
-       "கருங்கல்பாளையம் போலீசார் விசாரணை நடத்தி வருகின்றனர்"
+       "சோதனை இன்னும் நடைபெற்று வருகிறது",
+       "ஆவணங்கள் ஏதேனும் கைப்பற்றப்பட்டனவா என்பது பின்னர் தெரியவரும்",
+       "அதிகாரிகள் தகவல் தெரிவித்தனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு கருங்கல்பாளையத்தில் 62 வயது தொழிலாளி முருகன் தற்கொலை செய்து கொண்டார். கடந்த 19ஆம் தேதி பி பி அக்ரஹாரம், காவிரி ஆற்றங்கரையில் உள்ள மரத்தில் தூக்கிட்டுக் கொண்டார். முருகன் கூலி வேலை செய்து வந்தார். அவருக்கு மனைவி பஞ்சவர்ணம், ஒரு மகன், ஒரு மகள் உள்ளனர். கணவன் மனைவி இடையே கருத்து வேறுபாடு ஏற்பட்டதால், 10 ஆண்டுகளாக இருவரும் பிரிந்து வாழ்ந்து வந்தனர். முருகன் குடிப்பழக்கத்துக்கு ஆளாகி, வயிற்று வலியால் சிரமப்பட்டு வந்தார். கருங்கல்பாளையம் போலீசார் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "ஈரோடு கருங்கல்பாளையத்தில் தொழிலாளி தற்கொலை\n\n📰 முழு விவரம்:\nஈரோடு கருங்கல்பாளையத்தைச் சேர்ந்த முருகன் (62 வயது), தற்கொலை செய்து கொண்டார். கடந்த 19ஆம் தேதி பி.பி.அக்ரஹாரம், காவிரி ஆற்றங்கரையில் உள்ள மரத்தில் தூக்கிட்டுக் கொண்டார். முருகன் கூலி வேலை செய்து வந்தார். அவருக்கு மனைவி பஞ்சவர்ணம், ஒரு மகன், ஒரு மகள் உள்ளனர். கணவன் மனைவி இடையே கருத்து வேறுபாடு ஏற்பட்டதால், 10 ஆண்டுகளாக இருவரும் பிரிந்து வாழ்ந்து வந்தனர். முருகன் குடிப்பழக்கத்துக்கு ஆளாகி, வயிற்று வலியால் சிரமப்பட்டு வந்தார்.\n📍 இடம்: பி.பி.அக்ரஹாரம், காவிரி ஆற்றங்கரை, கருங்கல்பாளையம், ஈரோடு\n🗓️ நாள்: கடந்த 19ஆம் தேதி\n👮 நடவடிக்கை: கருங்கல்பாளையம் போலீசார் விசாரணை நடத்தி வருகின்றனர்\n\nKarungalpalayam Erode labourer suicide, police probe | Erode news\n📍 கருங்கல்பாளையம், ஈரோடு\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Karungalpalayam #ErodeNews #ஈரோடு",
-   "prompts": "A Karungalpalayam police jeep parks near the Cauvery riverbank at P.B. Agraharam while two khaki-uniformed Tamil Nadu police officers, seen from behind at a distance, walk toward a tall tree on the sandy bank as the investigation continues. The place is an open riverside stretch of the Cauvery in Erode city, with dry sand, shrubs, a few scattered plastic bottles, and the slow brown river flowing beside it under a cloudy sky. Further back, a couple of two-wheelers are parked on a dirt track, and a small group of onlookers in shirts and veshti stands well away from the tree, seen from behind and slightly blurred. Daylight, overcast afternoon, muted colours. Camera at eye level, 35 mm, wide enough to show the riverbank, the tree, the police jeep and the river together, with no body, rope or injury visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a tall, bare-trunked riverside tree on the sandy bank of the Cauvery at P.B. Agraharam, its lower branches empty and the bark rough and weathered, with a folded khaki police cap and a brown police notebook with a pen lying on a flat stone at its base, placed in the foreground. Behind it, the grey-brown water of the Cauvery river flows slowly and reeds sway along the edge. The scene is quiet and sombre, suggesting a police investigation at the spot without showing any person or the act itself. Overcast daylight, muted earth tones. Camera slightly low, 35 mm, shallow depth of field, the tree and police items sharp and the far riverbank softly blurred, no readable text or labels anywhere. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/worker-disaster/4382085",
-   "published": "2026-11-21T04:28:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 3 must have 2-3 lines",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "ஈரோட்டில் லாரி உரிமையாளர் வீட்டில் வருமான வரித்துறை அதிகாரிகள் சோதனை நடத்தினர். ஈரோடு திண்டல் சக்தி நகரைச் சேர்ந்த லாரி உரிமையாளர் சச்சிதானந்தம் வீட்டிலும் அலுவலகத்திலும் நேற்று சோதனை நடைபெற்றது. சச்சிதானந்தம் தி மு க ஆட்சிக் காலத்தில் டாஸ்மாக் நிர்வாகத்துக்கு லாரிகளை வழங்கி வந்தார். அவர் டாஸ்மாக் விநியோக ஒப்பந்ததாரராகச் செயல்பட்டு வந்தார். மதுபான ஆலைகளில் இருந்து டாஸ்மாக் கிடங்குகள் மற்றும் கடைகளுக்கு மதுபாட்டில்களை லாரிகள் மூலம் விநியோகம் செய்யும் பணி அவருடையது. டாஸ்மாக் முறைகேடு வழக்கு தொடர்பாக இந்தச் சோதனை நடைபெற்று வருவதாக அதிகாரிகள் தெரிவித்தனர். சோதனையின் முடிவில் ஆவணங்கள் ஏதேனும் கைப்பற்றப்பட்டனவா என்பது தெரியவரும் என அதிகாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோட்டில் லாரி உரிமையாளர் வீட்டில் வருமான வரித்துறை சோதனை\n\n📰 முழு விவரம்:\nஈரோடு திண்டல் சக்தி நகரைச் சேர்ந்த லாரி உரிமையாளர் சச்சிதானந்தம் வீடு மற்றும் அலுவலகத்தில் நேற்று வருமான வரித்துறை அதிகாரிகள் சோதனை நடத்தினர். டாஸ்மாக் விநியோக ஒப்பந்ததாரராகச் செயல்பட்டு வந்தவர் சச்சிதானந்தம். டாஸ்மாக் முறைகேடு வழக்கு தொடர்பாக இந்தச் சோதனை நடைபெற்று வருவதாக அதிகாரிகள் தெரிவித்தனர். சோதனையின் முடிவில் ஆவணங்கள் ஏதேனும் கைப்பற்றப்பட்டனவா என்பது தெரியவரும்.\n📍 இடம்: திண்டல் சக்தி நகர், ஈரோடு\n🗓️ நாள்: நேற்று (நவம்பர் 20, 2026)\n👮 நடவடிக்கை: வருமான வரித்துறை அதிகாரிகள் சோதனை\nSachidhanandham house raid, Erode | Erode news\n📍 ஈரோடு, ஈரோடு மாவட்டம் | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Tasmac",
+   "prompts": "A pair of Income Tax officials in plain shirts and trousers walks up the gate of a modest two-storey house in a residential lane of Thindal Sakthi Nagar, Erode, while a white official car with its doors open stands at the kerb. Beside the gate, a goods lorry is parked against the compound wall, and a few onlookers from the neighbourhood, a man in a shirt with veshti and a woman in a cotton saree, stand at a distance near a concrete electric pole. The street is a quiet Erode residential lane with low tiled and concrete houses, a few two-wheelers parked along the wall, and a dusty road edge. It is bright daylight with a clear sky and warm, flat light. Shot from eye level, 35 mm, wide enough to show the house, the lorry, the officials and the lane, with all faces turned away or too far to be recognised. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a stack of loose papers, ledgers and bound files spread on a plain wooden table inside a small office, with a few folders and a closed cardboard box beside them, and a hand in a shirt sleeve, seen from behind and out of focus, turning a page. Through a window behind the table, the blurred outline of a goods lorry parked on a Erode street is visible in soft daylight. The mood is quiet and official, with no readable text or labels on the papers, and the documents shown only as a tangle of pages and folders. Shot at a slight high angle, close and sharp on the papers, 35 mm. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.hindutamil.in/news/tamilnadu/income-tax-raid-at-lorry-owners-residence-in-erode",
+   "published": "2026-11-21T01:24:38Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: not grounded: location 'நகர்' is not in the article",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231698/erode360/ul3ea2mim0bkqde3pykk.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795231700/erode360/anscxgv8do0ssuh7yslu.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795245344/erode360/gcaoa2xi04zqeao352mv.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795245346/erode360/bu5vkrqbaddtkpkuayte.jpg"
    ]
   }
  ]
