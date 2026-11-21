@@ -83,6 +83,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `bfb9393` | Keep 20 of Instagram's 50 daily posts for news: stories stop at 30 (news was waiting at 48/50) |
 | 2026-11-21 | `a519d59` | Stop posting bursts: 10 min between news posts; an Instagram block pauses the page 6 h (news waits) instead of retrying every run |
 | 2026-11-21 | `f9b8413` | stories shared |
 | 2026-11-21 | `ca173a4` | rasipalan posted |
@@ -112,5 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `1316375` | pick: written and posted |
 | 2026-11-20 | `3075f0a` | pick: list sent |
 | 2026-11-20 | `08db919` | News reels: one design on every page - the earlier, proven design with the source and date shown clearly |
-| 2026-11-20 | `012faaf` | Writer: the opening headline (hl1) is always a complete phrase |
 <!-- recent-changes:end -->
