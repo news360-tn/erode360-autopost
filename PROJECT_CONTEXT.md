@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `000614b` | Facebook: every news that is on Instagram also goes to Facebook |
+| 2026-11-21 | `531b862` | powercut: notices written |
+| 2026-11-21 | `b7e7123` | pick: written and posted |
+| 2026-11-21 | `ec9c41d` | pick: list sent |
 | 2026-11-21 | `9d2d4d2` | Posted report: one e-mail for all pages, 4 times a day |
 | 2026-11-21 | `4cef2f3` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
 | 2026-11-21 | `a2f3d8e` | goldrate posted |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `69ebe59` | pick: written and posted |
 | 2026-11-20 | `4d78422` | pick: picked news saved |
 | 2026-11-20 | `619c663` | pick: picked news saved |
-| 2026-11-20 | `e777795` | pick: list sent |
-| 2026-11-20 | `b9b310f` | pick: written and posted |
-| 2026-11-20 | `2ae4e62` | pick: list sent |
-| 2026-11-20 | `3778194` | pick: written and posted |
 <!-- recent-changes:end -->
