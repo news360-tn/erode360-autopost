@@ -11,7 +11,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-22T02:07:41.399386+05:30"
+   "listed_at": "2026-11-22T02:07:41.399386+05:30",
+   "picked_at": "2026-11-22T02:09:09.408455+05:30"
   },
   "C1145462": {
    "id": "C1145462",
@@ -23,7 +24,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-22T02:07:41.399386+05:30"
+   "listed_at": "2026-11-22T02:07:41.399386+05:30",
+   "picked_at": "2026-11-22T02:09:09.408460+05:30"
   },
   "C5c2d6bc": {
    "id": "C5c2d6bc",
@@ -38,7 +40,8 @@
    "alts": [
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/%E0%AE%9A%E0%AE%BE%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%87-%E0%AE%A8%E0%AE%BE%E0%AE%AF%E0%AF%8D-%E0%AE%B5%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%A4%E0%AE%BE%E0%AE%B2%E0%AF%8D-%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AE%BE%E0%AE%B1%E0%AE%BF-%E0%AE%B5%E0%AE%BF%E0%AE%B4%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4-%E0%AE%93%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%A8%E0%AE%BE%E0%AF%8D-%E0%AE%89%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81"
    ],
-   "listed_at": "2026-11-22T02:07:41.399386+05:30"
+   "listed_at": "2026-11-22T02:07:41.399386+05:30",
+   "picked_at": "2026-11-22T02:09:09.408464+05:30"
   },
   "C8e186c0": {
    "id": "C8e186c0",
@@ -50,7 +53,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T02:07:41.399386+05:30"
+   "listed_at": "2026-11-22T02:07:41.399386+05:30",
+   "picked_at": "2026-11-22T02:09:09.408475+05:30"
   }
  },
  "rounds": {
@@ -565,8 +569,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-22T03:07:41.399386+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 4 by insights",
+    "ids": [
+     "C900c3e4",
+     "C1145462",
+     "C5c2d6bc",
+     "C8e186c0"
+    ],
+    "at": "2026-11-22T02:09:09.408441+05:30"
+   },
+   "written": [
+    "C1145462",
+    "C5c2d6bc",
+    "C8e186c0",
+    "C900c3e4"
+   ]
   }
  },
  "retry": {}
