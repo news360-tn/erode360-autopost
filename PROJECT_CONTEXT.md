@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-21 | `4cef2f3` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
+| 2026-11-21 | `a2f3d8e` | goldrate posted |
+| 2026-11-21 | `690fc5f` | pick: written and posted |
+| 2026-11-21 | `44fed86` | pick: list sent |
 | 2026-11-21 | `96f4354` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
 | 2026-11-21 | `bf28e80` | powercut: notices written |
 | 2026-11-21 | `2aa7f10` | powercut: notices written |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-20 | `2ae4e62` | pick: list sent |
 | 2026-11-20 | `3778194` | pick: written and posted |
 | 2026-11-20 | `894ffd6` | pick: picked news saved |
-| 2026-11-20 | `fc8038b` | pick: picked news saved |
-| 2026-11-20 | `2f61447` | pick: list sent |
-| 2026-11-20 | `861a76a` | Facebook first comment = the same source comment as Instagram (link into the text if Facebook refuses the comment) |
-| 2026-11-20 | `88a33c3` | Facebook: up to 18 news a day per page (45 min apart), article link in the first comment, 3 hashtags |
 <!-- recent-changes:end -->
