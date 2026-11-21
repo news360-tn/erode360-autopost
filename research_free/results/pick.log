@@ -1,34 +1,13 @@
-04:26:52 round 2026-11-21_04: news published 21 Nov 02:19 -> 21 Nov 04:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Erode)
-04:26:52 insights 2026-11-21T04:26+05:30 (145 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.88, 'education': -0.5, 'temple': 0.0, 'politics': -0.09, 'power_cut': -0.48, 'poultry_agri': -0.5}; best openings ['🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு', '🚨 பவானி அருகே கஞ்சா விற்பனை: 7 பேர் கைது']
-04:34:44 from_google dinamalar.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google dinamani.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google dinamalar.com 'கோபி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google dinamani.com 'கோபி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google dinamalar.com 'சத்தியமங்கலம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google dinamani.com 'சத்தியமங்கலம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google tamil.oneindia.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google dinakaran.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google dailythanthi.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google maalaimalar.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google hindutamil.in 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 from_google polimernews.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-04:34:44 41 links on the two papers' Erode pages
-04:35:14 skipped: already posted=18, published before this window=16, same event already posted=4
-04:35:14 list: 3 new + 0 earlier news not posted yet
-04:35:14    1. [பொது] வாரச்சந்தையை சுகாதாரமாக பராமரிக்க கலெக்டர் உத்தரவு (தினமலர்)
-04:35:14    2. [கல்வி] கோபி அருகே புதிதாக திறக்கப்பட்ட பள்ளிவாசலுக்கு மத நல்லிணக்கத்தை வலியுற (தினமணி)
-04:35:14    3. [பொது] முன்னாள் பிரதமர் இந்திரா பிறந்த நாள் விழா (தினமலர்)
-04:35:14 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-21_04
-04:35:16 round 2026-11-21_04 (at least 7, up to 3 more of well-watched topics): 3 news to choose from (0 from earlier rounds), ranked by this page's insights
-04:35:16   PICK   1.   8.0 [other +0.00 pattern] வாரச்சந்தையை சுகாதாரமாக பராமரிக்க கலெக்டர் உத்தரவு
-04:35:16   PICK   2.   5.0 [education -0.50 page] கோபி அருகே புதிதாக திறக்கப்பட்ட பள்ளிவாசலுக்கு மத நல்லிணக்கத
-04:35:16   PICK   3.   3.0 [other +0.00 pattern] முன்னாள் பிரதமர் இந்திரா பிறந்த நாள் விழா
-04:35:16 decided: automatic: top 7 of 3 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-erode/collector-orders-to-keep-weekly-market-hygienic/4382064 https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/20/villagers-line-up-for-newly-opened-mosque-near-gopi-urging-religious-harmony https://www.dinamalar.com/news/tamil-nadu-district-news-erode/birthday-of-former-prime-minister-indira-gandhi/4382062
-04:37:24 3 listed news now in the Sheet
-04:37:36 instagram duplicate check erode: 50 recent posts read
-04:37:36 verify 2026-11-21_04: 0 of 3 picked news posted, 0 skipped on purpose, 3 waiting for their posting start
-04:37:36    WAITING C0345866: waiting RN-182: waits for prime time (06:00 IST) - முன்னாள் பிரதமர் இந்திரா பிறந்த நாள் விழா
-04:37:36    WAITING C57a78b9: waiting RN-183: waits for prime time (06:00 IST) - வாரச்சந்தையை சுகாதாரமாக பராமரிக்க கலெக்டர் உத்தரவு
-04:37:36    WAITING Cbd7793f: waiting RN-184: waits for prime time (06:00 IST) - கோபி அருகே புதிதாக திறக்கப்பட்ட பள்ளிவாசலுக்கு மத நல்லிணக்கத
+08:52:31 round 2026-11-21_08: news published 21 Nov 04:26 -> 21 Nov 08:52 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர் - Erode)
+08:52:31 insights 2026-11-21T08:52+05:30 (153 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.98, 'education': -0.5, 'temple': 0.07, 'politics': -0.06, 'power_cut': 0.52, 'poultry_agri': -0.5}; best openings ['🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு', '🚨 பவானி அருகே கஞ்சா விற்பனை: 7 பேர் கைது']
+08:54:03 65 links on the two papers' Erode pages
+08:55:04 skipped: not Erode district=23, published before this window=21, already posted=9, same event already posted=4
+08:55:04 list: 6 new + 0 earlier news not posted yet
+08:55:04    1. [பொது] தொழிலாளி விபரீத முடிவு (தினமலர்)
+08:55:04    2. [சாலை] குளம், குட்டைகளை மாசடைய செய்த தொழிற்சாலைகள் மீது நடவடிக்கை (தினமணி)
+08:55:04    3. [ஆன்மிகம்] சத்தியமங்கலம் அன்பிற்பிரியாள் அம்மன் கோயில் கும்பாபிஷேகம் (தினமணி)
+08:55:04    4. [பொது] தீபம் குறித்த தீர்ப்பு: இனிப்பு வழங்கிய இந்து முன்னணி (தினமலர்)
+08:55:04    5. [பொது] கைலாசநாதர் கோவிலில் கும்பாபிஷேக முதலாம் ஆண்டு நிறைவு விழா (தினமலர்)
+08:55:04    6. [பொது] ஈரோட்டில் லாரி உரிமையாளர் வீட்டில் வருமான வரித்துறை சோதனை (இந்து தமிழ்)
+08:55:04 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-21_08
