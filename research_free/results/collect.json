@@ -3,93 +3,380 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/engineering-college-sealed-for-defaulting-on-loan-at-financial-institution/4382746",
-  "candidate filter: collected=1",
-  "to write: 1 Erode district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/engineering-c",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/4-மாணவிகளுக்கு-பாலியல்-தொல்லை-அரசுப்-பள்ளி-ஆசிரியா்-கைது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/சட்டவிரோத-மது-விற்பனை-தொழிலாளி-கைது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/சாலையில்-குறுக்கே-நாய்-வந்ததால்-நிலைத்தடுமாறி-விழுந்த-ஓட்டுநா்-உயிரிழப்பு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/வாட்-வரி-நிலுவைத்-தொகைக்கு-சமாதான-திட்டத்தை-அறிவிக்கக்-கோரிக்கை",
+  "candidate filter: collected=4",
+  "to write: 4 Erode district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 75 min",
-  "filed: 1 Erode district stories (target 1), reels only",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "real photo from the source (Dinamani) for 'Erode trade associations submit petition'",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 74 min",
+  "filed: 4 Erode district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (26s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3.6-flash (17s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (31s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (21s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (12s)",
+  "ok gemini/gemini-3.6-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3.6-flash (29s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (36s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "ok gemini/gemini-3.6-flash (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (23s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (13s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (14s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "கடன் பாக்கி: பவானி அருகே ஐஸ்வர்யா பொறியியல் கல்லூரிக்கு சீல் வைப்பு",
-   "english_headline": "Aishwarya Engineering College near Bhavani sealed by court order over unpaid loan from private financial institution",
-   "category": "Education",
-   "location": "Bhavani town, Erode district",
+   "tamil_headline": "கோபி அருகே நாய் குறுக்கே வந்ததால் இருசக்கர வாகனம் கவிழ்ந்து ஓட்டுநர் உயிரிழப்பு",
+   "english_headline": "Driver dies after falling off two-wheeler as dog crosses road near Gobichettipalayam",
+   "category": "Crime & Safety",
+   "location": "Neelampalayam near Gobichettipalayam, Erode district",
    "importance": "High",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கல்லூரிக்கு சீல்",
-    "loc": "பவானி, ஈரோடு",
-    "hl1": "பவானி ஐஸ்வர்யா கல்லூரிக்கு சீல்",
-    "hl2": "கடனை திருப்பாததால் நடவடிக்கை",
+    "cat": "சாலை விபத்து",
+    "loc": "நீலம்பாளையம், கோபி",
+    "hl1": "கோபி அருகே விபத்து: ஓட்டுநர் உயிரிழப்பு",
+    "hl2": "நாய் குறுக்கே வந்ததால் சோகம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "பவானி இரட்டைக்கரடு பகுதியில் இயங்கும் கல்லூரிக்கு சீல்",
-       "தனியார் நிதி நிறுவனத்தில் வாங்கிய கடனை திருப்பாததால்"
+       "கோபி அருகே <b>நீலம்பாளையம்</b> பகுதியில் விபத்து",
+       "<b>41 வயது</b> ஓட்டுநர் சுப்பிரமணி உயிரிழப்பு"
       ]
      },
      {
-      "title": "வழக்கு விவரம்",
+      "title": "விபத்து விவரம்",
       "lines": [
-       "ஈரோடு தலைமை குற்றவியல் நீதிமன்றம் சீல் வைக்க உத்தரவு",
-       "பவானி போலீசார் பாதுகாப்புடன் கல்லூரி நுழைவாயில்"
+       "புதன்கிழமை இரவு கொளப்பலூர் நோக்கிச் சென்றார்",
+       "திடீரென <b>நாய் குறுக்கே</b> வந்ததால் நிலைத்தடுமாறி விழுந்தார்"
       ]
      },
      {
-      "title": "மாணவர்கள் நிலை",
+      "title": "சிகிச்சை விவரம்",
       "lines": [
-       "கல்லூரியில் தற்போது <b>70 மாணவர்கள்</b> படிக்கின்றனர்",
-       "மாணவர்கள் வேறு கல்லூரிக்கு மாற்றப்பட உள்ளதாக தகவல்"
+       "<b>பெருந்துறை</b> அரசு மருத்துவக் கல்லூரியில் அனுமதி",
+       "சிகிச்சை பலனின்றி வெள்ளிக்கிழமை இரவு உயிரிழந்தார்"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "<b>சிறுவலூர் போலீசார்</b> வழக்குப்பதிவு செய்து விசாரணை",
+       "உயிரிழந்தவருக்கு மனைவி, மகன், மகள் உள்ளனர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பவானி அருகே கடனை திருப்பிச் செலுத்தாததால் ஐஸ்வர்யா கல்லூரிக்கு நீதிமன்ற உத்தரவுப்படி சீல் வைக்கப்பட்டது. ஈரோடு மாவட்டம் பவானி அருகே உள்ள இரட்டைக்கரடு பகுதியில் ஐஸ்வர்யா பொறியியல் கல்லூரி மற்றும் ஆசிரியர் பயிற்சி கல்லூரி செயல்பட்டு வருகிறது. இந்த கல்லூரியில் தற்போது 70 மாணவ மாணவிகள் படித்து வருகின்றனர். கல்லூரி நிர்வாகத்தினர் ஒரு தனியார் நிதி நிறுவனத்தில் கடன் பெற்றுள்ளனர். பெற்ற கடனை திருப்பித் தராததால் நிதி நிறுவனம் சார்பில் ஈரோடு தலைமை குற்றவியல் நீதிமன்றத்தில் வழக்கு தொடுக்கப்பட்டது. இந்த வழக்கில் நவம்பர் 21ஆம் தேதி கல்லூரிக்கு சீல் வைக்க நீதிமன்றம் உத்தரவிட்டது. இதையடுத்து பவானி போலீசார் பாதுகாப்புடன் சென்ற நிதி நிறுவனத்தினர் கல்லூரி நுழைவாயிலை பூட்டி சீல் வைத்தனர். கல்லூரியில் படிக்கும் 70 மாணவர்களும் வேறு கல்லூரிக்கு மாற்றப்பட உள்ளதாக தெரிகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பவானி அருகே கடனை திருப்பாததால் கல்லூரிக்கு சீல் - 70 மாணவர்கள் பாதிப்பு\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் பவானி அருகே உள்ள இரட்டைக்கரடு பகுதியில் ஐஸ்வர்யா பொறியியல் கல்லூரி மற்றும் ஆசிரியர் பயிற்சி கல்லூரி செயல்பட்டு வருகிறது. இங்கு 70 மாணவ மாணவிகள் படிக்கின்றனர். கல்லூரி நிர்வாகத்தினர் தனியார் நிதி நிறுவனத்தில் வாங்கிய கடனை திருப்பித் தராததால், ஈரோடு தலைமை குற்றவியல் நீதிமன்றத்தில் வழக்கு தொடரப்பட்டது. வழக்கை விசாரித்த நீதிமன்றம் நவம்பர் 21ஆம் தேதி கல்லூரிக்கு சீல் வைக்க உத்தரவிட்டது. இதையடுத்து பவானி போலீசார் பாதுகாப்புடன் நிதி நிறுவனத்தினர் கல்லூரி நுழைவாயிலை பூட்டி சீல் வைத்தனர். அங்கு படிக்கும் மாணவர்கள் வேறு கல்லூரிக்கு மாற்றப்பட உள்ளதாக தெரிகிறது.\n\n📍 இடம்: இரட்டைக்கரடு, பவானி, ஈரோடு மாவட்டம்\n🗓️ நாள்: 21 நவம்பர் 2026\n⚖️ நடவடிக்கை: நீதிமன்ற உத்தரவுப்படி கல்லூரிக்கு சீல் வைப்பு\n\nமாணவர்களின் நலன் கருதி தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nBhavani Aishwarya Engineering College sealed loan default | Erode news\n📍 Bhavani, Erode | 21 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #ErodeNews #ஈரோடு",
-   "prompts": "Financial institution staff accompanied by Tamil Nadu police officers in khaki uniforms lock and seal the heavy iron main gate of an engineering college in the Irattaikkaradu area near Bhavani town. The setting features a wide concrete entrance arch and multi-storey academic building exterior surrounded by palm trees typical of the Erode countryside. Two police personnel in khaki uniform and two institution representatives in formal shirts stand near the gate, viewed from behind as they secure the entrance latch. A police jeep is parked along the side of the access road in the background. Bright daylight fills the scene under a clear sky. The shot is captured at eye level with a 35mm lens, wide enough to show the entrance arch, the gate, and the surrounding campus compound. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed close-up shot focuses on the heavy metal padlock and red sealing cloth fastened tightly across the iron latch of the college entrance gate near Bhavani. In the soft, blurred background, the khaki-clad figures of Tamil Nadu police officers stand watch near the compound wall. The solid iron bars of the locked gate and the fresh court-ordered seal are sharply in focus. The bright morning daylight highlights the texture of the metal and the seal. The camera uses a close-up 35mm lens at eye level with a shallow depth of field, keeping the main focus entirely on the locked and sealed entrance mechanism. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/engineering-college-sealed-for-defaulting-on-loan-at-financial-institution/4382746",
-   "published": "2026-11-21T21:18:02+05:30",
+   "reel_script": "கோபி அருகே நாய் குறுக்கே வந்ததால் ஓட்டுநர் உயிரிழந்தார். நீலம்பாளையம் வேட்டுவன்தோட்டம் பகுதியைச் சேர்ந்த 41 வயது சுப்பிரமணி ஓட்டுநராகப் பணியாற்றி வந்தார். இவர் கடந்த புதன்கிழமை இரவு இருசக்கர வாகனத்தில் கொளப்பலூர் நோக்கிச் சென்றுகொண்டிருந்தார். அப்போது சாலையின் குறுக்கே திடீரென நாய் வந்ததால், வாகனத்தை நிறுத்த முயன்றபோது நிலைத்தடுமாறி கீழே விழுந்தார். படுகாயமடைந்த அவரை அப்பகுதி மக்கள் மீட்டு பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்த்தனர். தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்தவர் வெள்ளிக்கிழமை இரவு சிகிச்சை பலனின்றி உயிரிழந்தார். இந்தச் சம்பவம் குறித்து சிறுவலூர் போலீசார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கோபி அருகே விபத்து: நாய் குறுக்கே வந்ததால் ஓட்டுநர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகோபி அருகேயுள்ள நீலம்பாளையம் வேட்டுவன்தோட்டம் பகுதியைச் சேர்ந்தவர் சுப்பிரமணி (41 வயது). ஓட்டுநரான இவர், கடந்த புதன்கிழமை இரவு தனது இருசக்கர வாகனத்தில் கொளப்பலூர் நோக்கிச் சென்று கொண்டிருந்தார். அப்போது சாலையின் குறுக்கே திடீரென நாய் வந்ததால், வாகனத்தை நிறுத்த முயன்றபோது நிலைத்தடுமாறி கீழே விழுந்து படுகாயமடைந்தார். அப்பகுதி மக்கள் அவரை மீட்டு பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்த்தனர். தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட அவர் சிகிச்சை பலனின்றி வெள்ளிக்கிழமை இரவு உயிரிழந்தார். இவருக்கு மனைவி, மகன் மற்றும் மகள் உள்ளனர்.\n\n🗓️ நாள்: புதன்கிழமை இரவு (சம்பவம்), வெள்ளிக்கிழமை இரவு (மறைவு)\n📍 இடம்: கொளப்பலூர் சாலை, நீலம்பாளையம், கோபி வட்டம்\n👮 நடவடிக்கை: சிறுவலூர் போலீசார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nGobichettipalayam road accident driver dies after dog crosses road | Erode news\n📍 நீலம்பாளையம், கோபி, ஈரோடு | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A dark-colored two-wheeler lies on its side on the asphalt road in Neelampalayam near Gobichettipalayam. The scene is set on a rural road lined with coconut trees and green fields typical of the Erode countryside. Two Tamil Nadu police officers in khaki uniforms are seen from behind, standing near the vehicle and documenting the site. A few local men in shirts and veshtis stand at a distance, blurred and facing away from the camera. The lighting is that of a clear day, with the sun casting soft shadows across the road. The camera is at eye level, using a 35mm lens to capture the vehicle and the surrounding rural environment. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the fallen two-wheeler resting on the rough asphalt of the road towards Kolappalur. The front wheel and handlebars are visible, showing the position where the vehicle slid near the dirt shoulder of the road. In the background, the blurred legs of a police officer in khaki trousers are visible, standing near the site. The texture of the road and the dry grass at the edge are sharp and clear. The scene is captured in bright daylight, emphasizing the location of the accident without showing any people's faces or injuries. The camera is at a low angle, providing a detailed view of the vehicle involved in the incident. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/சாலையில்-குறுக்கே-நாய்-வந்ததால்-நிலைத்தடுமாறி-விழுந்த-ஓட்டுநா்-உயிரிழப்பு",
+   "published": "2026-11-21T19:37:52.532Z",
    "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
    "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795283445/erode360/lkjxk3zh4wckxglnmiww.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795283492/erode360/jxpadgnlq1sgt1smneem.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795293652/erode360/yjql366ozbaytw8pq13m.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795293656/erode360/zayi9corq44hv4xu7oxo.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் வாட் வரி நிலுவைக்கு சமாதான திட்டம் அறிவிக்க தொழில் வணிக சங்கங்கள் கோரிக்கை",
+   "english_headline": "Erode trade associations submit petition to ministers demanding Samadhana scheme for 2017-18 VAT dues",
+   "category": "Business & Prices",
+   "location": "Erode, Erode district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "வணிக செய்தி",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் வாட் வரி சமாதான திட்டம்",
+    "hl2": "வணிக சங்கங்கள் கோரிக்கை",
+    "slides": [
+     {
+      "title": "என்ன கோரிக்கை?",
+      "lines": [
+       "<b>2017-18</b> வாட் வரி நிலுவைக்கு சமாதான திட்டம் தேவை",
+       "வியாபாரிகளின் வரிச் சுமையைக் குறைக்க வலியுறுத்தல்",
+       "அமைச்சர்களிடம் கூட்டமைப்பு மனு அளிப்பு"
+      ]
+     },
+     {
+      "title": "யாரிடம் மனு?",
+      "lines": [
+       "வருவாய்த் துறை அமைச்சர் <b>கே.ஏ.செங்கோட்டையன்</b>",
+       "வணிக வரித் துறை அமைச்சர் <b>த.லோகேஷ் தமிழ்ச்செல்வன்</b>",
+       "தலைவர் <b>வி.கே.ராஜமாணிக்கம்</b> தலைமையில் மனு"
+      ]
+     },
+     {
+      "title": "கூட்டமைப்பு விவரம்",
+      "lines": [
+       "ஈரோட்டில் <b>28</b> ஆண்டுகளாகச் செயல்படும் கூட்டமைப்பு",
+       "<b>75-க்கும்</b> மேற்பட்ட சங்கங்கள் உறுப்பினர்கள்",
+       "<b>34</b> தொழிற்சங்கம், <b>31</b> வர்த்தகம், <b>13</b> சேவை சங்கம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் வாட் வரி நிலுவைக்கு சமாதான திட்டம் கொண்டுவரக் கோரிக்கை எழுந்துள்ளது. ஈரோடு மாவட்ட அனைத்து தொழில் வணிக சங்கங்களின் கூட்டமைப்பு இந்த கோரிக்கையை முன்வைத்துள்ளது. 2017-18 ஆம் ஆண்டுக்கான வாட் வரி நிலுவைத் தொகைகளுக்கு தீர்வு காண சமாதான திட்டத்தை அறிவிக்க வேண்டும் என வலியுறுத்தியுள்ளனர். இதன் மூலம் வியாபாரிகள் மற்றும் தொழில் நிறுவனங்களின் வரிச் சுமையைக் குறைக்க முடியும் என தெரிவித்துள்ளனர். இது தொடர்பாக வருவாய்த் துறை அமைச்சர் கே ஏ செங்கோட்டையன் மற்றும் வணிக வரித் துறை அமைச்சர் த லோகேஷ் தமிழ்ச்செல்வன் ஆகியோரிடம் மனு அளிக்கப்பட்டுள்ளது. கூட்டமைப்பின் தலைவர் வி கே ராஜமாணிக்கம் தலைமையில் நிர்வாகிகள் இந்த மனுவை வழங்கினர். ஈரோடு மாவட்டத்தில் கடந்த 28 ஆண்டுகளாக இந்தக் கூட்டமைப்பு செயல்பட்டு வருகிறது. இதில் 75-க்கும் மேற்பட்ட பல்வேறு தொழில் மற்றும் வணிக சங்கங்கள் இடம் பெற்றுள்ளன. குறிப்பாக 34 தொழிற்சங்கங்கள், 31 தொழில் வர்த்தக சங்கங்கள், 13 சேவை சங்கங்கள் உறுப்பினர்களாக உள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📜 ஈரோட்டில் வாட் வரி நிலுவைக்கு சமாதான திட்டம் அறிவிக்கக் கோரிக்கை\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் 2017-18 ஆம் ஆண்டுக்கான வாட் வரி நிலுவைத் தொகைகளுக்குத் தீர்வு காண சமாதானத் திட்டத்தை அறிமுகப்படுத்த வேண்டும் என அனைத்து தொழில் வணிக சங்கங்களின் கூட்டமைப்பினர் கோரிக்கை விடுத்துள்ளனர். இதன் மூலம் வியாபாரிகள் மற்றும் தொழில் நிறுவனங்களின் வரிச் சுமையைக் குறைக்க முடியும் எனத் தெரிவித்துள்ளனர்.\nஇது தொடர்பாக வருவாய்த் துறை அமைச்சர் கே.ஏ.செங்கோட்டையன், வணிக வரித் துறை அமைச்சர் த.லோகேஷ் தமிழ்ச்செல்வன் ஆகியோரிடம் கூட்டமைப்பின் தலைவர் வி.கே.ராஜமாணிக்கம் தலைமையில் நிர்வாகிகள் மனு அளித்தனர்.\nஈரோடு மாவட்டத்தில் கடந்த 28 ஆண்டுகளாகச் செயல்பட்டு வரும் இந்தக் கூட்டமைப்பில் 75-க்கும் மேற்பட்ட சங்கங்கள் உறுப்பினர்களாக உள்ளன. இதில் 34 தொழிற்சங்கங்கள், 31 தொழில் மற்றும் வர்த்தக சங்கங்கள், 13 வர்த்தக மற்றும் சேவை சங்கங்கள் இடம் பெற்றுள்ளன.\n\n📍 இடம்: ஈரோடு மாவட்டம்\n🗓️ அமைப்பு விவரம்: 28 ஆண்டுகளாகச் செயல்படும் கூட்டமைப்பு\n👥 கோரிக்கை வைத்தோர்: 75+ சங்கங்களின் கூட்டமைப்பு (தலைவர் வி.கே.ராஜமாணிக்கம்)\n🎯 கோரிக்கை: 2017-18 வாட் வரி நிலுவை சமாதான திட்டம்\n\nவியாபாரிகள் மற்றும் தொழில் அதிபர்களுக்கு Share செய்யுங்கள்.\n\nErode trade associations demand Samadhana scheme for VAT tax dues | Erode news\n📍 ஈரோடு | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #வணிகம்",
+   "prompts": "A group of association leaders hand over a sealed petition folder to two state ministers, the act of submitting the demand for a Samadhana scheme for 2017‑18 VAT dues. The scene is set inside a modest government office meeting room in Erode, with plain walls, a long wooden table and a few chairs, typical of district‑level administrative venues. From behind, the leaders – men in shirts and trousers, a few women in sarees – stand facing the ministers, who sit behind the table in formal shirts, their backs visible. The petition folder rests on the table, its edges visible but no text readable. Daylight filters through a high window, casting soft light; the camera is at eye level, using a 35 mm lens to capture the full room. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose‑up of the petition on the meeting table: a stack of white paper sheets tied with a simple string, a plain folder with a government‑style seal, and a black pen placed on top. The hands of the association leaders are blurred in the foreground, just releasing the folder onto the surface. The wooden tabletop shows subtle grain, and a faint reflection of the office’s ceiling tiles is visible. The background is out of focus, hinting at the same government office setting. The lighting is even, daylight‑balanced, with no shadows obscuring the documents. The shot is taken slightly above eye level with a 35 mm lens to emphasize the petition as the key object. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/வாட்-வரி-நிலுவைத்-தொகைக்கு-சமாதான-திட்டத்தை-அறிவிக்கக்-கோரிக்கை",
+   "published": "2026-11-21T19:32:41.631Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795293707/erode360/rouh0rmxn9ccfoxldzf7.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795293708/erode360/nnemhhjlga07uqvfcsgz.jpg"
+   ],
+   "real_photo": "Dinamani"
+  },
+  {
+   "tamil_headline": "கோபி அருகே சட்டவிரோத மது விற்பனை: தொழிலாளி கைது",
+   "english_headline": "Illegal liquor sale near Gobichettipalayam: daily wage worker arrested with 20 bottles",
+   "category": "Crime & Safety",
+   "location": "Polavakkalipalayam Periyar Nagar, Gobichettipalayam, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "கோபி அருகே",
+    "hl1": "கோபி அருகே மது விற்பனை: தொழிலாளி கைது",
+    "hl2": "20 மதுபாட்டில்கள் பறிமுதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கோபி அருகே சட்டவிரோத மது விற்பனையில் ஈடுபட்ட தொழிலாளி கைது",
+       "சனிக்கிழமை போலீஸார் கையும் களவுமாகப் பிடித்தனர்",
+       "வெள்ளாங்கோவில் பகுதியில் நடந்த விற்பனை"
+      ]
+     },
+     {
+      "title": "யார்? எப்படி?",
+      "lines": [
+       "பொலவக்காளிபாளையம் பெரியார் நகரைச் சேர்ந்த சின்னதம்பி (<b>65</b>)",
+       "மதுபானங்களைப் பதுக்கி கூடுதல் விலைக்கு விற்றதாகத் தகவல்",
+       "சிறுவலூர் போலீஸாருக்கு கிடைத்த தகவலின் அடிப்படையில்"
+      ]
+     },
+     {
+      "title": "பறிமுதல்",
+      "lines": [
+       "<b>20</b> மதுபாட்டில்கள் பறிமுதல்",
+       "இருசக்கர வாகனம் பறிமுதல்",
+       "சின்னதம்பி கைது செய்யப்பட்டார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கோபி அருகே சட்டவிரோதமாக மது விற்ற தொழிலாளி போலீஸாரிடம் சிக்கினார். பொலவக்காளிபாளையம் பெரியார் நகரைச் சேர்ந்த 65 வயது சின்னதம்பி என்பவர் கூலித் தொழிலாளி ஆவார். மதுபானங்களைப் பதுக்கி வைத்து கூடுதல் விலைக்கு விற்பனை செய்து வருவதாக சிறுவலூர் போலீஸாருக்குத் தகவல் கிடைத்தது. அதன் அடிப்படையில் வெள்ளாங்கோவில் பகுதியில் மது விற்பனையில் ஈடுபட்டிருந்த சின்னதம்பியை போலீஸார் சனிக்கிழமை கையும் களவுமாகப் பிடித்தனர். அவரைக் கைது செய்த போலீஸார், 20 மதுபாட்டில்களையும் இருசக்கர வாகனத்தையும் பறிமுதல் செய்தனர். சட்டவிரோத மது விற்பனையில் ஈடுபடுவோர் மீது தொடர்ந்து நடவடிக்கை எடுக்கப்படும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கோபி அருகே சட்டவிரோத மது விற்பனை: கூலித் தொழிலாளி கைது\n\n📰 முழு விவரம்:\nகோபி அருகேயுள்ள பொலவக்காளிபாளையம் பெரியார் நகரைச் சேர்ந்த 65 வயது சின்னதம்பி, கூலித் தொழிலாளி. மதுபானங்களைப் பதுக்கி வைத்து கூடுதல் விலைக்கு விற்பனை செய்து வருவதாக சிறுவலூர் போலீஸாருக்குத் தகவல் கிடைத்தது.\nஇதையடுத்து வெள்ளாங்கோவில் பகுதியில் மது விற்பனையில் ஈடுபட்டிருந்த அவரை போலீஸார் சனிக்கிழமை கையும் களவுமாகப் பிடித்தனர். கைது செய்யப்பட்ட அவரிடமிருந்து 20 மதுபாட்டில்களும் இருசக்கர வாகனமும் பறிமுதல் செய்யப்பட்டன.\n\n📍 இடம்: வெள்ளாங்கோவில், கோபி அருகே\n🗓️ நாள்: சனிக்கிழமை\n👮 நடவடிக்கை: சின்னதம்பி கைது; 20 மதுபாட்டில்கள், இருசக்கர வாகனம் பறிமுதல்\n\nGobichettipalayam illegal liquor sale arrest | Erode news\n📍 வெள்ளாங்கோவில், கோபி | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A group of Tamil Nadu police in khaki stand beside a parked two-wheeler on a village street in Vellankoil near Polavakkalipalayam, Gobichettipalayam, Erode district, as an elderly daily wage worker in a plain shirt and veshti, seen from behind and at a distance, is led away with his hands held in front of him. The lane has low concrete houses with tiled roofs, a few dusty trees, and loose gravel at the edge of the road, with a small crowd of onlookers far off. It is a bright Saturday daytime scene under clear sky. Shot at eye level with a 35 mm lens, wide enough to show the street, the police vehicle and the houses. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of 20 liquor bottles of brown and clear glass lined up in neat rows on the seat of a police jeep, with a khaki-uniformed police officer's hand resting beside them and the edge of a two-wheeler's handlebar visible in the background. The bottles sit on a dusty metal surface in bright daylight, the pile clearly countable, with a plain concrete wall behind. No readable labels or text are visible. Shot slightly high with a 35 mm lens, focused on the bottles with the police and the seized two-wheeler softly blurred behind them. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/சட்டவிரோத-மது-விற்பனை-தொழிலாளி-கைது",
+   "published": "2026-11-21T19:40:07.581Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795293802/erode360/kpsls5rr2idfmsaklymj.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795293819/erode360/hrns4n2pmrpgss5bfddy.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் 4 மாணவிகளுக்கு பாலியல் தொல்லை: அரசுப் பள்ளி ஆசிரியர் கைது",
+   "english_headline": "Government school teacher arrested in Erode for sexually harassing 4 students under POCSO Act",
+   "category": "Crime & Safety",
+   "location": "Erode town, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோட்டில் ஆசிரியர் கைது",
+    "hl2": "4 மாணவிகளுக்கு தொல்லை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "4 மாணவிகளுக்கு பாலியல் தொல்லை",
+       "அரசுப் பள்ளி ஆசிரியர் போக்ஸோ சட்டத்தில் கைது",
+       "சனிக்கிழமை போலீசார் கைது செய்தனர்"
+      ]
+     },
+     {
+      "title": "யார்?",
+      "lines": [
+       "ஈரோடு மாணிக்கம்பாளையத்தைச் சேர்ந்த விஜயசாரதி, <b>45</b> வயது",
+       "குமலன்குட்டை அரசு மேல்நிலைப் பள்ளியில் சமூக அறிவியல்",
+       "பாதிக்கப்பட்டவர்கள் <b>13 வயது</b> மாணவிகள்"
+      ]
+     },
+     {
+      "title": "எப்படி வெளிவந்தது?",
+      "lines": [
+       "குழந்தைகள் நலக் குழுவினர் விசாரணை நடத்தினர்",
+       "தலைமை ஆசிரியர் தங்கமணி புகார் அளித்தார்",
+       "ஈரோடு அனைத்து மகளிர் காவல் நிலைய வழக்குப் பதிவு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் 4 மாணவிகளுக்கு பாலியல் தொல்லை கொடுத்த அரசுப் பள்ளி ஆசிரியர் கைது செய்யப்பட்டார். ஈரோடு மாணிக்கம்பாளையத்தைச் சேர்ந்த விஜயசாரதி, 45 வயது. இவர் ஈரோடு குமலன்குட்டை அரசு மேல்நிலைப் பள்ளியில் சமூக அறிவியல் ஆசிரியராகப் பணியாற்றி வருகிறார். பள்ளியில் படிக்கும் 13 வயது மாணவிகள் 4 பேருக்கு பாலியல் தொல்லை கொடுத்ததாகக் கூறப்படுகிறது. குழந்தைகள் நலக் குழுவினர் விசாரணை நடத்தி இதை உறுதி செய்தனர். இதையடுத்து, பள்ளியின் தலைமை ஆசிரியர் தங்கமணி ஈரோடு அனைத்து மகளிர் காவல் நிலையத்தில் புகார் அளித்தார். அதன்பேரில் போக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு செய்த போலீசார், சனிக்கிழமை ஆசிரியர் விஜயசாரதியைக் கைது செய்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோட்டில் அரசுப் பள்ளி ஆசிரியர் கைது: 4 மாணவிகளுக்கு பாலியல் தொல்லை\n\n📰 முழு விவரம்:\nஈரோடு குமலன்குட்டை அரசு மேல்நிலைப் பள்ளியில் சமூக அறிவியல் ஆசிரியராகப் பணியாற்றும் விஜயசாரதி (45 வயது), பள்ளியில் படிக்கும் 13 வயது மாணவிகள் 4 பேருக்கு பாலியல் தொல்லை அளித்ததாகக் கூறப்படுகிறது.\nஇதை குழந்தைகள் நலக் குழுவினர் விசாரணை செய்து உறுதி செய்தனர். பள்ளியின் தலைமை ஆசிரியர் தங்கமணி ஈரோடு அனைத்து மகளிர் காவல் நிலையத்தில் புகார் அளித்தார்.\nபோக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு செய்த போலீசார், சனிக்கிழமை விஜயசாரதியைக் கைது செய்தனர்.\n👤 ஆசிரியர்: ஈரோடு மாணிக்கம்பாளையத்தைச் சேர்ந்த விஜயசாரதி (45 வயது)\n📍 இடம்: ஈரோடு குமலன்குட்டை அரசு மேல்நிலைப் பள்ளி\n👮 நடவடிக்கை: போக்ஸோ சட்டத்தின்கீழ் வழக்குப் பதிவு, ஆசிரியர் கைது\n\nErode government school teacher arrested under POCSO | Erode news\n📍 ஈரோடு | 21 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #CrimeNews",
+   "prompts": "A pair of Tamil Nadu police in khaki stand at the entrance of an all-women police station in Erode town as a middle-aged man in a plain shirt and trousers, seen from behind and slightly blurred, is led in by two constables after being taken into custody under the POCSO Act. The place is a government police station building with a concrete porch, a bench with a few people waiting, a parked police jeep and a two-wheeler at the gate, and a corporation roadside with autorickshaws passing. Daylight, a Saturday morning, bright and dry. Shot at eye level, 35 mm, wide enough to show the station building and the street. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden school desk and a folded school register on a table inside a police station office, with a plain blue police file folder and a pen beside it, a steel water tumbler, and a ceiling fan above. Behind the table, a khaki-uniformed police officer's sleeve and an out-of-focus wooden cupboard with files, no readable text. Daylight from a window, neutral, calm tone. Shot at slightly high angle, 35 mm, shallow depth of field to focus on the file and desk. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/21/4-மாணவிகளுக்கு-பாலியல்-தொல்லை-அரசுப்-பள்ளி-ஆசிரியா்-கைது",
+   "published": "2026-11-21T19:39:00.543Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: Caption says the teacher was arrested 'சனிக்கிழமை' (Saturday) and the article supports that, but the caption's first paragraph is fine; however the caption's '📍' footer is excluded. Main issue: the reel_script and slides_spec describe the 13-year-old students as having been victimised by 'பாலியல் தொல்லை கொடுத்ததாகக் கூறப்படுகிறது' while the article says the 4 students were harassed and the child welfare committee 'உறுதி செய்தனர்' - the reel_script states the investigation confirmed it, which matches, so no issue there.; fact-check: reel_script says 'சனிக்கிழமை ஆசிரியர் விஜயசாரதியைக் கைது செய்தனர்' which is correct, but the slides_spec 'என்ன நடந்தது?' line 'அரசுப் பள்ளி ஆசிரியர் போக்ஸோ சட்டத்தில் கைது' is accurate; the only substantive problem is that the slides_spec line 'ஈரோடு அனைத்து மகளிர் காவல் நிலைய வழக்குப் பதிவு' is an ungrammatical, unclear Tamil phrase (the case was registered at the all-women police station, not a 'station case registration' as written).",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795293834/erode360/ukqavia75klgsh8oy8mm.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795293849/erode360/lp4sqkkj39iiq4ya1xws.jpg"
    ]
   }
  ]
