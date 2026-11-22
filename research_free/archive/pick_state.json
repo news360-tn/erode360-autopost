@@ -1,49 +1,275 @@
 {
- "last_end": "2026-11-22T04:29:29.144077+05:30",
- "pool": {},
- "rounds": {
-  "2026-11-19_18": {
-   "window": [
-    "2026-11-19T14:05:39.470841+05:30",
-    "2026-11-19T18:23:49.964991+05:30"
-   ],
-   "ids": [
-    "C478857e",
-    "Cda1d637",
-    "C572fbbb",
-    "C2bd8fe4",
-    "Ca6203ad",
-    "Cc6d6235",
-    "Cbc8ebbd",
-    "C295e7bc",
-    "Ce82cbbe",
-    "C73cff80"
-   ],
-   "sent": false,
-   "deadline": "2026-11-19T19:23:49.964991+05:30",
-   "decided": {
-    "how": "automatic: top 5 of 10 by insights",
-    "ids": [
-     "C478857e",
-     "Cda1d637",
-     "C572fbbb",
-     "C2bd8fe4",
-     "Ca6203ad"
-    ],
-    "at": "2026-11-19T18:26:14.491821+05:30"
-   },
-   "written": [
-    "C2bd8fe4",
-    "C478857e",
-    "C572fbbb",
-    "Ca6203ad",
-    "Cda1d637"
-   ],
-   "refused": {
-    "C572fbbb": "not filed: not Erode district news (the story's first lines name another place and no Erode place)",
-    "Cda1d637": "not filed: not Erode district news (the story's first lines name another place and no Erode place)"
-   }
+ "last_end": "2026-11-22T08:00:50.090171+05:30",
+ "pool": {
+  "C4531c7d": {
+   "id": "C4531c7d",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/3-men-steal-wire-arrested/4382991",
+   "title": "ஒயர் திருடிய 3 பேர் கைது",
+   "summary": "பவானி,:சித்தோடு அருகே விவசாயத் தோட்டம் மற்றும் நசியனுார் டவுன் பஞ்., போர்வெல் கிணறுகளில், மும்முனை மின் ஒயர் திருட்டு போனது. புகாரின்படி சித்தோடு போலீசார் விசாரணையில் ஈடுபட்டனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:30:00+05:30",
+   "category": "குற்றம்",
+   "score": 12.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
   },
+  "Ccbca577": {
+   "id": "Ccbca577",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/murder-of-a-citizen/4382993",
+   "title": "குடிமகன் அடித்து கொலை?",
+   "summary": "ஈரோடு:அறச்சலுார் வடபழனியை சேர்ந்தவர் ஸ்ரீராம், 45; திருமணம் ஆகாதவர். குடிப்பழக்கத்துக்கு ஆளான நிலையில், வேலைக்கு செல்லாமல், வட பழனி டாஸ்மாக் கடை பகுதியில் சுற்றி திரிவார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:32:00+05:30",
+   "category": "குற்றம்",
+   "score": 12.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C9ed499e": {
+   "id": "C9ed499e",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/alcohol-seized-2-people-arrested/4383008",
+   "title": "மது பறிமுதல்; 2 பேர் கைது",
+   "summary": "சத்தியமங்கலம்:தாளவாடி போலீசார் பனஹள்ளி பகுதியில் நேற்று மதியம் ரோந்து பணியில் ஈடுபட்டிருந்தனர். அங்கு கர்நாடக மாநில மதுபாக்கெட்டுகளை விற்று கொண்டிருந்தவரை பிடித்து விசாரித்தனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:41:00+05:30",
+   "category": "குற்றம்",
+   "score": 12.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "Cee0196f": {
+   "id": "Cee0196f",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/4-accused-in-rs-1-crore-extortion-case-arrested/4383009",
+   "title": "ரூ.1 கோடி பறித்த வழக்கில் 4 பேர் கைது",
+   "summary": "பெருந்துறை:பெருந்துறையில் ரியல் எஸ்டேட் அதிபரிடம், ஒரு கோடி ரூபாய் பணத்தை பறித்துச்சென்ற சம்பவத்தில், தலைமைறைவாக இருந்த நான்கு பேரை போலீசார் கைது செய்தனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:42:00+05:30",
+   "category": "குற்றம்",
+   "score": 12.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C9d761a0": {
+   "id": "C9d761a0",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/three-arrested-for-smuggling-2-tonnes-of-ration-rice-3-two-wheelers-seized/4383010",
+   "title": "2 டன் ரேஷன் அரிசி கடத்திய மூவர் கைது; 3 டூவீலர் பறிமுதல்",
+   "summary": "ஈரோடு:ஈரோடு உணவு கடத்தல் தடுப்பு பிரிவு போலீசார், பெருந்துறை அருகே பணிக்கம்பாளையத்தில், நேற்று காலை வாகன தணிக்கையில் ஈடுபட்டனர். மொபட்டில் மூட்டையுடன் வந்த ஒருவரை தடுத்து விசாரித்தனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:43:00+05:30",
+   "category": "குற்றம்",
+   "score": 12.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C5d619e1": {
+   "id": "C5d619e1",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/copper-wire-stolen-by-two-at-sipcot-plant-arrested/4383016",
+   "title": "சிப்காட் ஆலையில் காப்பர் கம்பி திருடிய இருவர் கைது",
+   "summary": "சென்னிமலை:சென்னிமலை யூனியன் ஈங்கூரில் உள்ள சிப்காட் வளாகத்தில், ஒரு ஸ்டீல் நிறுவனத்தில், கடந்த மாதம் காப்பர் கம்பி திருட்டு போனது. புகாரின்படி சென்னிமலை போலீசார் தனிப்படை அமைத்து, குற்றவாளிகளை தேடி வந்தனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:46:00+05:30",
+   "category": "குற்றம்",
+   "score": 12.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C20219b9": {
+   "id": "C20219b9",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/handler-at-the-mobile-phone-store-arrested/4383015",
+   "title": "மொபைல்போன் கடையில் கைவரிசை காட்டியவர் கைது",
+   "summary": "சென்னிமலை:சென்னிமலை யூனியன் ஈங்கூர் ஊராட்சி, எல்லைமேட்டில், ஒரு மொபைல்போன் கடை உள்ளது. கடந்த, 18ம் தேதி இரவு கடையில் திருட்டு போனது. சென்னிமலை போலீசார் 'சிசிடிவி' கேமரா பதிவுகளின் அடிப்படையில் குற்றவாளியை தேடி வந்தனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:46:00+05:30",
+   "category": "குற்றம்",
+   "score": 12.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "Cf2e33d2": {
+   "id": "Cf2e33d2",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/youth-killed-in-train-collision/4382992",
+   "title": "ரயில் மோதி வாலிபர் பலி",
+   "summary": "ஈரோடு:ஈரோடு-காவிரி ரயில்வே ஸ்டேஷன் இடையே, 20ம் தேதி காலை, மங்களூரு-சென்னை ரயிலில் அடிபட்டு ஒருவர் பலியானார். முகம் முழுமையாக சிதைந்தது. பலியான நபரின் உடல் பெருந்துறை மருத்துவ கல்லுாரி மருத்துவமனைக்கு அனுப்பி வைக்கப்பட...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:31:00+05:30",
+   "category": "விபத்து",
+   "score": 10.71,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "Cdf5c307": {
+   "id": "Cdf5c307",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/children-escape-with-injuries-after-private-bus-rams-into-school-van/4383011",
+   "title": "பள்ளி வேன் மீது மோதிய தனியார் பஸ் காயத்துடன் உயிர் தப்பிய குழந்தைகள்",
+   "summary": "புன்செய்புளியம்பட்டி:புன்செய்புளியம்பட்டி அருகே எஸ்.ஆர்.சி., தனியார் பள்ளிக்கு சொந்தமான ஒரு வேன் நேற்று மாலை பள்ளி நேரம் முடிந்து, 5:00 மணியளவில் குழந்தைகளுடன் புறப்பட்டது.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:43:00+05:30",
+   "category": "குற்றம்",
+   "score": 10.71,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C5a67bee": {
+   "id": "C5a67bee",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/2497-candidates-appear-for-skill-test/4383014",
+   "title": "திறன் போட்டி தேர்வில் 2,497 பேர் ஆப்சென்ட்",
+   "summary": "ஈரோடு:பள்ளி கல்வித்துறை சார்பில், தமிழக திறன் போட்டி தேர்வு நேற்று நடந்தது. ஈரோடு கருங்கல்பாளையம் காமராஜ் மாநகராட்சி மேல் நிலை பள்ளி, ப.செ.பார்க் மகளிர் மேல்நிலை பள்ளி, கொல்லம்பாளையம் ரயில்வே காலனி மாநகராட்சி மேல்நிலை...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:45:00+05:30",
+   "category": "பொது",
+   "score": 9.0,
+   "power_cut": false,
+   "alts": [
+    "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/235-candidates-opt-out-of-rural-skill-test/4382996"
+   ],
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "Cf07b2cd": {
+   "id": "Cf07b2cd",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/old-iron-shop-fined-rs-50000/4383013",
+   "title": "பழைய இரும்பு கடைக்கு ரூ.50 ஆயிரம் அபராதம்",
+   "summary": "கோபி:கோபி நகராட்சி சுகாதார பிரிவினர், கோபி கடை வீதி பகுதியில், டெங்கு தடுப்பு நடவடிக்கையாக நேற்று சோதனை மேற்கொண்டனர். அப்போது பொன்ராஜ், 55, என்பவரின், பழைய இரும்பு மற்றும் பொருள் கொள்முதல் கடையில் சோதனையிட்டனர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:44:00+05:30",
+   "category": "பொது",
+   "score": 8.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "Cb6ff020": {
+   "id": "Cb6ff020",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/farmers-of-kalingarayan-intervene-in-water-release-lower-bawani-irrigation-beneficiaries-strongly-condemn/4382994",
+   "title": "நீர் திறப்பில் காளிங்கராயன் விவசாயிகள் தலையீடு கீழ்பவானி பாசன பயனாளிகள் கடும் கண்டனம்",
+   "summary": "ஈரோடு:பவானிசாகர் அணையில் இருந்து கீழ்பவானி வாய்க்கால் முதல் போக பாசன பகுதிக்கு, 20 நாள் உயிர் நீரும், இரண்டாம் போக பாசனத்துக்கு டிச., 15 முதல் ஏப்., 15 வரை தண்ணீர் திறக்க கீழ்பவானி பாசன விவசாயிகள் உட்பட பல அமைப்பினர் ...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:33:00+05:30",
+   "category": "பொது",
+   "score": 7.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C0fc84fb": {
+   "id": "C0fc84fb",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/free-eye-camp-at-kanchikovil-today/4382999",
+   "title": "காஞ்சிக்கோவிலில் இன்று இலவச கண் சிகிச்சை முகாம்",
+   "summary": "பெருந்துறை:காஞ்சிக்கோவில் அரிமா சங்கம், கோவை அரவிந்த் கண் மருத்துவமனை மற்றும் பெருந்துறை ஸ்ரீராமகிருஷ்ணா நிறுவனங்கள் இணைந்து, காஞ்சிக்கோவில் அரசு மேல்நிலைப் பள்ளி வளாகத்தில், இலவச கண் சிகிச்சை முகாமை இன்று நடத்துகிறது.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:36:00+05:30",
+   "category": "பொது",
+   "score": 7.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C1bb04c6": {
+   "id": "C1bb04c6",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/special-camp-for-voters/4383001",
+   "title": "வாக்காளர் சேர்க்கை சிறப்பு முகாம்",
+   "summary": "ஈரோடு:வரும், 2027 ஜன.,1ம் தேதியை தகுதி நாளாக கொண்டு, இறுதி வாக்காளர் பட்டியல் தயாரிப்பு பணியை தேர்தல் ஆணையம் நடத்தி வருகிறது. இதன்படி ஈரோடு மாவட்டத்தில் எட்டு சட்டசபை தொகுதிகளில் உள்ள, 2,375 ஓட்டுச்சாவடிகளிலும், வாக்க...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:37:00+05:30",
+   "category": "பொது",
+   "score": 7.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "Ce9cb05e": {
+   "id": "Ce9cb05e",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/scout-camp-concludes/4382997",
+   "title": "சாரணர் தேர்வு முகாம் நிறைவு",
+   "summary": "ஈரோடு:பாரத சாரண, சாரணியர் இயக்கம் சார்பில் ஆளுனர் விருதுக்கான தேர்வு முகாம் ஈரோட்டில், 19ல் துவங்கியது. ஈரோடு, கோபியை சேர்ந்த அரசு, நிதியுதவி, தனியார், சி.பி.எஸ்.இ., பள்ளிகளில் 6, 7, 8ம் வகுப்புகளில் பயிலும், 210 மாணவ...",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:35:00+05:30",
+   "category": "பொது",
+   "score": 6.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C693cc74": {
+   "id": "C693cc74",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/advice-to-students-at-coffee-with-collector-event/4383004",
+   "title": "காபி வித் கலெக்டர் நிகழ்வில் மாணவர்களுக்கு அறிவுரை",
+   "summary": "ஈரோடு:ஈரோடு கலெக்டர் அலுவலகத்தில், 'காபி வித் கலெக்டர்' நிகழ்ச்சி ஈரோடு மாவட்ட அரசு மாதிரி பள்ளி மாணவ, மாணவியருடன் நடந்தது. கலெக்டர் கந்தசாமி தலைமை வகித்து பேசினார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:39:00+05:30",
+   "category": "பொது",
+   "score": 6.5,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C5aaa7e6": {
+   "id": "C5aaa7e6",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/government--convocation-ceremony/4383003",
+   "title": "அரசு ஐ.டி.ஐ.,யில் பட்டமளிப்பு விழா",
+   "summary": "ஈரோடு,:ஈரோடு அரசு ஐ.டி.ஐ.,யில் பயிற்சி முடித்த, 175 மாணவர், 75 மாணவியருக்கு பட்டமளிப்பு விழா நடந்தது. அரசு ஐ.டி.ஐ., முதல்வர் சீனிவாசன் வரவேற்றார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:38:00+05:30",
+   "category": "பொது",
+   "score": 6.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C7ece59a": {
+   "id": "C7ece59a",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/stray-dog-kills--operator/4383005",
+   "title": "தெருநாயால் ஜே.சி.பி., ஆப்பரேட்டர் சாவு",
+   "summary": "கோபி:கோபி அருகே தெருநாய் குறுக்கே ஓடியதால், பைக்கில் இருந்து விழுந்த ஜே.சி.பி., ஆப்பரேட்டர் இறந்தார். கோபி அருகே கெட்டிச்செவியூரை சேர்ந்தவர் சுப்பிரமணி, 41; ஜே.சி.பி., ஆப்பரேட்டர்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:39:00+05:30",
+   "category": "பொது",
+   "score": 5.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "Cbdeb8f9": {
+   "id": "Cbdeb8f9",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/alcoholic-man-goes-on-a-rampage/4382990",
+   "title": "மது குடிக்க போனவர் மாயம்",
+   "summary": "ஈரோடு:பர்கூர்மலை தாமரைக்கரை பர்கூர் மடம் பகுதியை சேர்ந்தவர் சித்தன், 30; ஈரோடு கருங்கல்பாளையத்தில் ஒரு விவசாய பண்ணையில் மூன்றாண்டாக வேலை செய்தார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:30:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C97f3303": {
+   "id": "C97f3303",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/call-to-apply-for-the-post-of-temporary-nurse/4382995",
+   "title": "தற்காலிக செவிலியர் பணி விண்ணப்பிக்க அழைப்பு",
+   "summary": "ஈரோடு;ஈரோடு மாவட்ட நலவாழ்வு சங்கம், தேசிய நலவாழ்வு குழுமம், மருத்துவம் மற்றும் ஊரக சுகாதாரப்பணிகள் கட்டுப்பாட்டில், விரிவான அவசர கால மகப்பேறு மற்றும் பச்சிளங்குழந்தை பராமரிப்பு மையங்கள் உள்ளன.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:34:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "C5748e34": {
+   "id": "C5748e34",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/rare-snake-trapped-in-erode/4382998",
+   "title": "ஈரோட்டில் சிக்கிய அரியவகை பாம்பு",
+   "summary": "ஈரோடு:ஈரோடு மாணிக்கம்பாளையம் ஹவுசிங் யூனிட் பகுதியை சேர்ந்தவர் ரமேஷ். இவரது வீட்டுக்குள் நேற்று முன்தினம் இரவு, 10:00 மணியளவில் பாம்பு நடமாட்டத்தை பார்த்தார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:36:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  },
+  "Cebfe328": {
+   "id": "Cebfe328",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/bhima-bamboo-calf-plantation/4383006",
+   "title": "பீமா மூங்கில் கன்று நடவு",
+   "summary": "ஈரோடு:ஈரோடு மாவட்டம் எலவமலை பஞ்., மாரப்பம்பாளையத்தில், பொது நிலத்தில் நடவு செய்வதற்காக திசு வளர்ப்பு முறையில் உற்பத்தி செய்யப்பட்ட, 800 பீமா மூங்கில் நாற்று நடவு செய்யும் பணி துவங்கியது.",
+   "source": "தினமலர்",
+   "published": "2026-11-22T06:40:00+05:30",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+  }
+ },
+ "rounds": {
   "2026-11-19_22": {
    "window": [
     "2026-11-19T18:23:49.964991+05:30",
@@ -506,6 +732,40 @@
    "ids": [],
    "sent": false,
    "deadline": "2026-11-22T05:29:29.144077+05:30",
+   "decided": null,
+   "written": []
+  },
+  "2026-11-22_08": {
+   "window": [
+    "2026-11-22T04:29:29.144077+05:30",
+    "2026-11-22T08:00:50.090171+05:30"
+   ],
+   "ids": [
+    "C4531c7d",
+    "Ccbca577",
+    "C9ed499e",
+    "Cee0196f",
+    "C9d761a0",
+    "C5d619e1",
+    "C20219b9",
+    "Cf2e33d2",
+    "Cdf5c307",
+    "C5a67bee",
+    "Cf07b2cd",
+    "Cb6ff020",
+    "C0fc84fb",
+    "C1bb04c6",
+    "Ce9cb05e",
+    "C693cc74",
+    "C5aaa7e6",
+    "C7ece59a",
+    "Cbdeb8f9",
+    "C97f3303",
+    "C5748e34",
+    "Cebfe328"
+   ],
+   "sent": false,
+   "deadline": "2026-11-22T09:00:50.090171+05:30",
    "decided": null,
    "written": []
   }
