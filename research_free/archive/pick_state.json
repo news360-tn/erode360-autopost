@@ -37,7 +37,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+   "listed_at": "2026-11-22T08:00:50.090171+05:30",
+   "picked_at": "2026-11-22T17:06:38.118291+05:30"
   },
   "Caffbe6a": {
    "id": "Caffbe6a",
@@ -49,7 +50,8 @@
    "category": "பொது",
    "score": 8.5,
    "power_cut": false,
-   "listed_at": "2026-11-22T17:05:39.263233+05:30"
+   "listed_at": "2026-11-22T17:05:39.263233+05:30",
+   "picked_at": "2026-11-22T17:06:38.118285+05:30"
   }
  },
  "rounds": {
@@ -541,8 +543,18 @@
    ],
    "sent": false,
    "deadline": "2026-11-22T18:05:39.263233+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 6 of 2 by insights",
+    "ids": [
+     "Caffbe6a",
+     "Cebfe328"
+    ],
+    "at": "2026-11-22T17:06:38.118273+05:30"
+   },
+   "written": [
+    "Caffbe6a",
+    "Cebfe328"
+   ]
   }
  },
  "retry": {}
