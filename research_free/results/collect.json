@@ -3,168 +3,114 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://pukaarpetti.dailythanthi.com/garbage/dumping-of-trash-in-the-cremation-ground-must-be-stopped-68710",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/bhima-bamboo-calf-plantation/4383006",
-  "candidate filter: collected=2",
-  "to write: 2 Erode district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/garbage/dumping-of-tras",
-  "auto images: 1 of 1 stories ({'pollinations': 2})",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-engineer-marries-japanese-girlfriend/4383398",
+  "candidate filter: collected=1",
+  "to write: 1 Erode district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-e",
+  "auto images: 1 of 1 stories ({'pollinations': 3})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'pollinations': 5})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
-  "filed: 2 Erode district stories (target 2), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 74 min",
+  "filed: 1 Erode district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (48s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (23s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (22s)",
+  "ok gemini/gemini-3.5-flash (40s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (19s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (35s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (2s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "எலவமலையில் 800 பீமா மூங்கில் நாற்று நடவு பணி துவக்கம்: கலெக்டர் கந்தசாமி துவக்கி வைத்தார்",
-   "english_headline": "Planting of 800 Bheema bamboo saplings begins on public land in Elavamalai panchayat; inaugurated by Erode Collector Kandasamy",
-   "category": "Weather & Agriculture",
-   "location": "Marappampalayam, Elavamalai panchayat, Erode district",
+   "tamil_headline": "ஜப்பான் பெண்ணை மணந்த சென்னிமலை இன்ஜினியர்",
+   "english_headline": "Chennimalai engineer marries Japanese bride in Tamil traditional wedding",
+   "category": "Temples & Events",
+   "location": "Mettu Pudupalayam, Chennimalai, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மூங்கில் நடவு",
-    "loc": "எலவமலை, ஈரோடு",
-    "hl1": "எலவமலையில் 800 பீமா மூங்கில் நடவு",
-    "hl2": "கலெக்டர் கந்தசாமி துவக்கம்",
+    "cat": "திருமணம்",
+    "loc": "சென்னிமலை",
+    "hl1": "சென்னிமலையில் ஜப்பான் பெண் திருமணம்",
+    "hl2": "தமிழ் முறைப்படி திருமணம்",
     "slides": [
      {
-      "title": "என்ன திட்டம்?",
+      "title": "யார் திருமணம்?",
       "lines": [
-       "எலவமலை பஞ்சாயத்து மாரப்பம்பாளையத்தில் பணி",
-       "பொது நிலத்தில் <b>800</b> பீமா மூங்கில் நாற்று நடவு",
-       "திசு வளர்ப்பு முறையில் உற்பத்தி செய்யப்பட்டவை"
+       "சென்னிமலை பரத்குமார் – ஜப்பான் பெண் ஹரூமி இஷிசுகா",
+       "பரத்குமார் டோக்கியோவில் ஒரு தனியார் நிறுவனத்தில்",
+       "இருவரும் டோக்கியோவில் நண்பர்களாகி பின்னர் காதலித்தனர்"
       ]
      },
      {
-      "title": "யார் துவக்கினார்?",
+      "title": "எங்கே, எப்போது?",
       "lines": [
-       "கலெக்டர் <b>கந்தசாமி</b> பணியைத் துவக்கி வைத்தார்",
-       "காற்றில் கார்பன் டை ஆக்சைடை குறைக்க மூங்கில் உதவும்",
-       "ஆக்சிஜன் அதிகரிப்பு, மண்ணரிப்பு தடுப்பு பயன்கள்"
+       "சென்னிமலை அருகே மேற்கு புதுப்பாளையத்தில் திருமணம்",
+       "நேற்று தமிழ் பாரம்பரிய முறைப்படி நடைபெற்றது",
+       "இரு குடும்பத்தாரும் காதலுக்கு சம்மதம் தெரிவித்தனர்"
       ]
      },
      {
-      "title": "மானிய விவரம்",
+      "title": "சிறப்பு",
       "lines": [
-       "நாற்று மானியம் <b>ரூ.26,600</b>, நடவு மானியம் <b>ரூ.28,400</b>",
-       "இடுபொருள் மானியம் <b>ரூ.44,000</b> வழங்கப்படும்",
-       "தோட்டக்கலைத்துறை சார்பில் இடுபொருட்கள் வழங்கப்படும்"
+       "ஜப்பான் மணமகள் அனைத்து சம்பிரதாயங்களையும் ஆர்வத்துடன்",
+       "இது அனைவரையும் கவர்ந்தது",
+       "தந்தை சுப்பிரமணி, சென்னிமலை பேரூராட்சி தி.மு.க. கவுன்சிலர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "எலவமலை பஞ்சாயத்து மாரப்பம்பாளையத்தில் 800 பீமா மூங்கில் நாற்றுகள் நடவு செய்யும் பணி துவங்கியுள்ளது. பொது நிலத்தில் திசு வளர்ப்பு முறையில் தயாரிக்கப்பட்ட நாற்றுகள் நடவு செய்யப்படுகின்றன. இந்த சிறப்பு திட்டத்தை மாவட்ட கலெக்டர் கந்தசாமி துவக்கி வைத்தார். காற்றில் கார்பன் டை ஆக்சைடு அளவை குறைத்து ஆக்சிஜன் அளவை அதிகரிக்க மூங்கில் மரங்கள் உதவுகின்றன. மேலும் மண்ணரிப்பை தடுத்து காடுகளின் பரப்பை உயர்த்தவும் இவை பயன்படும். இத்திட்டத்தில் மூங்கில் நாற்றுக்காக 26,600 ரூபாய் பணப் பயனாக வழங்கப்படுகிறது. மேலும் நடவு மானியமாக 28,400 ரூபாய் பணப் பயனாக வழங்கப்படுகிறது. இடுபொருள் மானியமாக 44,000 ரூபாய் வழங்கப்படும் என்றும் அறிவிக்கப்பட்டுள்ளது. நடப்பட்ட செடிகளை பராமரிக்க தேவையான இடுபொருட்களும் பயனாளிகளுக்கு வழங்கப்படும் என தோட்டக்கலைத்துறை அதிகாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌱 எலவமலையில் 800 பீமா மூங்கில் நாற்று நடவு பணி துவக்கம்: கலெக்டர் கந்தசாமி துவக்கி வைத்தார்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் எலவமலை பஞ்சாயத்து மாரப்பம்பாளையத்தில் உள்ள பொது நிலத்தில் திசு வளர்ப்பு முறையில் உற்பத்தி செய்யப்பட்ட 800 பீமா மூங்கில் நாற்றுகள் நடவு செய்யும் பணி துவங்கியுள்ளது. இந்த பணியை மாவட்ட கலெக்டர் கந்தசாமி துவக்கி வைத்தார்.\n\nமூங்கில் மரங்கள் காற்றில் கார்பன் டை ஆக்சைடு அளவை குறைத்து, ஆக்சிஜன் அளவை அதிகரிக்கவும், மண்ணரிப்பை தடுக்கவும், காடுகளின் பரப்பை உயர்த்தவும் பெரிதும் உதவுகின்றன.\n\n💰 மானிய விவரங்கள்:\n• மூங்கில் நாற்று மானியம்: ₹26,600 (பணப் பயன்)\n• நடவு மானியம்: ₹28,400 (பணப் பயன்)\n• இடுபொருள் மானியம்: ₹44,000\n\nநடப்பட்ட மூங்கில் செடிகளை முறையாக பராமரிக்க தேவையான இடுபொருட்களும் பயனாளிகளுக்கு வழங்கப்படும் என தோட்டக்கலைத்துறை அதிகாரிகள் தெரிவித்துள்ளனர்.\n\nவிவசாயிகள் மற்றும் ஆர்வலர்களுக்கு இந்த தகவலை Share செய்யுங்கள்.\n\nBheema bamboo sapling plantation in Erode Elavamalai | Erode news\n📍 மாரப்பம்பாளையம், எலவமலை, ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Elavamalai #மூங்கில்நடவு #ErodeNews",
-   "prompts": "A group of horticulture workers, guided by Erode Collector Kandasamy, plant bamboo saplings on a public field. The planting takes place on open public land in Marappampalayam, Elavamalai panchayat, a flat grassy area on the outskirts of Erode, with a low fence and a distant line of mango trees. The Collector, dressed in a khaki shirt and trousers, stands at the front, his back to the camera, while several officials in white shirts and many laborers in simple shirts and dhotis work from behind, bending to place saplings into the soil. Rows of 800 young Bheema bamboo saplings lie in a temporary tray, and each worker holds a small shovel and a wooden stake. It is a bright mid‑morning with clear sky and strong sunlight. Shot from eye level with a 35 mm lens, a wide frame captures the field, the line of workers and the surrounding open land. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA freshly planted Bheema bamboo sapling stands upright in the soil, its slender green leaves unfurling. The close‑up is set on the same public land in Marappampalayam, the earth dark and moist around the base. Only the blurred hands of a laborer are visible from behind, holding a shovel, while the Collector is out of frame. The sapling is surrounded by a small wooden stake and a half‑filled watering can, with a few other saplings in the background. The shot is taken in the same bright daylight, shadows short. A slightly high eye‑level angle with a 35 mm lens focuses on the sapling, filling the frame to highlight the young bamboo. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/bhima-bamboo-calf-plantation/4383006",
-   "published": "2026-11-22T06:40:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
+   "reel_script": "சென்னிமலையைச் சேர்ந்த இன்ஜினியர் பரத்குமார், ஜப்பான் பெண் ஹரூமி இஷிசுகாவை மணந்தார். சென்னிமலைக்கு அருகே மேற்கு புதுப்பாளையத்தில் நேற்று தமிழ் பாரம்பரிய முறைப்படி திருமணம் நடைபெற்றது. பரத்குமார், டெல்லி ஐ ஐ டி யில் பொறியியல் படித்தவர். தற்போது ஜப்பான் தலைநகர் டோக்கியோவில் ஒரு தனியார் நிறுவனத்தில் பணியாற்றுகிறார். அங்கு ஏற்பட்ட நட்பு காதலாக மாறியது. இரு குடும்பத்தாரும் காதலுக்குப் பச்சைக்கொடி காட்டியதால் திருமணம் நிச்சயிக்கப்பட்டது. ஜப்பான் மணமகள் ஹரூமி, தமிழ் சம்பிரதாயங்கள் அனைத்தையும் ஆர்வத்துடன் செய்தார். இது அங்கிருந்தவர்கள் அனைவரையும் கவர்ந்தது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💍 சென்னிமலை இன்ஜினியர் ஜப்பான் பெண்ணை தமிழ் முறைப்படி மணந்தார்\n\n📰 முழு விவரம்:\nசென்னிமலையைச் சேர்ந்த பரத்குமார், டெல்லி ஐ.ஐ.டி.யில் பொறியியல் படித்தவர். இவர் டோக்கியோவில் ஒரு தனியார் நிறுவனத்தில் பணியாற்றுகிறார். அங்கு ஜப்பானைச் சேர்ந்த ஹரூமி இஷிசுகாவுடன் ஏற்பட்ட நட்பு காதலாக மாறியது. இரு குடும்பத்தாரும் சம்மதம் தெரிவிக்க திருமணம் நிச்சயிக்கப்பட்டது. நேற்று சென்னிமலை அருகே மேற்கு புதுப்பாளையத்தில் தமிழ் பாரம்பரிய முறைப்படி திருமணம் நடைபெற்றது. ஜப்பான் மணமகள் அனைத்து சம்பிரதாயங்களையும் ஆர்வத்துடன் செய்தது அனைவரையும் கவர்ந்தது.\n📍 இடம்: மேற்கு புதுப்பாளையம், சென்னிமலை, ஈரோடு மாவட்டம்\n🗓️ நாள்: 21 நவம்பர் 2026\n\nJapanese bride weds Chennimalai engineer in Tamil ceremony | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
+   "prompts": "A Tamil engineer and his Japanese bride exchange vows in a traditional wedding ceremony, the groom placing the thali around the bride’s neck as she smiles. The ceremony is set in Mettu Pudupalayam, a small residential locality just outside Chennimalai, with modest houses and a palm‑lined lane visible in the background. From behind, the groom in a white shirt and veshti and the bride in a richly embroidered Tamil wedding saree stand beside their families, who are seated on the ground, their heads turned away, dressed in sarees and shirts, creating a respectful distance. The central wedding mandap, a wooden canopy draped with white cloth and marigold garlands, holds the thali, a brass pot, and a small Japanese origami crane placed as a cultural token. The scene occurs in daylight under clear skies, casting soft natural light over the gathering. The camera is positioned at eye level, slightly elevated, using a 35 mm lens to capture the full mandap and the surrounding participants. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view focuses on the bride’s hands as she gently holds the brass thali, the gold chain glinting against her skin, while a delicate origami crane rests beside it on the mandap’s wooden rail. The background shows the simple thatched roof of a nearby house in Mettu Pudupalayam, indicating the village setting. Only the bride’s hands, the thali, and the crane are in sharp focus; the families are blurred in the distance, their traditional saris and shirts barely visible. The thali and crane are the only objects, highlighting the blend of Tamil tradition and Japanese influence. The lighting is bright daylight, with soft shadows, and the camera is positioned slightly high, using a 35 mm lens to capture the intimate detail without revealing faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-engineer-marries-japanese-girlfriend/4383398",
+   "published": "2026-11-22T19:02:45+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: Caption gives a specific wedding date (21 நவம்பர் 2026) which is not stated in the article",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795347468/erode360/olhyauojtozqckmn9go8.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795347477/erode360/sgisgsntcsews84kuqr1.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தாராபடவேடு மயானத்தில் குப்பைக் கூளம்: மாநகராட்சி தடுக்க பொதுமக்கள் கோரிக்கை",
-   "english_headline": "Garbage dumped at Dharapadavedu burial ground in Katpadi causes severe foul smell; residents urge Vellore Corporation to intervene",
-   "category": "Civic Issues",
-   "location": "Dharapadavedu, Katpadi, Vellore district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சுகாதார சீர்கேடு",
-    "loc": "தாராபடவேடு, காட்பாடி",
-    "hl1": "தாராபடவேடு மயானத்தில் குப்பை",
-    "hl2": "துர்நாற்றத்தால் மக்கள் அவதி",
-    "slides": [
-     {
-      "title": "எங்கு பிரச்சனை?",
-      "lines": [
-       "வேலூர் தாராபடவேடு <b>7-வது வார்டு</b> பவானி நகர்",
-       "முத்து மாரியம்மன் கோவில் அருகே உள்ள மயானம்",
-       "சிறிய அளவிலான மயானம் மற்றும் தகனமேடை"
-      ]
-     },
-     {
-      "title": "என்ன நிலை?",
-      "lines": [
-       "மயானத்தில் குப்பைகள் கொண்டு வந்து கொட்டப்படுகின்றன",
-       "குப்பை குவியலால் கடுமையான துர்நாற்றம் வீசுகிறது",
-       "அடக்கம் செய்ய வருவோர் நிற்க முடியாத நிலை"
-      ]
-     },
-     {
-      "title": "மக்களின் கோரிக்கை",
-      "lines": [
-       "மயானத்தில் குப்பை கொட்டுவதை தடுத்து நிறுத்த வேண்டும்",
-       "மாநகராட்சி நிர்வாகம் உடனடியாக நடவடிக்கை எடுக்க கோரிக்கை",
-       "சுற்றுப்புறத்தை தூய்மையாக பராமரிக்க வலியுறுத்தல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "தாராபடவேடு பவானி நகர் மயானத்தில் குப்பைகள் கொட்டப்படுவதால் துர்நாற்றம் வீசி பொதுமக்கள் அவதிப்பட்டு வருகின்றனர். வேலூர் மாநகராட்சி மண்டலம் 1-க்கு உட்பட்ட தாராபடவேடு 7-வது வார்டில் இந்த மயானம் அமைந்துள்ளது. பவானி நகர் முத்து மாரியம்மன் கோவில் அருகில் மயானமும் எரிவாயு தகனமேடையும் உள்ளன. இந்த மயானம் போதிய இடவசதி இல்லாமல் சிறிய அளவில் உள்ளது. தற்போது இந்த மயானத்தில் தொடர்ந்து குப்பைகளைக் கொண்டு வந்து கொட்டி வைத்துள்ளனர். இந்த குப்பைக் குவியலால் அந்த பகுதியில் கடும் துர்நாற்றம் வீசுகிறது. உடல்களை அடக்கம் மற்றும் தகனம் செய்ய வருபவர்கள் அங்கு நிற்க முடியாத நிலை உள்ளது. மயானத்தில் குப்பைகள் கொட்டுவதை மாநகராட்சி நிர்வாகம் உடனடியாகத் தடுக்க வேண்டும் என பொதுமக்கள் வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தாராபடவேடு மயானத்தில் குப்பைக் கூளம்: துர்நாற்றத்தால் மக்கள் அவதி!\n\n📰 முழு விவரம்:\nவேலூர் மாநகராட்சி மண்டலம் 1-க்கு உட்பட்ட தாராபடவேடு 7-வது வார்டு பவானி நகரில் முத்து மாரியம்மன் கோவில் அருகில் மயானம் மற்றும் எரிவாயு தகனமேடை அமைந்துள்ளது. இந்த மயானம் போதிய இடமில்லாமல் சிறிய அளவில் உள்ளது.\nஇங்கு தொடர்ந்து குப்பைகளைக் கொண்டு வந்து கொட்டி குவித்து வைத்துள்ளனர். இதனால் கடும் துர்நாற்றம் வீசுவதுடன், உடல்களை அடக்கம் மற்றும் தகனம் செய்ய வருபவர்கள் நிற்க முடியாத சூழல் நிலவுகிறது.\nமயானத்தில் குப்பைகள் கொட்டப்படுவதை மாநகராட்சி நிர்வாகம் உடனடியாகத் தடுத்து நிறுத்த வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: தாராபடவேடு, வேலூர்\nℹ️ மக்கள் கோரிக்கை: மயானத்தில் குப்பை கொட்டுவதைத் தடுத்து தூய்மையாகப் பராமரிக்க வேண்டும்.\n\nபகுதியினருக்கு Share செய்யுங்கள்\n\nDharapadavedu burial ground garbage dumping issue | Erode news\n📍 தாராபடவேடு, வேலூர் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Dharapadavedu #ErodeNews #Vellore #ஈரோடு",
-   "prompts": "A heap of mixed garbage piled high in the narrow burial ground (mayanam) creates a visible cloud of foul odor as residents gather to protest, pointing and speaking toward municipal officials. The scene is set in Pavani Nagar, Dharapadavedu, Katpadi, where the burial ground sits beside the modest Muthu Mariamman temple and an adjacent gas‑tank structure. In the foreground, a small group of residents in sarees and shirts are seen from behind, hands raised, while a few municipal officers in khaki stand a short distance away, also viewed from behind. The garbage heap dominates the frame, with scattered plastic and organic waste visible. Daylight illuminates the area, no rain, and the camera is positioned at eye level with a 35 mm lens, capturing a wide view of the burial ground and surrounding structures. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view focuses on the garbage heap itself, showing layers of discarded plastic bags, broken bottles, and organic waste tightly compacted on the ground of the burial site. The heap rises against the dusty earth of the mayanam, with a faint plume of odor‑indicating steam rising from the top. In the background, the low wall of the gas‑tank structure is faintly visible, and a municipal officer’s khaki sleeve can be seen at the edge, blurred to keep the focus on the waste. The shot is taken in daylight, eye‑level, using a 35 mm lens to capture the texture and volume of the garbage that is the cause of the foul smell. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://pukaarpetti.dailythanthi.com/garbage/dumping-of-trash-in-the-cremation-ground-must-be-stopped-68710",
-   "published": "2026-11-22T16:32:06+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795347500/erode360/skzzpw5ozvistikx0p2o.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795347525/erode360/o0uezh7qyvrbfxjov59z.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795359321/erode360/guvcsubfcgtgws6maz8w.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795359329/erode360/hg1s2ru5uikaj5pcbqi9.jpg"
    ]
   }
  ]

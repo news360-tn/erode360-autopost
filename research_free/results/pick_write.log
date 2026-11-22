@@ -1,38 +1,37 @@
-writing [N]: மயானத்தில் குப்பை கொட்டுவதை தடுக்க வேண்டும்
+writing [N]: ஜப்பான் காதலியை மணந்த சென்னிமலை இன்ஜினியர்
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-writing [N]: பீமா மூங்கில் கன்று நடவு
+ok gemini/gemini-3.6-flash (48s)
+attempt 1 gemini/gemini-3.6-flash: 1 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (19s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
+ok gemini/gemini-3.5-flash (40s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3.6-flash (23s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (4s)
-factcheck by gemini/gemini-3-flash-preview: 0 problems
-attempt 1 gemini/gemini-3.6-flash: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok gemini/gemini-3-flash-preview (22s)
-factcheck by gemini/gemini-3-flash-preview: 0 problems
-attempt 1 gemini/gemini-3.6-flash: 0 problems
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (19s)
-proofread rejected (1 problems)
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok gemini/gemini-3-flash-preview (35s)
+factcheck by gemini/gemini-3-flash-preview: 5 problems
+  The year 2026 in the caption date is incorrect
+  The mention of 'கிராம மக்கள்' (village people) in the reel script is an invented detail not found in the article
+  The father's political party (DMK) is missing from his role description in the reel script and caption
+  The specific company name 'Globe-ing Inc' is missing from the reel script and slides
+  The script states the wedding attracted everyone, whereas the article specifies it was the bride's performance of rituals that attracted everyone
+attempt 2 gemini/gemini-3.5-flash: 5 problems
+  fact-check: The year 2026 in the caption date is incorrect
+  fact-check: The mention of 'கிராம மக்கள்' (village people) in the reel script is an invented detail not found in the article
+  fact-check: The father's political party (DMK) is missing from his role description in the reel script and caption
+  fact-check: The specific company name 'Globe-ing Inc' is missing from the reel script and slides
+  fact-check: The script states the wedding attracted everyone, whereas the article specifies it was the bride's performance of rituals that attracted everyone
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
@@ -40,46 +39,79 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok groq/openai/gpt-oss-120b (4s)
-real photo: no picture on the source page -> AI pictures
-imagegen: cloudflare black-forest-labs/flux-1-schnell 429: {"errors":[{"message":"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like 
-ok gemini/gemini-3-flash-preview (13s)
-proofread rejected (2 problems)
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 7
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (3s)
+factcheck by groq/openai/gpt-oss-120b: 9 problems
+  Reel script says Parathkumar performed the marriage, but article says the engineer got married
+  Reel script claims Parathkumar works at the Tokyo company, while article says the engineer works there
+  Reel script attributes the friendship with Harumi Ishishukawa to Parathkumar, but article says it was the engineer
+  Slide "யார்?" incorrectly lists Parathkumar as the engineer working in Tokyo
+  Slide "காதல் கதை" attributes the love story to Parathkumar instead of the engineer
+  Caption states Parathkumar works at the Tokyo firm, which contradicts the article
+  Caption and reel omit the bride’s name Kanchana that is mentioned in the article
+  Caption and reel omit that the engineer, not the son, is the one employed in Tokyo
+  Caption and reel omit that Parathkumar is only a student and not involved in the wedding
+claude rewrite 1 anthropic/claude-haiku-5-5: 9 problems
+  fact-check: Reel script says Parathkumar performed the marriage, but article says the engineer got married
+  fact-check: Reel script claims Parathkumar works at the Tokyo company, while article says the engineer works there
+  fact-check: Reel script attributes the friendship with Harumi Ishishukawa to Parathkumar, but article says it was the engineer
+  fact-check: Slide "யார்?" incorrectly lists Parathkumar as the engineer working in Tokyo
+  fact-check: Slide "காதல் கதை" attributes the love story to Parathkumar instead of the engineer
+  fact-check: Caption states Parathkumar works at the Tokyo firm, which contradicts the article
+  fact-check: Caption and reel omit the bride’s name Kanchana that is mentioned in the article
+  fact-check: Caption and reel omit that the engineer, not the son, is the one employed in Tokyo
+  fact-check: Caption and reel omit that Parathkumar is only a student and not involved in the wedding
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 44 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (4s)
+factcheck by groq/openai/gpt-oss-120b: 1 problems
+  Caption gives a specific wedding date (21 நவம்பர் 2026) which is not stated in the article
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  fact-check: Caption gives a specific wedding date (21 நவம்பர் 2026) which is not stated in the article
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (4s)
+proofread rejected (3 problems)
+  slide 1 line 2 longer than 60 characters
+  slide 3 line 1 longer than 60 characters
+  reel_script has 57 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 ok groq/openai/gpt-oss-120b (2s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Planting of 800 Bheema bamboo saplings b'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-1707","first":"RN-216"}
-posting job started at once
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo used (1592x1192, sharpness 67.9, The photograph shows a burial ground shed structure surround): https://pukaarpetti.dailythanthi.com/h-upload/2026/11/22/129423-1000213113.webp
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:ge
 real photo: vision check out of free quota
+imagegen: cloudflare black-forest-labs/flux-1-schnell 429: {"errors":[{"message":"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like 
+image match: False The bride in the image is an Indian woman, not a Japanese bride.
+image match check unavailable: gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match: False The photo shows a small pile of crushed glass and debris with smoke rising from it, rather than a burial ground filled w
-image match: False The image shows a steaming pile of crushed glass/industrial debris in an industrial or recycling yard with a silo in the
-images made: 2 for 'Garbage dumped at Dharapadavedu burial g'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-1708","first":"RN-217"}
+images made: 2 for 'Chennimalai engineer marries Japanese br'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261122-2025","first":"RN-218"}
+posting job started at once
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://pukaarpetti.dailythanthi.com/garbage/dumping-of-trash-in-the-cremation-ground-must-be-stopped-68710
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/bhima-bamboo-calf-plantation/4383006
-candidate filter: collected=2
-to write: 2 Erode district candidates (max 2 stories)
-round: top 2 of 2 candidates
-candidates waiting: 2 Erode; time left 79 min
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-try (N) manual=True: https://pukaarpetti.dailythanthi.com/garbage/dumping-of-tras
-auto images: 1 of 1 stories ({'pollinations': 2})
+manual link added: https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-engineer-marries-japanese-girlfriend/4383398
+candidate filter: collected=1
+to write: 1 Erode district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Erode; time left 79 min
+try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-e
+auto images: 1 of 1 stories ({'pollinations': 3})
 posting job started at once
-auto images: 1 of 1 stories ({'pollinations': 5})
-candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min
-filed: 2 Erode district stories (target 2), reels only
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 74 min
+filed: 1 Erode district stories (target 1), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":2,"updated":0} 
-stories: 2
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
