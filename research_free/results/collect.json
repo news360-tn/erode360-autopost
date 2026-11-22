@@ -3,580 +3,168 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/advice-to-students-at-coffee-with-collector-event/4383004",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/stray-dog-kills--operator/4383005",
-  "manual link added: https://www.hindutamil.in/news/supplements/penn-indru/quality-and-punctuality-bring-success",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/alcoholic-man-goes-on-a-rampage/4382990",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/call-to-apply-for-the-post-of-temporary-nurse/4382995",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/rare-snake-trapped-in-erode/4382998",
-  "candidate filter: collected=6",
-  "to write: 6 Erode district candidates (max 6 stories)",
-  "round: top 6 of 6 candidates",
-  "candidates waiting: 6 Erode; time left 79 min",
+  "manual link added: https://pukaarpetti.dailythanthi.com/garbage/dumping-of-trash-in-the-cremation-ground-must-be-stopped-68710",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/bhima-bamboo-calf-plantation/4383006",
+  "candidate filter: collected=2",
+  "to write: 2 Erode district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/garbage/dumping-of-tras",
+  "auto images: 1 of 1 stories ({'pollinations': 2})",
   "posting job started at once",
-  "try (N) manual=True: https://www.hindutamil.in/news/supplements/penn-indru/qualit",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 13})",
-  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 6}, time left 71 min",
-  "filed: 6 Erode district stories (target 6), reels only",
+  "auto images: 1 of 1 stories ({'pollinations': 5})",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 77 min",
+  "filed: 2 Erode district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (14s)",
+  "ok gemini/gemini-3.6-flash (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "ok gemini/gemini-3.6-flash (23s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (27s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (16s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.6-flash (35s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "ok gemini/gemini-3.6-flash (44s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (18s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (41s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (49s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (46s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (26s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.5-flash (31s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.5-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (30s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (36s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (41s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (22s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "ok groq/openai/gpt-oss-120b (7s)",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok groq/openai/gpt-oss-120b (4s)",
+  "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5"
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோட்டில் பிடிபட்ட அரிய வகை வெள்ளைகோல் வரையன் பாம்பு: கட்டு விரியன் போல் தோற்றம்",
-   "english_headline": "Rare White-barred Wolf Snake caught in Erode's Manickampalayam; handed over to forest department",
-   "category": "Crime & Safety",
-   "location": "Manickampalayam Housing Unit, Erode city, Erode district",
+   "tamil_headline": "எலவமலையில் 800 பீமா மூங்கில் நாற்று நடவு பணி துவக்கம்: கலெக்டர் கந்தசாமி துவக்கி வைத்தார்",
+   "english_headline": "Planting of 800 Bheema bamboo saplings begins on public land in Elavamalai panchayat; inaugurated by Erode Collector Kandasamy",
+   "category": "Weather & Agriculture",
+   "location": "Marappampalayam, Elavamalai panchayat, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பாம்பு மீட்பு",
-    "loc": "மாணிக்கம்பாளையம், ஈரோடு",
-    "hl1": "மாணிக்கம்பாளையத்தில் அரிய வகை பாம்பு",
-    "hl2": "கட்டு விரியன் போல் தோற்றம்",
+    "cat": "மூங்கில் நடவு",
+    "loc": "எலவமலை, ஈரோடு",
+    "hl1": "எலவமலையில் 800 பீமா மூங்கில் நடவு",
+    "hl2": "கலெக்டர் கந்தசாமி துவக்கம்",
     "slides": [
      {
-      "title": "எங்கே நடந்தது?",
+      "title": "என்ன திட்டம்?",
       "lines": [
-       "மாணிக்கம்பாளையம் பகுதியில் வீட்டிற்குள் புகுந்த பாம்பு",
-       "நேற்று முன்தினம் இரவு <b>10 மணி</b> அளவில் சம்பவம்"
+       "எலவமலை பஞ்சாயத்து மாரப்பம்பாளையத்தில் பணி",
+       "பொது நிலத்தில் <b>800</b> பீமா மூங்கில் நாற்று நடவு",
+       "திசு வளர்ப்பு முறையில் உற்பத்தி செய்யப்பட்டவை"
       ]
      },
      {
-      "title": "பாம்பு விவரம்",
+      "title": "யார் துவக்கினார்?",
       "lines": [
-       "<b>2 அடி</b> நீள வெள்ளைகோல் வரையன் பாம்பு",
-       "இந்திய ஓநாய் பாம்பு என்றும் அழைக்கப்படுகிறது",
-       "பார்ப்பதற்கு கட்டு விரியன் போலவே இருக்கும்"
+       "கலெக்டர் <b>கந்தசாமி</b> பணியைத் துவக்கி வைத்தார்",
+       "காற்றில் கார்பன் டை ஆக்சைடை குறைக்க மூங்கில் உதவும்",
+       "ஆக்சிஜன் அதிகரிப்பு, மண்ணரிப்பு தடுப்பு பயன்கள்"
       ]
      },
      {
-      "title": "மீட்புப் பணி",
+      "title": "மானிய விவரம்",
       "lines": [
-       "தீயணைப்பு வீரர்கள் <b>10 நிமிடங்களில்</b> பாம்பைப் பிடித்தனர்",
-       "பிடிபட்ட பாம்பு வனத்துறையிடம் ஒப்படைப்பு",
-       "இது விஷமற்றது, ஆனால் கடித்தால் வலி ஏற்படும்"
+       "நாற்று மானியம் <b>ரூ.26,600</b>, நடவு மானியம் <b>ரூ.28,400</b>",
+       "இடுபொருள் மானியம் <b>ரூ.44,000</b> வழங்கப்படும்",
+       "தோட்டக்கலைத்துறை சார்பில் இடுபொருட்கள் வழங்கப்படும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு மாணிக்கம்பாளையத்தில் அரிய வகை வெள்ளைகோல் வரையன் பாம்பு பிடிபட்டது. மாணிக்கம்பாளையம் ஹவுசிங் யூனிட் பகுதியைச் சேர்ந்த ஒருவரது வீட்டிற்குள் நேற்று முன்தினம் இரவு 10 மணி அளவில் பாம்பு புகுந்தது. இது குறித்து ஈரோடு தீயணைப்புத் துறைக்குத் தகவல் தெரிவிக்கப்பட்டது. சம்பவ இடத்திற்கு வந்த தீயணைப்பு வீரர்கள் 10 நிமிடங்களில் பாம்பைப் பிடித்தனர். பிடிபட்ட பாம்பு வனத்துறையிடம் பாதுகாப்பாக ஒப்படைக்கப்பட்டது. இந்த பாம்பு 2 அடி நீளம் கொண்டது. இது இந்திய ஓநாய் பாம்பு என்றும் அழைக்கப்படுகிறது. பார்ப்பதற்கு கட்டு விரியன் பாம்பு போலவே இருக்கும். ஆனால் இது விஷமற்றது. இது சுவர்களில் ஏறும் திறன் கொண்டது. இது இரவில் சுறுசுறுப்பாகச் செயல்படும். இது பல்லி, அரணை மற்றும் தவளைகளை உணவாகக் கொள்ளும். இது கடித்தால் அதிக வலி ஏற்படும் என்று வீரர்கள் தெரிவித்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🐍 ஈரோட்டில் பிடிபட்ட அரிய வகை வெள்ளைகோல் வரையன் பாம்பு!\n\n📰 முழு விவரம்:\nஈரோடு மாணிக்கம்பாளையம் ஹவுசிங் யூனிட் பகுதியில் ஒருவரது வீட்டிற்குள் நேற்று முன்தினம் இரவு 10 மணியளவில் பாம்பு புகுந்தது. தகவலறிந்து வந்த தீயணைப்பு வீரர்கள் 10 நிமிடங்களில் பாம்பைப் பிடித்து வனத்துறையிடம் ஒப்படைத்தனர். பிடிபட்டது 2 அடி நீளமுள்ள வெள்ளைகோல் வரையன் பாம்பு ஆகும். இது இந்திய ஓநாய் பாம்பு என்றும் அழைக்கப்படுகிறது. இது விஷமற்றது என்றாலும் கடித்தால் வலி ஏற்படும். பார்ப்பதற்கு கட்டு விரியன் போலவே இருக்கும் இந்த பாம்பு சுவர்களில் ஏறும் திறன் கொண்டது. இது இரவில் சுறுசுறுப்பாகச் செயல்படும் மற்றும் பல்லி, தவளைகளை உணவாகக் கொள்ளும்.\n\n📍 இடம்: மாணிக்கம்பாளையம், ஈரோடு\n🗓️ நாள்: 20 நவம்பர் 2026\n🕘 நேரம்: இரவு 10 மணி\n👮 நடவடிக்கை: தீயணைப்புத் துறையினர் பாம்பைப் பிடித்து வனத்துறையிடம் ஒப்படைத்தனர்.\n\nRare White-barred Wolf Snake caught in Erode Manickampalayam | Erode news\n📍 Manickampalayam, Erode | 22 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Manickampalayam #SnakeRescue #ஈரோடு",
-   "prompts": "A fire and rescue personnel in uniform gently holds a slender, pale white-barred wolf snake with a long snake-catching hook near the doorway of a single-storey house in Manickampalayam Housing Unit, Erode city, at night. The setting is a residential house interior and entrance, with plain painted walls, a tiled floor, and a side wall where the snake was found. Two or three onlookers, family members of the house, stand at a distance in a doorway, seen from behind, wearing a shirt and a salwar, quietly watching. A rescue team member in a khaki or dark uniform with gloves stands nearby. The snake is about two feet long, with pale white bars and a narrow head, clearly the central subject. The time is night around 10 pm, lit by the warm yellow glow of ceiling bulbs and a street light outside the door. Camera: eye level, 35 mm, wide enough to show the house interior, the doorway, the people and the snake clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a slender, pale white-barred Indian wolf snake being carefully held in a snake-catching hook and placed into a cloth sack or a covered container on a plain tiled floor inside a house in Manickampalayam Housing Unit, Erode city, at night. A gloved hand of a fire and rescue worker in a dark uniform holds the hook steady, with a wall and a corner of a doorway in the blurred background. The snake shows its distinctive white bars and narrow head against the dark tile. Warm yellow indoor light from ceiling bulbs falls across the scene. No readable text anywhere. Camera: close-up at slightly above eye level, 50 mm, shallow depth of field keeping the snake sharp and the background softly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/rare-snake-trapped-in-erode/4382998",
-   "published": "2026-11-22T06:36:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 5 attempt(s), 0 validator problem(s)",
+   "reel_script": "எலவமலை பஞ்சாயத்து மாரப்பம்பாளையத்தில் 800 பீமா மூங்கில் நாற்றுகள் நடவு செய்யும் பணி துவங்கியுள்ளது. பொது நிலத்தில் திசு வளர்ப்பு முறையில் தயாரிக்கப்பட்ட நாற்றுகள் நடவு செய்யப்படுகின்றன. இந்த சிறப்பு திட்டத்தை மாவட்ட கலெக்டர் கந்தசாமி துவக்கி வைத்தார். காற்றில் கார்பன் டை ஆக்சைடு அளவை குறைத்து ஆக்சிஜன் அளவை அதிகரிக்க மூங்கில் மரங்கள் உதவுகின்றன. மேலும் மண்ணரிப்பை தடுத்து காடுகளின் பரப்பை உயர்த்தவும் இவை பயன்படும். இத்திட்டத்தில் மூங்கில் நாற்றுக்காக 26,600 ரூபாய் பணப் பயனாக வழங்கப்படுகிறது. மேலும் நடவு மானியமாக 28,400 ரூபாய் பணப் பயனாக வழங்கப்படுகிறது. இடுபொருள் மானியமாக 44,000 ரூபாய் வழங்கப்படும் என்றும் அறிவிக்கப்பட்டுள்ளது. நடப்பட்ட செடிகளை பராமரிக்க தேவையான இடுபொருட்களும் பயனாளிகளுக்கு வழங்கப்படும் என தோட்டக்கலைத்துறை அதிகாரிகள் தெரிவித்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌱 எலவமலையில் 800 பீமா மூங்கில் நாற்று நடவு பணி துவக்கம்: கலெக்டர் கந்தசாமி துவக்கி வைத்தார்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் எலவமலை பஞ்சாயத்து மாரப்பம்பாளையத்தில் உள்ள பொது நிலத்தில் திசு வளர்ப்பு முறையில் உற்பத்தி செய்யப்பட்ட 800 பீமா மூங்கில் நாற்றுகள் நடவு செய்யும் பணி துவங்கியுள்ளது. இந்த பணியை மாவட்ட கலெக்டர் கந்தசாமி துவக்கி வைத்தார்.\n\nமூங்கில் மரங்கள் காற்றில் கார்பன் டை ஆக்சைடு அளவை குறைத்து, ஆக்சிஜன் அளவை அதிகரிக்கவும், மண்ணரிப்பை தடுக்கவும், காடுகளின் பரப்பை உயர்த்தவும் பெரிதும் உதவுகின்றன.\n\n💰 மானிய விவரங்கள்:\n• மூங்கில் நாற்று மானியம்: ₹26,600 (பணப் பயன்)\n• நடவு மானியம்: ₹28,400 (பணப் பயன்)\n• இடுபொருள் மானியம்: ₹44,000\n\nநடப்பட்ட மூங்கில் செடிகளை முறையாக பராமரிக்க தேவையான இடுபொருட்களும் பயனாளிகளுக்கு வழங்கப்படும் என தோட்டக்கலைத்துறை அதிகாரிகள் தெரிவித்துள்ளனர்.\n\nவிவசாயிகள் மற்றும் ஆர்வலர்களுக்கு இந்த தகவலை Share செய்யுங்கள்.\n\nBheema bamboo sapling plantation in Erode Elavamalai | Erode news\n📍 மாரப்பம்பாளையம், எலவமலை, ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Elavamalai #மூங்கில்நடவு #ErodeNews",
+   "prompts": "A group of horticulture workers, guided by Erode Collector Kandasamy, plant bamboo saplings on a public field. The planting takes place on open public land in Marappampalayam, Elavamalai panchayat, a flat grassy area on the outskirts of Erode, with a low fence and a distant line of mango trees. The Collector, dressed in a khaki shirt and trousers, stands at the front, his back to the camera, while several officials in white shirts and many laborers in simple shirts and dhotis work from behind, bending to place saplings into the soil. Rows of 800 young Bheema bamboo saplings lie in a temporary tray, and each worker holds a small shovel and a wooden stake. It is a bright mid‑morning with clear sky and strong sunlight. Shot from eye level with a 35 mm lens, a wide frame captures the field, the line of workers and the surrounding open land. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA freshly planted Bheema bamboo sapling stands upright in the soil, its slender green leaves unfurling. The close‑up is set on the same public land in Marappampalayam, the earth dark and moist around the base. Only the blurred hands of a laborer are visible from behind, holding a shovel, while the Collector is out of frame. The sapling is surrounded by a small wooden stake and a half‑filled watering can, with a few other saplings in the background. The shot is taken in the same bright daylight, shadows short. A slightly high eye‑level angle with a 35 mm lens focuses on the sapling, filling the frame to highlight the young bamboo. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/bhima-bamboo-calf-plantation/4383006",
+   "published": "2026-11-22T06:40:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342039/erode360/jqlddp1ofdvrpjzlpez5.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342065/erode360/oagzq3uzl6e3rtufz3t4.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795347468/erode360/olhyauojtozqckmn9go8.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795347477/erode360/sgisgsntcsews84kuqr1.jpg"
    ]
   },
   {
-   "tamil_headline": "மது குடிக்கச் சென்ற சித்தன் மாயம்; போலீசார் தேடுகின்றனர்",
-   "english_headline": "Man who went out drinking on 16 Nov missing; Karungalpalayam police searching",
-   "category": "Crime & Safety",
-   "location": "P.P. Agraharam wine shop area, Karungalpalayam, Erode district",
+   "tamil_headline": "தாராபடவேடு மயானத்தில் குப்பைக் கூளம்: மாநகராட்சி தடுக்க பொதுமக்கள் கோரிக்கை",
+   "english_headline": "Garbage dumped at Dharapadavedu burial ground in Katpadi causes severe foul smell; residents urge Vellore Corporation to intervene",
+   "category": "Civic Issues",
+   "location": "Dharapadavedu, Katpadi, Vellore district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மாயம்",
-    "loc": "கருங்கல்பாளையம்",
-    "hl1": "மது குடிக்கச் சென்ற சித்தன் மாயம்",
-    "hl2": "போலீசார் தேடி வருகின்றனர்",
+    "cat": "சுகாதார சீர்கேடு",
+    "loc": "தாராபடவேடு, காட்பாடி",
+    "hl1": "தாராபடவேடு மயானத்தில் குப்பை",
+    "hl2": "துர்நாற்றத்தால் மக்கள் அவதி",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "எங்கு பிரச்சனை?",
       "lines": [
-       "பர்கூர் மலை தாமரைக்கரை பர்கூர் மடத்தைச் சேர்ந்த சித்தன்",
-       "கடந்த <b>16ஆம் தேதி</b> இரவு மது குடிக்கப் பைக்கில் சென்றார்",
-       "பின்னர் அவர் திரும்பவில்லை"
+       "வேலூர் தாராபடவேடு <b>7-வது வார்டு</b> பவானி நகர்",
+       "முத்து மாரியம்மன் கோவில் அருகே உள்ள மயானம்",
+       "சிறிய அளவிலான மயானம் மற்றும் தகனமேடை"
       ]
      },
      {
-      "title": "கடைசியாக எங்கே?",
+      "title": "என்ன நிலை?",
       "lines": [
-       "பி.பெ.அக்ரஹாரம் ஒயின்ஷாப்பில் அதிகமாக மது குடித்தார்",
-       "அங்கு படுத்து கொண்டதாகக் கூறப்படுகிறது",
-       "பார் ஊழியர்கள் பைக், மொபைல் போனை மீட்டுக் கொடுத்தனர்"
+       "மயானத்தில் குப்பைகள் கொண்டு வந்து கொட்டப்படுகின்றன",
+       "குப்பை குவியலால் கடுமையான துர்நாற்றம் வீசுகிறது",
+       "அடக்கம் செய்ய வருவோர் நிற்க முடியாத நிலை"
       ]
      },
      {
-      "title": "தற்போதைய நிலை",
+      "title": "மக்களின் கோரிக்கை",
       "lines": [
-       "சித்தனை இன்னும் காணவில்லை",
-       "புகாரின்படி கருங்கல்பாளையம் போலீசார் தேடி வருகின்றனர்",
-       "தகவல் தெரிந்தவர்கள் போலீசுக்குத் தெரிவிக்கலாம்"
+       "மயானத்தில் குப்பை கொட்டுவதை தடுத்து நிறுத்த வேண்டும்",
+       "மாநகராட்சி நிர்வாகம் உடனடியாக நடவடிக்கை எடுக்க கோரிக்கை",
+       "சுற்றுப்புறத்தை தூய்மையாக பராமரிக்க வலியுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு கருங்கல்பாளையத்தைச் சேர்ந்த சித்தன் என்பவர் மாயமாகி உள்ளார். சித்தனுக்கு 30 வயது. பர்கூர் மலை தாமரைக்கரை பர்கூர் மடம் பகுதியைச் சேர்ந்த அவர், ஈரோடு கருங்கல்பாளையத்தில் உள்ள விவசாயப் பண்ணையில் மூன்று ஆண்டுகளாகப் பணியாற்றி வந்தார். கடந்த 16ஆம் தேதி இரவு, மது குடித்துவிட்டு வருவதாகப் பண்ணையில் இருந்தவர்களிடம் கூறிவிட்டு பைக்கில் சென்றார். பின்னர் அவர் திரும்பவில்லை. பி பெ அக்ரஹாரம் ஒயின்ஷாப்பில் அதிக அளவு மது குடித்த அவர், அங்கு படுத்துக்கொண்டதாகக் கூறப்படுகிறது. பார் ஊழியர்கள் அவருடைய பைக் மற்றும் மொபைல் போனை மீட்டுக் கொடுத்தனர். ஆனால் சித்தனைக் காணவில்லை. புகாரின்படி கருங்கல்பாளையம் போலீசார் அவரைத் தேடி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 மது குடிக்கச் சென்ற சித்தன் மாயம்: போலீசார் தேடுகின்றனர்\n\n📰 முழு விவரம்:\nபர்கூர் மலை தாமரைக்கரை பர்கூர் மடத்தைச் சேர்ந்த சித்தன் (30 வயது), ஈரோடு கருங்கல்பாளையத்தில் உள்ள விவசாயப் பண்ணையில் மூன்று ஆண்டுகளாகப் பணியாற்றி வந்தார். கடந்த 16ஆம் தேதி இரவு மது குடித்துவிட்டு வருவதாகக் கூறிவிட்டு பைக்கில் சென்றவர் திரும்பவில்லை.\nபி.பெ.அக்ரஹாரம் ஒயின்ஷாப்பில் அதிக அளவு மது குடித்துவிட்டு அங்கு படுத்துக்கொண்டதாகக் கூறப்படுகிறது. பார் ஊழியர்கள் அவருடைய பைக், மொபைல் போனை மீட்டுக் கொடுத்தனர். ஆனால் சித்தனைக் காணவில்லை.\n📍 இடம்: பி.பெ.அக்ரஹாரம் ஒயின்ஷாப் பகுதி, கருங்கல்பாளையம்\n🗓️ நாள்: கடந்த 16ஆம் தேதி இரவு\n👮 நடவடிக்கை: புகாரின்படி கருங்கல்பாளையம் போலீசார் தேடி வருகின்றனர்\nதகவல் தெரிந்தவர்கள் போலீசுக்குத் தெரிவிக்கவும்.\n\nMan missing after going out to drink, Karungalpalayam police searching | Erode news\n📍 கருங்கல்பாளையம், ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Karungalpalayam #மாயம் #ErodeNews",
-   "prompts": "A Karungalpalayam police constable in khaki uniform stands beside a parked two-wheeler at the entrance of a wine shop in P.P. Agraharam, Erode, while a second officer in khaki questions a bar staff member in a white shirt near the shop's front counter. A few men in shirts and veshti stand at a distance in the dusty roadside area, and a row of other two-wheelers is parked along a low compound wall. The wine shop is a plain single-storey concrete building with a shuttered front and an open counter, with no readable signs. The scene is taken in the evening, with the dim yellow glow of a street light and the last light of dusk, the air still and dry. Shot from eye level at about 35 mm, wide enough to show the shop, the bike, the officers and the road, with faces turned away or blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a black two-wheeler with its handlebars and front wheel resting against a concrete compound wall outside a wine shop in Karungalpalayam, Erode, with a mobile phone lying on the seat, as a khaki-uniformed police hand reaches toward it to take it in evidence. The dusty roadside ground, a few plastic bottles and a dull metal grill of the shop's shutter are visible in the background. The time is early evening under a soft, fading daylight with a dim street lamp beginning to glow, and the air is dry. Shot from slightly high at about 35 mm, focused on the bike and phone, with the officer's uniform sleeve and the wall in the frame and no readable text or faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/alcoholic-man-goes-on-a-rampage/4382990",
-   "published": "2026-11-22T06:30:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'கருங்கல்பாளையம்', e.g. 'கருங்கல்பாளையம்: ...' or 'கருங்கல்பாளையம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "தாராபடவேடு பவானி நகர் மயானத்தில் குப்பைகள் கொட்டப்படுவதால் துர்நாற்றம் வீசி பொதுமக்கள் அவதிப்பட்டு வருகின்றனர். வேலூர் மாநகராட்சி மண்டலம் 1-க்கு உட்பட்ட தாராபடவேடு 7-வது வார்டில் இந்த மயானம் அமைந்துள்ளது. பவானி நகர் முத்து மாரியம்மன் கோவில் அருகில் மயானமும் எரிவாயு தகனமேடையும் உள்ளன. இந்த மயானம் போதிய இடவசதி இல்லாமல் சிறிய அளவில் உள்ளது. தற்போது இந்த மயானத்தில் தொடர்ந்து குப்பைகளைக் கொண்டு வந்து கொட்டி வைத்துள்ளனர். இந்த குப்பைக் குவியலால் அந்த பகுதியில் கடும் துர்நாற்றம் வீசுகிறது. உடல்களை அடக்கம் மற்றும் தகனம் செய்ய வருபவர்கள் அங்கு நிற்க முடியாத நிலை உள்ளது. மயானத்தில் குப்பைகள் கொட்டுவதை மாநகராட்சி நிர்வாகம் உடனடியாகத் தடுக்க வேண்டும் என பொதுமக்கள் வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாராபடவேடு மயானத்தில் குப்பைக் கூளம்: துர்நாற்றத்தால் மக்கள் அவதி!\n\n📰 முழு விவரம்:\nவேலூர் மாநகராட்சி மண்டலம் 1-க்கு உட்பட்ட தாராபடவேடு 7-வது வார்டு பவானி நகரில் முத்து மாரியம்மன் கோவில் அருகில் மயானம் மற்றும் எரிவாயு தகனமேடை அமைந்துள்ளது. இந்த மயானம் போதிய இடமில்லாமல் சிறிய அளவில் உள்ளது.\nஇங்கு தொடர்ந்து குப்பைகளைக் கொண்டு வந்து கொட்டி குவித்து வைத்துள்ளனர். இதனால் கடும் துர்நாற்றம் வீசுவதுடன், உடல்களை அடக்கம் மற்றும் தகனம் செய்ய வருபவர்கள் நிற்க முடியாத சூழல் நிலவுகிறது.\nமயானத்தில் குப்பைகள் கொட்டப்படுவதை மாநகராட்சி நிர்வாகம் உடனடியாகத் தடுத்து நிறுத்த வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: தாராபடவேடு, வேலூர்\nℹ️ மக்கள் கோரிக்கை: மயானத்தில் குப்பை கொட்டுவதைத் தடுத்து தூய்மையாகப் பராமரிக்க வேண்டும்.\n\nபகுதியினருக்கு Share செய்யுங்கள்\n\nDharapadavedu burial ground garbage dumping issue | Erode news\n📍 தாராபடவேடு, வேலூர் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Dharapadavedu #ErodeNews #Vellore #ஈரோடு",
+   "prompts": "A heap of mixed garbage piled high in the narrow burial ground (mayanam) creates a visible cloud of foul odor as residents gather to protest, pointing and speaking toward municipal officials. The scene is set in Pavani Nagar, Dharapadavedu, Katpadi, where the burial ground sits beside the modest Muthu Mariamman temple and an adjacent gas‑tank structure. In the foreground, a small group of residents in sarees and shirts are seen from behind, hands raised, while a few municipal officers in khaki stand a short distance away, also viewed from behind. The garbage heap dominates the frame, with scattered plastic and organic waste visible. Daylight illuminates the area, no rain, and the camera is positioned at eye level with a 35 mm lens, capturing a wide view of the burial ground and surrounding structures. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view focuses on the garbage heap itself, showing layers of discarded plastic bags, broken bottles, and organic waste tightly compacted on the ground of the burial site. The heap rises against the dusty earth of the mayanam, with a faint plume of odor‑indicating steam rising from the top. In the background, the low wall of the gas‑tank structure is faintly visible, and a municipal officer’s khaki sleeve can be seen at the edge, blurred to keep the focus on the waste. The shot is taken in daylight, eye‑level, using a 35 mm lens to capture the texture and volume of the garbage that is the cause of the foul smell. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/garbage/dumping-of-trash-in-the-cremation-ground-must-be-stopped-68710",
+   "published": "2026-11-22T16:32:06+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342073/erode360/v1jvuiizmdilmlpal9wo.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342077/erode360/g2ewzfgu9wbrhchg5cgu.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் தற்காலிக செவிலியர் பணிக்கு விண்ணப்பிக்க அழைப்பு",
-   "english_headline": "Erode district: applications invited for temporary nurse posts on contract at emergency maternity and newborn care centres; last date 4 Dec",
-   "category": "Government & Services",
-   "location": "Erode, Erode district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேலைவாய்ப்பு",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் செவிலியர் பணிக்கு அழைப்பு",
-    "hl2": "டிச. 4 மாலை 5 மணி வரை",
-    "slides": [
-     {
-      "title": "என்ன பணி?",
-      "lines": [
-       "ஒப்பந்த அடிப்படையில் தற்காலிக செவிலியர் பணி",
-       "அவசர கால மகப்பேறு, பச்சிளங்குழந்தை மையங்களில்",
-       "ஈரோடு மாவட்ட நலவாழ்வு சங்கம் அறிவிப்பு"
-      ]
-     },
-     {
-      "title": "யார்",
-      "lines": [
-       "<b>50 வயதுக்கு</b> உட்பட்ட செவிலியர்கள்",
-       "நர்சிங் பட்டயம் அல்லது B.Sc. நர்சிங் படித்திருக்க வேண்டும்",
-       "தமிழ்நாடு நர்சிங் கவுன்சிலில் பதிவு கட்டாயம்"
-      ]
-     },
-     {
-      "title": "எப்படி, எங்கே?",
-      "lines": [
-       "<b>டிச. 4</b> மாலை <b>5 மணிக்குள்</b> வழங்க வேண்டும்",
-       "நிர்வாக செயலர், மாவட்ட சுகாதார அலுவலர், திண்டல், ஈரோடு-12",
-       "தொடர்புக்கு: 0424 2431020"
-      ]
-     },
-     {
-      "title": "ஊதியம்",
-      "lines": [
-       "மாதம் <b>21,000 ரூபாய்</b> ஊதியமாக வழங்கப்படும்",
-       "முற்றிலும் தற்காலிகப் பணி",
-       "ஈரோட்டில் செவிலியர்கள் தவறாமல் விண்ணப்பியுங்கள்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோட்டில் செவிலியர் பணிக்கு விண்ணப்பம் வரவேற்கப்படுகிறது. ஈரோடு மாவட்ட நலவாழ்வு சங்கம் இந்த அறிவிப்பை வெளியிட்டுள்ளது. அவசர கால மகப்பேறு மற்றும் பச்சிளங்குழந்தை பராமரிப்பு மையங்களில் ஒப்பந்த அடிப்படையில் தற்காலிக செவிலியர் பணியிடங்கள் நிரப்பப்படுகின்றன. இந்தப் பணி முற்றிலும் தற்காலிகமானது. 50 வயதுக்கு உட்பட்ட செவிலியர்கள் விண்ணப்பிக்கலாம். நர்சிங் பட்டயப் படிப்பு அல்லது பி எஸ் சி நர்சிங் படித்து, தமிழ்நாடு நர்சிங் கவுன்சிலில் பதிவு செய்தவர்கள் தகுதியானவர்கள். அரசு அல்லது அங்கீகரிக்கப்பட்ட தனியார் செவிலியர் கல்லூரிகளில் படித்தவர்களும் விண்ணப்பிக்கலாம். மாதம் 21,000 ரூபாய் ஊதியமாக வழங்கப்படும். பூர்த்தி செய்த விண்ணப்பங்களை டிசம்பர் 4ஆம் தேதி மாலை 5 மணிக்குள் வழங்க வேண்டும். விண்ணப்பங்களை நிர்வாக செயலர், மாவட்ட சுகாதார அலுவலர், மாவட்ட நலவாழ்வு சங்கம், திண்டல், ஈரோடு-12 என்ற முகவரிக்கு அனுப்ப வேண்டும். தொடர்புக்கு 0424 2431020. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🩺 ஈரோட்டில் தற்காலிக செவிலியர் பணிக்கு விண்ணப்பம் வரவேற்பு - டிச. 4 கடைசி நாள்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்ட நலவாழ்வு சங்கம், தேசிய நலவாழ்வு குழுமத்தின் கீழ் உள்ள விரிவான அவசர கால மகப்பேறு மற்றும் பச்சிளங்குழந்தை பராமரிப்பு மையங்களில் ஒப்பந்த அடிப்படையில் தற்காலிக செவிலியர் பணியிடங்களுக்கு விண்ணப்பங்கள் வரவேற்கப்படுகின்றன. பணி முற்றிலும் தற்காலிகமானது. விண்ணப்பதாரர்களுக்கு 50 வயதுக்கு உட்பட்டவராக இருக்க வேண்டும். நர்சிங் பட்டயப் படிப்பு அல்லது பி.எஸ்.சி. நர்சிங் படித்து, தமிழ்நாடு நர்சிங் கவுன்சிலில் பதிவு செய்திருக்க வேண்டும். அரசு அல்லது அங்கீகரிக்கப்பட்ட தனியார் செவிலியர் கல்லூரிகளில் படித்தவர்கள் விண்ணப்பிக்கலாம். மாதம் 21,000 ரூபாய் ஊதியம் வழங்கப்படும்.\n📍 விண்ணப்பம் அனுப்ப வேண்டிய முகவரி: நிர்வாக செயலர், மாவட்ட சுகாதார அலுவலர், மாவட்ட நலவாழ்வு சங்கம், திண்டல், ஈரோடு-12\n🗓️ கடைசி நாள்: டிசம்பர் 4ஆம் தேதி மாலை 5 மணி வரை\n📞 தொடர்புக்கு: 0424 2431020\n\nErode temporary nurse job applications, last date 4 Dec | Erode news\n📍 ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்.\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #வேலைவாய்ப்பு #ஈரோடு",
-   "prompts": "Several female nurses and job applicants in white nursing uniforms and sarees stand in a neat line at the entrance of a government health office in Erode, Thindal area, holding brown envelopes of application forms and certificate files. Seen from behind and at a distance, they wait outside a plain concrete building with a government-style counter and a notice board area in the background. A district health office official in a sari or shirt sits at a table just inside the open door, receiving the forms. Bright daylight falls across the entrance steps and a small patch of the Thindal campus. The camera sits at eye level, 35 mm lens, wide enough to show the full building façade, the queue and the open door, with no readable text or signboards visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a neat stack of printed nursing job application forms and certificate copies on a wooden government office table in Erode, with a brown manila envelope and a blue ballpoint pen placed beside them. Behind the papers, a hand in a white nursing uniform sleeve rests lightly on the stack, and a steel tiffin box and a small stack of nursing registration certificates are visible. Soft daylight from a window falls across the table, creating gentle shadows. The camera is slightly high, 35 mm lens, focused tightly on the papers and pen to suggest the deadline and the act of submitting applications, with no readable text, numbers or logos. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/call-to-apply-for-the-post-of-temporary-nurse/4382995",
-   "published": "2026-11-22T06:34:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342083/erode360/mewrrsff746vdyad5btd.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342091/erode360/vqngikxqen04vru32uyg.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோட்டைச் சேர்ந்த பிரவீணா சணல் பைத் தொழிலில் வெற்றி",
-   "english_headline": "Erode's Praveena builds bag business from a wedding order via WhatsApp status",
-   "category": "Business & Prices",
-   "location": "Erode city, Erode district",
-   "importance": "Low",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வெற்றிக் கதை",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோட்டில் சணல் பைத் தொழில் வெற்றி",
-    "hl2": "வாட்ஸ்அப் ஸ்டேட்டஸால் முதல்",
-    "slides": [
-     {
-      "title": "தொடக்கம்",
-      "lines": [
-       "காரைக்குடியில் பிறந்த பிரவீணா ஈரோட்டில் வசிக்கிறார்",
-       "<b>சிட்டி பேக்ஸ்</b> மூலம் சுயதொழில் செய்கிறார்",
-       "கடந்த ஆண்டு தனி உற்பத்தி அலகைத் தொடங்கினார்"
-      ]
-     },
-     {
-      "title": "முதல் ஆர்டர்",
-      "lines": [
-       "கனரா வங்கிப் பயிற்சியில் சணல் பைகள் தயாரிக்கக் கற்றார்",
-       "தோழியின் மகன் திருமணத்துக்கு <b>1,800 பைகள்</b> ஆர்டர்",
-       "குறித்த நேரத்தில் தரமாக அனுப்பி வைத்தார்"
-      ]
-     },
-     {
-      "title": "வெற்றிக்கான வழி",
-      "lines": [
-       "வாடிக்கையாளர் விருப்பப்படி பைகளைத் தைத்துத் தருகிறார்",
-       "நியாயமான விலை, தரம், குறித்த நேரம் முக்கியம்",
-       "<b>₹30,000</b> முதலீட்டில் தொழிலைத் தொடங்கலாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோட்டைச் சேர்ந்த பிரவீணா சணல் பைத் தொழிலில் வெற்றி கண்டுள்ளார். காரைக்குடியில் பிறந்த பிரவீணா, திருமணத்துக்குப் பிறகு ஈரோட்டில் வசிக்கிறார். அவர் சிட்டி பேக்ஸ் என்ற பெயரில் சுயதொழில் செய்கிறார். வீட்டிலிருந்தே சிறிய அளவில் தொடங்கிய அவர், கடந்த ஆண்டு தனி உற்பத்தி அலகைத் தொடங்கினார். கனரா வங்கியின் ஊரக வேலைவாய்ப்புப் பயிற்சித் திட்டத்தில் சேர்ந்து சணல் பைகள் தயாரிக்கக் கற்றார். அவர் தனது பயிற்சியை வாட்ஸ் அப் ஸ்டேட்டஸில் பகிர்ந்தார். அதைப் பார்த்த தோழி, தன் மகன் திருமணத்துக்கு 1,800 பைகளுக்கு ஆர்டர் கொடுத்தார். குறித்த நேரத்தில் தரமான பைகளை அனுப்பியது, தொழிலை முறைப்படி தொடர நம்பிக்கை அளித்ததாக அவர் கூறுகிறார். வாடிக்கையாளர்களுக்கு ஏற்ற வகையில் கஸ்டமைஸ்டு பைகளையும் தைத்துத் தருகிறார். நியாயமான விலை, தரம், குறித்த நேரம் ஆகியவற்றைக் கடைப்பிடித்தால் போட்டிகளைச் சமாளிக்கலாம் என்கிறார். குறைந்த முதலீட்டிலும் தொழிலைத் தொடங்கலாம் என்று அவர் கூறுகிறார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🧵 ஈரோட்டில் வாட்ஸ் அப் ஸ்டேட்டஸால் வந்த முதல் ஆர்டர்: சணல் பைத் தொழிலில் வெற்றி\n\n📰 முழு விவரம்:\nகாரைக்குடியில் பிறந்து ஈரோட்டில் வசிக்கும் பிரவீணா, சிட்டி பேக்ஸ் மூலம் சுயதொழில் செய்து வருகிறார். வீட்டிலிருந்து சிறிய அளவில் தொடங்கிய அவர், கடந்த ஆண்டு தனி உற்பத்தி அலகைத் தொடங்கி தொழிலை விரிவுபடுத்தினார். சாக்லெட், பேக்கரி, சமையல் எனப் பல முயற்சிகள் பெரிதாக கைகொடுக்கவில்லை.\nகனரா வங்கியின் ஊரக வேலைவாய்ப்புப் பயிற்சித் திட்டத்தில் சணல் பைகள் தயாரிக்கக் கற்றார். பயிற்சி பெற்றதை வாட்ஸ் அப் ஸ்டேட்டஸில் பகிர்ந்தார். அதைப் பார்த்த தோழி, தன் மகன் திருமணத்துக்கு 1,800 பைகளுக்கு ஆர்டர் கொடுத்தார்.\nகுறித்த நேரத்திலும் தரமாகவும் பைகளை அனுப்பியதால் தொழிலை முறைப்படி தொடர நம்பிக்கை கிடைத்தது. பத்துப் பைகள் கேட்டாலும் தைத்துத் தருவதாகவும், கஸ்டமைஸ்டு பைகளையும் தயாரிப்பதாகவும் அவர் கூறுகிறார். குடும்பத்தினரின் ஒத்துழைப்பால்தான் வெற்றி பெற முடிந்ததாக அவர் குறிப்பிடுகிறார்.\nநியாயமான விலை, தரம், குறித்த நேரம் ஆகியவற்றைக் கடைப்பிடித்தால் போட்டிகளைச் சமாளிக்கலாம் என்றும், குறைந்த முதலீட்டில் தொழிலைத் தொடங்கலாம் என்றும் அவர் கூறுகிறார்.\n\n💰 தொடக்க முதலீடு: ₹30,000\n🧵 ஆர்டர்: 1,800 பைகள்\n\nErode woman's jute bag business from a WhatsApp status | Erode news\n📍 ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ஈரோடுபெண்கள்",
-   "prompts": "A woman in a cotton saree inspects finished cloth bags at a long wooden worktable in a small production unit in Erode city, her back partly to the camera. Stacks of folded jute and cloth bags in cream and maroon sit on the table and on wooden shelves along the wall, many bags neatly bundled with string for an order. Two sewing machines stand on a side table with spools of thread and cut fabric pieces beside them. A young man in a half-sleeved shirt carries a bundle of bags past the doorway in the background. Daylight from a barred window falls across the workshop floor, and a ceiling fan turns overhead. Shot at eye level, 35 mm, wide enough to show the whole workshop and the orderly stacks of finished bags, with the tidy, productive atmosphere of a growing home-based business. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.hindutamil.in/news/supplements/penn-indru/quality-and-punctuality-bring-success",
-   "published": "2026-11-22T07:00:13Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: numbers not found in the article: 30, 30000",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342117/erode360/ezencnasmqzcuvh0wiun.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கோபியில் தெருநாய் குறுக்கே ஓடியதால் பைக்கில் இருந்து விழுந்த ஜே.சி.பி. ஆப்பரேட்டர் உயிரிழப்பு",
-   "english_headline": "JCB operator dies after falling from bike when stray dog ran across road near Gobichettipalayam",
-   "category": "Roads & Transport",
-   "location": "Ketticheviyur, Gobichettipalayam taluk, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை விபத்து",
-    "loc": "கெட்டிச்செவியூர், கோபி",
-    "hl1": "கோபி அருகே தெருநாயால் விபத்து",
-    "hl2": "ஜே.சி.பி. ஆப்பரேட்டர்",
-    "slides": [
-     {
-      "title": "என்ன நடந்தது?",
-      "lines": [
-       "கெட்டிச்செவியூரைச் சேர்ந்த சுப்பிரமணி (41 வயது), ஜே.சி.பி.",
-       "கொளப்பலூர் சாலையில் டி.வி.எஸ். பைக்கில் சென்றார்",
-       "சாலையின் குறுக்கே தெருநாய் ஓடியதால் நிலைதடுமாறி விழுந்தார்"
-      ]
-     },
-     {
-      "title": "என்ன ஆனது?",
-      "lines": [
-       "பலத்த காயமடைந்த சுப்பிரமணி பெருந்துறை அரசு மருத்துவமனையில்",
-       "சுப்பிரமணி நேற்று இறந்தார்",
-       "இரவு <b>8 மணிக்கு</b> நடந்ததாகப் பதிவு"
-      ]
-     },
-     {
-      "title": "போலீஸ் நடவடிக்கை",
-      "lines": [
-       "மனைவி பொற்கொடி அளித்த புகாரின்படி",
-       "சிறுவலூர் போலீசார் வழக்குப்பதிந்து விசாரிக்கின்றனர்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கோபி அருகே தெருநாய் குறுக்கே ஓடியதால் பைக்கில் இருந்து விழுந்த ஜே சி பி ஆப்பரேட்டர் உயிரிழந்தார். கெட்டிச்செவியூரைச் சேர்ந்த சுப்பிரமணி (41 வயது), ஜே சி பி ஆப்பரேட்டராகப் பணியாற்றி வந்தார். 18ஆம் தேதி இரவு 8 மணிக்கு அவர் டி வி எஸ் பைக்கில் கொளப்பலூர் சாலையில் சென்றார். அப்போது சாலையின் குறுக்கே தெருநாய் திடீரெனப் ஓடியது. நிலைதடுமாறிய சுப்பிரமணி பைக்கில் இருந்து விழுந்து பலத்த காயமடைந்தார். அவர் பெருந்துறை அரசு மருத்துவமனையில் சேர்க்கப்பட்டார். சிகிச்சையில் இருந்த சுப்பிரமணி நேற்று இறந்தார். இதுகுறித்து அவரது மனைவி பொற்கொடி அளித்த புகாரின்படி சிறுவலூர் போலீசார் வழக்குப்பதிந்து விசாரிக்கின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கோபி அருகே தெருநாயால் பைக்கில் இருந்து விழுந்த ஜே.சி.பி. ஆப்பரேட்டர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nகோபி அருகே கெட்டிச்செவியூரைச் சேர்ந்த சுப்பிரமணி (41 வயது), ஜே.சி.பி. ஆப்பரேட்டர். 18ஆம் தேதி இரவு 8 மணிக்கு டி.வி.எஸ். பைக்கில் கொளப்பலூர் சாலையில் சென்றபோது, சாலையின் குறுக்கே தெருநாய் ஓடியது. நிலைதடுமாறி விழுந்ததில் பலத்த காயமடைந்த அவர் பெருந்துறை அரசு மருத்துவமனையில் சேர்க்கப்பட்டார். சுப்பிரமணி நேற்று இறந்தார். அவரது மனைவி பொற்கொடி அளித்த புகாரின்படி சிறுவலூர் போலீசார் வழக்குப்பதிந்து விசாரிக்கின்றனர்.\n📍 இடம்: கொளப்பலூர் சாலை, கோபி அருகே\n🗓️ நாள்: 18ஆம் தேதி\n🕘 நேரம்: இரவு 8 மணி\n👮 நடவடிக்கை: சிறுவலூர் போலீசார் வழக்குப்பதிந்து விசாரணை\n\nGobichettipalayam stray dog bike accident JCB operator dies | Erode news\n📍 கோபி அருகே, ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
-   "prompts": "A stray dog runs across a dark village road at night in the Ketticheviyur area of Gobichettipalayam, while a TVS two-wheeler rider swerves and loses control, seen from a distance. The place is a narrow two-lane village road on the Kolappalur route, with a few dim street lights, low houses and a row of roadside palm and neem trees on the edges, with farm fields beyond the road. The rider is seen from behind and far away, wearing a shirt and trousers, with his back slightly blurred; the bike is tilting. The dog is a light-coloured stray mid-run across the tarmac. Time is night, around 8 pm, with only the headlight of the two-wheeler and street light glow visible. Camera: eye level, 35 mm, wide enough to show the road and surroundings. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a TVS two-wheeler lying tilted on the tarmac of a dark village road at night, its headlight still glowing on the wet asphalt, with the stray dog's pawprints and a fallen helmet nearby. The road surface shows skid marks, and at the roadside a dim street light and the dark outline of a few palm trees stand in the background. No people are visible in frame; the scene shows only the bike and road. Night-time, faint yellow light, cool dark tones. Camera: low angle near the ground, 50 mm, shallow depth of field to focus on the bike and road surface. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/stray-dog-kills--operator/4383005",
-   "published": "2026-11-22T06:39:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342134/erode360/fpyxwyktvgxzrnm1npmu.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342139/erode360/boa7c8edvze2lpvxri91.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு அரசு மாதிரிப் பள்ளி மாணவர்களுக்கு கலெக்டர் அறிவுரை",
-   "english_headline": "Collector advises students at 'Coffee with Collector' event in Erode",
-   "category": "Education",
-   "location": "Erode Collectorate, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்வி",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோடு மாணவர்களுக்கு கலெக்டர் அறிவுரை",
-    "hl2": "காபி வித் கலெக்டர் நிகழ்ச்சி",
-    "slides": [
-     {
-      "title": "எங்கே நடந்தது?",
-      "lines": [
-       "ஈரோடு கலெக்டர் அலுவலகத்தில் நிகழ்ச்சி",
-       "ஈரோடு மாவட்ட அரசு மாதிரி பள்ளி மாணவர்கள்",
-       "கலெக்டர் கந்தசாமி தலைமையில் நடந்தது"
-      ]
-     },
-     {
-      "title": "கலெக்டரின் அறிவுரை",
-      "lines": [
-       "தினமும் புத்தகங்கள் படிக்கும் பழக்கம் வேண்டும்",
-       "<b>திருக்குறள்</b>, இந்திய அரசியல் அமைப்புச் சட்டம் படியுங்கள்",
-       "பாடத்தின் கருத்தை அறிந்து படியுங்கள்"
-      ]
-     },
-     {
-      "title": "உதவித்தொகை",
-      "lines": [
-       "உயர் கல்வி படிக்க விரும்புவோர் கவனிக்கவும்",
-       "அரசு நலத்திட்டங்கள், கல்வி உதவித்தொகை பெறலாம்",
-       "கல்வி, சமூகம், பொருளாதாரம் குறித்து கலந்துரையாடல்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு கலெக்டர் அலுவலகத்தில் நடந்த காபி வித் கலெக்டர் நிகழ்ச்சியில், மாணவர்களுக்கு கலெக்டர் கந்தசாமி முக்கிய அறிவுரைகளை வழங்கினார். ஈரோடு மாவட்ட அரசு மாதிரிப் பள்ளி மாணவ, மாணவியர் இந்த நிகழ்ச்சியில் கலந்துகொண்டனர். மாணவர்கள் தினமும் புத்தகங்கள் படிக்கும் பழக்கத்தைக் கடைப்பிடிக்க வேண்டும் என்று கலெக்டர் வலியுறுத்தினார். திருக்குறள் மற்றும் இந்திய அரசியல் அமைப்புச் சட்டம் குறித்துப் படிக்க வேண்டும் என்றும் அவர் கூறினார். எந்தப் பாடத்தையும் புத்தகத்தையும் அதன் கருத்தை அறிந்து படிக்க வேண்டும் என்றும் அறிவுறுத்தினார். உயர் கல்வி படிக்க விரும்புவோர் அரசின் நலத்திட்டங்கள் மற்றும் கல்வி உதவித்தொகைகளைப் பெற்றுப் பயன்பெற வேண்டும் என்றார். பின்னர் கல்வி, சமூகம், பொருளாதாரம் உள்ளிட்டவை குறித்து மாணவர்களுடன் கலந்துரையாடினார். நிகழ்ச்சியில் சி இ ஓ மான்விழி, மாவட்ட வேலைவாய்ப்பு அலுவலர் கோபிநாத், பயிற்சி துணை கலெக்டர் சித்தார்த், மாவட்ட கல்வி அலுவலர் (மெட்ரிக்) கேசவகுமார் உள்ளிட்ட பலர் பங்கேற்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🎓 ஈரோடு கலெக்டர் அலுவலகத்தில் 'காபி வித் கலெக்டர்' நிகழ்ச்சி: மாணவர்களுக்கு அறிவுரை\n\n📰 முழு விவரம்:\nஈரோடு கலெக்டர் அலுவலகத்தில் 'காபி வித் கலெக்டர்' நிகழ்ச்சி ஈரோடு மாவட்ட அரசு மாதிரிப் பள்ளி மாணவ, மாணவியருடன் நடைபெற்றது. கலெக்டர் கந்தசாமி தலைமை வகித்து பேசினார்.\nமாணவர்கள் தினமும் புத்தகங்கள் படிக்கும் பழக்கத்தைக் கடைப்பிடிக்க வேண்டும். திருக்குறள், இந்திய அரசியல் அமைப்புச் சட்டம் குறித்துப் படிக்க வேண்டும். எந்தப் பாடத்தையும் புத்தகத்தையும் அதன் கருத்தை அறிந்து படிக்க வேண்டும்.\nஉயர் கல்வி படிக்க விரும்புவோர், அரசு நலத்திட்டங்கள், கல்வி உதவித்தொகைகளைப் பெற்றுப் பயன்பெற வேண்டும் என்று கலெக்டர் கூறினார். பின்னர் கல்வி, சமூகம், பொருளாதாரம் குறித்து மாணவர்களுடன் கலந்துரையாடினார்.\nநிகழ்ச்சியில் சி.இ.ஓ. மான்விழி, மாவட்ட வேலைவாய்ப்பு அலுவலர் கோபிநாத், பயிற்சி துணை கலெக்டர் சித்தார்த், மாவட்ட கல்வி அலுவலர் (மெட்ரிக்) கேசவகுமார் உள்ளிட்ட பலர் பங்கேற்றனர்.\n\nErode Collector advises students | Coffee with Collector event\n📍 ஈரோடு கலெக்டர் அலுவலகம், ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #கல்வி #ஈரோடு",
-   "prompts": "A District Collector sits at the front of a government office hall in Erode Collectorate, speaking to a group of government model school students seated in rows on chairs. The Collector and senior officials sit at a long table draped with a cloth, with coffee cups and a microphone in front of them. The students, boys and girls in Tamil Nadu school uniform, are seen from behind or from the side, some holding notebooks and books, listening attentively. Behind the table, a plain wall and government office furniture give the hall a formal look, typical of the Erode Collectorate. The scene is lit by indoor daylight from tubelights and windows. Camera at eye level, 35 mm, wide enough to show the table, the officials and the rows of students. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a table in the government office hall at the Erode Collectorate, showing a row of steel tumblers of coffee, a few open books and notebooks, and a microphone with a pen resting on paper. In the soft background, out of focus, a student in school uniform and a seated official are visible, with the blurred outline of the table cloth. The light is warm indoor daylight from ceiling tubelights and a window. Camera slightly high, 35 mm, shallow depth of field focusing on the coffee tumblers and the open books, which tell the story of the coffee-and-discussion event with students. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/advice-to-students-at-coffee-with-collector-event/4383004",
-   "published": "2026-11-22T06:39:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342146/erode360/n7symerq9wdjyvgaqap7.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795342153/erode360/xscadmi9pufs6jeuyuch.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795347500/erode360/skzzpw5ozvistikx0p2o.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795347525/erode360/o0uezh7qyvrbfxjov59z.jpg"
    ]
   }
  ]
