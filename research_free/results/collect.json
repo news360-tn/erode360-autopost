@@ -3,114 +3,350 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-engineer-marries-japanese-girlfriend/4383398",
-  "candidate filter: collected=1",
-  "to write: 1 Erode district candidates (max 1 stories)",
-  "round: top 1 of 1 candidates",
-  "candidates waiting: 1 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-e",
-  "auto images: 1 of 1 stories ({'pollinations': 3})",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/let-your-daughter-go-to-the-temple--says-girl-s-mother/4383553",
+  "manual link added: https://pukaarpetti.dailythanthi.com/electricity/news-68781",
+  "manual link added: https://pukaarpetti.dailythanthi.com/sewage/news-68786",
+  "manual link added: https://pukaarpetti.dailythanthi.com/road/news-68788",
+  "manual link added: https://pukaarpetti.dailythanthi.com/sewage/news-68787",
+  "manual link added: https://pukaarpetti.dailythanthi.com/water/news-68785",
+  "manual link added: https://pukaarpetti.dailythanthi.com/transportation/news-68790",
+  "candidate filter: collected=7",
+  "to write: 7 Erode district candidates (max 7 stories)",
+  "round: top 7 of 7 candidates",
+  "daily maximum 30: 27 written today - this round writes at most 3",
+  "candidates waiting: 7 Erode; time left 79 min",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/transportation/news-687",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/water/news-68785",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/sewage/news-68787",
+  "auto images: 1 of 1 stories ({'pollinations': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 74 min",
-  "filed: 1 Erode district stories (target 1), reels only",
+  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/road/news-68788",
+  "auto images: 1 of 1 stories ({'pollinations': 4})",
+  "auto images: 1 of 1 stories ({'pollinations': 6})",
+  "auto images: 1 of 1 stories ({'pollinations': 8})",
+  "candidate loop ended: left 3, tried={'N': 4}, done={'N': 4}, time left 76 min",
+  "filed: 4 Erode district stories (target 7), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":7,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (48s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3.5-flash (40s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (35s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3.6-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3.6-flash (19s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (7s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஜப்பான் பெண்ணை மணந்த சென்னிமலை இன்ஜினியர்",
-   "english_headline": "Chennimalai engineer marries Japanese bride in Tamil traditional wedding",
-   "category": "Temples & Events",
-   "location": "Mettu Pudupalayam, Chennimalai, Erode district",
+   "tamil_headline": "சத்தியமங்கலம் அருகே செண்பகபுதூரில் உடைந்த குடிநீர் குழாய்: வீணாகும் தண்ணீர்",
+   "english_headline": "Drinking water wasted due to pipe leak near Shenbagapudur village in Sathyamangalam",
+   "category": "Civic Issues",
+   "location": "Shenbagapudur village, Sathyamangalam taluk, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "திருமணம்",
-    "loc": "சென்னிமலை",
-    "hl1": "சென்னிமலையில் ஜப்பான் பெண் திருமணம்",
-    "hl2": "தமிழ் முறைப்படி திருமணம்",
+    "cat": "குடிநீர் பிரச்சினை",
+    "loc": "செண்பகபுதூர், சத்தி",
+    "hl1": "செண்பகபுதூரில் வீணாகும் குடிநீர்",
+    "hl2": "குழாய் உடைப்பால் தண்ணீர்",
     "slides": [
      {
-      "title": "யார் திருமணம்?",
+      "title": "குழாய் உடைப்பு",
       "lines": [
-       "சென்னிமலை பரத்குமார் – ஜப்பான் பெண் ஹரூமி இஷிசுகா",
-       "பரத்குமார் டோக்கியோவில் ஒரு தனியார் நிறுவனத்தில்",
-       "இருவரும் டோக்கியோவில் நண்பர்களாகி பின்னர் காதலித்தனர்"
+       "சத்தியமங்கலம் அருகே செண்பகபுதூர் கிராமத்தில் சம்பவம்",
+       "பால் உற்பத்தியாளர்கள் கூட்டுறவு சங்கக் கட்டிடம் முன் உடைப்பு"
       ]
      },
      {
-      "title": "எங்கே, எப்போது?",
+      "title": "வீணாகும் நீர்",
       "lines": [
-       "சென்னிமலை அருகே மேற்கு புதுப்பாளையத்தில் திருமணம்",
-       "நேற்று தமிழ் பாரம்பரிய முறைப்படி நடைபெற்றது",
-       "இரு குடும்பத்தாரும் காதலுக்கு சம்மதம் தெரிவித்தனர்"
+       "குழாயில் இருந்து <b>தண்ணீர் வீணாக</b> வெளியேறுகிறது",
+       "குடிநீர் தட்டுப்பாடு ஏற்பட வாய்ப்பு உள்ளதாக அச்சம்"
       ]
      },
      {
-      "title": "சிறப்பு",
+      "title": "மக்கள் கோரிக்கை",
       "lines": [
-       "ஜப்பான் மணமகள் அனைத்து சம்பிரதாயங்களையும் ஆர்வத்துடன்",
-       "இது அனைவரையும் கவர்ந்தது",
-       "தந்தை சுப்பிரமணி, சென்னிமலை பேரூராட்சி தி.மு.க. கவுன்சிலர்"
+       "குழாய் உடைப்பை உடனடியாக சரிசெய்ய பொதுமக்கள் கோரிக்கை",
+       "சம்பந்தப்பட்ட அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "சென்னிமலையைச் சேர்ந்த இன்ஜினியர் பரத்குமார், ஜப்பான் பெண் ஹரூமி இஷிசுகாவை மணந்தார். சென்னிமலைக்கு அருகே மேற்கு புதுப்பாளையத்தில் நேற்று தமிழ் பாரம்பரிய முறைப்படி திருமணம் நடைபெற்றது. பரத்குமார், டெல்லி ஐ ஐ டி யில் பொறியியல் படித்தவர். தற்போது ஜப்பான் தலைநகர் டோக்கியோவில் ஒரு தனியார் நிறுவனத்தில் பணியாற்றுகிறார். அங்கு ஏற்பட்ட நட்பு காதலாக மாறியது. இரு குடும்பத்தாரும் காதலுக்குப் பச்சைக்கொடி காட்டியதால் திருமணம் நிச்சயிக்கப்பட்டது. ஜப்பான் மணமகள் ஹரூமி, தமிழ் சம்பிரதாயங்கள் அனைத்தையும் ஆர்வத்துடன் செய்தார். இது அங்கிருந்தவர்கள் அனைவரையும் கவர்ந்தது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "💍 சென்னிமலை இன்ஜினியர் ஜப்பான் பெண்ணை தமிழ் முறைப்படி மணந்தார்\n\n📰 முழு விவரம்:\nசென்னிமலையைச் சேர்ந்த பரத்குமார், டெல்லி ஐ.ஐ.டி.யில் பொறியியல் படித்தவர். இவர் டோக்கியோவில் ஒரு தனியார் நிறுவனத்தில் பணியாற்றுகிறார். அங்கு ஜப்பானைச் சேர்ந்த ஹரூமி இஷிசுகாவுடன் ஏற்பட்ட நட்பு காதலாக மாறியது. இரு குடும்பத்தாரும் சம்மதம் தெரிவிக்க திருமணம் நிச்சயிக்கப்பட்டது. நேற்று சென்னிமலை அருகே மேற்கு புதுப்பாளையத்தில் தமிழ் பாரம்பரிய முறைப்படி திருமணம் நடைபெற்றது. ஜப்பான் மணமகள் அனைத்து சம்பிரதாயங்களையும் ஆர்வத்துடன் செய்தது அனைவரையும் கவர்ந்தது.\n📍 இடம்: மேற்கு புதுப்பாளையம், சென்னிமலை, ஈரோடு மாவட்டம்\n🗓️ நாள்: 21 நவம்பர் 2026\n\nJapanese bride weds Chennimalai engineer in Tamil ceremony | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
-   "prompts": "A Tamil engineer and his Japanese bride exchange vows in a traditional wedding ceremony, the groom placing the thali around the bride’s neck as she smiles. The ceremony is set in Mettu Pudupalayam, a small residential locality just outside Chennimalai, with modest houses and a palm‑lined lane visible in the background. From behind, the groom in a white shirt and veshti and the bride in a richly embroidered Tamil wedding saree stand beside their families, who are seated on the ground, their heads turned away, dressed in sarees and shirts, creating a respectful distance. The central wedding mandap, a wooden canopy draped with white cloth and marigold garlands, holds the thali, a brass pot, and a small Japanese origami crane placed as a cultural token. The scene occurs in daylight under clear skies, casting soft natural light over the gathering. The camera is positioned at eye level, slightly elevated, using a 35 mm lens to capture the full mandap and the surrounding participants. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view focuses on the bride’s hands as she gently holds the brass thali, the gold chain glinting against her skin, while a delicate origami crane rests beside it on the mandap’s wooden rail. The background shows the simple thatched roof of a nearby house in Mettu Pudupalayam, indicating the village setting. Only the bride’s hands, the thali, and the crane are in sharp focus; the families are blurred in the distance, their traditional saris and shirts barely visible. The thali and crane are the only objects, highlighting the blend of Tamil tradition and Japanese influence. The lighting is bright daylight, with soft shadows, and the camera is positioned slightly high, using a 35 mm lens to capture the intimate detail without revealing faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/chennimalai-engineer-marries-japanese-girlfriend/4383398",
-   "published": "2026-11-22T19:02:45+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: Caption gives a specific wedding date (21 நவம்பர் 2026) which is not stated in the article",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "சத்தியமங்கலம் அருகே செண்பகபுதூர் கிராமத்தில் குடிநீர் குழாய் உடைந்து தண்ணீர் வீணாக வெளியேறி வருகிறது. செண்பகபுதூர் கிராமத்தில் அமைந்துள்ள பால் உற்பத்தியாளர்கள் கூட்டுறவு சங்கக் கட்டிடத்தின் முன்பகுதியில் இந்த குடிநீர் குழாய் உள்ளது. இந்தடைபட்ட குழாயில் இருந்து தொடர்ச்சியாக தண்ணீர் வீணாக வெளியேறி வருகிறது. குடிநீர் இவ்வாறு தொடர்ந்து வீணாவதால் அப்பகுதியில் விரைவில் குடிநீர் தட்டுப்பாடு ஏற்பட வாய்ப்புள்ளது. எனவே அதிகாரிகள் உடனே முன்வந்து இந்தக் குழாய் உடைப்பைச் சீரமைக்க வேண்டும் என்பதே கிராம மக்களின் எதிர்பார்ப்பாக உள்ளது. குடிநீர் வீணாவதைத் தடுத்து தடையின்றி விநியோகம் செய்ய நடவடிக்கை எடுக்கப்பட வேண்டும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💧 சத்தியமங்கலம் அருகே செண்பகபுதூரில் உடைந்த குடிநீர் குழாய் - தண்ணீர் வீணாக வெளியேற்றம்\n\n📰 முழு விவரம்:\nசத்தியமங்கலம் அருகே செண்பகபுதூர் கிராமத்தில் உள்ள பால் உற்பத்தியாளர்கள் கூட்டுறவு சங்கக் கட்டிடத்தின் முன்பகுதியில் உள்ள குடிநீர் குழாயில் உடைப்பு ஏற்பட்டுள்ளது. குழாயில் இருந்து தண்ணீர் வீணாக வெளியேறி வருவதால், அப்பகுதியில் குடிநீர் தட்டுப்பாடு ஏற்படும் அபாயம் உருவாகியுள்ளது. இந்த உடைப்பை அதிகாரிகள் உடனடியாகச் சீரமைக்க வேண்டும் என பொதுமக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: செண்பகபுதூர், சத்தியமங்கலம்\n🗓️ நாள்: 22 நவம்பர் 2026\nℹ️ மக்கள் கவனத்திற்கு: குடிநீர் வீணாவதைத் தடுக்க அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும்.\n\nSathyamangalam Shenbagapudur drinking water pipe burst leak news | Erode news\n📍 செண்பகபுதூர், ஈரோடு | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #குடிநீர் #ஈரோடு",
+   "prompts": "A broken drinking water pipe on a village roadside spews a steady stream of clear water onto the muddy ground in Shenbagapudur village, Sathyamangalam taluk, Erode district. The pipe emerges from the earth beside the wall of a small milk producers' cooperative society building with plain concrete walls and a flat roof, and the water spreads across a wide wet patch of road. Behind the building the forest-covered Sathyamangalam hills rise in the distance, and a few village houses with tiled roofs line the lane. A couple of villagers in a shirt and a woman in a cotton saree stand far off, seen from behind, looking toward the leak. Bright daylight, clear sky, shot at eye level with a 35 mm lens wide enough to show the building, the flowing water and the hills. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the burst drinking water pipe at ground level, with clear water gushing from a cracked joint and pooling in a shallow muddy puddle on the village road. Wet soil, scattered gravel and a few dry leaves surround the break, and the edge of a concrete wall of the cooperative society building is visible at the frame's side. Two empty plastic water pots lie on the wet ground nearby, showing the water is being wasted. Bright daylight, shot from slightly above at 35 mm to keep the broken pipe and the spreading water as the clear focus. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/water/news-68785",
+   "published": "2026-11-22T21:26:14+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: fact-check: Reel script claims officials will arrive immediately to fix the pipe, which is not stated in the article (the article only asks if officials will come); fact-check: Slides_spec location field uses \"சத்தி\" instead of the proper \"சத்தியமங்கலம்\" as mentioned in the article; fact-check: Caption includes a specific date (22 நவம்பர் 2026) that is not present in the article",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 3 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795359321/erode360/guvcsubfcgtgws6maz8w.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795359329/erode360/hg1s2ru5uikaj5pcbqi9.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795366944/erode360/hy1xry39jwtathp1mzy6.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795366952/erode360/jzgspmknmifi2lqhacre.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோடு முனிசிபல் காலனியில் ஆபத்தான குழி: மக்கள் விழுந்து காயம்",
+   "english_headline": "Dangerous unfilled pit at Erode Municipal Colony after drain repair; residents getting injured",
+   "category": "Civic Issues",
+   "location": "Erode Municipal Colony, Erode district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "ஆபத்தான குழி",
+    "loc": "ஈரோடு முனிசிபல் காலனி",
+    "hl1": "ஈரோடு முனிசிபல் காலனியில் ஆபத்தான குழி",
+    "hl2": "பலர் விழுந்து காயம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "முனிசிபல் காலனியில் சாக்கடை கால்வாய் உடைப்பு",
+       "கழிவுநீர் சாலையில் வெளியேறி நடக்க முடியாத நிலை",
+       "உடைப்பை சரிசெய்ய குழி தோண்டினார்கள்"
+      ]
+     },
+     {
+      "title": "ஏன் ஆபத்து?",
+      "lines": [
+       "கழிவுநீர் நின்றது, ஆனால் குழி மூடப்படவில்லை",
+       "இதனால் ஆபத்தான குழியாக காட்சியளிக்கிறது",
+       "இந்தக் குழியில் பலர் விழுந்து காயம் அடைகின்றனர்"
+      ]
+     },
+     {
+      "title": "அதிகாரிகள்?",
+      "lines": [
+       "குழியை தடுக்க அதிகாரிகள் நடவடிக்கை எடுப்பார்களா?",
+       "பொதுமக்கள் குழி பகுதியில் கவனமாக இருங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு முனிசிபல் காலனியில் சாலையில் ஆபத்தான குழி இருப்பதால் பலர் விழுந்து காயம் அடைகின்றனர். சாக்கடை கால்வாயில் ஏற்பட்ட உடைப்பால் கழிவுநீர் வெளியேறி சாலையில் ஓடியது. இதனால் அந்தப் பகுதியில் நடந்து செல்ல முடியாத நிலை ஏற்பட்டது. உடைப்பைச் சரிசெய்வதற்காக குழி தோண்டினார்கள். அதன்பின்னர் கழிவுநீர் வெளியேறுவது நின்றது. ஆனால் தோண்டிய இடத்தை அப்படியே விட்டுவிட்டனர். இதனால் அந்தக் குழி ஆபத்தான நிலையில் காட்சியளிக்கிறது. இந்தக் குழியில் விழுந்து பலர் காயம் அடைகின்றனர். இந்த ஆபத்தைத் தடுக்க அதிகாரிகள் நடவடிக்கை எடுப்பார்களா என மக்கள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோடு முனிசிபல் காலனியில் ஆபத்தான குழி: பலர் விழுந்து காயம்\n\n📰 முழு விவரம்:\nமுனிசிபல் காலனியில் சாக்கடை கால்வாயில் ஏற்பட்ட உடைப்பால் கழிவுநீர் சாலையில் வெளியேறி ஓடுகிறது. இதனால் நடந்து செல்ல முடியாத நிலை ஏற்பட்டது. உடைப்பைச் சரிசெய்ய குழி தோண்டப்பட்டது. கழிவுநீர் வெளியேறுவது நின்ற பின்னரும் தோண்டிய இடம் மூடப்படவில்லை. இதனால் அந்தக் குழி ஆபத்தாகக் காட்சியளிக்கிறது. இதில் பலர் விழுந்து காயம் அடைகின்றனர். இதைத் தடுக்க அதிகாரிகள் நடவடிக்கை எடுப்பார்களா என்பதே மக்களின் கேள்வி.\n\nErode Municipal Colony dangerous pit, injuries | Erode news\n📍 ஈரோடு முனிசிபல் காலனி, ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Erode\n\nநண்பர்களுக்கு Share செய்யுங்கள்.",
+   "prompts": "A deep, unfilled pit dug into a narrow residential street of Erode Municipal Colony, with its open edges of raw earth and a dark stain of stagnant sewage at the bottom, shows the hazard that has left residents injured. Behind the pit, a row of modest one- and two-storey houses with tiled and concrete roofs lines the lane, with bare electric poles and a few plastic water pots left near doorsteps. Two residents, seen from behind at a distance, walk carefully around the edge of the hole with a child holding one hand, a man in a shirt and veshti and a woman in a cotton saree. A two-wheeler is parked on the side of the road, and a small heap of excavated soil lies beside the pit. Daylight, dull overcast sky, dusty and damp road. Camera at eye level, 35 mm lens, wide enough to show the pit, the houses and the lane. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the dangerous open pit on a colony road in Erode, its uneven, crumbling mud edges and loose soil clumps dropping into a dark, wet hollow with grey sewage pooling at the bottom. Beside it lies a heap of dug-out soil and a broken piece of paving slab, with a plastic water pot standing nearby on the dusty road. A pair of worn slippers and a dropped cloth bag sit near the edge, hinting at someone who has walked by. Part of a concrete house wall and a bare drain cover border the frame. Daylight, flat diffused light, damp earth textures. Camera slightly high, looking down into the pit at a 35 mm angle, close enough to show the depth and the wet, unfilled hazard. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/sewage/news-68787",
+   "published": "2026-11-22T21:28:18+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795366971/erode360/jtx8p9yztcqosctfuswp.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795366980/erode360/dt3jsfr1dqwtjfqnkc7p.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சித்தோடு, நசியனூரில் பாலப்பணியால் போக்குவரத்து இடையூறு",
+   "english_headline": "Bridge work causing traffic trouble at Chithode bypass and Nasiyanur, Erode district",
+   "category": "Roads & Transport",
+   "location": "Chithode bypass, Chellappampalayam branch, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை இடையூறு",
+    "loc": "சித்தோடு",
+    "hl1": "சித்தோட்டில் போக்குவரத்து பாதிப்பு",
+    "hl2": "ஒரு ஆண்டுக்கு மேலாக பணி",
+    "slides": [
+     {
+      "title": "எங்கே பணி?",
+      "lines": [
+       "சித்தோடு புறவழிச்சாலை, செல்லப்பம்பாளையம் பிரிவு",
+       "கடந்த <b>ஒரு ஆண்டுக்கு மேலாக</b> பாலம் அமைக்கும் பணி",
+       "இதனால் சாலையில் போக்குவரத்து இடையூறு"
+      ]
+     },
+     {
+      "title": "விபத்துகள்",
+      "lines": [
+       "வாகனங்கள் விபத்தில் சிக்கி வருகின்றன",
+       "பாலப்பணி ஆமை வேகத்தில் நடப்பதாகப் புகார்",
+       "விரைந்து முடிக்க அதிகாரிகள் நடவடிக்கை தேவை"
+      ]
+     },
+     {
+      "title": "நசியனூர் அருகே",
+      "lines": [
+       "ஆட்டையம்பாளையத்திலும் பாலப்பணி நடக்கிறது",
+       "இரவு நேரங்களில் பல <b>கி.மீ.</b> தூரத்துக்கு வாகனங்கள் நிற்கின்றன",
+       "பணிகளை விரைந்து முடிக்க வேண்டும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சித்தோடு புறவழிச்சாலையில் பாலப்பணியால் வாகனங்கள் பெரும் சிரமத்தில் உள்ளன. சித்தோடு புறவழிச்சாலையில் உள்ள செல்லப்பம்பாளையம் பிரிவு பகுதியில் கடந்த ஒரு ஆண்டுக்கு மேலாக பாலம் அமைக்கும் பணி நடந்து வருகிறது. இதனால் அந்தச் சாலையில் போக்குவரத்துக்கு இடையூறு ஏற்படுகிறது. வாகனங்கள் விபத்தில் சிக்கி வருகின்றன. நசியனூர் அருகே ஆட்டையம்பாளையத்திலும் பாலம் அமைக்கும் பணி நடைபெறுகிறது. இதனால் இரவு நேரங்களில் பல கிலோமீட்டர் தூரத்துக்கு வாகனங்கள் அணிவகுத்து நிற்கின்றன. ஆமை வேகத்தில் நடக்கும் பாலப்பணிகளை விரைந்து முடிக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 சித்தோட்டில் ஒரு ஆண்டுக்கு மேலாக பாலப்பணி: போக்குவரத்து பாதிப்பு\n\n📰 முழு விவரம்:\nசித்தோடு புறவழிச்சாலை, செல்லப்பம்பாளையம் பிரிவு பகுதியில் கடந்த ஒரு ஆண்டுக்கு மேலாக பாலம் அமைக்கும் பணி நடைபெறுகிறது. இதனால் அந்தச் சாலையில் போக்குவரத்து இடையூறு ஏற்படுகிறது. வாகனங்கள் விபத்தில் சிக்கி வருகின்றன.\nநசியனூர் அருகே ஆட்டையம்பாளையத்திலும் பாலம் அமைக்கும் பணி நடைபெறுகிறது. இதனால் இரவு நேரங்களில் பல கிலோமீட்டர் தூரத்துக்கு வாகனங்கள் அணிவகுத்து நிற்கின்றன.\nஆமை வேகத்தில் நடக்கும் பாலப்பணிகளை விரைந்து முடிக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்.\n\n📍 இடம்: சித்தோடு புறவழிச்சாலை, செல்லப்பம்பாளையம் பிரிவு; நசியனூர் அருகே ஆட்டையம்பாளையம்\n\nChithode bypass bridge work traffic jam | Erode news\n📍 சித்தோடு, ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chithode #ErodeNews #ஈரோடு",
+   "prompts": "A long queue of vehicles, mostly two-wheelers, cars, lorries and a town bus, stands waiting at night on the Chithode bypass near the Chellappampalayam branch, their headlights and tail lights stretching far into the distance. On one side a bridge under construction rises with concrete pillars, steel rods and a half-built deck, while orange barricades narrow the road into a single lane. Construction workers in shirts and trousers stand near the barricades, seen from behind and far away. Flat Erode-style roadside with a few street lights, paddy fields dimly visible beyond the road. Night-time, lit only by vehicle headlights and sodium street lights. Camera at eye level, 35 mm lens, wide enough to show the whole stretched queue and the bridge works. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a stretch of the bypass road narrowed by orange and white barricades and loose construction material: a pile of sand, bricks and stacked steel reinforcement rods lying beside uneven, half-laid tar and broken concrete edges. A two-wheeler and an autorickshaw squeeze through the narrow gap, their riders seen from behind and slightly blurred. Dusk light with a warm glow from the street lamps, dust hanging in the air. Camera slightly high, 50 mm lens, focusing on the barricades and the cramped passage for vehicles. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/transportation/news-68790",
+   "published": "2026-11-22T21:31:06+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795366998/erode360/j9b1aewvmp4pbnpstjxg.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795367008/erode360/ces1kuat0gkf593qb7y2.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பி.பி.அக்ரஹாரம் பவானி-சத்தி சாலையில் வேகத்தடை அமைக்க வேண்டும்",
+   "english_headline": "Speed breaker must be built on the B.B. Agraharam–Bhavani–Sathy link road in Erode, as vehicles speed and accidents happen",
+   "category": "Roads & Transport",
+   "location": "B.B. Agraharam, Bhavani-Sathy link road, Erode district",
+   "importance": "Medium",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை பாதுகாப்பு",
+    "loc": "பி.பி.அக்ரஹாரம்",
+    "hl1": "பி.பி.அக்ரஹாரம் சாலையில் வேகத்தடை இல்லை",
+    "hl2": "விபத்துகள் அதிகரிப்பு",
+    "slides": [
+     {
+      "title": "என்ன பிரச்சனை?",
+      "lines": [
+       "ஈரோடு பி.பி.அக்ரஹாரம் பவானி-சத்தி இணைப்பு சாலையில் வேகத்தடை",
+       "விரிவாக்கப் பணிக்காக வேகத்தடை அகற்றப்பட்டது",
+       "ஆனால் சாலை அமைக்கும் பணி நடக்கவில்லை"
+      ]
+     },
+     {
+      "title": "ஏன் ஆபத்து?",
+      "lines": [
+       "வேகத்தடையும் இல்லை",
+       "இதனால் வாகனங்கள் வேகமாக வருகின்றன",
+       "இதன் காரணமாக விபத்துகள் ஏற்படுகின்றன"
+      ]
+     },
+     {
+      "title": "அருகில் என்ன?",
+      "lines": [
+       "அருகில் பள்ளிக்கூடம் உள்ளது",
+       "அருகில் மருத்துவமனை உள்ளது",
+       "அருகில் வழிபாட்டுத்தலம் உள்ளது"
+      ]
+     },
+     {
+      "title": "கோரிக்கை",
+      "lines": [
+       "வேகத்தடை அமைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்",
+       "பொதுமக்கள் அதிகாரிகளை வலியுறுத்துகின்றனர்",
+       "சாலையில் கவனமாக வாகனம் ஓட்டுங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு பி பி அக்ரஹாரம் பவானி-சத்தி இணைப்பு சாலையில் வேகத்தடை இல்லாததால் விபத்துகள் ஏற்படுகின்றன. விரிவாக்கப் பணிக்காக இருந்த வேகத்தடை அகற்றப்பட்டது. ஆனால் சாலை அமைக்கும் பணி இதுவரை நடக்கவில்லை. வேகத்தடையும் அமைக்கப்படவில்லை. இதனால் அந்த வழியாக வாகனங்கள் வேகமாக வருகின்றன. அருகில் பள்ளிக்கூடம், மருத்துவமனை, வழிபாட்டுத்தலம் ஆகியவை உள்ளன. எனவே அப்பகுதியில் வேகத்தடை அமைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் வலியுறுத்துகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚧 பி.பி.அக்ரஹாரம் சாலையில் வேகத்தடை அமைக்க வேண்டும்\n\n📰 முழு விவரம்:\nஈரோடு பி.பி.அக்ரஹாரம் பவானி-சத்தி இணைப்பு சாலையில் இருந்த வேகத்தடை விரிவாக்கப் பணிக்காக அகற்றப்பட்டது.\nஆனால் சாலை அமைக்கும் பணி நடக்கவில்லை. வேகத்தடையும் அமைக்கப்படவில்லை.\nஇதனால் அந்த வழியாக வாகனங்கள் வேகமாக வருகின்றன; இதன் காரணமாக விபத்துகள் ஏற்படுகின்றன.\nஅருகில் பள்ளிக்கூடம், மருத்துவமனை, வழிபாட்டுத்தலம் ஆகியவை உள்ளன.\nஎனவே வேகத்தடை அமைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என பொதுமக்கள் வலியுறுத்துகின்றனர்.\n\nSpeed breaker needed on B.B. Agraharam Bhavani-Sathy road | Erode news\n📍 பி.பி.அக்ரஹாரம், ஈரோடு மாவட்டம் | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Bhavani",
+   "prompts": "A stretch of the B.B. Agraharam-Bhavani-Sathy link road in Erode district shows vehicles speeding past where a speed breaker used to be. A two-wheeler and a car race along the broad tarmac, seen from a distance, while a few pedestrians on the roadside stand well back from the lane. The road is an open two-lane stretch lined with low shops, a school compound wall and a temple gopuram visible further down, with paddy fields and the Sathyamangalam hills faintly in the background. The road surface is cut and rough at the edge where the old speed breaker was removed, with loose gravel and a few road-work barricades pushed to the side. The scene is in daylight under a clear sky. The camera is at eye level, about 35 mm, wide enough to show the full road and the empty stretch. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the bare road where the speed breaker once stood on the B.B. Agraharam link road in Erode. The tarmac is broken and uneven, with the old speed breaker's outline still visible as a dark strip across the lane, scattered loose gravel and a few piles of road-work debris at the edge. Fresh tyre marks show vehicles speeding over the open stretch. Behind the road edge a low roadside wall and a faded white line are visible, and a single two-wheeler rider blurs past from behind at a distance. The light is bright daylight with harsh shadows. The camera is low and close, about 35 mm, focusing on the empty road surface that tells the story. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://pukaarpetti.dailythanthi.com/road/news-68788",
+   "published": "2026-11-22T21:29:33+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795367027/erode360/kdw2lpdbjutkofykab8s.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795367038/erode360/z0na5riwgfzesdboft5z.jpg"
    ]
   }
  ]
