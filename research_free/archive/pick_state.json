@@ -28,7 +28,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/235-candidates-opt-out-of-rural-skill-test/4382996"
    ],
-   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+   "listed_at": "2026-11-22T08:00:50.090171+05:30",
+   "picked_at": "2026-11-22T12:31:09.457889+05:30"
   },
   "Cf07b2cd": {
    "id": "Cf07b2cd",
@@ -40,7 +41,8 @@
    "category": "பொது",
    "score": 8.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+   "listed_at": "2026-11-22T08:00:50.090171+05:30",
+   "picked_at": "2026-11-22T12:31:09.457891+05:30"
   },
   "Cb6ff020": {
    "id": "Cb6ff020",
@@ -52,7 +54,8 @@
    "category": "பொது",
    "score": 7.5,
    "power_cut": false,
-   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+   "listed_at": "2026-11-22T08:00:50.090171+05:30",
+   "picked_at": "2026-11-22T12:31:09.457896+05:30"
   },
   "C0fc84fb": {
    "id": "C0fc84fb",
@@ -64,7 +67,8 @@
    "category": "பொது",
    "score": 7.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+   "listed_at": "2026-11-22T08:00:50.090171+05:30",
+   "picked_at": "2026-11-22T12:31:09.457893+05:30"
   },
   "C1bb04c6": {
    "id": "C1bb04c6",
@@ -76,7 +80,8 @@
    "category": "பொது",
    "score": 7.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+   "listed_at": "2026-11-22T08:00:50.090171+05:30",
+   "picked_at": "2026-11-22T12:31:09.457894+05:30"
   },
   "Ce9cb05e": {
    "id": "Ce9cb05e",
@@ -88,7 +93,8 @@
    "category": "பொது",
    "score": 6.5,
    "power_cut": false,
-   "listed_at": "2026-11-22T08:00:50.090171+05:30"
+   "listed_at": "2026-11-22T08:00:50.090171+05:30",
+   "picked_at": "2026-11-22T12:31:09.457897+05:30"
   },
   "C693cc74": {
    "id": "C693cc74",
@@ -692,8 +698,26 @@
    ],
    "sent": false,
    "deadline": "2026-11-22T13:29:47.158384+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 6 of 12 by insights",
+    "ids": [
+     "C5a67bee",
+     "Cf07b2cd",
+     "C0fc84fb",
+     "C1bb04c6",
+     "Cb6ff020",
+     "Ce9cb05e"
+    ],
+    "at": "2026-11-22T12:31:09.457878+05:30"
+   },
+   "written": [
+    "C0fc84fb",
+    "C1bb04c6",
+    "C5a67bee",
+    "Cb6ff020",
+    "Ce9cb05e",
+    "Cf07b2cd"
+   ]
   }
  },
  "retry": {}
