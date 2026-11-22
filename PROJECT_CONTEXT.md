@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `8ab67e6` | Facebook: one post every 60 minutes, at most 15 a day per page, most important news first; after the 15 the rest goes to the owner's e-mail at once (share from Instagram) |
+| 2026-11-22 | `ea0cee1` | stories shared / Instagram pause |
+| 2026-11-22 | `4b43512` | stories shared / Instagram pause |
+| 2026-11-22 | `32c6bf9` | stories shared / Instagram pause |
+| 2026-11-22 | `5536681` | stories shared / Instagram pause |
+| 2026-11-22 | `aa4a78b` | stories shared / Instagram pause |
+| 2026-11-22 | `1128859` | pick: written and posted |
+| 2026-11-22 | `c48cf23` | pick: picked news saved |
+| 2026-11-22 | `6ba69fa` | stories shared / Instagram pause |
+| 2026-11-22 | `c33b246` | pick: picked news saved |
+| 2026-11-22 | `5e6368f` | pick: list sent |
 | 2026-11-22 | `f99cc66` | Daily plan: 30 of today's published news + yesterday's pending news + urgent news after the 30; news older than yesterday never posted |
 | 2026-11-22 | `a8a8b24` | stories shared / Instagram pause |
 | 2026-11-22 | `61f2838` | stories shared / Instagram pause |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-22 | `ca530af` | stories shared / Instagram pause |
 | 2026-11-22 | `7ebc4de` | stories shared / Instagram pause |
 | 2026-11-22 | `3f49d64` | stories shared / Instagram pause |
-| 2026-11-22 | `5139ab3` | stories shared / Instagram pause |
-| 2026-11-22 | `3cdbdc6` | stories shared / Instagram pause |
-| 2026-11-22 | `309fc2b` | pick: written and posted |
-| 2026-11-22 | `e798bac` | facebook RN-217 |
-| 2026-11-22 | `832794e` | posted RN-217 |
-| 2026-11-22 | `02f65cf` | stories shared / Instagram pause |
-| 2026-11-22 | `f6b48cf` | facebook RN-216 |
-| 2026-11-22 | `1f98b68` | posted RN-216 |
-| 2026-11-22 | `ae392ab` | stories shared / Instagram pause |
-| 2026-11-22 | `91cdeee` | pick: picked news saved |
-| 2026-11-22 | `728303a` | pick: picked news saved |
 <!-- recent-changes:end -->
