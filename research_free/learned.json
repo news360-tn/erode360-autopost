@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-22T12:29+05:30",
- "posts_measured": 170,
+ "updated": "2026-11-22T15:29+05:30",
+ "posts_measured": 174,
  "topic_weight": {
   "crime": 1.5,
   "weather": -0.5,
   "civic": -0.5,
-  "accident": 0.56,
+  "accident": 0.69,
   "education": -0.5,
-  "temple": -0.1,
-  "politics": 0.24,
-  "power_cut": 0.63,
+  "temple": -0.2,
+  "politics": -0.08,
+  "power_cut": 0.56,
   "poultry_agri": -0.5
  },
  "topic_n": {
@@ -17,11 +17,11 @@
   "weather": 8,
   "civic": 19,
   "accident": 17,
-  "education": 18,
-  "temple": 21,
-  "politics": 10,
+  "education": 19,
+  "temple": 22,
+  "politics": 11,
   "power_cut": 5,
-  "poultry_agri": 8,
+  "poultry_agri": 9,
   "jobs": 1
  },
  "best_hours_ist": [
@@ -33,14 +33,14 @@
  "top_openings": [
   "🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு",
   "🚨 பவானி அருகே கஞ்சா விற்பனை: 7 பேர் கைது",
-  "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது",
-  "🚨 பவானி அருகே கடனைத் திருப்பாததால் கல்லூரிக்கு சீல் - 70 மாணவர்கள் பாதிப்பு"
+  "🚨 பவானி அருகே கடனைத் திருப்பாததால் கல்லூரிக்கு சீல் - 70 மாணவர்கள் பாதிப்பு",
+  "💧 பழனி கவுண்டன்பாளையத்தில் இரட்டைப்பள்ளி தடுப்பணை நிரம்பியது"
  ],
  "avg_watch_s": 7.9,
  "best_topics": [
   "crime",
-  "power_cut",
-  "accident"
+  "accident",
+  "power_cut"
  ],
  "weak_topics": [
   "weather",
