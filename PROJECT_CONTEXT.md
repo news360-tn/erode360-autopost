@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `956be7a` | Manual post e-mail: news a page cannot post goes to the owner, one by one |
+| 2026-11-22 | `aaf89ce` | facebook RN-201 |
+| 2026-11-22 | `2be21a0` | posted RN-201 |
+| 2026-11-22 | `2591970` | facebook RN-199 |
+| 2026-11-22 | `cc3d340` | posted RN-199 |
+| 2026-11-22 | `ba9fc71` | facebook RN-197 |
+| 2026-11-22 | `9ed86e5` | posted RN-197 |
+| 2026-11-22 | `47d9614` | pick: picked news saved |
+| 2026-11-22 | `ecb550c` | pick: picked news saved |
+| 2026-11-22 | `c0bb245` | pick: list sent |
+| 2026-11-22 | `d63d35c` | rasipalan posted |
+| 2026-11-22 | `5f55d84` | stories shared / Instagram pause |
+| 2026-11-22 | `5fb23dc` | stories shared / Instagram pause |
+| 2026-11-22 | `e850814` | facebook RN-194 |
+| 2026-11-22 | `2ac3554` | posted RN-194 |
+| 2026-11-21 | `8f7335c` | facebook RN-193 |
+| 2026-11-21 | `03d7bb1` | posted RN-193 |
+| 2026-11-21 | `c65d1bd` | facebook RN-192 |
+| 2026-11-21 | `cbe9f79` | posted RN-192 |
+| 2026-11-21 | `57c8a76` | pick: written and posted |
+| 2026-11-21 | `e928314` | pick: list sent |
+| 2026-11-21 | `f349bd0` | powercut: notices written |
+| 2026-11-21 | `de905ee` | powercut: notices written |
+| 2026-11-21 | `1262003` | pick: written and posted |
+| 2026-11-21 | `fe0bbfd` | pick: picked news saved |
+| 2026-11-21 | `8913f68` | pick: picked news saved |
+| 2026-11-21 | `ea0a6d5` | pick: list sent |
 | 2026-11-21 | `fdc4773` | YouTube: news reels uploaded automatically as Shorts (only with the page's keys) |
 | 2026-11-21 | `09c4188` | pick: written and posted |
 | 2026-11-21 | `0ec69f6` | facebook RN-191 |
-| 2026-11-21 | `60680fe` | posted RN-191 |
-| 2026-11-21 | `b1633f2` | pick: picked news saved |
-| 2026-11-21 | `58227ab` | pick: picked news saved |
-| 2026-11-21 | `0267326` | pick: list sent |
-| 2026-11-21 | `c342031` | powercut: notices written |
-| 2026-11-21 | `000614b` | Facebook: every news that is on Instagram also goes to Facebook |
-| 2026-11-21 | `531b862` | powercut: notices written |
-| 2026-11-21 | `b7e7123` | pick: written and posted |
-| 2026-11-21 | `ec9c41d` | pick: list sent |
-| 2026-11-21 | `9d2d4d2` | Posted report: one e-mail for all pages, 4 times a day |
-| 2026-11-21 | `4cef2f3` | Instagram-safe limits, file upload without Cloudinary, skipped e-mails restarted |
-| 2026-11-21 | `a2f3d8e` | goldrate posted |
-| 2026-11-21 | `690fc5f` | pick: written and posted |
-| 2026-11-21 | `44fed86` | pick: list sent |
-| 2026-11-21 | `96f4354` | Instagram-safe: stories only for power cuts / urgent news again (as Kovai and Chennai Minnal); direct-upload trial off |
-| 2026-11-21 | `bf28e80` | powercut: notices written |
-| 2026-11-21 | `2aa7f10` | powercut: notices written |
-| 2026-11-21 | `7199981` | pick: written and posted |
-| 2026-11-21 | `d96d831` | pick: picked news saved |
-| 2026-11-21 | `bd1d320` | pick: picked news saved |
-| 2026-11-21 | `8a0d054` | pick: list sent |
-| 2026-11-21 | `8e96973` | Post news as soon as it is ready; only news with a source link; collect every 4 hours, max 35 a day |
-| 2026-11-21 | `35793f3` | A news picture that cannot be downloaded (old Cloudinary account, 401/404) is left out - the reel uses the designed background, the page is never blocked |
-| 2026-11-21 | `c37eef8` | pick: written and posted |
-| 2026-11-21 | `f788bc2` | goldrate posted |
-| 2026-11-21 | `b25d130` | pick: picked news saved |
-| 2026-11-21 | `3dbc6ea` | pick: picked news saved |
 <!-- recent-changes:end -->
