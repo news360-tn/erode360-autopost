@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-22 | `16ced8b` | Manual post e-mail: attach a 720p copy of the reel (the full reel was too large) |
+| 2026-11-22 | `0493241` | facebook RN-200 |
+| 2026-11-22 | `ae3364c` | posted RN-200 |
+| 2026-11-22 | `f0e1078` | stories shared / Instagram pause |
 | 2026-11-22 | `956be7a` | Manual post e-mail: news a page cannot post goes to the owner, one by one |
 | 2026-11-22 | `aaf89ce` | facebook RN-201 |
 | 2026-11-22 | `2be21a0` | posted RN-201 |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-21 | `1262003` | pick: written and posted |
 | 2026-11-21 | `fe0bbfd` | pick: picked news saved |
 | 2026-11-21 | `8913f68` | pick: picked news saved |
-| 2026-11-21 | `ea0a6d5` | pick: list sent |
-| 2026-11-21 | `fdc4773` | YouTube: news reels uploaded automatically as Shorts (only with the page's keys) |
-| 2026-11-21 | `09c4188` | pick: written and posted |
-| 2026-11-21 | `0ec69f6` | facebook RN-191 |
 <!-- recent-changes:end -->
