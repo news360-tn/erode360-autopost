@@ -1,99 +1,109 @@
-05:02:55 SKIP RN-6 stale: published 13 Nov, older than yesterday
-05:02:55 SKIP RN-20 stale: published 13 Nov, older than yesterday
-05:02:55 SKIP RN-22 stale: published 14 Nov, older than yesterday
-05:02:55 SKIP RN-30 stale: published 14 Nov, older than yesterday
-05:02:55 SKIP RN-31 stale: published 14 Nov, older than yesterday
-05:02:55 SKIP RN-35 stale: published 14 Nov, older than yesterday
-05:02:55 SKIP RN-42 stale: published 14 Nov, older than yesterday
-05:02:55 SKIP RN-44 stale: published 15 Nov, older than yesterday
-05:02:55 SKIP RN-45 stale: published 15 Nov, older than yesterday
-05:02:55 SKIP RN-47 stale: published 15 Nov, older than yesterday
-05:02:55 SKIP RN-48 stale: published 15 Nov, older than yesterday
-05:02:55 SKIP RN-49 stale: published 15 Nov, older than yesterday
-05:02:55 SKIP RN-55 stale: published 15 Nov, older than yesterday
-05:02:55 SKIP RN-56 stale: published 15 Nov, older than yesterday
-05:02:55 SKIP RN-62 stale: published 16 Nov, older than yesterday
-05:02:55 SKIP RN-72 stale: published 16 Nov, older than yesterday
-05:02:55 SKIP RN-75 stale: published 16 Nov, older than yesterday
-05:02:55 SKIP RN-76 stale: published 16 Nov, older than yesterday
-05:02:55 SKIP RN-81 stale: published 17 Nov, older than yesterday
-05:02:55 SKIP RN-83 stale: published 17 Nov, older than yesterday
-05:02:55 SKIP RN-91 stale: published 17 Nov, older than yesterday
-05:02:55 SKIP RN-111 stale: published 18 Nov, older than yesterday
-05:02:55 SKIP RN-112 stale: published 18 Nov, older than yesterday
-05:02:55 SKIP RN-127 stale: published 18 Nov, older than yesterday
-05:02:55 SKIP RN-128 stale: published 18 Nov, older than yesterday
-05:02:55 SKIP RN-131 stale: published 19 Nov, older than yesterday
-05:02:55 SKIP RN-134 stale: published 19 Nov, older than yesterday
-05:02:55 SKIP RN-141 stale: published 19 Nov, older than yesterday
-05:02:55 SKIP RN-142 stale: published 19 Nov, older than yesterday
-05:02:55 SKIP RN-149 stale: published 19 Nov, older than yesterday
-05:02:55 SKIP RN-154 stale: published 19 Nov, older than yesterday
-05:02:55 SKIP RN-166 stale: published 20 Nov, older than yesterday
-05:02:55 SKIP RN-176 stale: published 20 Nov, older than yesterday
-05:02:55 SKIP RN-190 stale: published 21 Nov, older than yesterday
-05:02:55 SKIP RN-195 stale: published 22 Nov, older than yesterday
-05:02:55 SKIP RN-198 held: fact-check problems - fact-check: The caption's 'நடவடிக்கை' line says the arrest was made 'சிசிடிவி பதிவுகள் அடிப்படையில்', but the article says the suspect was picked up on suspicion and then confessed under questioning; 
-05:02:55 SKIP RN-202 held: fact-check problems - fact-check: Caption says the body was found outside the TASMAC shop front (டாஸ்மாக் கடை முன்புறம்) — the article supports this, so no issue there
-05:02:55 SKIP RN-209 held: fact-check problems - fact-check: The draft's reel_script and caption say the shop owner is 'பொன்ராஜ், 55 வயது' — the article gives his age as 55 but the draft states 'வயது' (years) which is accurate; fact-check: The slide
-05:02:56 SKIP RN-213 held: fact-check problems - numbers not found in the article: 30, 30000
-05:02:56 SKIP RN-218 held: fact-check problems - fact-check: Caption gives a specific wedding date (21 நவம்பர் 2026) which is not stated in the article
-05:02:56 SKIP RN-219 held: fact-check problems - fact-check: Reel script claims officials will arrive immediately to fix the pipe, which is not stated in the article (the article only asks if officials will come); fact-check: Slides_spec location fi
-05:02:56 SKIP RN-229 held: location is only the district - the town from the article is missing
-05:02:56 SKIP RN-239 held: fact-check problems - fact-check: The reel_script and slides_spec describe Meristha as 28 years old, which matches the article, but the slide places the number in bold HTML tags (<b>28</b>), which is a formatting issue rat
+05:12:33 bridge get 'recent' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+05:12:55 SKIP RN-6 stale: published 13 Nov, older than yesterday
+05:12:55 SKIP RN-20 stale: published 13 Nov, older than yesterday
+05:12:55 SKIP RN-22 stale: published 14 Nov, older than yesterday
+05:12:55 SKIP RN-30 stale: published 14 Nov, older than yesterday
+05:12:55 SKIP RN-31 stale: published 14 Nov, older than yesterday
+05:12:55 SKIP RN-35 stale: published 14 Nov, older than yesterday
+05:12:55 SKIP RN-42 stale: published 14 Nov, older than yesterday
+05:12:55 SKIP RN-44 stale: published 15 Nov, older than yesterday
+05:12:55 SKIP RN-45 stale: published 15 Nov, older than yesterday
+05:12:55 SKIP RN-47 stale: published 15 Nov, older than yesterday
+05:12:55 SKIP RN-48 stale: published 15 Nov, older than yesterday
+05:12:55 SKIP RN-49 stale: published 15 Nov, older than yesterday
+05:12:55 SKIP RN-55 stale: published 15 Nov, older than yesterday
+05:12:55 SKIP RN-56 stale: published 15 Nov, older than yesterday
+05:12:55 SKIP RN-62 stale: published 16 Nov, older than yesterday
+05:12:55 SKIP RN-72 stale: published 16 Nov, older than yesterday
+05:12:55 SKIP RN-75 stale: published 16 Nov, older than yesterday
+05:12:55 SKIP RN-76 stale: published 16 Nov, older than yesterday
+05:12:55 SKIP RN-81 stale: published 17 Nov, older than yesterday
+05:12:55 SKIP RN-83 stale: published 17 Nov, older than yesterday
+05:12:55 SKIP RN-91 stale: published 17 Nov, older than yesterday
+05:12:55 SKIP RN-111 stale: published 18 Nov, older than yesterday
+05:12:55 SKIP RN-112 stale: published 18 Nov, older than yesterday
+05:12:55 SKIP RN-127 stale: published 18 Nov, older than yesterday
+05:12:55 SKIP RN-128 stale: published 18 Nov, older than yesterday
+05:12:55 SKIP RN-131 stale: published 19 Nov, older than yesterday
+05:12:55 SKIP RN-134 stale: published 19 Nov, older than yesterday
+05:12:55 SKIP RN-141 stale: published 19 Nov, older than yesterday
+05:12:55 SKIP RN-142 stale: published 19 Nov, older than yesterday
+05:12:55 SKIP RN-149 stale: published 19 Nov, older than yesterday
+05:12:55 SKIP RN-154 stale: published 19 Nov, older than yesterday
+05:12:55 SKIP RN-166 stale: published 20 Nov, older than yesterday
+05:12:55 SKIP RN-176 stale: published 20 Nov, older than yesterday
+05:12:55 SKIP RN-190 stale: published 21 Nov, older than yesterday
+05:12:55 SKIP RN-195 stale: published 22 Nov, older than yesterday
+05:12:55 SKIP RN-198 held: fact-check problems - fact-check: The caption's 'நடவடிக்கை' line says the arrest was made 'சிசிடிவி பதிவுகள் அடிப்படையில்', but the article says the suspect was picked up on suspicion and then confessed under questioning; 
+05:12:55 SKIP RN-202 held: fact-check problems - fact-check: Caption says the body was found outside the TASMAC shop front (டாஸ்மாக் கடை முன்புறம்) — the article supports this, so no issue there
+05:12:55 SKIP RN-209 held: fact-check problems - fact-check: The draft's reel_script and caption say the shop owner is 'பொன்ராஜ், 55 வயது' — the article gives his age as 55 but the draft states 'வயது' (years) which is accurate; fact-check: The slide
+05:12:55 SKIP RN-213 held: fact-check problems - numbers not found in the article: 30, 30000
+05:12:55 SKIP RN-218 held: fact-check problems - fact-check: Caption gives a specific wedding date (21 நவம்பர் 2026) which is not stated in the article
+05:12:55 SKIP RN-219 held: fact-check problems - fact-check: Reel script claims officials will arrive immediately to fix the pipe, which is not stated in the article (the article only asks if officials will come); fact-check: Slides_spec location fi
+05:12:55 SKIP RN-229 held: location is only the district - the town from the article is missing
+05:12:55 SKIP RN-239 held: fact-check problems - fact-check: The reel_script and slides_spec describe Meristha as 28 years old, which matches the article, but the slide places the number in bold HTML tags (<b>28</b>), which is a formatting issue rat
 ::warning title=Held from posting RN-239::held: fact-check problems - fact-check: The reel_script and slides_spec describe Meristha as 28 years old, which matches the article, but the slide places the number in bold HTML tags (<b>28</b>), which is a formatting issue rat
-05:02:56 SKIP RN-244 held: fact-check problems - fact-check: The reel_script and caption say the theft happened in broad daylight (பட்டப்பகலில்), but the article only says the owner left at 6 AM and returned at 2 PM; fact-check: The reel_script says
+05:12:55 SKIP RN-244 held: fact-check problems - fact-check: The reel_script and caption say the theft happened in broad daylight (பட்டப்பகலில்), but the article only says the owner left at 6 AM and returned at 2 PM; fact-check: The reel_script says
 ::warning title=Held from posting RN-244::held: fact-check problems - fact-check: The reel_script and caption say the theft happened in broad daylight (பட்டப்பகலில்), but the article only says the owner left at 6 AM and returned at 2 PM; fact-check: The reel_script says
-05:02:56 SKIP RN-252 held: location is only the district - the town from the article is missing
+05:12:55 SKIP RN-252 held: location is only the district - the town from the article is missing
 ::warning title=Held from posting RN-252::held: location is only the district - the town from the article is missing
-05:02:56 SKIP RN-253 held: fact-check problems - fact-check: The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives only 'திங்கள்கிழமை' with no date; fact-check: The caption's 'நடவடிக்கை' line says the p
+05:12:55 SKIP RN-253 held: fact-check problems - fact-check: The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives only 'திங்கள்கிழமை' with no date; fact-check: The caption's 'நடவடிக்கை' line says the p
 ::warning title=Held from posting RN-253::held: fact-check problems - fact-check: The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives only 'திங்கள்கிழமை' with no date; fact-check: The caption's 'நடவடிக்கை' line says the p
-05:02:56 story catch-up off (test run or post_stories false)
-05:02:56 46 stories in the queue, ready to post: 0
-05:02:56   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
-05:02:56    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 257.9 ready= False set_started= True
-05:02:56    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 239.5 ready= False set_started= True
-05:02:56    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 235.2 ready= False set_started= True
-05:02:56    RN-30 review= 'Auto' images= 195 spec= 903 pages= ['erode'] links= '' '' age_h= 227.4 ready= False set_started= True
-05:02:56    RN-31 review= 'Auto' images= 195 spec= 675 pages= ['erode'] links= '' '' age_h= 227.4 ready= False set_started= True
-05:02:56    RN-35 review= 'Auto' images= 195 spec= 554 pages= ['erode'] links= '' '' age_h= 223.4 ready= False set_started= True
-05:02:56    RN-42 review= 'Auto' images= 195 spec= 743 pages= ['erode'] links= '' '' age_h= 215.5 ready= False set_started= True
-05:02:56    RN-44 review= 'Auto' images= 195 spec= 738 pages= ['erode'] links= '' '' age_h= 215.5 ready= False set_started= True
-05:02:56    RN-45 review= 'Auto' images= 195 spec= 694 pages= ['erode'] links= '' '' age_h= 211.1 ready= False set_started= True
-05:02:56    RN-47 review= 'Auto' images= 195 spec= 825 pages= ['erode'] links= '' '' age_h= 211.1 ready= False set_started= True
-05:02:56    RN-48 review= 'Auto' images= 195 spec= 678 pages= ['erode'] links= '' '' age_h= 211.1 ready= False set_started= True
-05:02:56    RN-49 review= 'Auto' images= 195 spec= 918 pages= ['erode'] links= '' '' age_h= 211.1 ready= False set_started= True
-05:02:56    RN-55 review= 'Auto' images= 195 spec= 610 pages= ['erode'] links= '' '' age_h= 203.3 ready= False set_started= True
-05:02:56    RN-56 review= 'Auto' images= 195 spec= 978 pages= ['erode'] links= '' '' age_h= 203.3 ready= False set_started= True
-05:02:56    RN-62 review= 'Auto' images= 195 spec= 705 pages= ['erode'] links= '' '' age_h= 191.4 ready= False set_started= True
-05:02:56    RN-72 review= 'Auto' images= 195 spec= 729 pages= ['erode'] links= '' '' age_h= 180.6 ready= False set_started= True
-05:02:56    RN-75 review= 'Auto' images= 195 spec= 725 pages= ['erode'] links= '' '' age_h= 178.5 ready= False set_started= True
-05:02:56    RN-76 review= 'Auto' images= 195 spec= 952 pages= ['erode'] links= '' '' age_h= 178.5 ready= False set_started= True
-05:02:56    RN-81 review= 'Auto' images= 195 spec= 616 pages= ['erode'] links= '' '' age_h= 164.8 ready= False set_started= True
-05:02:56    RN-83 review= 'Auto' images= 195 spec= 734 pages= ['erode'] links= '' '' age_h= 164.8 ready= False set_started= True
-05:02:56    RN-91 review= 'Auto' images= 195 spec= 696 pages= ['erode'] links= '' '' age_h= 162.3 ready= False set_started= True
-05:02:56    RN-111 review= 'Auto' images= 195 spec= 601 pages= ['erode'] links= '' '' age_h= 141.6 ready= False set_started= True
-05:02:56    RN-112 review= 'Auto' images= 195 spec= 677 pages= ['erode'] links= '' '' age_h= 141.6 ready= False set_started= True
-05:02:56    RN-127 review= 'Auto' images= 195 spec= 783 pages= ['erode'] links= '' '' age_h= 126.8 ready= False set_started= True
-05:02:56    RN-128 review= 'Auto' images= 195 spec= 817 pages= ['erode'] links= '' '' age_h= 126.8 ready= False set_started= True
-05:02:56    RN-131 review= 'Auto' images= 195 spec= 915 pages= ['erode'] links= '' '' age_h= 118.2 ready= False set_started= True
-05:02:56    RN-134 review= 'Auto' images= 195 spec= 654 pages= ['erode'] links= '' '' age_h= 118.1 ready= False set_started= True
-05:02:56    RN-141 review= 'Auto' images= 195 spec= 807 pages= ['erode'] links= '' '' age_h= 114.5 ready= False set_started= True
-05:02:56    RN-142 review= 'Auto' images= 195 spec= 759 pages= ['erode'] links= '' '' age_h= 114.5 ready= False set_started= True
-05:02:56    RN-149 review= 'Auto' images= 195 spec= 659 pages= ['erode'] links= '' '' age_h= 110.8 ready= False set_started= True
-05:02:56    RN-154 review= 'Auto' images= 195 spec= 681 pages= ['erode'] links= '' '' age_h= 102.8 ready= False set_started= True
-05:02:56    RN-166 review= 'Auto' images= 195 spec= 910 pages= ['erode'] links= '' '' age_h= 92.0 ready= False set_started= True
-05:02:56    RN-176 review= 'Auto' images= 195 spec= 684 pages= ['erode'] links= '' '' age_h= 84.8 ready= False set_started= True
-05:02:56    RN-190 review= 'Auto' images= 195 spec= 718 pages= ['erode'] links= '' '' age_h= 64.3 ready= False set_started= True
-05:02:56    RN-195 review= 'Auto' images= 195 spec= 656 pages= ['erode'] links= '' '' age_h= 50.8 ready= False set_started= True
-05:02:56    RN-198 review= 'Auto' images= 195 spec= 659 pages= ['erode'] links= '' '' age_h= 44.9 ready= False set_started= True
-05:02:56    RN-202 review= 'Auto' images= 195 spec= 586 pages= ['erode'] links= '' '' age_h= 44.9 ready= False set_started= True
-05:02:56    RN-209 review= 'Auto' images= 195 spec= 634 pages= ['erode'] links= '' '' age_h= 40.5 ready= False set_started= True
-05:02:56    RN-213 review= 'Auto' images= 98 spec= 711 pages= ['erode'] links= '' '' age_h= 37.4 ready= False set_started= True
-05:02:56    RN-218 review= 'Auto' images= 195 spec= 706 pages= ['erode'] links= '' '' age_h= 32.6 ready= False set_started= True
-05:02:56    RN-219 review= 'Auto' images= 195 spec= 608 pages= ['erode'] links= '' '' age_h= 30.5 ready= False set_started= True
-05:02:56    RN-229 review= 'Auto' images= 195 spec= 710 pages= ['erode'] links= '' '' age_h= 26.6 ready= False set_started= True
-05:02:56    RN-239 review= 'Auto' images= 195 spec= 662 pages= ['erode'] links= '' '' age_h= 20.5 ready= False set_started= True
-05:02:56    RN-244 review= 'Auto' images= 195 spec= 698 pages= ['erode'] links= '' '' age_h= 20.4 ready= False set_started= True
-05:02:56    RN-252 review= 'Auto' images= 195 spec= 727 pages= ['erode'] links= '' '' age_h= 0.9 ready= False set_started= True
-05:02:56    RN-253 review= 'Auto' images= 195 spec= 661 pages= ['erode'] links= '' '' age_h= 0.8 ready= False set_started= True
+05:12:55 story catch-up off (test run or post_stories false)
+05:12:55 49 stories in the queue, ready to post: 3
+05:12:55   keys: ['batch', 'caption', 'category', 'doc', 'email_sent', 'erode_link', 'gmail_id', 'headline_en', 'headline_ta', 'images', 'importance', 'location', 'notes', 'notion', 'other_sources', 'post_status', 'post_to', 'posted_at', 'prompts', 'published', 'reel', 'reel_link', 'reel_script', 'researched', 'review', 'review_page', 'row', 'slides_spec', 'source', 'spare_link', 'story_id', 'verification']
+05:12:55    RN-6 review= 'Auto' images= 98 spec= 729 pages= ['erode'] links= '' '' age_h= 258.1 ready= False set_started= True
+05:12:55    RN-20 review= 'Auto' images= 195 spec= 726 pages= ['erode'] links= '' '' age_h= 239.7 ready= False set_started= True
+05:12:55    RN-22 review= 'Auto' images= 195 spec= 822 pages= ['erode'] links= '' '' age_h= 235.3 ready= False set_started= True
+05:12:55    RN-30 review= 'Auto' images= 195 spec= 903 pages= ['erode'] links= '' '' age_h= 227.6 ready= False set_started= True
+05:12:55    RN-31 review= 'Auto' images= 195 spec= 675 pages= ['erode'] links= '' '' age_h= 227.6 ready= False set_started= True
+05:12:55    RN-35 review= 'Auto' images= 195 spec= 554 pages= ['erode'] links= '' '' age_h= 223.5 ready= False set_started= True
+05:12:55    RN-42 review= 'Auto' images= 195 spec= 743 pages= ['erode'] links= '' '' age_h= 215.7 ready= False set_started= True
+05:12:55    RN-44 review= 'Auto' images= 195 spec= 738 pages= ['erode'] links= '' '' age_h= 215.7 ready= False set_started= True
+05:12:55    RN-45 review= 'Auto' images= 195 spec= 694 pages= ['erode'] links= '' '' age_h= 211.3 ready= False set_started= True
+05:12:55    RN-47 review= 'Auto' images= 195 spec= 825 pages= ['erode'] links= '' '' age_h= 211.3 ready= False set_started= True
+05:12:55    RN-48 review= 'Auto' images= 195 spec= 678 pages= ['erode'] links= '' '' age_h= 211.3 ready= False set_started= True
+05:12:55    RN-49 review= 'Auto' images= 195 spec= 918 pages= ['erode'] links= '' '' age_h= 211.3 ready= False set_started= True
+05:12:55    RN-55 review= 'Auto' images= 195 spec= 610 pages= ['erode'] links= '' '' age_h= 203.5 ready= False set_started= True
+05:12:55    RN-56 review= 'Auto' images= 195 spec= 978 pages= ['erode'] links= '' '' age_h= 203.5 ready= False set_started= True
+05:12:55    RN-62 review= 'Auto' images= 195 spec= 705 pages= ['erode'] links= '' '' age_h= 191.5 ready= False set_started= True
+05:12:55    RN-72 review= 'Auto' images= 195 spec= 729 pages= ['erode'] links= '' '' age_h= 180.8 ready= False set_started= True
+05:12:55    RN-75 review= 'Auto' images= 195 spec= 725 pages= ['erode'] links= '' '' age_h= 178.7 ready= False set_started= True
+05:12:55    RN-76 review= 'Auto' images= 195 spec= 952 pages= ['erode'] links= '' '' age_h= 178.6 ready= False set_started= True
+05:12:55    RN-81 review= 'Auto' images= 195 spec= 616 pages= ['erode'] links= '' '' age_h= 165.0 ready= False set_started= True
+05:12:55    RN-83 review= 'Auto' images= 195 spec= 734 pages= ['erode'] links= '' '' age_h= 165.0 ready= False set_started= True
+05:12:55    RN-91 review= 'Auto' images= 195 spec= 696 pages= ['erode'] links= '' '' age_h= 162.5 ready= False set_started= True
+05:12:55    RN-111 review= 'Auto' images= 195 spec= 601 pages= ['erode'] links= '' '' age_h= 141.7 ready= False set_started= True
+05:12:55    RN-112 review= 'Auto' images= 195 spec= 677 pages= ['erode'] links= '' '' age_h= 141.7 ready= False set_started= True
+05:12:55    RN-127 review= 'Auto' images= 195 spec= 783 pages= ['erode'] links= '' '' age_h= 127.0 ready= False set_started= True
+05:12:55    RN-128 review= 'Auto' images= 195 spec= 817 pages= ['erode'] links= '' '' age_h= 126.9 ready= False set_started= True
+05:12:55    RN-131 review= 'Auto' images= 195 spec= 915 pages= ['erode'] links= '' '' age_h= 118.3 ready= False set_started= True
+05:12:55    RN-134 review= 'Auto' images= 195 spec= 654 pages= ['erode'] links= '' '' age_h= 118.3 ready= False set_started= True
+05:12:55    RN-141 review= 'Auto' images= 195 spec= 807 pages= ['erode'] links= '' '' age_h= 114.7 ready= False set_started= True
+05:12:55    RN-142 review= 'Auto' images= 195 spec= 759 pages= ['erode'] links= '' '' age_h= 114.7 ready= False set_started= True
+05:12:55    RN-149 review= 'Auto' images= 195 spec= 659 pages= ['erode'] links= '' '' age_h= 111.0 ready= False set_started= True
+05:12:55    RN-154 review= 'Auto' images= 195 spec= 681 pages= ['erode'] links= '' '' age_h= 102.9 ready= False set_started= True
+05:12:55    RN-166 review= 'Auto' images= 195 spec= 910 pages= ['erode'] links= '' '' age_h= 92.2 ready= False set_started= True
+05:12:55    RN-176 review= 'Auto' images= 195 spec= 684 pages= ['erode'] links= '' '' age_h= 84.9 ready= False set_started= True
+05:12:55    RN-190 review= 'Auto' images= 195 spec= 718 pages= ['erode'] links= '' '' age_h= 64.5 ready= False set_started= True
+05:12:55    RN-195 review= 'Auto' images= 195 spec= 656 pages= ['erode'] links= '' '' age_h= 51.0 ready= False set_started= True
+05:12:55    RN-198 review= 'Auto' images= 195 spec= 659 pages= ['erode'] links= '' '' age_h= 45.1 ready= False set_started= True
+05:12:55    RN-202 review= 'Auto' images= 195 spec= 586 pages= ['erode'] links= '' '' age_h= 45.1 ready= False set_started= True
+05:12:55    RN-209 review= 'Auto' images= 195 spec= 634 pages= ['erode'] links= '' '' age_h= 40.6 ready= False set_started= True
+05:12:55    RN-213 review= 'Auto' images= 98 spec= 711 pages= ['erode'] links= '' '' age_h= 37.6 ready= False set_started= True
+05:12:55    RN-218 review= 'Auto' images= 195 spec= 706 pages= ['erode'] links= '' '' age_h= 32.8 ready= False set_started= True
+05:12:55    RN-219 review= 'Auto' images= 195 spec= 608 pages= ['erode'] links= '' '' age_h= 30.7 ready= False set_started= True
+05:12:55    RN-229 review= 'Auto' images= 195 spec= 710 pages= ['erode'] links= '' '' age_h= 26.8 ready= False set_started= True
+05:12:55    RN-239 review= 'Auto' images= 195 spec= 662 pages= ['erode'] links= '' '' age_h= 20.6 ready= False set_started= True
+05:12:55    RN-244 review= 'Auto' images= 195 spec= 698 pages= ['erode'] links= '' '' age_h= 20.6 ready= False set_started= True
+05:12:55    RN-252 review= 'Auto' images= 195 spec= 727 pages= ['erode'] links= '' '' age_h= 1.1 ready= False set_started= True
+05:12:55    RN-253 review= 'Auto' images= 195 spec= 661 pages= ['erode'] links= '' '' age_h= 1.0 ready= False set_started= True
+05:12:55    RN-254 review= 'Auto' images= 195 spec= 657 pages= ['erode'] links= '' '' age_h= 0.1 ready= True set_started= True
+05:12:55    RN-255 review= 'Auto' images= 195 spec= 657 pages= ['erode'] links= '' '' age_h= 0.1 ready= True set_started= True
+05:12:55    RN-256 review= 'Auto' images= 195 spec= 637 pages= ['erode'] links= '' '' age_h= 0.1 ready= True set_started= True
+05:12:57 publishing quota erode: 28/50
+05:14:57 bridge get 'token' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+05:15:19 instagram duplicate check erode: 50 recent posts read
+05:15:19    RN-255 waits for the 5-minute gap after the last post on ['erode']
+05:15:19    RN-256 waits for the 5-minute gap after the last post on ['erode']
+05:15:19 prebuilding ahead of the set start: ['RN-255', 'RN-256']
