@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-23 | `307f54c` | Reels only: no Instagram or Facebook stories; wait 5 minutes after an error |
+| 2026-11-23 | `15890e6` | stories shared / Instagram pause |
+| 2026-11-23 | `f9ada41` | stories shared / Instagram pause |
+| 2026-11-23 | `0bff920` | stories shared / Instagram pause |
 | 2026-11-23 | `18a4d41` | Posting: next reel about 5 minutes after the last (5-minute gap kept); a temporary Instagram error waits 10 minutes, then posts (no manual e-mail for it) |
 | 2026-11-23 | `a4d5b63` | stories shared / Instagram pause |
 | 2026-11-23 | `c9908cb` | stories shared / Instagram pause |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-23 | `b422287` | stories shared / Instagram pause |
 | 2026-11-23 | `eb6184e` | facebook RN-208 |
 | 2026-11-23 | `47ddfe2` | posted RN-208 |
-| 2026-11-23 | `cf7fd13` | stories shared / Instagram pause |
-| 2026-11-23 | `4fd0496` | facebook RN-196 |
-| 2026-11-23 | `deb1f23` | posted RN-196 |
-| 2026-11-23 | `bb56f44` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
