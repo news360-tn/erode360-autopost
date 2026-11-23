@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-23 | `4540229` | Yesterday's pending news (held only by the daily maximum) is offered again; common place words (நகரம், ரோடு, நிலையம் ...) no longer hold a news; Indian number grouping (29,86,950) is understood |
+| 2026-11-23 | `9720b80` | stories shared / Instagram pause |
+| 2026-11-23 | `f8a5fc4` | stories shared / Instagram pause |
+| 2026-11-23 | `e4cf960` | stories shared / Instagram pause |
+| 2026-11-23 | `133824e` | stories shared / Instagram pause |
+| 2026-11-23 | `c02a05d` | stories shared / Instagram pause |
+| 2026-11-23 | `65e4ebf` | stories shared / Instagram pause |
+| 2026-11-23 | `026d6ba` | stories shared / Instagram pause |
+| 2026-11-23 | `89cdd0d` | stories shared / Instagram pause |
+| 2026-11-23 | `9cd5fa2` | stories shared / Instagram pause |
+| 2026-11-23 | `be98809` | stories shared / Instagram pause |
+| 2026-11-23 | `69beb15` | stories shared / Instagram pause |
+| 2026-11-23 | `42c67ea` | stories shared / Instagram pause |
+| 2026-11-23 | `61e439f` | stories shared / Instagram pause |
+| 2026-11-23 | `e44a1a4` | powercut: notices written |
+| 2026-11-23 | `f69345e` | stories shared / Instagram pause |
+| 2026-11-23 | `eb99973` | stories shared / Instagram pause |
+| 2026-11-23 | `5d6817e` | stories shared / Instagram pause |
+| 2026-11-23 | `00c4d3d` | stories shared / Instagram pause |
+| 2026-11-23 | `3bcb725` | stories shared / Instagram pause |
+| 2026-11-23 | `07afa63` | powercut: notices written |
+| 2026-11-23 | `6250292` | stories shared / Instagram pause |
+| 2026-11-23 | `40fbe70` | stories shared / Instagram pause |
+| 2026-11-23 | `0a1c78a` | stories shared / Instagram pause |
+| 2026-11-23 | `7c95342` | pick: written and posted |
+| 2026-11-23 | `c145c83` | facebook RN-246 |
+| 2026-11-23 | `fe230f4` | posted RN-246 |
+| 2026-11-23 | `8956932` | stories shared / Instagram pause |
 | 2026-11-23 | `0fa9538` | Facebook 15 a day counts today's news only (not the last 24 h, not rasipalan / gold); picking rejects state-wide news; Thiruparankundram is outside |
 | 2026-11-23 | `ffeb07f` | stories shared / Instagram pause |
-| 2026-11-23 | `a529ef6` | pick: picked news saved |
-| 2026-11-23 | `c825c32` | pick: picked news saved |
-| 2026-11-23 | `5d4af9b` | pick: list sent |
-| 2026-11-23 | `7ce2ee9` | stories shared / Instagram pause |
-| 2026-11-23 | `7d6fb91` | stories shared / Instagram pause |
-| 2026-11-23 | `c7c8124` | stories shared / Instagram pause |
-| 2026-11-23 | `ebfdee4` | stories shared / Instagram pause |
-| 2026-11-23 | `4b0d1b4` | District filter: towns of other Tamil Nadu districts (Tiruchendur, Thoothukudi, Kovilpatti ...) are not our news |
-| 2026-11-23 | `1ef7ce6` | stories shared / Instagram pause |
-| 2026-11-23 | `bfe8554` | stories shared / Instagram pause |
-| 2026-11-23 | `f1da138` | stories shared / Instagram pause |
-| 2026-11-23 | `f6c0718` | stories shared / Instagram pause |
-| 2026-11-23 | `606d209` | stories shared / Instagram pause |
-| 2026-11-23 | `a695dfd` | stories shared / Instagram pause |
-| 2026-11-23 | `0aa2d1d` | stories shared / Instagram pause |
-| 2026-11-23 | `44b750f` | stories shared / Instagram pause |
-| 2026-11-23 | `93ecb3f` | stories shared / Instagram pause |
-| 2026-11-23 | `3c3a76b` | pick: written and posted |
-| 2026-11-23 | `ee32062` | facebook RN-233 |
-| 2026-11-23 | `12ea5b3` | posted RN-233 |
-| 2026-11-23 | `ccfcee8` | stories shared / Instagram pause |
-| 2026-11-23 | `feb602d` | facebook RN-245 |
-| 2026-11-23 | `a96faf0` | posted RN-245 |
-| 2026-11-23 | `9c77126` | stories shared / Instagram pause |
-| 2026-11-23 | `d241f38` | facebook RN-240 |
-| 2026-11-23 | `92ab667` | posted RN-240 |
-| 2026-11-23 | `bafb852` | stories shared / Instagram pause |
-| 2026-11-23 | `e824b7f` | facebook RN-241 |
 <!-- recent-changes:end -->
