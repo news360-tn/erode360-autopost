@@ -40,7 +40,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-news/erode-corporation-to-produce-2475-tonnes-of-microbial-fertiliser-this-year/4384257"
    ],
-   "listed_at": "2026-11-23T20:26:28.911571+05:30"
+   "listed_at": "2026-11-23T20:26:28.911571+05:30",
+   "picked_at": "2026-11-23T20:28:39.167178+05:30"
   },
   "C82791ad": {
    "id": "C82791ad",
@@ -52,7 +53,8 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-23T20:26:28.911571+05:30"
+   "listed_at": "2026-11-23T20:26:28.911571+05:30",
+   "picked_at": "2026-11-23T20:28:39.167175+05:30"
   },
   "C9babde3": {
    "id": "C9babde3",
@@ -67,7 +69,8 @@
    "alts": [
     "https://www.dinamalar.com/news/tamil-nadu-news/maintenance-work-at-erode-2-train-service-converted/4384262"
    ],
-   "listed_at": "2026-11-23T20:26:28.911571+05:30"
+   "listed_at": "2026-11-23T20:26:28.911571+05:30",
+   "picked_at": "2026-11-23T20:28:39.167181+05:30"
   }
  },
  "rounds": {
@@ -649,8 +652,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-23T21:26:28.911571+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 3 by insights",
+    "ids": [
+     "C82791ad",
+     "C9fb16bc",
+     "C9babde3"
+    ],
+    "at": "2026-11-23T20:28:39.167165+05:30"
+   },
+   "written": [
+    "C82791ad",
+    "C9babde3",
+    "C9fb16bc"
+   ]
   }
  },
  "retry": {}
