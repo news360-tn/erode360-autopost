@@ -16,7 +16,8 @@
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%88-%E0%AE%A4%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%B5%E0%AE%9A%E0%AE%BE%E0%AE%AF%E0%AE%BF-%E0%AE%89%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81",
     "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%88-%E0%AE%A4%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%9F%E0%AF%81-%E0%AE%89%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B4%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81"
    ],
-   "listed_at": "2026-11-24T04:49:30.071977+05:30"
+   "listed_at": "2026-11-24T04:49:30.071977+05:30",
+   "picked_at": "2026-11-24T04:52:50.492912+05:30"
   },
   "Ccecb6cc": {
    "id": "Ccecb6cc",
@@ -28,7 +29,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-24T04:49:30.071977+05:30"
+   "listed_at": "2026-11-24T04:49:30.071977+05:30",
+   "picked_at": "2026-11-24T04:52:50.492909+05:30"
   },
   "C4a74e85": {
    "id": "C4a74e85",
@@ -40,7 +42,8 @@
    "category": "குற்றம்",
    "score": 12.5,
    "power_cut": false,
-   "listed_at": "2026-11-24T04:49:30.071977+05:30"
+   "listed_at": "2026-11-24T04:49:30.071977+05:30",
+   "picked_at": "2026-11-24T04:52:50.492910+05:30"
   },
   "C79dff40": {
    "id": "C79dff40",
@@ -52,7 +55,8 @@
    "category": "விபத்து",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-24T04:49:30.071977+05:30"
+   "listed_at": "2026-11-24T04:49:30.071977+05:30",
+   "picked_at": "2026-11-24T04:52:50.492920+05:30"
   }
  },
  "rounds": {
@@ -647,8 +651,22 @@
    ],
    "sent": false,
    "deadline": "2026-11-24T05:49:30.071977+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 7 of 4 by insights",
+    "ids": [
+     "Ccecb6cc",
+     "C4a74e85",
+     "C7dbe55d",
+     "C79dff40"
+    ],
+    "at": "2026-11-24T04:52:50.492896+05:30"
+   },
+   "written": [
+    "C4a74e85",
+    "C79dff40",
+    "C7dbe55d",
+    "Ccecb6cc"
+   ]
   }
  },
  "retry": {}
