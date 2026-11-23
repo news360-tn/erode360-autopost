@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-22 | `8ab67e6` | Facebook: one post every 60 minutes, at most 15 a day per page, most important news first; after the 15 the rest goes to the owner's e-mail at once (share from Instagram) |
-| 2026-11-22 | `ea0cee1` | stories shared / Instagram pause |
-| 2026-11-22 | `4b43512` | stories shared / Instagram pause |
-| 2026-11-22 | `32c6bf9` | stories shared / Instagram pause |
-| 2026-11-22 | `5536681` | stories shared / Instagram pause |
-| 2026-11-22 | `aa4a78b` | stories shared / Instagram pause |
-| 2026-11-22 | `1128859` | pick: written and posted |
-| 2026-11-22 | `c48cf23` | pick: picked news saved |
-| 2026-11-22 | `6ba69fa` | stories shared / Instagram pause |
-| 2026-11-22 | `c33b246` | pick: picked news saved |
-| 2026-11-22 | `5e6368f` | pick: list sent |
-| 2026-11-22 | `f99cc66` | Daily plan: 30 of today's published news + yesterday's pending news + urgent news after the 30; news older than yesterday never posted |
-| 2026-11-22 | `a8a8b24` | stories shared / Instagram pause |
-| 2026-11-22 | `61f2838` | stories shared / Instagram pause |
-| 2026-11-22 | `ce4aded` | stories shared / Instagram pause |
-| 2026-11-22 | `e3e0e6b` | stories shared / Instagram pause |
-| 2026-11-22 | `2f55b0f` | stories shared / Instagram pause |
-| 2026-11-22 | `19209f6` | stories shared / Instagram pause |
-| 2026-11-22 | `71cc854` | stories shared / Instagram pause |
-| 2026-11-22 | `08f3f14` | stories shared / Instagram pause |
-| 2026-11-22 | `6434bed` | stories shared / Instagram pause |
-| 2026-11-22 | `39db574` | stories shared / Instagram pause |
-| 2026-11-22 | `e38253e` | stories shared / Instagram pause |
-| 2026-11-22 | `1be1ce3` | stories shared / Instagram pause |
-| 2026-11-22 | `51c30be` | stories shared / Instagram pause |
-| 2026-11-22 | `4fce44e` | stories shared / Instagram pause |
-| 2026-11-22 | `ab98519` | stories shared / Instagram pause |
-| 2026-11-22 | `ca530af` | stories shared / Instagram pause |
-| 2026-11-22 | `7ebc4de` | stories shared / Instagram pause |
-| 2026-11-22 | `3f49d64` | stories shared / Instagram pause |
+| 2026-11-23 | `4b0d1b4` | District filter: towns of other Tamil Nadu districts (Tiruchendur, Thoothukudi, Kovilpatti ...) are not our news |
+| 2026-11-23 | `1ef7ce6` | stories shared / Instagram pause |
+| 2026-11-23 | `bfe8554` | stories shared / Instagram pause |
+| 2026-11-23 | `f1da138` | stories shared / Instagram pause |
+| 2026-11-23 | `f6c0718` | stories shared / Instagram pause |
+| 2026-11-23 | `606d209` | stories shared / Instagram pause |
+| 2026-11-23 | `a695dfd` | stories shared / Instagram pause |
+| 2026-11-23 | `0aa2d1d` | stories shared / Instagram pause |
+| 2026-11-23 | `44b750f` | stories shared / Instagram pause |
+| 2026-11-23 | `93ecb3f` | stories shared / Instagram pause |
+| 2026-11-23 | `3c3a76b` | pick: written and posted |
+| 2026-11-23 | `ee32062` | facebook RN-233 |
+| 2026-11-23 | `12ea5b3` | posted RN-233 |
+| 2026-11-23 | `ccfcee8` | stories shared / Instagram pause |
+| 2026-11-23 | `feb602d` | facebook RN-245 |
+| 2026-11-23 | `a96faf0` | posted RN-245 |
+| 2026-11-23 | `9c77126` | stories shared / Instagram pause |
+| 2026-11-23 | `d241f38` | facebook RN-240 |
+| 2026-11-23 | `92ab667` | posted RN-240 |
+| 2026-11-23 | `bafb852` | stories shared / Instagram pause |
+| 2026-11-23 | `e824b7f` | facebook RN-241 |
+| 2026-11-23 | `26ef215` | posted RN-241 |
+| 2026-11-23 | `f840462` | stories shared / Instagram pause |
+| 2026-11-23 | `fc50208` | facebook RN-243 |
+| 2026-11-23 | `6246179` | posted RN-243 |
+| 2026-11-23 | `d8b2465` | goldrate posted |
+| 2026-11-23 | `c43fdb5` | stories shared / Instagram pause |
+| 2026-11-23 | `0767e67` | facebook RN-237 |
+| 2026-11-23 | `aba010c` | posted RN-237 |
+| 2026-11-23 | `28b6e34` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
