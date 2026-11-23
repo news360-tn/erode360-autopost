@@ -3,251 +3,275 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/let-your-daughter-go-to-the-temple--says-girl-s-mother/4383553",
-  "manual link added: https://pukaarpetti.dailythanthi.com/electricity/news-68781",
-  "manual link added: https://pukaarpetti.dailythanthi.com/sewage/news-68786",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/petition-to-collector-for-release-of-water-for-bhilbawani-punsei-irrigation/4384258",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/erode-corporation-to-produce-2475-tonnes-of-microbial-fertiliser-this-year/4384257",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/maintenance-work-at-erode-2-train-service-converted/4384262",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Erode; time left 79 min",
-  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/sewage/news-68786",
-  "try (N) manual=True: https://pukaarpetti.dailythanthi.com/electricity/news-68781",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/let-your-daug",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "NOT filed (N) ‘மகளை கோவிலில் விடுங்கள்’ செஞ்சி சிறுமியின் தாய் உ: not news: the headline says the details are missing (தகவல் இல்லை)",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 74 min",
-  "filed: 2 Erode district stories (target 3), reels only",
+  "real photo from the source (Dinamalar) for 'Kizhbhavani irrigation farmers petition '",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
+  "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":0,\"updated\":3}"
+  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (58s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (35s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3.6-flash (34s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.5-flash (25s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/openai/gpt-oss-120b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோடு மாணிக்கம்பாளையத்தில் சாக்கடை கால்வாய் சுத்தம் செய்யப்படாததால் கழிவுநீர் தேக்கம்",
-   "english_headline": "Sewage stagnates in Manickampalayam, Erode as drain not cleaned; mosquitoes and disease risk",
-   "category": "Civic Issues",
-   "location": "Manickampalayam, Erode district",
+   "tamil_headline": "ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு: 2 ரயில்களில் நிறுத்தம்",
+   "english_headline": "Erode Railway Station Maintenance: 2 Trains Delayed",
+   "category": "Roads & Transport",
+   "location": "Erode Railway Station, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "சுகாதாரம்",
-    "loc": "மாணிக்கம்பாளையம், ஈரோடு",
-    "hl1": "மாணிக்கம்பாளையத்தில் கழிவுநீர் தேக்கம்",
-    "hl2": "கொசு உற்பத்தி, நோய் அபாயம்",
+    "cat": "ரயில் தகவல்",
+    "loc": "ஈரோடு ரயில் நிலையம்",
+    "hl1": "ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு பணி",
+    "hl2": "2 ரயில்களில் நிறுத்தம்",
     "slides": [
      {
-      "title": "என்ன பிரச்சனை?",
+      "title": "பராமரிப்பு பணி",
       "lines": [
-       "மாணிக்கம்பாளையத்தில் சாக்கடை கால்வாய் சுத்தம்",
-       "வெள்ளிக்கிழமை சந்தை நடக்கும் பகுதியில் கழிவுநீர் தேங்கி",
-       "கடும் துர்நாற்றம் வீசுகிறது"
+       "ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு பணி நடக்கிறது",
+       "இதனால் 2 ரயில்களின் சேவையில் மாற்றம்"
       ]
      },
      {
-      "title": "ஏன் ஆபத்து?",
+      "title": "எர்ணாகுளம் ரயில்",
       "lines": [
-       "கழிவுநீரில் கொசுக்கள் உற்பத்தியாகின்றன",
-       "இதனால் நோய்கள் பரவ வாய்ப்புள்ளது",
-       "மக்கள் பெரிதும் பாதிக்கப்படுகின்றனர்"
+       "எர்ணாகுளம் – டாட்டா நகர் எக்ஸ்பிரஸ் ரயில்",
+       "25, 28, 30ம் தேதிகளில் 30 நிமிடம் நிறுத்தம்"
       ]
      },
      {
-      "title": "அதிகாரிகளுக்கு",
+      "title": "ஆலப்புழா ரயில்",
       "lines": [
-       "கால்வாயை உடனடியாக சுத்தம் செய்ய வேண்டும்",
-       "அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்",
-       "பொதுமக்கள் எச்சரிக்கையாக இருங்கள்"
+       "ஆலப்புழா – தன்பாத் எக்ஸ்பிரஸ் ரயில்",
+       "அதே தேதிகளில் 15 நிமிடம் நிறுத்தம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு மாணிக்கம்பாளையத்தில் சாக்கடை கால்வாயில் கழிவுநீர் தேங்கி நிற்கிறது. வாரந்தோறும் வெள்ளிக்கிழமை சந்தை நடக்கும் பகுதியில் கால்வாய் சுத்தம் செய்யப்படாமல் உள்ளது. இதனால் கழிவுநீர் தேங்கி கடும் துர்நாற்றம் வீசுகிறது. இதன் காரணமாக கொசுக்கள் உற்பத்தியாகி நோய்கள் பரவ வாய்ப்புள்ளது. எனவே கால்வாயை சுத்தம் செய்ய அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்று பொதுமக்கள் எதிர்பார்க்கின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 மாணிக்கம்பாளையத்தில் சாக்கடை கால்வாயில் கழிவுநீர் தேக்கம்: நோய் பரவும் அபாயம்\n\n📰 முழு விவரம்:\nஈரோடு மாணிக்கம்பாளையத்தில் வாரந்தோறும் வெள்ளிக்கிழமை சந்தை நடக்கும் பகுதியில் சாக்கடை கால்வாய் சுத்தம் செய்யப்படாமல் உள்ளது.\nஇதனால் கழிவுநீர் தேங்கி கடும் துர்நாற்றம் வீசுகிறது.\nஇதன் காரணமாக கொசுக்கள் உற்பத்தியாகி நோய்கள் பரவ வாய்ப்புள்ளது.\nஎனவே கால்வாயை சுத்தம் செய்ய அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும்.\n\n📍 இடம்: மாணிக்கம்பாளையம், ஈரோடு மாவட்டம்\n🗓️ நாள்: 22 நவம்பர் 2026\n\nபொதுமக்கள் சுகாதாரத்தில் கவனமாக இருங்கள். பகிருங்கள்!\n\nManickampalayam Erode sewage drain not cleaned | Erode news\n📍 மாணிக்கம்பாளையம், ஈரோடு | 22 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #Manickampalayam",
-   "prompts": "A stretch of open roadside sewage drain in Manickampalayam, Erode, lies choked with dark stagnant sewage, plastic waste and silt, while a few residents walk past holding cloth bags. The setting is a narrow street beside a weekly Friday market, with low-rise shops, small tin-roofed stalls and concrete house walls lining one side and a bare tarmac road on the other. Several vendors in shirts and veshti, and women in sarees with cloth bags, move at a distance, seen from behind and slightly blurred. Thin mosquito swarms hover above the black water, and the drain's concrete edges are cracked and crusted with grime. The scene is shot in daylight under a hazy grey sky, with an overcast, humid feel, from eye level with a 35 mm wide view that shows the full length of the drain and the street. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the open sewage drain in Manickampalayam, Erode, shows dark, stagnant black water thick with silt, plastic bags and food scraps floating on the surface. Mosquitoes hover low over the still water, and the cracked concrete rim of the channel is coated with slimy grime. Blurred vendor stalls and a bare slice of street appear at the edge of the frame, with a few legs and cloth bags of passers-by seen from behind. The light is flat daylight under an overcast sky, and the camera sits low at drain level with a 35 mm lens, slightly tilted so the stagnant water fills most of the frame. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://pukaarpetti.dailythanthi.com/sewage/news-68786",
-   "published": "2026-11-22T21:27:19+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 48 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "reel_script": "ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு பணிக்காக 2 ரயில்கள் நிறுத்தப்படுகின்றன. சேலம் கோட்ட ரயில்வே நிர்வாகம் இந்தத் தகவலை அறிவித்துள்ளது. எர்ணாகுளம் – டாட்டா நகர் எக்ஸ்பிரஸ் ரயில் பாதிக்கப்படுகிறது. நாளை 25ம் தேதி, 28ம் தேதி, 30ம் தேதி இந்த ரயில் 30 நிமிடம் நிறுத்தப்படும். வசதியான இடத்தில் நிறுத்தி பின்னர் இயக்கப்படும். அதே தேதிகளில் ஆலப்புழா – தன்பாத் எக்ஸ்பிரஸ் ரயிலும் பாதிக்கப்படுகிறது. இந்த ரயில் 15 நிமிடம் நிறுத்தப்பட்டு பின்னர் இயக்கப்படும். பயணிகள் இந்த நேரத்தை கவனமாக இருக்க வேண்டும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு: 2 ரயில்களில் நிறுத்தம்\n\n📰 முழு விவரம்:\nஈரோடு ரயில்வே ஸ்டேஷனில் பராமரிப்பு பணி மேற்கொள்ளப்படுவதால், அதன் வழியாக இயக்கப்படும் 2 ரயில்களின் சேவையில் மாற்றம் செய்யப்பட்டுள்ளது. சேலம் கோட்ட ரயில்வே நிர்வாகம் இந்தத் தகவலை அறிவித்துள்ளது. எர்ணாகுளம் – டாட்டா நகர் எக்ஸ்பிரஸ் ரயில் நாளை 25ம் தேதி, 28ம் தேதி, 30ம் தேதி வசதியான இடத்தில் 30 நிமிடம் நிறுத்தப்பட்டு பின்னர் இயக்கப்படும். அதே குறிப்பிட்ட தேதிகளில், ஆலப்புழா – தன்பாத் எக்ஸ்பிரஸ் ரயிலும் 15 நிமிடம் நிறுத்தப்பட்டு பின்னர் இயக்கப்படும்.\n\n📍 இடம்: ஈரோடு ரயில்வே ஸ்டேஷன்\n🗓️ தேதிகள்: 25, 28, 30\n⏱️ நிறுத்தம்: 30 நிமிடம் (எர்ணாகுளம்), 15 நிமிடம் (ஆலப்புழா)\nℹ️ மக்கள் கவனத்திற்கு: பயணிகள் இந்த நேரத்தை கவனமாக இருக்க வேண்டும்.\n\nErode Railway Station maintenance: 2 trains delayed | Erode news\n📍 Erode Railway Station, Erode | 23 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #Railway #ஈரோடு",
+   "prompts": "A long Indian express train stands still beside the platform at Erode Railway Station while railway maintenance workers in uniform check the tracks nearby. The station is an open-air railway platform with overhead canopy sheds, steel rails running into the distance, and a few passengers with suitcases waiting at a safe distance behind a yellow safety line. The train is a long line of blue-and-silver coaches with its engine at the front, stopped at the platform. Two railway workers in orange-yellow reflective vests and helmets stand near the rails with a tool bag, seen from behind. The scene is in daylight with a mild sky and some haze over the city, with trees and rooftops of Erode visible beyond the tracks. Camera at eye level with a slight high angle, 35 mm lens, wide enough to show the platform, the stopped train and the tracks. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of steel railway tracks and wooden sleepers at Erode Railway Station, with a railway maintenance worker's hand holding a spanner and checking a rail fastening bolt. The rails glint in the daylight, gravel ballast lies between the sleepers, and a yellow safety line runs along the edge of the platform in the background. A few passengers stand far back on the platform, slightly blurred. A reflective orange vest sleeve is visible on the worker, and a red signal lamp rests on the ground nearby. The scene is in daylight with the metal of the rail reflecting soft light. Camera at low angle near track level, 35 mm lens, shallow depth of field to focus on the rail and bolt. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/maintenance-work-at-erode-2-train-service-converted/4384262",
+   "published": "2026-11-23T19:05:02+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446031/erode360/mxv4cjtahnvyr338w1oh.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446033/erode360/f0qoafgcnjaox1xw0emz.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோடு மாநகராட்சியில் 2,475 டன் நுண்ணுயிர் உரம் தயாரிப்பு",
+   "english_headline": "Erode Corporation produces 2,475 tonnes of microbial manure this year, given free to farmers",
+   "category": "Government & Services",
+   "location": "Erode Corporation, Erode district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "நுண்ணுயிர் உரம்",
+    "loc": "ஈரோடு மாநகராட்சி",
+    "hl1": "ஈரோடு மாநகராட்சியில் 2,475 டன் உரம்",
+    "hl2": "விவசாயிகளுக்கு இலவசம்",
+    "slides": [
+     {
+      "title": "எவ்வளவு உரம்?",
+      "lines": [
+       "நடப்பாண்டில் <b>2,475 டன்</b> நுண்ணுயிர் உரம் தயாரிப்பு",
+       "விவசாயிகளுக்கு இலவசமாக வழங்கப்பட்டுள்ளது",
+       "அதிகாரிகள் தகவல்"
+      ]
+     },
+     {
+      "title": "குப்பை எப்படி?",
+      "lines": [
+       "<b>60 வார்டுகளில்</b> உள்ள வீடுகள், கடைகளில் குப்பை சேகரிப்பு",
+       "நாளொன்றுக்கு <b>210 டன்</b> குப்பை சேகரமாகிறது",
+       "மக்கும் குப்பை தனியாகப் பிரிக்கப்படுகிறது"
+      ]
+     },
+     {
+      "title": "உரம் தயாரிப்பு",
+      "lines": [
+       "இயந்திரத்தில் தூளாக்கி, <b>42 நாட்கள்</b> பதப்படுத்தப்படுகிறது",
+       "100 சதவீதம் இயற்கை உரம்",
+       "வேளாண் பல்கலைக்கழகத்தில் தர சான்றிதழ்"
+      ]
+     },
+     {
+      "title": "உரம் பெறுவது",
+      "lines": [
+       "ஆதார் கார்டு, உழவர் பாதுகாப்புத் திட்ட அட்டையுடன்",
+       "சுகாதார ஆய்வாளர்களை அணுகலாம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு மாநகராட்சியில் 2,475 டன் நுண்ணுயிர் உரம் தயாரிக்கப்பட்டு விவசாயிகளுக்கு இலவசமாக வழங்கப்பட்டுள்ளது. இது நடப்பாண்டில் தயாரிக்கப்பட்ட அளவு. மாநகராட்சியில் 60 வார்டுகளில் 1.75 லட்சம் வீடுகள் மற்றும் 27 ஆயிரத்துக்கும் மேற்பட்ட வணிக நிறுவனங்கள், கடைகள் உள்ளன. இவற்றில் திடக்கழிவு மேலாண்மை திட்டத்தின் மூலம் குப்பை பெறப்படுகிறது. நாளொன்றுக்கு 210 டன் குப்பை சேகரமாகிறது. அது மக்கும், மக்காத குப்பை என இரண்டாகப் பிரிக்கப்படுகிறது. மக்காத குப்பை மறுசுழற்சி மைய கிடங்குக்கு அனுப்பப்படுகிறது. மக்கும் குப்பை, நுண்ணுயிர் உரம் தயாரிக்கும் மையங்களுக்கு அனுப்பப்படுகிறது. அங்கு இயந்திரத்தில் தூளாக்கி, தொட்டியில் வைத்து 42 நாட்கள் பதப்படுத்தி உரம் தயாரிக்கப்படுகிறது. இது 100 சதவீதம் இயற்கை உரம். வேளாண்மை பல்கலைக்கழகத்தில் தர சான்றிதழும் பெறப்படுகிறது. நாளொன்றுக்கு சராசரியாக 70 முதல் 80 டன் மக்கும் குப்பையில் இருந்து உரம் தயாரிக்கப்படுகிறது. நடப்பாண்டில் இதுவரை சேகரிக்கப்பட்ட 14 ஆயிரம் டன் மக்கும் குப்பையில் இருந்து 2,475 டன் உரம் கிடைத்துள்ளது. உரம் தேவைப்படுவோர் ஆதார் கார்டு, உழவர் பாதுகாப்புத் திட்ட அட்டையுடன் சுகாதார ஆய்வாளர்களை அணுகலாம். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌱 ஈரோடு மாநகராட்சியில் 2,475 டன் நுண்ணுயிர் உரம் – விவசாயிகளுக்கு இலவசம்\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சியில் நடப்பாண்டு 2,475 டன் நுண்ணுயிர் உரம் தயாரிக்கப்பட்டு விவசாயிகளுக்கு இலவசமாக வழங்கப்பட்டுள்ளது.\n60 வார்டுகளில் 1.75 லட்சம் வீடுகள், 27 ஆயிரத்துக்கும் மேற்பட்ட வணிக நிறுவனங்கள், கடைகளில் குப்பை பெறப்படுகிறது. நாளொன்றுக்கு 210 டன் குப்பை சேகரமாகிறது; மக்கும், மக்காத குப்பை என தரம் பிரிக்கப்படுகிறது.\nமக்காத குப்பை மறுசுழற்சி மைய கிடங்குக்கும், மக்கும் குப்பை வைரபாளையம், வெண்டிபாளையம், கருங்கல்பாளையம், முத்துசாமி காலனி, பி.என்.மேடு உள்ளிட்ட நுண்ணுயிர் உரம் தயாரிக்கும் மையங்களுக்கும் அனுப்பப்படுகிறது.\nஇயந்திரத்தில் தூளாக்கி, தொட்டியில் 42 நாட்கள் பதப்படுத்தி தயாரிக்கப்படும் உரம் 100 சதவீதம் இயற்கை உரம். வேளாண்மை பல்கலைக்கழகத்துக்கும் அனுப்பி தர சான்றிதழ் பெறப்படுகிறது.\nநாளொன்றுக்கு சராசரியாக 70 முதல் 80 டன் மக்கும் குப்பையில் இருந்து உரம் தயாரிக்கப்படுகிறது. நடப்பாண்டில் இதுவரை சேகரிக்கப்பட்ட 14 ஆயிரம் டன் மக்கும் குப்பையில் இருந்து 2,475 டன் உரம் வழங்கப்பட்டுள்ளது.\n👉 உரம் தேவைப்படுவோர் ஆதார் கார்டு, உழவர் பாதுகாப்புத் திட்ட அட்டையுடன் சுகாதார ஆய்வாளர்களை அணுகலாம்.\n\nErode Corporation microbial manure 2,475 tonnes free for farmers | Erode news\n📍 ஈரோடு மாநகராட்சி, ஈரோடு மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #விவசாயம்",
+   "prompts": "A corporation sanitary worker in a khaki-green uniform stands beside rows of large concrete compost tanks at a microbial manure production centre in Erode city, while a farmer in a shirt and veshti carries a sack of finished organic manure away from a heap of dark, crumbly manure. The yard sits on the edge of a residential area in Erode, with low tiled and concrete buildings, a corrugated shed, a few neem trees and a stack of plastic sacks. Two sanitary inspectors in shirts and trousers stand near a shredding machine at the far side, and a small tractor trailer is parked by the gate. It is daylight with a clear sky and soft morning sun. The camera is at eye level, shot from slightly behind the farmer, using a 35 mm lens wide enough to show the whole compost yard and the tanks. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a heap of freshly shredded, dark brown microbial manure piled on a concrete floor at a compost centre in Erode city, with a worker's hand in a glove lightly touching the pile and a metal scoop resting beside it. Behind the heap are open concrete tanks with a few plastic sacks of finished organic manure stacked neatly. A corner of a farmer's cloth bag and a shirt sleeve are visible at the edge of the frame, with faces not shown. Daylight, bright and even, with no harsh shadows. The camera is at a low, slightly high angle, using a 35 mm lens to keep the texture of the manure sharp in the foreground and the tanks softly blurred behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/erode-corporation-to-produce-2475-tonnes-of-microbial-fertiliser-this-year/4384257",
+   "published": "2026-11-23T18:58:59+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446061/erode360/f2qgfwhyrntrcwp1rhdg.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446064/erode360/triqolys8vrg09p5fhbi.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கீழ்பவானி புன்செய் பாசனத்துக்கு நீர் விடக்கோரி கலெக்டரிடம் மனு",
+   "english_headline": "Kizhbhavani irrigation farmers petition Erode Collector seeking water for dry-crop irrigation from 15 Dec to 31 Mar",
+   "category": "Weather & Agriculture",
+   "location": "Erode town, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "விவசாயம்",
+    "loc": "ஈரோடு",
+    "hl1": "கீழ்பவானி பாசனத்துக்கு நீர் கோரி மனு",
+    "hl2": "டிச. 15 முதல் மார்ச் 31 வரை",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "விவசாயிகள் கலெக்டர் கந்தசாமியிடம் மனு கொடுத்தனர்",
+       "மனுவை ராமசாமி, பெரியசாமி, பொன்னையன் தலைமையிலான விவசாயிகள்",
+       "தென்மேற்கு பருவமழை பொய்த்ததால் ஆக. 15 அன்று நீர் திறக்க"
+      ]
+     },
+     {
+      "title": "என்ன கோரிக்கை?",
+      "lines": [
+       "<b>டிச. 15</b> முதல் <b>2027 மார்ச் 31</b> வரை புன்செய்",
+       "பிரதான கால்வாயின் இரட்டைப் படை மதகுகளுக்கு நீர் வேண்டும்",
+       "சென்னசமுத்திரம் கால்வாயின் ஒற்றைப்படை மதகுகளுக்கும் நீர்"
+      ]
+     },
+     {
+      "title": "ஏன் முக்கியம்?",
+      "lines": [
+       "வடகிழக்கு பருவமழை நம்பிக்கை அளிக்கும் வகையில் உள்ளது",
+       "சிறப்பு நனைப்புக்கும் நீர் வழங்கினால் விவசாயிகள் பயன்",
+       "பருவமழை பொய்த்ததால் விவசாயிகள் பாதிக்கப்பட்டுள்ளனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு கலெக்டர் கந்தசாமியிடம் கீழ்பவானி பாசன விவசாயிகள் நீர் கேட்டு மனு கொடுத்துள்ளனர். டிசம்பர் 15 முதல் 2027 மார்ச் 31 வரை புன்செய் பாசனத்துக்கு தண்ணீர் வழங்க வேண்டும் என்பது அவர்களின் கோரிக்கை. இந்த மனுவை கீழ்பவானி முறை நீர்ப்பாசன விவசாயிகள் கூட்டமைப்புத் தலைவர் ராமசாமி, கீழ்பவானி ஆயக்கட்டு நில உரிமையாளர்கள் சங்கத் தலைவர் பெரியசாமி, செயலர் பொன்னையன் ஆகியோர் தலைமையிலான விவசாயிகள் வழங்கியுள்ளனர். நடப்பாண்டு தென்மேற்கு பருவமழை பொய்த்ததால் ஆகஸ்ட் 15ஆம் தேதி நன்செய் பாசனத்துக்கு தண்ணீர் திறக்க முடியவில்லை. தற்போது வடகிழக்கு பருவமழை நம்பிக்கை அளிக்கும் வகையில் உள்ளது. அதே காலகட்டத்தில் கீழ்பவானி பிரதான கால்வாயின் இரட்டைப் படை மதகுகளுக்கும், சென்னசமுத்திரம் பகிர்மான கால்வாயின் ஒற்றைப்படை மதகுகளுக்கும் தண்ணீர் விட வேண்டும் என்றும் கோரியுள்ளனர். புன்செய் பாசனத்துக்கும், சிறப்பு நனைப்புக்கும் தண்ணீர் வழங்கினால் விவசாயிகள் பயன் பெறுவர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌾 ஈரோடு: கீழ்பவானி புன்செய் பாசனத்துக்கு நீர் விடக்கோரி கலெக்டரிடம் மனு\n\n📰 முழு விவரம்:\nகீழ்பவானி முறை நீர்ப்பாசன விவசாயிகள் கூட்டமைப்புத் தலைவர் ராமசாமி, கீழ்பவானி ஆயக்கட்டு நில உரிமையாளர்கள் சங்கத் தலைவர் பெரியசாமி, செயலர் பொன்னையன் ஆகியோர் தலைமையிலான விவசாயிகள் ஈரோடு கலெக்டர் கந்தசாமியிடம் மனு வழங்கினர்.\nநடப்பாண்டு தென்மேற்கு பருவமழை பொய்த்ததால், ஆகஸ்ட் 15ஆம் தேதி நன்செய் பாசனத்துக்கு தண்ணீர் திறக்க முடியவில்லை. தற்போது வடகிழக்கு பருவமழை நம்பிக்கை அளிக்கும் வகையில் உள்ளது.\nகீழ்பவானி பாசனப் பகுதி நலனைக் கருத்தில் கொண்டு, டிசம்பர் 15 முதல் 2027 மார்ச் 31 வரை புன்செய் பாசனத்துக்கு தண்ணீர் வழங்க வேண்டும் என்று கோரியுள்ளனர்.\nஅதே காலகட்டத்தில் கீழ்பவானி பிரதான கால்வாயின் இரட்டைப் படை மதகுகளுக்கும், சென்னசமுத்திரம் பகிர்மான கால்வாயின் ஒற்றைப்படை மதகுகளுக்கும் தண்ணீர் விட வேண்டும் என்றும் கோரியுள்ளனர்.\nபருவமழை பொய்த்ததால் விவசாயிகள் பாதிக்கப்பட்டுள்ளனர். புன்செய் பாசனத்துக்கும், சிறப்பு நனைப்புக்கும் தண்ணீர் வழங்கினால் விவசாயிகள் பயன் பெறுவர் என்று மனுவில் தெரிவித்துள்ளனர்.\n\nErode Kizhbhavani farmers petition Collector for dry-crop irrigation water | Erode news\n📍 ஈரோடு | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Erode #விவசாயம் #ErodeNews",
+   "prompts": "A group of Erode farmers, led by a federation leader, hands a petition to the Erode Collector in a government office hall in Erode town. Inside a tiled-floor government hall with plain walls, a wooden table and file cabinets, a dozen farmers in shirts with veshti and women in cotton sarees stand in a line from behind, with a senior officer in a white shirt seated at the desk receiving a bundle of papers. Some farmers hold folded paper petitions and cloth bags. Ceiling fans turn overhead and light comes through tall windows from a cloudy daytime sky. Shot at eye level, 35 mm, wide enough to show the whole hall and the people, all faces turned away or far off. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a rusty steel sluice gate (madagu) on the Kizhbhavani main canal in Erode district, the gate half-raised with muddy water flowing through the concrete channel. Beside it, dry cracked farmland with stubble of a harvested field stretches toward the edge of the frame, and a few fallen dry leaves lie on the concrete edge. A farmer's hand rests on the metal wheel of the gate, seen from behind and out of focus. Overcast northeast-monsoon sky, soft diffused daylight, no readable marks on the gate. Camera at low eye level, 35 mm, slightly shallow focus on the gate. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/petition-to-collector-for-release-of-water-for-bhilbawani-punsei-irrigation/4384258",
+   "published": "2026-11-23T18:59:02+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'ஈரோடு', e.g. 'ஈரோடு: ...' or 'ஈரோடு-இல் ...' - viewers share news of their own area",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795431862/erode360/blf0tro5kwvsztsaaokk.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795431866/erode360/wtbrpiemlqm21bbexzcu.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கருங்கல்பாளையம் மாரியம்மன் கோவில் வீதி: டிரான்ஸ்பார்மரால் நெரிசல் - மாற்றி அமைக்க கோரிக்கை",
-   "english_headline": "Karungalpalayam residents demand relocation of dangerous transformer causing traffic jams near Mariamman Temple",
-   "category": "Civic Issues",
-   "location": "Karungalpalayam, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கோரிக்கை",
-    "loc": "கருங்கல்பாளையம், ஈரோடு",
-    "hl1": "கருங்கல்பாளையத்தில் மின்மாற்றி ஆபத்து",
-    "hl2": "மாற்றி அமைக்கக் கோரிக்கை",
-    "slides": [
-     {
-      "title": "எங்கே உள்ளது?",
-      "lines": [
-       "ஈரோடு மாநகராட்சி <b>40-வது வார்டு</b>",
-       "கருங்கல்பாளையம் பெரிய மாரியம்மன் கோவில் வீதி",
-       "சாலையோரத்தில் அமைந்துள்ள டிரான்ஸ்பார்மர்"
-      ]
-     },
-     {
-      "title": "என்ன பிரச்சனை?",
-      "lines": [
-       "திருவிழா காலங்களில் கடும் <b>போக்குவரத்து நெரிசல்</b>",
-       "சாலையில் பொதுமக்கள் செல்ல சிரமம்",
-       "<b>உயிரிழப்பு</b> ஏற்படும் அபாயம் உள்ளது"
-      ]
-     },
-     {
-      "title": "மக்களின் கோரிக்கை",
-      "lines": [
-       "ஊருக்கு <b>ஒதுக்குப்புறமான இடத்திற்கு</b> மாற்ற வேண்டும்",
-       "அதிகாரிகள் உடனடியாக நடவடிக்கை எடுக்க கோரிக்கை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கருங்கல்பாளையத்தில் டிரான்ஸ்பார்மரால் விபத்து அபாயம் ஏற்பட்டுள்ளது. ஈரோடு மாநகராட்சி 40-வது வார்டுக்குட்பட்ட கருங்கல்பாளையம் பெரிய மாரியம்மன் கோவில் வீதியில் ஒரு டிரான்ஸ்பார்மர் அமைந்துள்ளது. இந்த டிரான்ஸ்பார்மரால் திருவிழா காலங்களில் கடுமையான போக்குவரத்து நெரிசல் ஏற்படுகிறது. இதனால் பகுதியில் உயிரிழப்பு ஏற்படும் அபாயம் உள்ளதாக மக்கள் அச்சப்படுகின்றனர். எனவே ஊருக்கு ஒதுக்குப்புறமான இடத்தில் டிரான்ஸ்பார்மரை மாற்றி அமைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை எழுந்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கருங்கல்பாளையத்தில் டிரான்ஸ்பார்மரால் விபத்து அபாயம்: மாற்றி அமைக்க மக்கள் கோரிக்கை\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சி 40-வது வார்டுக்குட்பட்ட கருங்கல்பாளையம் பெரிய மாரியம்மன் கோவில் வீதியில் டிரான்ஸ்பார்மர் அமைந்துள்ளது. இந்த டிரான்ஸ்பார்மரால் திருவிழா காலங்களில் கடுமையான போக்குவரத்து நெரிசல் ஏற்படுகிறது. இதனால் அப்பகுதியில் உயிரிழப்பு ஏற்படும் அபாயம் நிலவுகிறது. அசம்பாவிதம் எதுவும் நடக்கும் முன், ஊருக்கு ஒதுக்குப்புறமான இடத்தில் டிரான்ஸ்பார்மரை மாற்றி அமைக்க அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: பெரிய மாரியம்மன் கோவில் வீதி, 40-வது வார்டு, கருங்கல்பாளையம், ஈரோடு\n⚠️ பிரச்சனை: திருவிழா நேரத்தில் போக்குவரத்து நெரிசல் & விபத்து அபாயம்\n📢 கோரிக்கை: டிரான்ஸ்பார்மரை ஒதுக்குப்புறமான இடத்திற்கு மாற்ற வேண்டும்\n\nஉள்ளூர் தகவல்களுக்கு Share செய்யுங்கள்.\n\nKarungalpalayam Erode transformer relocation request | Erode news\n📍 கருங்கல்பாளையம், ஈரோடு | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Karungalpalayam #CivicIssues #ஈரோடு",
-   "prompts": "Local residents of Karungalpalayam stand together on a narrow street near the Periya Mariamman temple in Erode, looking at a TNEB transformer mounted on a tall concrete pole that rises close to the road edge. Seen from behind at a distance, a group of men in shirts and veshti and women in sarees and salwar gather on the pavement, some pointing toward the transformer. The street is crowded with two-wheelers, an autorickshaw and a private car stopped bumper to bumper, showing the traffic jam caused by the transformer during the festival period. Tall temple gopuram in the background with colourful painted sculptures, and low concrete houses with tiled roofs lining the street. Daylight, clear sky. Camera at eye level, 35 mm lens, wide enough to show the street, temple tower and the transformer together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a TNEB transformer mounted on a concrete pole at the edge of a narrow temple street in Karungalpalayam, Erode. The metal transformer body, with its bushings and cables, sits just above the roadside where crowded two-wheelers and a parked autorickshaw squeeze past. A few devotees carrying flower garlands walk along the pavement in the background, seen from behind. A cracked concrete wall and a bundle of overhead wires run alongside the pole. Daylight, slightly high camera angle, 35 mm lens, focused on the transformer with the cramped street and traffic visible behind it. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://pukaarpetti.dailythanthi.com/electricity/news-68781",
-   "published": "2026-11-22T21:21:03+05:30",
-   "verification": "DRAFT (gemini/gemini-3.5-flash) - NOT CLEAN, held from posting - problems: reel_script has 54 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft gemini/gemini-3.5-flash, 3 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795431919/erode360/lq2u50djx7igy5jm7w2y.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795431923/erode360/sg0d4l1njtejmsmvymzc.jpg"
-   ]
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446114/erode360/slduyibbsizblgrsmoy9.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446116/erode360/jmsseuc8awjhazthjhw6.jpg"
+   ],
+   "real_photo": "Dinamalar"
   }
  ]
 }
