@@ -24,7 +24,8 @@
    "score": 10.0,
    "power_cut": false,
    "listed_at": "2026-11-22T22:28:34.307494+05:30",
-   "picked_at": "2026-11-23T16:29:44.480385+05:30"
+   "picked_at": "2026-11-23T16:29:44.480385+05:30",
+   "refused": "not filed: not news: the headline says the details are missing (தகவல் இல்லை)"
   },
   "C4d7a130": {
    "id": "C4d7a130",
@@ -37,7 +38,8 @@
    "score": 9.0,
    "power_cut": false,
    "listed_at": "2026-11-22T22:28:34.307494+05:30",
-   "picked_at": "2026-11-23T16:29:44.480386+05:30"
+   "picked_at": "2026-11-23T16:29:44.480386+05:30",
+   "posted": true
   },
   "C9791cea": {
    "id": "C9791cea",
@@ -50,7 +52,8 @@
    "score": 9.0,
    "power_cut": false,
    "listed_at": "2026-11-22T22:28:34.307494+05:30",
-   "picked_at": "2026-11-23T16:29:44.480393+05:30"
+   "picked_at": "2026-11-23T16:29:44.480393+05:30",
+   "posted": true
   },
   "Cd8b61d7": {
    "id": "Cd8b61d7",
@@ -677,7 +680,10 @@
     "C25d6d30",
     "C4d7a130",
     "C9791cea"
-   ]
+   ],
+   "refused": {
+    "C25d6d30": "not filed: not news: the headline says the details are missing (தகவல் இல்லை)"
+   }
   }
  },
  "retry": {}
