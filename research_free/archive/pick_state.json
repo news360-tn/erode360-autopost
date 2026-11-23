@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-23T12:30:06.484278+05:30",
+ "last_end": "2026-11-23T16:27:38.661073+05:30",
  "pool": {
   "C77908db": {
    "id": "C77908db",
@@ -23,9 +23,7 @@
    "category": "பொது",
    "score": 10.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T22:28:34.307494+05:30",
-   "picked_at": "2026-11-22T22:30:56.442672+05:30",
-   "refused": "not written: the day's maximum of 30 news was reached"
+   "listed_at": "2026-11-22T22:28:34.307494+05:30"
   },
   "C4d7a130": {
    "id": "C4d7a130",
@@ -37,9 +35,7 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T22:28:34.307494+05:30",
-   "picked_at": "2026-11-22T22:30:56.442674+05:30",
-   "refused": "not written: the day's maximum of 30 news was reached"
+   "listed_at": "2026-11-22T22:28:34.307494+05:30"
   },
   "C9791cea": {
    "id": "C9791cea",
@@ -51,9 +47,7 @@
    "category": "பொது",
    "score": 9.0,
    "power_cut": false,
-   "listed_at": "2026-11-22T22:28:34.307494+05:30",
-   "picked_at": "2026-11-22T22:30:56.442676+05:30",
-   "refused": "not written: the day's maximum of 30 news was reached"
+   "listed_at": "2026-11-22T22:28:34.307494+05:30"
   },
   "Cd8b61d7": {
    "id": "Cd8b61d7",
@@ -80,50 +74,9 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-23T02:17:45.243538+05:30"
-  },
-  "C3d485f1": {
-   "id": "C3d485f1",
-   "url": "https://www.maalaimalar.com/news/tamilnadu/engineer-marries-japanese-woman-according-to-tamil-tradition",
-   "title": "சென்னிமலையில் தமிழ் முறைப்படி ஜப்பான் பெண்ணை கரம்பிடித்த பொறியாளர்",
-   "summary": "விழாவில் மணமகள், மணமகன் குடும்பத்தினர், இரு நாட்டு உறவினர்கள் மற்றும் நண்பர்கள் திரளாகக் கலந்து கொண்டு மணமக்களை மனதார வாழ்த்தினர்..ஈரோடு மாவட்டம் சென்னிமலை டவுன் பஞ்சாயத்து 11 வது வார்டு கவுன்சிலர் சுப்பிரமணி.",
-   "source": "மாலைமலர்",
-   "published": "2026-11-23T05:37:36Z",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-23T12:30:06.484278+05:30",
-   "picked_at": "2026-11-23T12:34:25.594472+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-21_04": {
-   "window": [
-    "2026-11-21T02:19:41.228248+05:30",
-    "2026-11-21T04:26:52.751661+05:30"
-   ],
-   "ids": [
-    "C57a78b9",
-    "Cbd7793f",
-    "C0345866"
-   ],
-   "sent": false,
-   "deadline": "2026-11-21T05:26:52.751661+05:30",
-   "decided": {
-    "how": "automatic: top 7 of 3 by insights",
-    "ids": [
-     "C57a78b9",
-     "Cbd7793f",
-     "C0345866"
-    ],
-    "at": "2026-11-21T04:35:16.660979+05:30"
-   },
-   "written": [
-    "C0345866",
-    "C57a78b9",
-    "Cbd7793f"
-   ]
-  },
   "2026-11-21_08": {
    "window": [
     "2026-11-21T04:26:52.751661+05:30",
@@ -693,22 +646,24 @@
    "written": [
     "C3d485f1"
    ]
+  },
+  "2026-11-23_16": {
+   "window": [
+    "2026-11-23T12:30:06.484278+05:30",
+    "2026-11-23T16:27:38.661073+05:30"
+   ],
+   "ids": [
+    "C7b05e9a",
+    "C25d6d30",
+    "C4d7a130",
+    "C9791cea",
+    "C77908db"
+   ],
+   "sent": false,
+   "deadline": "2026-11-23T17:27:38.661073+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {
-  "https://www.dinakaran.com/news/skill-development-training-tribecommunities/amp": {
-   "it": {
-    "key": "CBMioAFBVV95cUxOX29oUFkxQ3phbjlsSDFYVEVHMEM2NVEyR1VEMlZ3d1RxdldCRWZPMTZDd2hfQmJLTHZIWGdHb2JuNm1KYlMzQVpJcjdEdEJPSGkxb1o5N3RaMkhKbkd3dXU5WmRsSjlmbGU0bGdhaURCWkFMQ3A2c0lYcGFkZ0xCU0J4Vi1FNjdiSlJ0Qy1wcGpQVmtjVlNhenZHT2NQRHJS0gGgAUFVX3lxTE5fb2hQWTFDemFuOWxIMVhURUcwQzY1UTJHVUQyVnd3VHF2V0JFZk8xNkN3aF9CYktMdkhYZ0dvYm42bUpiUzNBWklyN0R0Qk9IaTFvWjk3dFoySEpuR3d1dTlaZGxKOWZsZTRsZ2FpREJaQUxDcDZzSVhwYWRnTEJTQnhWLUU2N2JKUnRDLXBwalBWa2NWU2F6dkdPY1BEclI",
-    "url": "https://www.dinakaran.com/news/skill-development-training-tribecommunities/amp",
-    "title": "ஆதிதிராவிடர், பழங்குடியின இளைஞர்களுக்கு இலவச திறன் மேம்பாட்டு பயிற்சி; கலெக்டர் தகவல்",
-    "site": "https://www.dinakaran.com",
-    "source": "Dinakaran",
-    "published": "2026-11-23T09:08:01+05:30",
-    "via": "google",
-    "query": "ஈரோடு site:dinakaran.com",
-    "snippet": " ஆதிதிராவிடர், பழங்குடியின இளைஞர்களுக்கு இலவச திறன் மேம்பாட்டு பயிற்சி; கலெக்டர் தகவல்    Dinakaran "
-   },
-   "first": "2026-11-23T12:30:06.484278+05:30"
-  }
- }
+ "retry": {}
 }
