@@ -83,6 +83,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-23 | `3cc0182` | District filter: Tindivanam, Gingee, Chidambaram, Neyveli and nearby towns are other-district news |
+| 2026-11-23 | `415350b` | stories shared / Instagram pause |
+| 2026-11-23 | `2cefff9` | stories shared / Instagram pause |
+| 2026-11-23 | `ae0320c` | pick: written and posted |
+| 2026-11-23 | `895d2b3` | pick: picked news saved |
+| 2026-11-23 | `5401f52` | pick: list sent |
+| 2026-11-23 | `250a62d` | pick: written and posted |
+| 2026-11-23 | `5078acf` | facebook RN-248 |
+| 2026-11-23 | `17d97fe` | posted RN-248 |
 | 2026-11-23 | `cc6ccf3` | YouTube: daily cap 30 (uploads have their own 100-a-day allowance) |
 | 2026-11-23 | `58dbe7e` | stories shared / Instagram pause |
 | 2026-11-23 | `aa970e9` | goldrate posted |
@@ -104,13 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-23 | `9720b80` | stories shared / Instagram pause |
 | 2026-11-23 | `f8a5fc4` | stories shared / Instagram pause |
 | 2026-11-23 | `e4cf960` | stories shared / Instagram pause |
-| 2026-11-23 | `133824e` | stories shared / Instagram pause |
-| 2026-11-23 | `c02a05d` | stories shared / Instagram pause |
-| 2026-11-23 | `65e4ebf` | stories shared / Instagram pause |
-| 2026-11-23 | `026d6ba` | stories shared / Instagram pause |
-| 2026-11-23 | `89cdd0d` | stories shared / Instagram pause |
-| 2026-11-23 | `9cd5fa2` | stories shared / Instagram pause |
-| 2026-11-23 | `be98809` | stories shared / Instagram pause |
-| 2026-11-23 | `69beb15` | stories shared / Instagram pause |
-| 2026-11-23 | `42c67ea` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
