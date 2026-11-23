@@ -8,3 +8,14 @@
 03:50:13    2. [பொது] ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை (தினமணி)
 03:50:13 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
 ROUND=2026-11-24_03
+03:50:16 round 2026-11-24_03 (at least 3, up to 3 more of well-watched topics): 2 news to choose from (0 from earlier rounds), ranked by this page's insights
+03:50:16   PICK   1.   4.9 [temple -0.28 page] தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸாா் மீது தாக
+03:50:16   PICK   2.   4.0 [other +0.00 pattern] ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை
+03:50:16 decided: automatic: top 3 of 2 by insights -> 2 news to write and post
+PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/தாளவாடி-அருகே-கோயில்-வளாகத்தில்-சூதாட்டம்-போலீஸாா்-மீது-தாக்குதல் https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/பாராகுவாட்-டைகுளோரைடு-களைக்கொல்லி-பயன்பாட்டுக்குத்-தடை
+bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+04:16:01 2 listed news now in the Sheet
+bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
+04:18:21 verify 2026-11-24_03: 0 of 2 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
+04:18:21    SKIPPED C692708b: skipped RN-253: held: fact-check problems - fact-check: The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives onl - தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸாா் மீது தாக
+04:18:21    SKIPPED Ca47789f: skipped RN-252: held: location is only the district - the town from the article is missing - ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை

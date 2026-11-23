@@ -3,275 +3,205 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/petition-to-collector-for-release-of-water-for-bhilbawani-punsei-irrigation/4384258",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/erode-corporation-to-produce-2475-tonnes-of-microbial-fertiliser-this-year/4384257",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/maintenance-work-at-erode-2-train-service-converted/4384262",
-  "candidate filter: collected=3",
-  "to write: 3 Erode district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/தாளவாடி-அருகே-கோயில்-வளாகத்தில்-சூதாட்டம்-போலீஸாா்-மீது-தாக்குதல்",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/பாராகுவாட்-டைகுளோரைடு-களைக்கொல்லி-பயன்பாட்டுக்குத்-தடை",
+  "candidate filter: collected=2",
+  "to write: 2 Erode district candidates (max 2 stories)",
+  "round: top 2 of 2 candidates",
+  "candidates waiting: 2 Erode; time left 70 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "real photo from the source (Dinamalar) for 'Kizhbhavani irrigation farmers petition '",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
-  "filed: 3 Erode district stories (target 3), reels only",
+  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 64 min",
+  "filed: 2 Erode district stories (target 2), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (17s)",
+  "ok gemini/gemini-3.6-flash (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "ok gemini/gemini-3-flash-preview (45s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு: 2 ரயில்களில் நிறுத்தம்",
-   "english_headline": "Erode Railway Station Maintenance: 2 Trains Delayed",
-   "category": "Roads & Transport",
-   "location": "Erode Railway Station, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரயில் தகவல்",
-    "loc": "ஈரோடு ரயில் நிலையம்",
-    "hl1": "ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு பணி",
-    "hl2": "2 ரயில்களில் நிறுத்தம்",
-    "slides": [
-     {
-      "title": "பராமரிப்பு பணி",
-      "lines": [
-       "ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு பணி நடக்கிறது",
-       "இதனால் 2 ரயில்களின் சேவையில் மாற்றம்"
-      ]
-     },
-     {
-      "title": "எர்ணாகுளம் ரயில்",
-      "lines": [
-       "எர்ணாகுளம் – டாட்டா நகர் எக்ஸ்பிரஸ் ரயில்",
-       "25, 28, 30ம் தேதிகளில் 30 நிமிடம் நிறுத்தம்"
-      ]
-     },
-     {
-      "title": "ஆலப்புழா ரயில்",
-      "lines": [
-       "ஆலப்புழா – தன்பாத் எக்ஸ்பிரஸ் ரயில்",
-       "அதே தேதிகளில் 15 நிமிடம் நிறுத்தம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு பணிக்காக 2 ரயில்கள் நிறுத்தப்படுகின்றன. சேலம் கோட்ட ரயில்வே நிர்வாகம் இந்தத் தகவலை அறிவித்துள்ளது. எர்ணாகுளம் – டாட்டா நகர் எக்ஸ்பிரஸ் ரயில் பாதிக்கப்படுகிறது. நாளை 25ம் தேதி, 28ம் தேதி, 30ம் தேதி இந்த ரயில் 30 நிமிடம் நிறுத்தப்படும். வசதியான இடத்தில் நிறுத்தி பின்னர் இயக்கப்படும். அதே தேதிகளில் ஆலப்புழா – தன்பாத் எக்ஸ்பிரஸ் ரயிலும் பாதிக்கப்படுகிறது. இந்த ரயில் 15 நிமிடம் நிறுத்தப்பட்டு பின்னர் இயக்கப்படும். பயணிகள் இந்த நேரத்தை கவனமாக இருக்க வேண்டும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 ஈரோடு ரயில் நிலையத்தில் பராமரிப்பு: 2 ரயில்களில் நிறுத்தம்\n\n📰 முழு விவரம்:\nஈரோடு ரயில்வே ஸ்டேஷனில் பராமரிப்பு பணி மேற்கொள்ளப்படுவதால், அதன் வழியாக இயக்கப்படும் 2 ரயில்களின் சேவையில் மாற்றம் செய்யப்பட்டுள்ளது. சேலம் கோட்ட ரயில்வே நிர்வாகம் இந்தத் தகவலை அறிவித்துள்ளது. எர்ணாகுளம் – டாட்டா நகர் எக்ஸ்பிரஸ் ரயில் நாளை 25ம் தேதி, 28ம் தேதி, 30ம் தேதி வசதியான இடத்தில் 30 நிமிடம் நிறுத்தப்பட்டு பின்னர் இயக்கப்படும். அதே குறிப்பிட்ட தேதிகளில், ஆலப்புழா – தன்பாத் எக்ஸ்பிரஸ் ரயிலும் 15 நிமிடம் நிறுத்தப்பட்டு பின்னர் இயக்கப்படும்.\n\n📍 இடம்: ஈரோடு ரயில்வே ஸ்டேஷன்\n🗓️ தேதிகள்: 25, 28, 30\n⏱️ நிறுத்தம்: 30 நிமிடம் (எர்ணாகுளம்), 15 நிமிடம் (ஆலப்புழா)\nℹ️ மக்கள் கவனத்திற்கு: பயணிகள் இந்த நேரத்தை கவனமாக இருக்க வேண்டும்.\n\nErode Railway Station maintenance: 2 trains delayed | Erode news\n📍 Erode Railway Station, Erode | 23 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #Railway #ஈரோடு",
-   "prompts": "A long Indian express train stands still beside the platform at Erode Railway Station while railway maintenance workers in uniform check the tracks nearby. The station is an open-air railway platform with overhead canopy sheds, steel rails running into the distance, and a few passengers with suitcases waiting at a safe distance behind a yellow safety line. The train is a long line of blue-and-silver coaches with its engine at the front, stopped at the platform. Two railway workers in orange-yellow reflective vests and helmets stand near the rails with a tool bag, seen from behind. The scene is in daylight with a mild sky and some haze over the city, with trees and rooftops of Erode visible beyond the tracks. Camera at eye level with a slight high angle, 35 mm lens, wide enough to show the platform, the stopped train and the tracks. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of steel railway tracks and wooden sleepers at Erode Railway Station, with a railway maintenance worker's hand holding a spanner and checking a rail fastening bolt. The rails glint in the daylight, gravel ballast lies between the sleepers, and a yellow safety line runs along the edge of the platform in the background. A few passengers stand far back on the platform, slightly blurred. A reflective orange vest sleeve is visible on the worker, and a red signal lamp rests on the ground nearby. The scene is in daylight with the metal of the rail reflecting soft light. Camera at low angle near track level, 35 mm lens, shallow depth of field to focus on the rail and bolt. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/maintenance-work-at-erode-2-train-service-converted/4384262",
-   "published": "2026-11-23T19:05:02+05:30",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446031/erode360/mxv4cjtahnvyr338w1oh.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446033/erode360/f0qoafgcnjaox1xw0emz.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு மாநகராட்சியில் 2,475 டன் நுண்ணுயிர் உரம் தயாரிப்பு",
-   "english_headline": "Erode Corporation produces 2,475 tonnes of microbial manure this year, given free to farmers",
-   "category": "Government & Services",
-   "location": "Erode Corporation, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "நுண்ணுயிர் உரம்",
-    "loc": "ஈரோடு மாநகராட்சி",
-    "hl1": "ஈரோடு மாநகராட்சியில் 2,475 டன் உரம்",
-    "hl2": "விவசாயிகளுக்கு இலவசம்",
-    "slides": [
-     {
-      "title": "எவ்வளவு உரம்?",
-      "lines": [
-       "நடப்பாண்டில் <b>2,475 டன்</b> நுண்ணுயிர் உரம் தயாரிப்பு",
-       "விவசாயிகளுக்கு இலவசமாக வழங்கப்பட்டுள்ளது",
-       "அதிகாரிகள் தகவல்"
-      ]
-     },
-     {
-      "title": "குப்பை எப்படி?",
-      "lines": [
-       "<b>60 வார்டுகளில்</b> உள்ள வீடுகள், கடைகளில் குப்பை சேகரிப்பு",
-       "நாளொன்றுக்கு <b>210 டன்</b> குப்பை சேகரமாகிறது",
-       "மக்கும் குப்பை தனியாகப் பிரிக்கப்படுகிறது"
-      ]
-     },
-     {
-      "title": "உரம் தயாரிப்பு",
-      "lines": [
-       "இயந்திரத்தில் தூளாக்கி, <b>42 நாட்கள்</b> பதப்படுத்தப்படுகிறது",
-       "100 சதவீதம் இயற்கை உரம்",
-       "வேளாண் பல்கலைக்கழகத்தில் தர சான்றிதழ்"
-      ]
-     },
-     {
-      "title": "உரம் பெறுவது",
-      "lines": [
-       "ஆதார் கார்டு, உழவர் பாதுகாப்புத் திட்ட அட்டையுடன்",
-       "சுகாதார ஆய்வாளர்களை அணுகலாம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாநகராட்சியில் 2,475 டன் நுண்ணுயிர் உரம் தயாரிக்கப்பட்டு விவசாயிகளுக்கு இலவசமாக வழங்கப்பட்டுள்ளது. இது நடப்பாண்டில் தயாரிக்கப்பட்ட அளவு. மாநகராட்சியில் 60 வார்டுகளில் 1.75 லட்சம் வீடுகள் மற்றும் 27 ஆயிரத்துக்கும் மேற்பட்ட வணிக நிறுவனங்கள், கடைகள் உள்ளன. இவற்றில் திடக்கழிவு மேலாண்மை திட்டத்தின் மூலம் குப்பை பெறப்படுகிறது. நாளொன்றுக்கு 210 டன் குப்பை சேகரமாகிறது. அது மக்கும், மக்காத குப்பை என இரண்டாகப் பிரிக்கப்படுகிறது. மக்காத குப்பை மறுசுழற்சி மைய கிடங்குக்கு அனுப்பப்படுகிறது. மக்கும் குப்பை, நுண்ணுயிர் உரம் தயாரிக்கும் மையங்களுக்கு அனுப்பப்படுகிறது. அங்கு இயந்திரத்தில் தூளாக்கி, தொட்டியில் வைத்து 42 நாட்கள் பதப்படுத்தி உரம் தயாரிக்கப்படுகிறது. இது 100 சதவீதம் இயற்கை உரம். வேளாண்மை பல்கலைக்கழகத்தில் தர சான்றிதழும் பெறப்படுகிறது. நாளொன்றுக்கு சராசரியாக 70 முதல் 80 டன் மக்கும் குப்பையில் இருந்து உரம் தயாரிக்கப்படுகிறது. நடப்பாண்டில் இதுவரை சேகரிக்கப்பட்ட 14 ஆயிரம் டன் மக்கும் குப்பையில் இருந்து 2,475 டன் உரம் கிடைத்துள்ளது. உரம் தேவைப்படுவோர் ஆதார் கார்டு, உழவர் பாதுகாப்புத் திட்ட அட்டையுடன் சுகாதார ஆய்வாளர்களை அணுகலாம். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌱 ஈரோடு மாநகராட்சியில் 2,475 டன் நுண்ணுயிர் உரம் – விவசாயிகளுக்கு இலவசம்\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சியில் நடப்பாண்டு 2,475 டன் நுண்ணுயிர் உரம் தயாரிக்கப்பட்டு விவசாயிகளுக்கு இலவசமாக வழங்கப்பட்டுள்ளது.\n60 வார்டுகளில் 1.75 லட்சம் வீடுகள், 27 ஆயிரத்துக்கும் மேற்பட்ட வணிக நிறுவனங்கள், கடைகளில் குப்பை பெறப்படுகிறது. நாளொன்றுக்கு 210 டன் குப்பை சேகரமாகிறது; மக்கும், மக்காத குப்பை என தரம் பிரிக்கப்படுகிறது.\nமக்காத குப்பை மறுசுழற்சி மைய கிடங்குக்கும், மக்கும் குப்பை வைரபாளையம், வெண்டிபாளையம், கருங்கல்பாளையம், முத்துசாமி காலனி, பி.என்.மேடு உள்ளிட்ட நுண்ணுயிர் உரம் தயாரிக்கும் மையங்களுக்கும் அனுப்பப்படுகிறது.\nஇயந்திரத்தில் தூளாக்கி, தொட்டியில் 42 நாட்கள் பதப்படுத்தி தயாரிக்கப்படும் உரம் 100 சதவீதம் இயற்கை உரம். வேளாண்மை பல்கலைக்கழகத்துக்கும் அனுப்பி தர சான்றிதழ் பெறப்படுகிறது.\nநாளொன்றுக்கு சராசரியாக 70 முதல் 80 டன் மக்கும் குப்பையில் இருந்து உரம் தயாரிக்கப்படுகிறது. நடப்பாண்டில் இதுவரை சேகரிக்கப்பட்ட 14 ஆயிரம் டன் மக்கும் குப்பையில் இருந்து 2,475 டன் உரம் வழங்கப்பட்டுள்ளது.\n👉 உரம் தேவைப்படுவோர் ஆதார் கார்டு, உழவர் பாதுகாப்புத் திட்ட அட்டையுடன் சுகாதார ஆய்வாளர்களை அணுகலாம்.\n\nErode Corporation microbial manure 2,475 tonnes free for farmers | Erode news\n📍 ஈரோடு மாநகராட்சி, ஈரோடு மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #விவசாயம்",
-   "prompts": "A corporation sanitary worker in a khaki-green uniform stands beside rows of large concrete compost tanks at a microbial manure production centre in Erode city, while a farmer in a shirt and veshti carries a sack of finished organic manure away from a heap of dark, crumbly manure. The yard sits on the edge of a residential area in Erode, with low tiled and concrete buildings, a corrugated shed, a few neem trees and a stack of plastic sacks. Two sanitary inspectors in shirts and trousers stand near a shredding machine at the far side, and a small tractor trailer is parked by the gate. It is daylight with a clear sky and soft morning sun. The camera is at eye level, shot from slightly behind the farmer, using a 35 mm lens wide enough to show the whole compost yard and the tanks. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a heap of freshly shredded, dark brown microbial manure piled on a concrete floor at a compost centre in Erode city, with a worker's hand in a glove lightly touching the pile and a metal scoop resting beside it. Behind the heap are open concrete tanks with a few plastic sacks of finished organic manure stacked neatly. A corner of a farmer's cloth bag and a shirt sleeve are visible at the edge of the frame, with faces not shown. Daylight, bright and even, with no harsh shadows. The camera is at a low, slightly high angle, using a 35 mm lens to keep the texture of the manure sharp in the foreground and the tanks softly blurred behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/erode-corporation-to-produce-2475-tonnes-of-microbial-fertiliser-this-year/4384257",
-   "published": "2026-11-23T18:58:59+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446061/erode360/f2qgfwhyrntrcwp1rhdg.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446064/erode360/triqolys8vrg09p5fhbi.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கீழ்பவானி புன்செய் பாசனத்துக்கு நீர் விடக்கோரி கலெக்டரிடம் மனு",
-   "english_headline": "Kizhbhavani irrigation farmers petition Erode Collector seeking water for dry-crop irrigation from 15 Dec to 31 Mar",
+   "tamil_headline": "ஈரோடு: பாராகுவாட் களைக்கொல்லிக்கு தடை; விற்பனைக்கு நடவடிக்கை",
+   "english_headline": "Paraquat dichloride weedkiller banned in India; Erode agriculture department warns of action on stock or sale",
    "category": "Weather & Agriculture",
-   "location": "Erode town, Erode district",
+   "location": "Erode district",
    "importance": "High",
    "scope": "",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விவசாயம்",
-    "loc": "ஈரோடு",
-    "hl1": "கீழ்பவானி பாசனத்துக்கு நீர் கோரி மனு",
-    "hl2": "டிச. 15 முதல் மார்ச் 31 வரை",
+    "cat": "வேளாண்மை எச்சரிக்கை",
+    "loc": "ஈரோடு மாவட்டம்",
+    "hl1": "பாராகுவாட் களைக்கொல்லிக்கு தடை",
+    "hl2": "இருப்பு, விற்பனைக்கு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "தடை ஏன்?",
       "lines": [
-       "விவசாயிகள் கலெக்டர் கந்தசாமியிடம் மனு கொடுத்தனர்",
-       "மனுவை ராமசாமி, பெரியசாமி, பொன்னையன் தலைமையிலான விவசாயிகள்",
-       "தென்மேற்கு பருவமழை பொய்த்ததால் ஆக. 15 அன்று நீர் திறக்க"
+       "மத்திய அரசு பாராகுவாட் டைகுளோரைடு களைக்கொல்லியை தடை",
+       "உயிர் ஆபத்து, அதிக உயிரிழப்பு, மாற்று மருந்து இல்லாததே",
+       "தடை உத்தரவு <b>22 செப்டம்பர்</b> அன்று வெளியானது"
       ]
      },
      {
-      "title": "என்ன கோரிக்கை?",
+      "title": "பாதிப்புகள்",
       "lines": [
-       "<b>டிச. 15</b> முதல் <b>2027 மார்ச் 31</b> வரை புன்செய்",
-       "பிரதான கால்வாயின் இரட்டைப் படை மதகுகளுக்கு நீர் வேண்டும்",
-       "சென்னசமுத்திரம் கால்வாயின் ஒற்றைப்படை மதகுகளுக்கும் நீர்"
+       "நுரையீரல், சிறுநீரகம், கல்லீரல் பாதிப்பு ஏற்படலாம்",
+       "இதயப் பாதிப்பும் பார்கின்சன் நோய் தொடர்பான பாதிப்புகளும்",
+       "பதிவுச் சான்றிதழ்கள் ரத்து செய்யப்பட்டுள்ளன"
       ]
      },
      {
-      "title": "ஏன் முக்கியம்?",
+      "title": "எச்சரிக்கை",
       "lines": [
-       "வடகிழக்கு பருவமழை நம்பிக்கை அளிக்கும் வகையில் உள்ளது",
-       "சிறப்பு நனைப்புக்கும் நீர் வழங்கினால் விவசாயிகள் பயன்",
-       "பருவமழை பொய்த்ததால் விவசாயிகள் பாதிக்கப்பட்டுள்ளனர்"
+       "இருப்பு அல்லது விற்பனை கண்டறியப்பட்டால் நடவடிக்கை",
+       "நிறுவனங்கள், விற்பனையாளர்கள் மீது நடவடிக்கை எடுக்கப்படும்",
+       "வேளாண்மைத் துறை எச்சரிக்கை விடுத்துள்ளது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு கலெக்டர் கந்தசாமியிடம் கீழ்பவானி பாசன விவசாயிகள் நீர் கேட்டு மனு கொடுத்துள்ளனர். டிசம்பர் 15 முதல் 2027 மார்ச் 31 வரை புன்செய் பாசனத்துக்கு தண்ணீர் வழங்க வேண்டும் என்பது அவர்களின் கோரிக்கை. இந்த மனுவை கீழ்பவானி முறை நீர்ப்பாசன விவசாயிகள் கூட்டமைப்புத் தலைவர் ராமசாமி, கீழ்பவானி ஆயக்கட்டு நில உரிமையாளர்கள் சங்கத் தலைவர் பெரியசாமி, செயலர் பொன்னையன் ஆகியோர் தலைமையிலான விவசாயிகள் வழங்கியுள்ளனர். நடப்பாண்டு தென்மேற்கு பருவமழை பொய்த்ததால் ஆகஸ்ட் 15ஆம் தேதி நன்செய் பாசனத்துக்கு தண்ணீர் திறக்க முடியவில்லை. தற்போது வடகிழக்கு பருவமழை நம்பிக்கை அளிக்கும் வகையில் உள்ளது. அதே காலகட்டத்தில் கீழ்பவானி பிரதான கால்வாயின் இரட்டைப் படை மதகுகளுக்கும், சென்னசமுத்திரம் பகிர்மான கால்வாயின் ஒற்றைப்படை மதகுகளுக்கும் தண்ணீர் விட வேண்டும் என்றும் கோரியுள்ளனர். புன்செய் பாசனத்துக்கும், சிறப்பு நனைப்புக்கும் தண்ணீர் வழங்கினால் விவசாயிகள் பயன் பெறுவர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 ஈரோடு: கீழ்பவானி புன்செய் பாசனத்துக்கு நீர் விடக்கோரி கலெக்டரிடம் மனு\n\n📰 முழு விவரம்:\nகீழ்பவானி முறை நீர்ப்பாசன விவசாயிகள் கூட்டமைப்புத் தலைவர் ராமசாமி, கீழ்பவானி ஆயக்கட்டு நில உரிமையாளர்கள் சங்கத் தலைவர் பெரியசாமி, செயலர் பொன்னையன் ஆகியோர் தலைமையிலான விவசாயிகள் ஈரோடு கலெக்டர் கந்தசாமியிடம் மனு வழங்கினர்.\nநடப்பாண்டு தென்மேற்கு பருவமழை பொய்த்ததால், ஆகஸ்ட் 15ஆம் தேதி நன்செய் பாசனத்துக்கு தண்ணீர் திறக்க முடியவில்லை. தற்போது வடகிழக்கு பருவமழை நம்பிக்கை அளிக்கும் வகையில் உள்ளது.\nகீழ்பவானி பாசனப் பகுதி நலனைக் கருத்தில் கொண்டு, டிசம்பர் 15 முதல் 2027 மார்ச் 31 வரை புன்செய் பாசனத்துக்கு தண்ணீர் வழங்க வேண்டும் என்று கோரியுள்ளனர்.\nஅதே காலகட்டத்தில் கீழ்பவானி பிரதான கால்வாயின் இரட்டைப் படை மதகுகளுக்கும், சென்னசமுத்திரம் பகிர்மான கால்வாயின் ஒற்றைப்படை மதகுகளுக்கும் தண்ணீர் விட வேண்டும் என்றும் கோரியுள்ளனர்.\nபருவமழை பொய்த்ததால் விவசாயிகள் பாதிக்கப்பட்டுள்ளனர். புன்செய் பாசனத்துக்கும், சிறப்பு நனைப்புக்கும் தண்ணீர் வழங்கினால் விவசாயிகள் பயன் பெறுவர் என்று மனுவில் தெரிவித்துள்ளனர்.\n\nErode Kizhbhavani farmers petition Collector for dry-crop irrigation water | Erode news\n📍 ஈரோடு | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Erode #விவசாயம் #ErodeNews",
-   "prompts": "A group of Erode farmers, led by a federation leader, hands a petition to the Erode Collector in a government office hall in Erode town. Inside a tiled-floor government hall with plain walls, a wooden table and file cabinets, a dozen farmers in shirts with veshti and women in cotton sarees stand in a line from behind, with a senior officer in a white shirt seated at the desk receiving a bundle of papers. Some farmers hold folded paper petitions and cloth bags. Ceiling fans turn overhead and light comes through tall windows from a cloudy daytime sky. Shot at eye level, 35 mm, wide enough to show the whole hall and the people, all faces turned away or far off. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a rusty steel sluice gate (madagu) on the Kizhbhavani main canal in Erode district, the gate half-raised with muddy water flowing through the concrete channel. Beside it, dry cracked farmland with stubble of a harvested field stretches toward the edge of the frame, and a few fallen dry leaves lie on the concrete edge. A farmer's hand rests on the metal wheel of the gate, seen from behind and out of focus. Overcast northeast-monsoon sky, soft diffused daylight, no readable marks on the gate. Camera at low eye level, 35 mm, slightly shallow focus on the gate. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/petition-to-collector-for-release-of-water-for-bhilbawani-punsei-irrigation/4384258",
-   "published": "2026-11-23T18:59:02+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'ஈரோடு', e.g. 'ஈரோடு: ...' or 'ஈரோடு-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "விவசாயிகளுக்கு முக்கிய எச்சரிக்கை. பாராகுவாட் டைகுளோரைடு களைக்கொல்லியை மத்திய அரசு தடை செய்துள்ளது. வேளாண்மை மற்றும் உழவர் நல அமைச்சகம் செப்டம்பர் 22ஆம் தேதி இதற்கான உத்தரவை வெளியிட்டது. பூச்சிக்கொல்லிகள் சட்டம் 1968இன்கீழ், நிபுணர்குழு மற்றும் பதிவுக் குழுவின் ஆலோசனைகளுக்குப் பிறகு இந்த நடவடிக்கை மேற்கொள்ளப்பட்டது. மனிதர்கள் மற்றும் விலங்குகளின் உயிருக்கு கடுமையான ஆபத்து ஏற்படுவதும், அதிக உயிரிழப்புகள் ஏற்படுவதும் தடைக்கான முக்கிய காரணங்கள். இதற்கு தனிப்பட்ட மாற்று மருந்து இல்லை. இதற்கு முன்பு வழங்கப்பட்ட பதிவுச் சான்றிதழ்கள் ரத்து செய்யப்பட்டுள்ளன. இந்தக் களைக்கொல்லியை உட்கொண்டாலோ, சுவாசித்தாலோ, தோல் வழியாகத் தொடர்பு கொண்டாலோ நச்சுத்தன்மை ஏற்படலாம். நுரையீரல், சிறுநீரகம், கல்லீரல், இதய பாதிப்புகள் ஏற்படக்கூடும். பார்கின்சன் நோய் தொடர்பான பாதிப்புகளும் ஏற்படலாம் எனக் கூறப்படுகிறது. பணியிட வெளிப்பாடு, தற்செயலான நச்சுத்தன்மை, தற்கொலை முயற்சி மற்றும் அனுமதிக்கப்பட்ட பயிர்கள் அல்லாத இடங்களில் தவறாகப் பயன்படுத்துதல் ஆகியவற்றின் அதிகரிக்கும் கவலைகள் காரணமாக இம்முடிவு எடுக்கப்பட்டது. தடை செய்யப்பட்ட களைக்கொல்லியின் இருப்பு அல்லது விற்பனை கண்டறியப்பட்டால், சம்பந்தப்பட்ட நிறுவனங்கள் மற்றும் விற்பனையாளர்கள் மீது நடவடிக்கை எடுக்கப்படும் என வேளாண்மைத் துறை எச்சரிக்கை விடுத்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚫 பாராகுவாட் களைக்கொல்லிக்கு தடை: இருப்பு, விற்பனை இருந்தால் நடவடிக்கை\n\n📰 முழு விவரம்:\nபாராகுவாட் டைகுளோரைடு களைக்கொல்லியை மத்திய அரசு தடை செய்துள்ளது. வேளாண்மை மற்றும் உழவர் நல அமைச்சகம் செப்டம்பர் 22ஆம் தேதி உத்தரவை வெளியிட்டது. பூச்சிக்கொல்லிகள் சட்டம் 1968இன்கீழ், நிபுணர்குழு, பதிவுக் குழுவின் ஆலோசனைகளுக்குப் பிறகு இந்த நடவடிக்கை எடுக்கப்பட்டது.\n☠️ மனிதர்கள், விலங்குகளின் உயிருக்கு கடுமையான ஆபத்து; அதிக உயிரிழப்புகள்; தனிப்பட்ட மாற்று மருந்து இல்லை.\n📄 இதற்கு முன் வழங்கப்பட்ட பதிவுச் சான்றிதழ்கள் ரத்து செய்யப்பட்டுள்ளன.\n⚠️ தடை செய்யப்பட்ட களைக்கொல்லியின் இருப்பு அல்லது விற்பனை கண்டறியப்பட்டால், சம்பந்தப்பட்ட நிறுவனங்கள், விற்பனையாளர்கள் மீது நடவடிக்கை.\n🩺 நுரையீரல், சிறுநீரகம், கல்லீரல், இதய பாதிப்புகள் ஏற்படலாம்; பார்கின்சன் தொடர்பான பாதிப்புகளும் ஏற்படலாம்.\n\nPARAQUAT weedkiller banned India | Erode farmers alert\n📍 ஈரோடு மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #விவசாயம் #ஈரோடு",
+   "prompts": "A district agriculture officer and a farmer stand in a paddy field in Erode district, inspecting the crop as the officer holds a notepad, while sugarcane and paddy fields stretch toward the Bhavani-side hills in the distance. The farmer wears a shirt and veshti, the officer wears trousers and a shirt, both seen from slightly behind and far off. Behind them a row of weeds grows between the rows of paddy, and the tall green crop catches soft morning daylight. The scene conveys the official check on farm weedkiller use in the district. Camera at eye level, 35 mm, wide enough to show the flat fields and distant hills. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a rows of plain, unlabelled weedkiller bottles and sealed drums stacked on the shelves of an agricultural input shop's stock godown, with a few loose bottles set on a wooden table in front. Dim daylight from a doorway falls across the containers, and a pair of hands in a farmer's sleeve rests near them, seen from the side. The shelves show no readable text, logos or labels. The detail suggests the stock being checked for banned paraquat. Camera slightly high, 35 mm, close enough to show the bottles clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/பாராகுவாட்-டைகுளோரைடு-களைக்கொல்லி-பயன்பாட்டுக்குத்-தடை",
+   "published": "2026-11-23T20:36:39.970Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446114/erode360/slduyibbsizblgrsmoy9.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795446116/erode360/jmsseuc8awjhazthjhw6.jpg"
-   ],
-   "real_photo": "Dinamalar"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795473587/erode360/tsbqpujdybc5iapxshnb.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795473590/erode360/ie2olr64xvhelpz1eefx.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸார் மீது தாக்குதல்",
+   "english_headline": "Gambling at temple premises near Talavadi; attack on police, probe underway",
+   "category": "Crime & Safety",
+   "location": "Kongalli temple premises near Talavadi, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "குற்றச் செய்தி",
+    "loc": "தாளவாடி",
+    "hl1": "தாளவாடி அருகே போலீஸார் மீது தாக்குதல்",
+    "hl2": "கோயில் வளாகத்தில் சூதாட்டம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கொங்கள்ளி கோயில் வளாகத்தில் சூதாட்டம்",
+       "ரகசியத் தகவலின் பேரில் போலீஸார் சென்றனர்",
+       "சூதாட்டத்தில் ஈடுபட்ட இளைஞர்களை எச்சரித்தனர்"
+      ]
+     },
+     {
+      "title": "தாக்குதல்",
+      "lines": [
+       "தாளவாடி காவல் ஆய்வாளர் வாசு உள்பட <b>3 போலீஸார்</b> தாக்கப்பட்டனர்",
+       "தாக்கிவிட்டு இளைஞர்கள் தப்பியோடினர்",
+       "காயமடைந்த போலீஸாரை மக்கள் மீட்டனர்"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "தாளவாடி போலீஸார் வழக்குப் பதிவு செய்தனர்",
+       "தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடகா சென்றுள்ளனர்",
+       "விசாரணை நடைபெற்று வருகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டத்தை எச்சரித்த போலீஸார் மீது தாக்குதல் நடந்துள்ளது. ஈரோடு மாவட்டம், தாளவாடி அருகேயுள்ள கொங்கள்ளி கோயில் வளாகத்தில் சூதாட்டம் நடைபெறுவதாக திங்கட்கிழமை போலீஸாருக்கு ரகசியத் தகவல் கிடைத்தது. அதையடுத்து, போலீஸார் சம்பவ இடத்துக்குச் சென்றனர். அங்கு சூதாட்டத்தில் ஈடுபட்டிருந்த கர்நாடக மாநில இளைஞர்களை போலீஸார் எச்சரித்ததாகக் கூறப்படுகிறது. அப்போது, அந்த இளைஞர்கள் தாளவாடி காவல் ஆய்வாளர் வாசு உள்பட 3 போலீஸாரைத் தாக்கிவிட்டுத் தப்பியோடினர். காயமடைந்த போலீஸாரை அங்கிருந்த மக்கள் மீட்டு, தாளவாடி அரசு மருத்துவமனைக்கு அனுப்பிவைத்தனர். இச்சம்பவம் குறித்து தாளவாடி போலீஸார் வழக்குப் பதிவு செய்துள்ளனர். தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடக மாநிலத்துக்கு போலீஸார் சென்றுள்ளனர். சம்பவம் குறித்து விசாரணை நடைபெற்று வருகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸார் மீது தாக்குதல்\n\n📰 முழு விவரம்:\nதாளவாடி அருகேயுள்ள கொங்கள்ளி கோயில் வளாகத்தில் சூதாட்டம் நடைபெறுவதாக திங்கட்கிழமை போலீஸாருக்கு ரகசியத் தகவல் கிடைத்தது. சம்பவ இடத்துக்குச் சென்ற போலீஸார், சூதாட்டத்தில் ஈடுபட்டிருந்த கர்நாடக மாநில இளைஞர்களை எச்சரித்ததாகக் கூறப்படுகிறது. அப்போது, தாளவாடி காவல் ஆய்வாளர் வாசு உள்பட 3 போலீஸாரை இளைஞர்கள் தாக்கிவிட்டுத் தப்பியோடினர். காயமடைந்த போலீஸாரை அங்கிருந்த மக்கள் மீட்டு தாளவாடி அரசு மருத்துவமனைக்கு அனுப்பிவைத்தனர். இச்சம்பவம் குறித்து தாளவாடி போலீஸார் வழக்குப் பதிவு செய்துள்ளனர். தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடக மாநிலத்துக்குச் சென்றுள்ளனர். சம்பவம் குறித்து விசாரணை நடைபெற்று வருகிறது.\n\n📍 இடம்: கொங்கள்ளி கோயில் வளாகம், தாளவாடி அருகே, ஈரோடு மாவட்டம்\n🗓️ நாள்: திங்கட்கிழமை (நவம்பர் 23, 2026)\n👮 நடவடிக்கை: தாளவாடி போலீஸார் வழக்குப் பதிவு; தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடகா சென்றுள்ளனர்\n\nTalavadi police attacked at temple gambling spot | Erode news\n📍 தாளவாடி, ஈரோடு மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Talavadi #ErodeNews #ஈரோடு",
+   "prompts": "Tamil Nadu police in khaki uniform stand at the entrance of a village temple compound in Kongalli near Talavadi, Erode district, while a few young men in shirts and trousers, seen from behind and far away, scatter and run away across the open temple courtyard. The compound has a small temple with a low gopuram and a neem tree, a parked Tamil Nadu police jeep at the gate, and a dusty mud road beyond, with forest-covered hills of the Karnataka border in the background. Daylight, late morning, slightly hazy sky. Eye-level camera, 35 mm, wide enough to show the temple, the police jeep and the hills together, no visible faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cloth mat spread on the bare ground of a temple courtyard near Talavadi, with playing cards lying face-up and a scattering of coins and folded currency notes, some rolled back under a stone, as a khaki-uniformed police boot stands at the edge of the frame. Dust and dry leaves surround the mat, a small temple wall and a corner of a concrete pillar in the background. Daylight, soft natural light, eye-level camera, 50 mm macro-style detail shot, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/தாளவாடி-அருகே-கோயில்-வளாகத்தில்-சூதாட்டம்-போலீஸாா்-மீது-தாக்குதல்",
+   "published": "2026-11-23T18:33:14.747Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives only 'திங்கள்கிழமை' with no date; this date is not supported by the article.; fact-check: The caption's 'நடவடிக்கை' line says the police went to Karnataka to search for the attackers; the article says this, so it is fine, but the caption's 'Talavadi police attacked at temple gambling spot' English line is an unrequested extra and is not a Tamil claim, so no issue there, only the date above is a problem.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795473631/erode360/ioqdmdahx2xvgx53m3br.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795473635/erode360/zloatdcqtcd2rx1s9sdb.jpg"
+   ]
   }
  ]
 }
