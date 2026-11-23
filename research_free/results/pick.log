@@ -1,21 +1,13 @@
-03:48:53 round 2026-11-24_03: news published 24 Nov 00:02 -> 24 Nov 03:48 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி - Erode)
-03:48:53 insights 2026-11-24T03:48+05:30 (214 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.71, 'education': -0.5, 'temple': -0.28, 'politics': -0.12, 'power_cut': 0.48, 'poultry_agri': -0.5}; best openings ['🚨 அந்தியூரில் 877 கிலோ தடை புகையிலைப் பொருள்கள் பறிமுதல்: மூவர் கைது', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
-03:49:26 open search 'ஈரோடு' (from_google): 1 links from our outlets
-03:49:26 50 links on the two papers' Erode pages
-03:50:13 skipped: already posted=21, published before this window=11, not Erode district=7, state-wide / other district=4, same event already posted=3
-03:50:13 list: 2 new + 0 earlier news not posted yet
-03:50:13    1. [குற்றம்] தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸாா் மீது தாக்குதல் (தினமணி)
-03:50:13    2. [பொது] ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை (தினமணி)
-03:50:13 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-24_03
-03:50:16 round 2026-11-24_03 (at least 3, up to 3 more of well-watched topics): 2 news to choose from (0 from earlier rounds), ranked by this page's insights
-03:50:16   PICK   1.   4.9 [temple -0.28 page] தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸாா் மீது தாக
-03:50:16   PICK   2.   4.0 [other +0.00 pattern] ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை
-03:50:16 decided: automatic: top 3 of 2 by insights -> 2 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/தாளவாடி-அருகே-கோயில்-வளாகத்தில்-சூதாட்டம்-போலீஸாா்-மீது-தாக்குதல் https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/பாராகுவாட்-டைகுளோரைடு-களைக்கொல்லி-பயன்பாட்டுக்குத்-தடை
-bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-04:16:01 2 listed news now in the Sheet
-bridge 'queue' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-04:18:21 verify 2026-11-24_03: 0 of 2 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-04:18:21    SKIPPED C692708b: skipped RN-253: held: fact-check problems - fact-check: The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives onl - தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸாா் மீது தாக
-04:18:21    SKIPPED Ca47789f: skipped RN-252: held: location is only the district - the town from the article is missing - ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை
+04:49:30 round 2026-11-24_04: news published 24 Nov 03:48 -> 24 Nov 04:49 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி - Erode)
+04:49:30 insights 2026-11-24T04:49+05:30 (214 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.71, 'education': -0.5, 'temple': -0.28, 'politics': -0.12, 'power_cut': 0.48, 'poultry_agri': -0.5}; best openings ['🚨 அந்தியூரில் 877 கிலோ தடை புகையிலைப் பொருள்கள் பறிமுதல்: மூவர் கைது', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
+bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
+04:52:12 open search 'ஈரோடு' (from_google): 2 links from our outlets
+04:52:12 47 links on the two papers' Erode pages
+04:52:48 skipped: already posted=15, published before this window=11, not Erode district=5, state-wide / other district=4, same event already posted=3
+04:52:48 list: 4 new + 0 earlier news not posted yet
+04:52:48    1. [குற்றம்] சிறுத்தை தாக்கியதில் ஆடு உயிரிழப்பு (தினமணி)
+04:52:48    2. [குற்றம்] சிறுவனின் கழுத்தில் கத்தியை வைத்து மிரட்டி 5 பவுன் கொள்ளை: இளைஞா் கைது (தினமணி)
+04:52:48    3. [குற்றம்] 11 கிலோ கஞ்சா பறிமுதல்: இருவா் கைது (தினமணி)
+04:52:48    4. [விபத்து] 2 இருசக்கர வாகனங்கள் மோதல்: 6 போ் படுகாயம் (தினமணி)
+04:52:48 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-24_04
