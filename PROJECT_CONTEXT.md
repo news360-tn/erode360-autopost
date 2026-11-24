@@ -83,6 +83,20 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `04474d5` | Auto-fix held news (rewrite from the article, check again, post); Cloudinary fallbacks: pictures kept in the repo, reels direct then repo link; rasipalan and gold the same |
+| 2026-11-24 | `900a4bf` | facebook RN-269 |
+| 2026-11-24 | `525d5d1` | posted RN-269 |
+| 2026-11-24 | `d2b8b1b` | facebook RN-264 |
+| 2026-11-24 | `14c266a` | posted RN-264 |
+| 2026-11-24 | `148aede` | stories shared / Instagram pause |
+| 2026-11-24 | `de557d1` | pick: picked news saved |
+| 2026-11-24 | `6559bc4` | stories shared / Instagram pause |
+| 2026-11-24 | `483b8aa` | stories shared / Instagram pause |
+| 2026-11-24 | `2407130` | pick: picked news saved |
+| 2026-11-24 | `21c0553` | pick: list sent |
+| 2026-11-24 | `43ee40b` | stories shared / Instagram pause |
+| 2026-11-24 | `75e7ebd` | pick: written and posted |
+| 2026-11-24 | `931765d` | stories shared / Instagram pause |
 | 2026-11-24 | `e6d94af` | E-mail for every posted news again (posted_email each) |
 | 2026-11-24 | `22ba1ed` | facebook RN-257 |
 | 2026-11-24 | `2a747d0` | posted RN-257 |
@@ -99,18 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `5c3d12e` | stories shared / Instagram pause |
 | 2026-11-24 | `d958e79` | stories shared / Instagram pause |
 | 2026-11-24 | `cf6dbc2` | stories shared / Instagram pause |
-| 2026-11-24 | `6720c48` | stories shared / Instagram pause |
-| 2026-11-24 | `eae8908` | stories shared / Instagram pause |
-| 2026-11-24 | `a07684f` | stories shared / Instagram pause |
-| 2026-11-23 | `f7c4034` | stories shared / Instagram pause |
-| 2026-11-23 | `3f4343f` | stories shared / Instagram pause |
-| 2026-11-23 | `814671a` | stories shared / Instagram pause |
-| 2026-11-23 | `9a2e8d8` | pick: picked news saved |
-| 2026-11-23 | `1f48fe0` | pick: list sent |
-| 2026-11-23 | `66ef45e` | stories shared / Instagram pause |
-| 2026-11-23 | `5f1b3b6` | pick: written and posted |
-| 2026-11-23 | `d4a8bdf` | pick: picked news saved |
-| 2026-11-23 | `fc549e1` | stories shared / Instagram pause |
-| 2026-11-23 | `033af15` | pick: picked news saved |
-| 2026-11-23 | `21ee7ea` | pick: list sent |
 <!-- recent-changes:end -->
