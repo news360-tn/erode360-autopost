@@ -12,7 +12,8 @@
    "score": 8.5,
    "power_cut": false,
    "listed_at": "2026-11-25T02:24:08.522448+05:30",
-   "picked_at": "2026-11-25T02:25:40.691935+05:30"
+   "picked_at": "2026-11-25T02:25:40.691935+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C518f121": {
    "id": "C518f121",
@@ -25,7 +26,8 @@
    "score": 7.0,
    "power_cut": false,
    "listed_at": "2026-11-25T02:24:08.522448+05:30",
-   "picked_at": "2026-11-25T02:25:40.691927+05:30"
+   "picked_at": "2026-11-25T02:25:40.691927+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C1a39488": {
    "id": "C1a39488",
@@ -38,7 +40,8 @@
    "score": 6.5,
    "power_cut": false,
    "listed_at": "2026-11-25T02:24:08.522448+05:30",
-   "picked_at": "2026-11-25T02:25:40.691938+05:30"
+   "picked_at": "2026-11-25T02:25:40.691938+05:30",
+   "posted": true
   },
   "Cbcad9fd": {
    "id": "Cbcad9fd",
@@ -51,7 +54,8 @@
    "score": 6.0,
    "power_cut": false,
    "listed_at": "2026-11-25T02:24:08.522448+05:30",
-   "picked_at": "2026-11-25T02:25:40.691937+05:30"
+   "picked_at": "2026-11-25T02:25:40.691937+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "C4f73b8c": {
    "id": "C4f73b8c",
@@ -64,7 +68,8 @@
    "score": 4.0,
    "power_cut": false,
    "listed_at": "2026-11-25T02:24:08.522448+05:30",
-   "picked_at": "2026-11-25T02:25:40.691940+05:30"
+   "picked_at": "2026-11-25T02:25:40.691940+05:30",
+   "posted": true
   },
   "C49faa51": {
    "id": "C49faa51",
@@ -77,7 +82,8 @@
    "score": 3.0,
    "power_cut": false,
    "listed_at": "2026-11-25T02:24:08.522448+05:30",
-   "picked_at": "2026-11-25T02:25:40.691941+05:30"
+   "picked_at": "2026-11-25T02:25:40.691941+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -565,7 +571,12 @@
     "C518f121",
     "C6415808",
     "Cbcad9fd"
-   ]
+   ],
+   "refused": {
+    "Cbcad9fd": "not filed: all free models failed: no usable answer from the models",
+    "C6415808": "not filed: all free models failed: no usable answer from the models",
+    "C518f121": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {
