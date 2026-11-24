@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `2a191b6` | A death-toll update (மேலும் ஒருவர் உயிரிழப்பு / எண்ணிக்கை உயர்வு) is new news, not a duplicate of the first report |
+| 2026-11-24 | `c694450` | pick: written and posted |
+| 2026-11-24 | `1ffb88b` | goldrate posted |
+| 2026-11-24 | `463fa3d` | stories shared / Instagram pause |
 | 2026-11-24 | `8bb0e1c` | Auto-fix: busy AI writers do not use up a news's tries; each page runs at its own minutes; try counts reset |
 | 2026-11-24 | `057eb62` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
 | 2026-11-24 | `8e59ecb` | facebook RN-267 |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `43ee40b` | stories shared / Instagram pause |
 | 2026-11-24 | `75e7ebd` | pick: written and posted |
 | 2026-11-24 | `931765d` | stories shared / Instagram pause |
-| 2026-11-24 | `e6d94af` | E-mail for every posted news again (posted_email each) |
-| 2026-11-24 | `22ba1ed` | facebook RN-257 |
-| 2026-11-24 | `2a747d0` | posted RN-257 |
-| 2026-11-24 | `34274ed` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
