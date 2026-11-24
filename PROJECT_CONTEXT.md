@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-23 | `4428ee8` | District check before every post (picked news too), neighbour-district towns, Facebook 5-minute gap, more Tamil news outlets + one open district search per round |
-| 2026-11-23 | `075d668` | stories shared / Instagram pause |
-| 2026-11-23 | `de82715` | facebook RN-251 |
-| 2026-11-23 | `4a2b1d8` | posted RN-251 |
-| 2026-11-23 | `1c7d240` | stories shared / Instagram pause |
-| 2026-11-23 | `d55202e` | pick: picked news saved |
-| 2026-11-23 | `9ff4d22` | pick: picked news saved |
-| 2026-11-23 | `c037aae` | pick: list sent |
-| 2026-11-23 | `9bab8bb` | stories shared / Instagram pause |
-| 2026-11-23 | `4efb8c1` | stories shared / Instagram pause |
-| 2026-11-23 | `2905e7c` | stories shared / Instagram pause |
-| 2026-11-23 | `ccafdae` | stories shared / Instagram pause |
-| 2026-11-23 | `46c3c0e` | stories shared / Instagram pause |
-| 2026-11-23 | `2a2056e` | stories shared / Instagram pause |
-| 2026-11-23 | `087af65` | stories shared / Instagram pause |
-| 2026-11-23 | `a99b423` | stories shared / Instagram pause |
-| 2026-11-23 | `146fede` | stories shared / Instagram pause |
-| 2026-11-23 | `299d775` | stories shared / Instagram pause |
-| 2026-11-23 | `5a4f581` | stories shared / Instagram pause |
-| 2026-11-23 | `465a42e` | stories shared / Instagram pause |
-| 2026-11-23 | `9ed021f` | stories shared / Instagram pause |
-| 2026-11-23 | `34b8b75` | stories shared / Instagram pause |
-| 2026-11-23 | `9d09906` | stories shared / Instagram pause |
-| 2026-11-23 | `f336e48` | stories shared / Instagram pause |
-| 2026-11-23 | `b156b86` | stories shared / Instagram pause |
-| 2026-11-23 | `f7691d2` | stories shared / Instagram pause |
-| 2026-11-23 | `307f54c` | Reels only: no Instagram or Facebook stories; wait 5 minutes after an error |
-| 2026-11-23 | `15890e6` | stories shared / Instagram pause |
-| 2026-11-23 | `f9ada41` | stories shared / Instagram pause |
-| 2026-11-23 | `0bff920` | stories shared / Instagram pause |
+| 2026-11-24 | `ef9213a` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
+| 2026-11-24 | `8c85765` | stories shared / Instagram pause |
+| 2026-11-24 | `f2b02a4` | rasipalan posted |
+| 2026-11-24 | `764a234` | facebook RN-256 |
+| 2026-11-24 | `9641083` | posted RN-256 |
+| 2026-11-24 | `9f49965` | stories shared / Instagram pause |
+| 2026-11-24 | `96c156f` | facebook RN-254 |
+| 2026-11-24 | `47c50c5` | posted RN-254 |
+| 2026-11-24 | `a3aa11a` | stories shared / Instagram pause |
+| 2026-11-24 | `5c3d12e` | stories shared / Instagram pause |
+| 2026-11-24 | `d958e79` | stories shared / Instagram pause |
+| 2026-11-24 | `cf6dbc2` | stories shared / Instagram pause |
+| 2026-11-24 | `6720c48` | stories shared / Instagram pause |
+| 2026-11-24 | `eae8908` | stories shared / Instagram pause |
+| 2026-11-24 | `a07684f` | stories shared / Instagram pause |
+| 2026-11-23 | `f7c4034` | stories shared / Instagram pause |
+| 2026-11-23 | `3f4343f` | stories shared / Instagram pause |
+| 2026-11-23 | `814671a` | stories shared / Instagram pause |
+| 2026-11-23 | `9a2e8d8` | pick: picked news saved |
+| 2026-11-23 | `1f48fe0` | pick: list sent |
+| 2026-11-23 | `66ef45e` | stories shared / Instagram pause |
+| 2026-11-23 | `5f1b3b6` | pick: written and posted |
+| 2026-11-23 | `d4a8bdf` | pick: picked news saved |
+| 2026-11-23 | `fc549e1` | stories shared / Instagram pause |
+| 2026-11-23 | `033af15` | pick: picked news saved |
+| 2026-11-23 | `21ee7ea` | pick: list sent |
+| 2026-11-23 | `c048164` | stories shared / Instagram pause |
+| 2026-11-23 | `37e21f3` | stories shared / Instagram pause |
+| 2026-11-23 | `0a4aa72` | stories shared / Instagram pause |
+| 2026-11-23 | `493b99c` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
