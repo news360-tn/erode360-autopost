@@ -1,119 +1,30 @@
-bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-bridge 'recent' did not answer (try 2 of 3): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
-bridge 'recent' did not answer (try 3 of 3): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 540, in _make_request
-    response = conn.getresponse()
-               ^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connection.py", line 638, in getresponse
-    httplib_response = super().getresponse()
-                       ^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 1443, in getresponse
-    response.begin()
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 337, in begin
-    version, status, reason = self._read_status()
-                              ^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 298, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/socket.py", line 718, in readinto
-    return self._sock.recv_into(b)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/ssl.py", line 1327, in recv_into
-    return self.read(nbytes, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/ssl.py", line 1179, in read
-    return self._sslobj.read(len, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TimeoutError: The read operation timed out
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/adapters.py", line 696, in send
-    resp = conn.urlopen(
-           ^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 847, in urlopen
-    retries = retries.increment(
-              ^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/util/retry.py", line 510, in increment
-    raise reraise(type(error), error, _stacktrace)
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/util/util.py", line 39, in reraise
-    raise value
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 793, in urlopen
-    response = self._make_request(
-               ^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 542, in _make_request
-    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/urllib3/connectionpool.py", line 373, in _raise_timeout
-    raise ReadTimeoutError(
-urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/runner/work/erode360-autopost/erode360-autopost/research_free/collect.py", line 1372, in <module>
-    main()
-  File "/home/runner/work/erode360-autopost/erode360-autopost/research_free/collect.py", line 1004, in main
-    rr = bridge("recent")
-         ^^^^^^^^^^^^^^^^
-  File "/home/runner/work/erode360-autopost/erode360-autopost/research_free/collect.py", line 139, in bridge
-    raise last
-  File "/home/runner/work/erode360-autopost/erode360-autopost/research_free/collect.py", line 132, in bridge
-    r = requests.get(BRIDGE_URL, params={"action": action, "key": BRIDGE_KEY, **kw}, timeout=120)
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/api.py", line 87, in get
-    return request("get", url, params=params, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/api.py", line 71, in request
-    return session.request(method=method, url=url, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 651, in request
-    resp = self.send(prep, **send_kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 805, in send
-    history = [resp for resp in gen]
-              ^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 805, in <listcomp>
-    history = [resp for resp in gen]
-              ^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 292, in resolve_redirects
-    resp = self.send(
-           ^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/sessions.py", line 784, in send
-    r = adapter.send(request, **kwargs)
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/adapters.py", line 742, in send
-    raise ReadTimeout(e, request=request)
-requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
-writer exit 1 (try 1)
-03:59:54 bridge get 'token' failed (try 1): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-04:02:15 bridge get 'token' failed (try 2): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
+04:54:55 bridge get 'token' failed (try 1): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
+04:57:15 bridge get 'token' failed (try 2): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
 bridge 'recent' did not answer (try 1 of 3): HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=120)
-bridge 'recent' did not answer (try 2 of 3): HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=120)
-writing [N]: ‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை
-writing [N]: தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸாா் மீது தாக
+writing [N]: 2 இருசக்கர வாகனங்கள் மோதல்: 6 போ் படுகாயம்
+writing [N]: சிறுத்தை தாக்கியதில் ஆடு உயிரிழப்பு
+writing [N]: 11 கிலோ கஞ்சா பறிமுதல்: இருவா் கைது
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
-    "code": 503,
-    "message": "This model is currently experiencing high d
-ok gemini/gemini-3.6-flash (11s)
-attempt 1 gemini/gemini-3.6-flash: 3 problems
-  reel_script must tell how the story ENDED, as the article's last lines say ('‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
@@ -124,153 +35,226 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3-flash-preview (45s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3-flash-preview (7s)
-factcheck by gemini/gemini-3-flash-preview: 2 problems
-  The date 'November 23' and year '2026' are not mentioned in the article; it only specifies 'Monday'.
-  The article does not mention that a 'special team' (தனிப்படை) was formed to go to Karnataka.
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  fact-check: The date 'November 23' and year '2026' are not mentioned in the article; it only specifies 'Monday'.
-  fact-check: The article does not mention that a 'special team' (தனிப்படை) was formed to go to Karnataka.
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok gemini/gemini-3-flash-preview (10s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  caption needs 5 hashtags (Instagram max), has 6
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
-fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
-poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_gener
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
-  "error": {
-    "code": 503,
-    "message": "This model is currently experiencing 
-switching away from gemini/gemini-3-flash-preview for 10 min
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  reel_script must tell how the story ENDED, as the article's last lines say ('‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+ok gemini/gemini-3-flash-preview (10s)
+attempt 1 gemini/gemini-3-flash-preview: 1 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 1 groq/qwen/qwen3.8-27b: 1 problems
+  hl1 is 53 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
-ok groq/qwen/qwen3.8-27b (4s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 82 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  reel_script must tell how the story ENDED, as the article's last lines say ('‘பாராகுவாட் டைகுளோரைடு’ களைக்கொல்லி பயன்பாட்டுக்குத் தடை') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2q1qqe35a67dhqnh6gc8f` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1597. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The reel_script states that the attackers 'escaped' (தப்பியோடினர்), which matches the article, but the reel_script omits that the police are searching for the attackers in Karnataka being an important follow-up; this is actually included, so no issue there.
-  The reel_script says 'சம்பவ இடத்துக்குச் சென்ற போலீஸார், அங்கு சூதாட்டத்தில் ஈடுபட்டிருந்த கர்நாடக மாநில இளைஞர்களை எச்சரித்தனர்' — the article says 'எச்சரித்ததாகக் கூறப்படுகிறது' (reportedly warned); the draft presents it as confirmed, a minor overstatement.
-  The slides_spec line 'ஆய்வாளர் வாசு உள்பட 3 பேர் காயம்' says 3 people were injured including inspector Vasu, while the article says the attackers hit inspector Vasu and 3 police officers in total; the draft's 'உள்பட 3 பேர்' implies Vasu is one of 3, which is a numeric mismatch with the article's 'வாசு உள்பட 3 போலீஸார்' (Vasu plus 3 others would be 4 total, or 3 total including Vasu — ambiguous and inconsistent with the article's phrasing).
-  The slides_spec headline 'தாளவாடி கோயிலில் போலீஸ் தாக்குதல்' and '3 போலீஸார் காயம்' are consistent, but the caption's 'நடவடிக்கை: வழக்குப் பதிவு, கர்நாடகம் சென்று தேடல்' is accurate; no further issues.
-attempt 2 groq/qwen/qwen3.8-27b: 4 problems
-  fact-check: The reel_script states that the attackers 'escaped' (தப்பியோடினர்), which matches the article, but the reel_script omits that the police are searching for the attackers in Karnataka being an important follow-up; this is actually included, so no issue there.
-  fact-check: The reel_script says 'சம்பவ இடத்துக்குச் சென்ற போலீஸார், அங்கு சூதாட்டத்தில் ஈடுபட்டிருந்த கர்நாடக மாநில இளைஞர்களை எச்சரித்தனர்' — the article says 'எச்சரித்ததாகக் கூறப்படுகிறது' (reportedly warned); the draft presents it as confirmed, a minor overstatement.
-  fact-check: The slides_spec line 'ஆய்வாளர் வாசு உள்பட 3 பேர் காயம்' says 3 people were injured including inspector Vasu, while the article says the attackers hit inspector Vasu and 3 police officers in total; the draft's 'உள்பட 3 பேர்' implies Vasu is one of 3, which is a numeric mismatch with the article's 'வாசு உள்பட 3 போலீஸார்' (Vasu plus 3 others would be 4 total, or 3 total including Vasu — ambiguous and inconsistent with the article's phrasing).
-  fact-check: The slides_spec headline 'தாளவாடி கோயிலில் போலீஸ் தாக்குதல்' and '3 போலீஸார் காயம்' are consistent, but the caption's 'நடவடிக்கை: வழக்குப் பதிவு, கர்நாடகம் சென்று தேடல்' is accurate; no further issues.
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-ok anthropic/claude-haiku-5-5
-real photo skipped (photo uploaded 2026-09-28 (older than the news)): https://media.dinamani.com/dinamani/2026-09-28/tcl6smyz/Screenshot-2026-09-28-201259.jpg
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+real photo skipped (photo uploaded 2026-11-12 (older than the news)): https://media.dinamani.com/dinamani/2026-11-12/1baq3vkm/ot12leopard072258.jpg
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Paraquat dichloride weedkiller banned in'
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  slide 2 line 1 longer than 60 characters
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 23 ('சென்னிமலை அருகே 2 இருசக்கர வாகனங்கள் நேருக்குநோ் மோதிக்கொண்'); 12 ('இவா் தனது இருசக்கர வாகனத்தில் அதே பகுதியைச் சோ்ந்த பெருந்து'); 17 ('இவா் தனது இருசக்கர வாகனத்தில் அதே பகுதியைச் சோ்ந்த பெருந்து'); 19 ('இவா் தனது இருசக்கர வாகனத்தில் அதே பகுதியைச் சோ்ந்த பெருந்து'); 18 ('இவா் தனது இருசக்கர வாகனத்தில் அதே பகுதியைச் சோ்ந்த பெருந்து')
+images made: 2 for 'Leopard kills goat near Sathyamangalam; '
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  slide 2 line 1 longer than 60 characters
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The reel_script says the police 'warned' the gamblers, but the article says the police warned the youths, which matches; however the reel_script adds 'சூதாட்டத்தை எச்சரித்த' (warned the gambling), which is ungrammatical and misrepresents who was warned.
-  The reel_script states the police were attacked and that the attackers fled, but it omits that the injured police were rescued by local people and sent to hospital in the same sentence context is present; no omission here, but the slides and caption say 'மக்களால் மீட்கப்பட்டு' which is accurate.
-  The slides_spec line 'கொங்கள்ளி கோயில் வளாகத்தில் சூதாட்டம்' and 'காவல் ஆய்வாளர் வாசு உள்பட 3 போலீஸார் தாக்கப்பட்டனர்' are accurate, but the slides_spec line 'காயமடைந்தவர்கள் தாளவாடி அரசு மருத்துவமனையில் சிகிச்சை' states they are receiving treatment, which the article does not say (it only says they were sent to the hospital).
-  The reel_script states the investigation is ongoing ('விசாரணை நடைபெற்று வருகிறது'), and the caption says the same; the article states this, so it is accurate. The caption's 'சம்பவம் குறித்து விசாரணை' is consistent.
-claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The reel_script says the police 'warned' the gamblers, but the article says the police warned the youths, which matches; however the reel_script adds 'சூதாட்டத்தை எச்சரித்த' (warned the gambling), which is ungrammatical and misrepresents who was warned.
-  fact-check: The reel_script states the police were attacked and that the attackers fled, but it omits that the injured police were rescued by local people and sent to hospital in the same sentence context is present; no omission here, but the slides and caption say 'மக்களால் மீட்கப்பட்டு' which is accurate.
-  fact-check: The slides_spec line 'கொங்கள்ளி கோயில் வளாகத்தில் சூதாட்டம்' and 'காவல் ஆய்வாளர் வாசு உள்பட 3 போலீஸார் தாக்கப்பட்டனர்' are accurate, but the slides_spec line 'காயமடைந்தவர்கள் தாளவாடி அரசு மருத்துவமனையில் சிகிச்சை' states they are receiving treatment, which the article does not say (it only says they were sent to the hospital).
-  fact-check: The reel_script states the investigation is ongoing ('விசாரணை நடைபெற்று வருகிறது'), and the caption says the same; the article states this, so it is accurate. The caption's 'சம்பவம் குறித்து விசாரணை' is consistent.
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-0409","first":"RN-252"}
-posting job started at once
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 29 ('அப்போது, அங்கு சந்தேகத்துக்கு இடமளிக்கும் வகையில் நின்றிருந்'); 38 ('அப்போது, அங்கு சந்தேகத்துக்கு இடமளிக்கும் வகையில் நின்றிருந்'); பெருந்துறை ('அப்போது, அங்கு சந்தேகத்துக்கு இடமளிக்கும் வகையில் நின்றிருந்')
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  reel_script says 'Sivasankar' is 23 years old and 'Naveen' is 19; the article gives these ages in parentheses, so they match, but reel_script says 'Sivasankar, 23 வயது இளைஞர்' — acceptable. However, reel_script states Abinandhan and Manishkumar were both 17 but omits that Abinandhan is a 12th-grade student at a Perundurai government school (minor detail, not a factual error)
+  slides_spec line 'எல்லமேடு பவர் ஹவுஸ் அருகே' under 'எங்கே நடந்தது?' is fine, but slide 3 'அனைவரும் பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில்' states all are currently at the hospital, which the article does not explicitly say (it only says they were sent there)
+  slides_spec 'யார் யார்?' slide states Sivasankar, Abinandhan, Manishkumar travelled together and Naveen, Abarna, Deepika travelled together — accurate, but the reel_script says Sivasankar was travelling 'திங்கள்கிழமை' toward Perundurai while the article says the same; no error here
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  fact-check: reel_script says 'Sivasankar' is 23 years old and 'Naveen' is 19; the article gives these ages in parentheses, so they match, but reel_script says 'Sivasankar, 23 வயது இளைஞர்' — acceptable. However, reel_script states Abinandhan and Manishkumar were both 17 but omits that Abinandhan is a 12th-grade student at a Perundurai government school (minor detail, not a factual error)
+  fact-check: slides_spec line 'எல்லமேடு பவர் ஹவுஸ் அருகே' under 'எங்கே நடந்தது?' is fine, but slide 3 'அனைவரும் பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில்' states all are currently at the hospital, which the article does not explicitly say (it only says they were sent there)
+  fact-check: slides_spec 'யார் யார்?' slide states Sivasankar, Abinandhan, Manishkumar travelled together and Naveen, Abarna, Deepika travelled together — accurate, but the reel_script says Sivasankar was travelling 'திங்கள்கிழமை' toward Perundurai while the article says the same; no error here
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 2 problems
-  The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives only 'திங்கள்கிழமை' with no date; this date is not supported by the article.
-  The caption's 'நடவடிக்கை' line says the police went to Karnataka to search for the attackers; the article says this, so it is fine, but the caption's 'Talavadi police attacked at temple gambling spot' English line is an unrequested extra and is not a Tamil claim, so no issue there, only the date above is a problem.
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  fact-check: The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives only 'திங்கள்கிழமை' with no date; this date is not supported by the article.
-  fact-check: The caption's 'நடவடிக்கை' line says the police went to Karnataka to search for the attackers; the article says this, so it is fine, but the caption's 'Talavadi police attacked at temple gambling spot' English line is an unrequested extra and is not a Tamil claim, so no issue there, only the date above is a problem.
-ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('சென்னிமலை அருகே 2 இருசக்கர வாகனங்கள் நேருக்குநோ் மோதிக்கொண்'); 12 ('இவா் தனது இருசக்கர வாகனத்தில் அதே பகுதியைச் சோ்ந்த பெருந்து'); 2 ('2 இருசக்கர வாகனங்கள் மோதல்: 6 போ் படுகாயம்')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The slides_spec line 'தாளவாடி அருகே போலீஸார் மீது தாக்குதல்' is fine, but the slide 'யார் தாக்கினர்?' states the attackers were Karnataka youths as a fact ('கர்நாடக மாநில இளைஞர்கள் என கூறப்படுகிறது' is hedged, so acceptable), however the slide 'அடுத்து என்ன?' says 'வழக்குப் பதிவு செய்து தேடுதல் பணி நடைபெறுகிறது' which uses 'நடைபெறுகிறது' (is ongoing) and the article only says the police registered a case and went to Karnataka to search; no problem with meaning, but the draft's 'தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடகா சென்றுள்ளனர்' is accurate.
-  The reel_script states the police were attacked 'சூதாட்டத்தை தடுக்கச் சென்ற போலீஸார் தாக்கப்பட்டனர்' as a flat fact in the opening sentence, while the article says the police had 'எச்சரித்த' (warned) gamblers; the wording 'தடுக்கச் சென்ற' (went to prevent) is a slight embellishment not stated in the article.
-  The reel_script and caption both say 'தாக்கிவிட்டு தப்பியோடியதாகத் தெரிகிறது' / 'தப்பியோடியதாக', which the article supports, but the slide 'தாக்கிவிட்டு தப்பியோடியதாக தகவல்' is fine; however the slides 'யார் தாக்கினர்?' heading asserts the identity question as answered with an unverified group, which is an unsupported framing.
-  The reel_script omits that the attackers fled, the injured police were taken to hospital by local people in the same paragraph is present, but the key fact that the police were struck by the gamblers and the sequence of arrival is covered; the article's detail that the injured were rescued by villagers is included. No missing key result such as an arrest is stated in the article, so no omission problem beyond the framing issues.
-claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The slides_spec line 'தாளவாடி அருகே போலீஸார் மீது தாக்குதல்' is fine, but the slide 'யார் தாக்கினர்?' states the attackers were Karnataka youths as a fact ('கர்நாடக மாநில இளைஞர்கள் என கூறப்படுகிறது' is hedged, so acceptable), however the slide 'அடுத்து என்ன?' says 'வழக்குப் பதிவு செய்து தேடுதல் பணி நடைபெறுகிறது' which uses 'நடைபெறுகிறது' (is ongoing) and the article only says the police registered a case and went to Karnataka to search; no problem with meaning, but the draft's 'தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடகா சென்றுள்ளனர்' is accurate.
-  fact-check: The reel_script states the police were attacked 'சூதாட்டத்தை தடுக்கச் சென்ற போலீஸார் தாக்கப்பட்டனர்' as a flat fact in the opening sentence, while the article says the police had 'எச்சரித்த' (warned) gamblers; the wording 'தடுக்கச் சென்ற' (went to prevent) is a slight embellishment not stated in the article.
-  fact-check: The reel_script and caption both say 'தாக்கிவிட்டு தப்பியோடியதாகத் தெரிகிறது' / 'தப்பியோடியதாக', which the article supports, but the slide 'தாக்கிவிட்டு தப்பியோடியதாக தகவல்' is fine; however the slides 'யார் தாக்கினர்?' heading asserts the identity question as answered with an unverified group, which is an unsupported framing.
-  fact-check: The reel_script omits that the attackers fled, the injured police were taken to hospital by local people in the same paragraph is present, but the key fact that the police were struck by the gamblers and the sequence of arrival is covered; the article's detail that the injured were rescued by villagers is included. No missing key result such as an arrest is stated in the article, so no omission problem beyond the framing issues.
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  slide 2 line 1 longer than 60 characters
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-0507","first":"RN-255"}
+posting job started at once
+writing [N]: சிறுவனின் கழுத்தில் கத்தியை வைத்து மிரட்டி 5 பவுன் கொள்ளை: இ
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
 real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
 real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Gambling at temple premises near Talavad'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-0413","first":"RN-253"}
+images made: 2 for 'Two two-wheelers collide head-on near Ch'
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 7 problems
+  reel_script says the incident happened 'in the family's home area' but also that the mother was asleep in the kitchen — this is not a problem; however, slides_spec line 'தாய் திலகமணி சமையலறையில் உறங்கினார்' is accurate, so no issue there
+  reel_script says the suspect was 'அந்த நபர்' and the arrest was on Monday — consistent with article; no issue
+  reel_script states 'பிரதாப் (30 வயது)' — article says age 30, correct; no issue
+  slides_spec 'hl2' reads '5 பவுன் நகை பறிப்பு, இளைஞர்' — 'பறிப்பு' (snatching) is a different act from the article's 'கொள்ளை' (robbery under knife threat); wording mismatch, minor
+  caption states the victim 'சிறுவன் மதனரஞ்சித்தின் (15 வயது)' and the mother 'திலகமணி (45 வயது)' — both correct per article; no issue
+  slides_spec 'என்ன நடந்தது' lines: 'கோபி அருகே மோதூர் புதுத்தோட்டம் பகுதியில் நடந்தது' — accurate; no issue
+  reel_script omits that the mother reported the incident to police after her son told her — this is a missing-detail issue only if considered essential; the reel does mention the son told the mother and the mother filed the complaint, so it is covered
+claude rewrite 1 anthropic/claude-haiku-5-5: 7 problems
+  fact-check: reel_script says the incident happened 'in the family's home area' but also that the mother was asleep in the kitchen — this is not a problem; however, slides_spec line 'தாய் திலகமணி சமையலறையில் உறங்கினார்' is accurate, so no issue there
+  fact-check: reel_script says the suspect was 'அந்த நபர்' and the arrest was on Monday — consistent with article; no issue
+  fact-check: reel_script states 'பிரதாப் (30 வயது)' — article says age 30, correct; no issue
+  fact-check: slides_spec 'hl2' reads '5 பவுன் நகை பறிப்பு, இளைஞர்' — 'பறிப்பு' (snatching) is a different act from the article's 'கொள்ளை' (robbery under knife threat); wording mismatch, minor
+  fact-check: caption states the victim 'சிறுவன் மதனரஞ்சித்தின் (15 வயது)' and the mother 'திலகமணி (45 வயது)' — both correct per article; no issue
+  fact-check: slides_spec 'என்ன நடந்தது' lines: 'கோபி அருகே மோதூர் புதுத்தோட்டம் பகுதியில் நடந்தது' — accurate; no issue
+  fact-check: reel_script omits that the mother reported the incident to police after her son told her — this is a missing-detail issue only if considered essential; the reel does mention the son told the mother and the mother filed the complaint, so it is covered
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 11 problems
+  The reel_script and slides_spec say the boy 'ran away' or the robber 'escaped' (தப்பிச் சென்றார்) — this matches the article, so not a problem; however the caption's '📍' footer is excluded.
+  The caption states the robbery took place 'Sunday night' and the arrest was on Monday, which matches the article, but the caption says the mother filed the complaint without noting the date; no error there.
+  The caption says the boy's mother 'திலகமணி (45 வயது)' is 'கணவரை இழந்த' — matches article.
+  Caption and reel_script say the robber was 'நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைத்தனர்' — matches article.
+  The reel_script states the mother Thilagamani lives 'தோட்டத்து வீட்டில்' with her son — matches article.
+  Problem: the reel_script says 'கோபி அருகே சிறுவனின் கழுத்தில் கத்தி வைத்து மிரட்டி 5 பவுன் நகை கொள்ளையடிக்கப்பட்டது' — the article says the robber held the knife at the boy's neck and robbed 5 pavun jewellery and cash; wording mixes the two facts (jewellery robbed vs. cash) but this is minor.
+  Problem: the caption's '🗓️ நாள்' line and reel text say 'ஞாயிற்றுக்கிழமை நள்ளிரவு' — the article says Sunday night, matching.
+  Problem: the reel_script says the boy 'பயந்துபோன' and gave cash — the article says he gave 5 pavun jewellery and ரூ.1,950, matching.
+  Problem: slides_spec 'loc' says 'மோதூர், கோபி' — article supports Mothur near Gobi, acceptable.
+  Problem: the caption contains an English line 'Gobichettipalayam youth held for knife robbery at boy's home | Erode news' which is not in the article and adds an invented place name 'Gobichettipalayam' — not in the article as a location; the article only says Gobi.
+  Problem: the reel_script's fixed closing and the caption's omitted '📍' line are excluded from checks.
+claude rewrite 2 anthropic/claude-haiku-5-5: 11 problems
+  fact-check: The reel_script and slides_spec say the boy 'ran away' or the robber 'escaped' (தப்பிச் சென்றார்) — this matches the article, so not a problem; however the caption's '📍' footer is excluded.
+  fact-check: The caption states the robbery took place 'Sunday night' and the arrest was on Monday, which matches the article, but the caption says the mother filed the complaint without noting the date; no error there.
+  fact-check: The caption says the boy's mother 'திலகமணி (45 வயது)' is 'கணவரை இழந்த' — matches article.
+  fact-check: Caption and reel_script say the robber was 'நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைத்தனர்' — matches article.
+  fact-check: The reel_script states the mother Thilagamani lives 'தோட்டத்து வீட்டில்' with her son — matches article.
+  fact-check: Problem: the reel_script says 'கோபி அருகே சிறுவனின் கழுத்தில் கத்தி வைத்து மிரட்டி 5 பவுன் நகை கொள்ளையடிக்கப்பட்டது' — the article says the robber held the knife at the boy's neck and robbed 5 pavun jewellery and cash; wording mixes the two facts (jewellery robbed vs. cash) but this is minor.
+  fact-check: Problem: the caption's '🗓️ நாள்' line and reel text say 'ஞாயிற்றுக்கிழமை நள்ளிரவு' — the article says Sunday night, matching.
+  fact-check: Problem: the reel_script says the boy 'பயந்துபோன' and gave cash — the article says he gave 5 pavun jewellery and ரூ.1,950, matching.
+  fact-check: Problem: slides_spec 'loc' says 'மோதூர், கோபி' — article supports Mothur near Gobi, acceptable.
+  fact-check: Problem: the caption contains an English line 'Gobichettipalayam youth held for knife robbery at boy's home | Erode news' which is not in the article and adds an invented place name 'Gobichettipalayam' — not in the article as a location; the article only says Gobi.
+  fact-check: Problem: the reel_script's fixed closing and the caption's omitted '📍' line are excluded from checks.
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  reel_script says the mother and son were both sleeping and frames it as a joint household event, but the article says the mother slept in the kitchen and the son in another room; minor but the reel_script omits this distinction (not a major factual error)
+  reel_script says the son is a '15 வயது சிறுவன்' living 'with' the mother in the farm house, which matches; however the reel_script states the arrest and court production happened on 'திங்கள்கிழமை' only implicitly and the court appearance is listed as 'திங்கள்கிழமை நீதிமன்றத்தில்' without the article stating the court date, which is a detail not clearly supported by the article
+  caption states the robber took the items 'பீரோவில் இருந்த' and the knife was at the son's neck, consistent; but caption says the mother 'புகார் அளித்தார்' and reel says the same, fine; the caption's 'நீதிமன்றக் காவலில் சிறை' is a reasonable paraphrase of 'சிறையில் அடைத்தனர்'
+  reel_script says Pratap is '30 வயது இளைஞர்' — article says the man is 'பிரதாப் (30)', consistent; no problem
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: reel_script says the mother and son were both sleeping and frames it as a joint household event, but the article says the mother slept in the kitchen and the son in another room; minor but the reel_script omits this distinction (not a major factual error)
+  fact-check: reel_script says the son is a '15 வயது சிறுவன்' living 'with' the mother in the farm house, which matches; however the reel_script states the arrest and court production happened on 'திங்கள்கிழமை' only implicitly and the court appearance is listed as 'திங்கள்கிழமை நீதிமன்றத்தில்' without the article stating the court date, which is a detail not clearly supported by the article
+  fact-check: caption states the robber took the items 'பீரோவில் இருந்த' and the knife was at the son's neck, consistent; but caption says the mother 'புகார் அளித்தார்' and reel says the same, fine; the caption's 'நீதிமன்றக் காவலில் சிறை' is a reasonable paraphrase of 'சிறையில் அடைத்தனர்'
+  fact-check: reel_script says Pratap is '30 வயது இளைஞர்' — article says the man is 'பிரதாப் (30)', consistent; no problem
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+bridge: 500 <!DOCTYPE html><html><head><script nonce="j9CmHcO_Ql_tiBTBt48JxA">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use st
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-0509","first":"RN-256"}
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Police seize 11 kg of ganja in Erode nea'
+bridge: 500 <!DOCTYPE html><html><head><script nonce="mETSa_xLemKBeXL_GYP9hg">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use st
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-0512","first":"RN-257"}
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Youth arrested for knife robbery of 5 pa'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261124-0515","first":"RN-259"}
+posting job started at once
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/தாளவாடி-அருகே-கோயில்-வளாகத்தில்-சூதாட்டம்-போலீஸாா்-மீது-தாக்குதல்
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/பாராகுவாட்-டைகுளோரைடு-களைக்கொல்லி-பயன்பாட்டுக்குத்-தடை
-candidate filter: collected=2
-to write: 2 Erode district candidates (max 2 stories)
-round: top 2 of 2 candidates
-candidates waiting: 2 Erode; time left 70 min
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/சிறுவனின்-கழுத்தில்-கத்தியை-வைத்து-மிரட்டி-5-பவுன்-கொள்ளை-இளைஞா்-கைது
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/11-கிலோ-கஞ்சா-பறிமுதல்-இருவா்-கைது-2
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/சிறுத்தை-தாக்கியதில்-ஆடு-உயிரிழப்பு
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/2-இருசக்கர-வாகனங்கள்-மோதல்-6-போ்-படுகாயம்
+candidate filter: collected=4
+to write: 4 Erode district candidates (max 4 stories)
+round: top 4 of 4 candidates
+candidates waiting: 4 Erode; time left 72 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
 try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
 try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 64 min
-filed: 2 Erode district stories (target 2), reels only
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 57 min
+filed: 4 Erode district stories (target 4), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":2,"updated":0} 
-stories: 2
+All News sheet: {"ok":true,"added":4,"updated":0} 
+stories: 4

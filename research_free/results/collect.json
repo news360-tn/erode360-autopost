@@ -3,82 +3,93 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/தாளவாடி-அருகே-கோயில்-வளாகத்தில்-சூதாட்டம்-போலீஸாா்-மீது-தாக்குதல்",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/பாராகுவாட்-டைகுளோரைடு-களைக்கொல்லி-பயன்பாட்டுக்குத்-தடை",
-  "candidate filter: collected=2",
-  "to write: 2 Erode district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Erode; time left 70 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/சிறுவனின்-கழுத்தில்-கத்தியை-வைத்து-மிரட்டி-5-பவுன்-கொள்ளை-இளைஞா்-கைது",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/11-கிலோ-கஞ்சா-பறிமுதல்-இருவா்-கைது-2",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/சிறுத்தை-தாக்கியதில்-ஆடு-உயிரிழப்பு",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/2-இருசக்கர-வாகனங்கள்-மோதல்-6-போ்-படுகாயம்",
+  "candidate filter: collected=4",
+  "to write: 4 Erode district candidates (max 4 stories)",
+  "round: top 4 of 4 candidates",
+  "candidates waiting: 4 Erode; time left 72 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 64 min",
-  "filed: 2 Erode district stories (target 2), reels only",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
+  "posting job started at once",
+  "candidate loop ended: left 0, tried={'N': 4}, done={'N': 4}, time left 57 min",
+  "filed: 4 Erode district stories (target 4), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":4,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "ok gemini/gemini-3.6-flash (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (45s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (7s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok gemini/gemini-3-flash-preview (10s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
@@ -86,121 +97,262 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "ஈரோடு: பாராகுவாட் களைக்கொல்லிக்கு தடை; விற்பனைக்கு நடவடிக்கை",
-   "english_headline": "Paraquat dichloride weedkiller banned in India; Erode agriculture department warns of action on stock or sale",
-   "category": "Weather & Agriculture",
-   "location": "Erode district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேளாண்மை எச்சரிக்கை",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "பாராகுவாட் களைக்கொல்லிக்கு தடை",
-    "hl2": "இருப்பு, விற்பனைக்கு",
-    "slides": [
-     {
-      "title": "தடை ஏன்?",
-      "lines": [
-       "மத்திய அரசு பாராகுவாட் டைகுளோரைடு களைக்கொல்லியை தடை",
-       "உயிர் ஆபத்து, அதிக உயிரிழப்பு, மாற்று மருந்து இல்லாததே",
-       "தடை உத்தரவு <b>22 செப்டம்பர்</b> அன்று வெளியானது"
-      ]
-     },
-     {
-      "title": "பாதிப்புகள்",
-      "lines": [
-       "நுரையீரல், சிறுநீரகம், கல்லீரல் பாதிப்பு ஏற்படலாம்",
-       "இதயப் பாதிப்பும் பார்கின்சன் நோய் தொடர்பான பாதிப்புகளும்",
-       "பதிவுச் சான்றிதழ்கள் ரத்து செய்யப்பட்டுள்ளன"
-      ]
-     },
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "இருப்பு அல்லது விற்பனை கண்டறியப்பட்டால் நடவடிக்கை",
-       "நிறுவனங்கள், விற்பனையாளர்கள் மீது நடவடிக்கை எடுக்கப்படும்",
-       "வேளாண்மைத் துறை எச்சரிக்கை விடுத்துள்ளது"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "விவசாயிகளுக்கு முக்கிய எச்சரிக்கை. பாராகுவாட் டைகுளோரைடு களைக்கொல்லியை மத்திய அரசு தடை செய்துள்ளது. வேளாண்மை மற்றும் உழவர் நல அமைச்சகம் செப்டம்பர் 22ஆம் தேதி இதற்கான உத்தரவை வெளியிட்டது. பூச்சிக்கொல்லிகள் சட்டம் 1968இன்கீழ், நிபுணர்குழு மற்றும் பதிவுக் குழுவின் ஆலோசனைகளுக்குப் பிறகு இந்த நடவடிக்கை மேற்கொள்ளப்பட்டது. மனிதர்கள் மற்றும் விலங்குகளின் உயிருக்கு கடுமையான ஆபத்து ஏற்படுவதும், அதிக உயிரிழப்புகள் ஏற்படுவதும் தடைக்கான முக்கிய காரணங்கள். இதற்கு தனிப்பட்ட மாற்று மருந்து இல்லை. இதற்கு முன்பு வழங்கப்பட்ட பதிவுச் சான்றிதழ்கள் ரத்து செய்யப்பட்டுள்ளன. இந்தக் களைக்கொல்லியை உட்கொண்டாலோ, சுவாசித்தாலோ, தோல் வழியாகத் தொடர்பு கொண்டாலோ நச்சுத்தன்மை ஏற்படலாம். நுரையீரல், சிறுநீரகம், கல்லீரல், இதய பாதிப்புகள் ஏற்படக்கூடும். பார்கின்சன் நோய் தொடர்பான பாதிப்புகளும் ஏற்படலாம் எனக் கூறப்படுகிறது. பணியிட வெளிப்பாடு, தற்செயலான நச்சுத்தன்மை, தற்கொலை முயற்சி மற்றும் அனுமதிக்கப்பட்ட பயிர்கள் அல்லாத இடங்களில் தவறாகப் பயன்படுத்துதல் ஆகியவற்றின் அதிகரிக்கும் கவலைகள் காரணமாக இம்முடிவு எடுக்கப்பட்டது. தடை செய்யப்பட்ட களைக்கொல்லியின் இருப்பு அல்லது விற்பனை கண்டறியப்பட்டால், சம்பந்தப்பட்ட நிறுவனங்கள் மற்றும் விற்பனையாளர்கள் மீது நடவடிக்கை எடுக்கப்படும் என வேளாண்மைத் துறை எச்சரிக்கை விடுத்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚫 பாராகுவாட் களைக்கொல்லிக்கு தடை: இருப்பு, விற்பனை இருந்தால் நடவடிக்கை\n\n📰 முழு விவரம்:\nபாராகுவாட் டைகுளோரைடு களைக்கொல்லியை மத்திய அரசு தடை செய்துள்ளது. வேளாண்மை மற்றும் உழவர் நல அமைச்சகம் செப்டம்பர் 22ஆம் தேதி உத்தரவை வெளியிட்டது. பூச்சிக்கொல்லிகள் சட்டம் 1968இன்கீழ், நிபுணர்குழு, பதிவுக் குழுவின் ஆலோசனைகளுக்குப் பிறகு இந்த நடவடிக்கை எடுக்கப்பட்டது.\n☠️ மனிதர்கள், விலங்குகளின் உயிருக்கு கடுமையான ஆபத்து; அதிக உயிரிழப்புகள்; தனிப்பட்ட மாற்று மருந்து இல்லை.\n📄 இதற்கு முன் வழங்கப்பட்ட பதிவுச் சான்றிதழ்கள் ரத்து செய்யப்பட்டுள்ளன.\n⚠️ தடை செய்யப்பட்ட களைக்கொல்லியின் இருப்பு அல்லது விற்பனை கண்டறியப்பட்டால், சம்பந்தப்பட்ட நிறுவனங்கள், விற்பனையாளர்கள் மீது நடவடிக்கை.\n🩺 நுரையீரல், சிறுநீரகம், கல்லீரல், இதய பாதிப்புகள் ஏற்படலாம்; பார்கின்சன் தொடர்பான பாதிப்புகளும் ஏற்படலாம்.\n\nPARAQUAT weedkiller banned India | Erode farmers alert\n📍 ஈரோடு மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #விவசாயம் #ஈரோடு",
-   "prompts": "A district agriculture officer and a farmer stand in a paddy field in Erode district, inspecting the crop as the officer holds a notepad, while sugarcane and paddy fields stretch toward the Bhavani-side hills in the distance. The farmer wears a shirt and veshti, the officer wears trousers and a shirt, both seen from slightly behind and far off. Behind them a row of weeds grows between the rows of paddy, and the tall green crop catches soft morning daylight. The scene conveys the official check on farm weedkiller use in the district. Camera at eye level, 35 mm, wide enough to show the flat fields and distant hills. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a rows of plain, unlabelled weedkiller bottles and sealed drums stacked on the shelves of an agricultural input shop's stock godown, with a few loose bottles set on a wooden table in front. Dim daylight from a doorway falls across the containers, and a pair of hands in a farmer's sleeve rests near them, seen from the side. The shelves show no readable text, logos or labels. The detail suggests the stock being checked for banned paraquat. Camera slightly high, 35 mm, close enough to show the bottles clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/பாராகுவாட்-டைகுளோரைடு-களைக்கொல்லி-பயன்பாட்டுக்குத்-தடை",
-   "published": "2026-11-23T20:36:39.970Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795473587/erode360/tsbqpujdybc5iapxshnb.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795473590/erode360/ie2olr64xvhelpz1eefx.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸார் மீது தாக்குதல்",
-   "english_headline": "Gambling at temple premises near Talavadi; attack on police, probe underway",
+   "tamil_headline": "சத்தியமங்கலம் அருகே சிறுத்தை தாக்கி ஆடு உயிரிழப்பு",
+   "english_headline": "Leopard kills goat near Sathyamangalam; forest officials confirm pugmarks and start probe",
    "category": "Crime & Safety",
-   "location": "Kongalli temple premises near Talavadi, Erode district",
+   "location": "Kambatharayanpudur, Sathyamangalam taluk, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குற்றச் செய்தி",
-    "loc": "தாளவாடி",
-    "hl1": "தாளவாடி அருகே போலீஸார் மீது தாக்குதல்",
-    "hl2": "கோயில் வளாகத்தில் சூதாட்டம்",
+    "cat": "வனவிலங்கு",
+    "loc": "சத்தியமங்கலம்",
+    "hl1": "சத்தியமங்கலம் அருகே சிறுத்தை தாக்குதல்",
+    "hl2": "ஆடு உயிரிழப்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கொங்கள்ளி கோயில் வளாகத்தில் சூதாட்டம்",
-       "ரகசியத் தகவலின் பேரில் போலீஸார் சென்றனர்",
-       "சூதாட்டத்தில் ஈடுபட்ட இளைஞர்களை எச்சரித்தனர்"
+       "கம்பத்தராயன்புதூர் பகுதியில் சிறுத்தை தாக்கியது",
+       "வனத்திலிருந்து வெளியேறிய சிறுத்தை ஒரு ஆட்டைக் கொன்றது",
+       "ஆட்டை இழுத்துச் சென்றது"
       ]
      },
      {
-      "title": "தாக்குதல்",
+      "title": "யார் தகவல்?",
       "lines": [
-       "தாளவாடி காவல் ஆய்வாளர் வாசு உள்பட <b>3 போலீஸார்</b> தாக்கப்பட்டனர்",
-       "தாக்கிவிட்டு இளைஞர்கள் தப்பியோடினர்",
-       "காயமடைந்த போலீஸாரை மக்கள் மீட்டனர்"
+       "விவசாயி சந்திரசேகர் தனது நிலத்தில் ஆடுகளை மேய்த்தார்",
+       "சிறுத்தையைப் பார்த்த அவர் வனத் துறையினருக்குத் தகவல்",
+       "திங்கள்கிழமை நடந்த சம்பவம்"
       ]
      },
      {
-      "title": "அடுத்து என்ன?",
+      "title": "வனத் துறை",
       "lines": [
-       "தாளவாடி போலீஸார் வழக்குப் பதிவு செய்தனர்",
-       "தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடகா சென்றுள்ளனர்",
+       "வனத் துறையினர் கால் தடயங்களை ஆய்வு செய்தனர்",
+       "அது சிறுத்தையின் கால் தடம் என உறுதி செய்தனர்",
+       "சம்பவம் குறித்து விசாரணை நடைபெற்று வருகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "சத்தியமங்கலம் அருகே சிறுத்தை தாக்கியதில் ஒரு ஆடு உயிரிழந்தது. கம்பத்தராயன்புதூர் பகுதியைச் சேர்ந்த விவசாயி சந்திரசேகர், தனது வீட்டுக்கு அருகேயுள்ள நிலத்தில் ஆடுகளை மேய்ச்சலுக்கு விட்டிருந்தார். திங்கள்கிழமை நடந்த இந்தச் சம்பவத்தில், வனத்திலிருந்து வெளியேறிய சிறுத்தை ஒரு ஆட்டைத் தாக்கிக் கொன்று இழுத்துச் சென்றது. இதைப் பார்த்த சந்திரசேகர் வனத் துறையினருக்குத் தகவல் தெரிவித்தார். சம்பவ இடத்துக்கு வந்த வனத் துறையினர், அங்கிருந்த கால் தடயங்களை ஆய்வு செய்தனர். அது சிறுத்தையின் கால் தடம்தான் என்பதை உறுதி செய்தனர். இச்சம்பவம் குறித்து வனத் துறையினர் விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐆 சத்தியமங்கலம் அருகே சிறுத்தை தாக்கியதில் ஆடு உயிரிழப்பு\n\n📰 முழு விவரம்:\nசத்தியமங்கலம் வனச் சரகத்துக்குள்பட்ட கம்பத்தராயன்புதூர் பகுதியில், விவசாயி சந்திரசேகரின் நிலத்தில் திங்கள்கிழமை ஆடுகள் மேய்ச்சலுக்கு விடப்பட்டிருந்தன. அப்போது வனத்திலிருந்து வெளியேறிய சிறுத்தை ஒரு ஆட்டைத் தாக்கிக் கொன்று இழுத்துச் சென்றது. இதைப் பார்த்த சந்திரசேகர் வனத் துறையினருக்குத் தகவல் தெரிவித்தார்.\n🐾 சம்பவ இடத்தில் ஆய்வு செய்த வனத் துறையினர், அது சிறுத்தையின் கால் தடம் என உறுதி செய்தனர்.\n👮 இச்சம்பவம் குறித்து வனத் துறையினர் விசாரணை நடத்தி வருகின்றனர்.\n\nLeopard kills goat near Sathyamangalam, Erode | Erode news\n📍 கம்பத்தராயன்புதூர், சத்தியமங்கலம், ஈரோடு மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #ErodeNews #ஈரோடு",
+   "prompts": "A forest department officer in green uniform crouches beside leopard pugmarks in the dusty soil of a farm plot at the edge of a village near Sathyamangalam, Erode district, Tamil Nadu. Beyond a low earthen bund a few goats graze and a farmer's house with a tiled roof stands nearby. The farmland is dry brown soil with patches of grass and a small heap of dry leaves, and in the background the thick green forested hills of Sathyamangalam rise under a pale morning sky. Two other forest staff stand a few steps back, seen from behind, one holding a notebook. The ground prints are clearly visible and a faint drag mark runs toward the tree line. It is daylight, mild and clear. Camera: eye level, slightly high, 35 mm, wide enough to show the farm, the house and the forest edge. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a set of big cat paw prints pressed into soft, damp red-brown soil at the boundary of a farm near a forest edge in Kambatharayanpudur, Sathyamangalam, Erode district, Tamil Nadu. Four rounded pads and a clear toe pattern show in the mud, with a dragged furrow leading away across dry grass and dead leaves toward dense forest undergrowth. A wooden stake and a loose strand of rope lie at the edge of the frame. Soft blurred green forest and a small goat's hoofprint sit in the background. Bright daylight from one side creates gentle shadows that bring out the depth of the prints. Camera: low angle near the ground, 50 mm macro-style, shallow depth of field so the tracks are sharp and the background is softly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/சிறுத்தை-தாக்கியதில்-ஆடு-உயிரிழப்பு",
+   "published": "2026-11-23T22:48:10.282Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795476657/erode360/gtuubxjpsasvdh3ddagf.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795476661/erode360/sjofsztdrz09fqktjre3.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "சென்னிமலை அருகே இரு வாகனங்கள் மோதல்: 6 பேர் படுகாயம்",
+   "english_headline": "Two two-wheelers collide head-on near Chennimalai; 6 injured",
+   "category": "Roads & Transport",
+   "location": "Ellamedu Power House area near Chennimalai, Erode district",
+   "importance": "Medium",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "சென்னிமலை",
+    "hl1": "சென்னிமலை அருகே இரு வாகனங்கள் மோதல்",
+    "hl2": "6 பேர் படுகாயம்",
+    "slides": [
+     {
+      "title": "எங்கே நடந்தது?",
+      "lines": [
+       "சென்னிமலை அருகே எல்லமேடு பவர் ஹவுஸ் பகுதி",
+       "திங்கள்கிழமை இரு இருசக்கர வாகனங்கள் நேருக்குநேர் மோதின",
+       "வாகனங்களில் பயணித்த <b>6 பேர்</b> படுகாயம்"
+      ]
+     },
+     {
+      "title": "யார் யார்?",
+      "lines": [
+       "சிவசங்கர் (23 வயது) உள்ளிட்ட மூவர் ஒரு வாகனத்தில்",
+       "நவீன் (19 வயது) உள்ளிட்ட மூவர் மற்றொரு வாகனத்தில்",
+       "அனைவரும் பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "சென்னிமலை போலீசார் வழக்குப் பதிவு செய்தனர்",
        "விசாரணை நடைபெற்று வருகிறது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டத்தை எச்சரித்த போலீஸார் மீது தாக்குதல் நடந்துள்ளது. ஈரோடு மாவட்டம், தாளவாடி அருகேயுள்ள கொங்கள்ளி கோயில் வளாகத்தில் சூதாட்டம் நடைபெறுவதாக திங்கட்கிழமை போலீஸாருக்கு ரகசியத் தகவல் கிடைத்தது. அதையடுத்து, போலீஸார் சம்பவ இடத்துக்குச் சென்றனர். அங்கு சூதாட்டத்தில் ஈடுபட்டிருந்த கர்நாடக மாநில இளைஞர்களை போலீஸார் எச்சரித்ததாகக் கூறப்படுகிறது. அப்போது, அந்த இளைஞர்கள் தாளவாடி காவல் ஆய்வாளர் வாசு உள்பட 3 போலீஸாரைத் தாக்கிவிட்டுத் தப்பியோடினர். காயமடைந்த போலீஸாரை அங்கிருந்த மக்கள் மீட்டு, தாளவாடி அரசு மருத்துவமனைக்கு அனுப்பிவைத்தனர். இச்சம்பவம் குறித்து தாளவாடி போலீஸார் வழக்குப் பதிவு செய்துள்ளனர். தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடக மாநிலத்துக்கு போலீஸார் சென்றுள்ளனர். சம்பவம் குறித்து விசாரணை நடைபெற்று வருகிறது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தாளவாடி அருகே கோயில் வளாகத்தில் சூதாட்டம்: போலீஸார் மீது தாக்குதல்\n\n📰 முழு விவரம்:\nதாளவாடி அருகேயுள்ள கொங்கள்ளி கோயில் வளாகத்தில் சூதாட்டம் நடைபெறுவதாக திங்கட்கிழமை போலீஸாருக்கு ரகசியத் தகவல் கிடைத்தது. சம்பவ இடத்துக்குச் சென்ற போலீஸார், சூதாட்டத்தில் ஈடுபட்டிருந்த கர்நாடக மாநில இளைஞர்களை எச்சரித்ததாகக் கூறப்படுகிறது. அப்போது, தாளவாடி காவல் ஆய்வாளர் வாசு உள்பட 3 போலீஸாரை இளைஞர்கள் தாக்கிவிட்டுத் தப்பியோடினர். காயமடைந்த போலீஸாரை அங்கிருந்த மக்கள் மீட்டு தாளவாடி அரசு மருத்துவமனைக்கு அனுப்பிவைத்தனர். இச்சம்பவம் குறித்து தாளவாடி போலீஸார் வழக்குப் பதிவு செய்துள்ளனர். தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடக மாநிலத்துக்குச் சென்றுள்ளனர். சம்பவம் குறித்து விசாரணை நடைபெற்று வருகிறது.\n\n📍 இடம்: கொங்கள்ளி கோயில் வளாகம், தாளவாடி அருகே, ஈரோடு மாவட்டம்\n🗓️ நாள்: திங்கட்கிழமை (நவம்பர் 23, 2026)\n👮 நடவடிக்கை: தாளவாடி போலீஸார் வழக்குப் பதிவு; தாக்குதல் நடத்தியவர்களைத் தேடி கர்நாடகா சென்றுள்ளனர்\n\nTalavadi police attacked at temple gambling spot | Erode news\n📍 தாளவாடி, ஈரோடு மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Talavadi #ErodeNews #ஈரோடு",
-   "prompts": "Tamil Nadu police in khaki uniform stand at the entrance of a village temple compound in Kongalli near Talavadi, Erode district, while a few young men in shirts and trousers, seen from behind and far away, scatter and run away across the open temple courtyard. The compound has a small temple with a low gopuram and a neem tree, a parked Tamil Nadu police jeep at the gate, and a dusty mud road beyond, with forest-covered hills of the Karnataka border in the background. Daylight, late morning, slightly hazy sky. Eye-level camera, 35 mm, wide enough to show the temple, the police jeep and the hills together, no visible faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a cloth mat spread on the bare ground of a temple courtyard near Talavadi, with playing cards lying face-up and a scattering of coins and folded currency notes, some rolled back under a stone, as a khaki-uniformed police boot stands at the edge of the frame. Dust and dry leaves surround the mat, a small temple wall and a corner of a concrete pillar in the background. Daylight, soft natural light, eye-level camera, 50 mm macro-style detail shot, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/தாளவாடி-அருகே-கோயில்-வளாகத்தில்-சூதாட்டம்-போலீஸாா்-மீது-தாக்குதல்",
-   "published": "2026-11-23T18:33:14.747Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The caption's 'நாள்' line adds 'நவம்பர் 23, 2026' as the date of the incident, but the article gives only 'திங்கள்கிழமை' with no date; this date is not supported by the article.; fact-check: The caption's 'நடவடிக்கை' line says the police went to Karnataka to search for the attackers; the article says this, so it is fine, but the caption's 'Talavadi police attacked at temple gambling spot' English line is an unrequested extra and is not a Tamil claim, so no issue there, only the date above is a problem.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 2 validator problem(s)",
+   "reel_script": "சென்னிமலை அருகே இரு இருசக்கர வாகனங்கள் நேருக்குநேர் மோதியதில் 6 பேர் படுகாயமடைந்தனர். திங்கள்கிழமை எல்லமேடு பவர் ஹவுஸ் அருகே இந்த விபத்து நடந்தது. ஈங்கூர், பாலப்பாளையத்தைச் சேர்ந்த சிவசங்கர் (23 வயது) தனது வாகனத்தில் அபிநந்தன் (17 வயது), மணீஷ்குமார் (17 வயது) ஆகியோருடன் பெருந்துறையை நோக்கிச் சென்றார். பெருந்துறை, தாளக்கரைபுதூரைச் சேர்ந்த நவீன் (19 வயது) தனது வாகனத்தில் அபர்ணா (18 வயது), தீபிகா (18 வயது) ஆகியோருடன் ஈங்கூர் நோக்கி வந்தார். இரண்டு வாகனங்களும் நேருக்குநேர் மோதின. காயமடைந்த 6 பேரையும் அப்பகுதி மக்கள் மீட்டு, பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு அனுப்பி வைத்தனர். இது குறித்து சென்னிமலை போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚗 சென்னிமலை அருகே இரு வாகனங்கள் மோதல்: 6 பேர் படுகாயம்\n\n📰 முழு விவரம்:\nசென்னிமலை அருகே எல்லமேடு பவர் ஹவுஸ் பகுதியில் திங்கள்கிழமை இரு இருசக்கர வாகனங்கள் நேருக்குநேர் மோதிக்கொண்டன.\nசிவசங்கர் (23 வயது) தனது வாகனத்தில் அபிநந்தன் (17 வயது), மணீஷ்குமார் (17 வயது) ஆகியோருடன் பெருந்துறை நோக்கிச் சென்றார். நவீன் (19 வயது) தனது வாகனத்தில் அபர்ணா (18 வயது), தீபிகா (18 வயது) ஆகியோருடன் ஈங்கூர் நோக்கி வந்தார்.\nஇந்த விபத்தில் இரு வாகனங்களிலும் பயணித்த 6 பேர் படுகாயமடைந்தனர். அப்பகுதி மக்கள் அவர்களை மீட்டு பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனைக்கு அனுப்பி வைத்தனர்.\nசென்னிமலை போலீசார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n\n📍 இடம்: எல்லமேடு பவர் ஹவுஸ் அருகே, சென்னிமலை\n🗓️ நாள்: திங்கள்கிழமை\n👮 நடவடிக்கை: சென்னிமலை போலீசார் வழக்குப் பதிவு செய்து விசாரணை\n\nTwo two-wheelers collide near Chennimalai, 6 injured | Erode news\n📍 சென்னிமலை, ஈரோடு மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #ErodeNews #ஈரோடு",
+   "prompts": "Two damaged two-wheelers lie tangled on a village road near Ellamedu Power House close to Chennimalai, after a head-on collision. Their front wheels are twisted and their handlebars bent toward each other, with broken mirrors and scattered plastic panel pieces on the tarmac. Local residents in shirts, veshti and salwar stand at a distance, seen from behind, helping as a group gathers near the roadside. A concrete TNEB power house building and transformer poles stand at the edge of the road, with dry paddy fields and low hills beyond. A few other two-wheelers and an autorickshaw wait slowly on the road. It is a bright daytime scene under clear sky. Shot at eye level with a 35 mm lens, wide enough to show the road, the power house and the crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the damaged front of one two-wheeler lying on the tarmac after the head-on crash near Chennimalai. The bent front fork, cracked headlamp housing and crumpled fender are clearly visible, with the second scooter's crushed front wheel and broken handlebar beside it on the road. Small pieces of broken plastic and gravel are scattered across the dark tarmac, with a pair of slippers left near the kerb. Behind them, slightly out of focus, a concrete power house wall and a few local residents stand far away, seen from behind. Bright daylight, neutral tones, shot at eye level with a 50 mm lens, close enough to show the crash damage clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/2-இருசக்கர-வாகனங்கள்-மோதல்-6-போ்-படுகாயம்",
+   "published": "2026-11-23T22:40:44.757Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('சென்னிமலை அருகே 2 இருசக்கர வாகனங்கள் நேருக்குநோ் மோதிக்கொண்'); 12 ('இவா் தனது இருசக்கர வாகனத்தில் அதே பகுதியைச் சோ்ந்த பெருந்து'); 2 ('2 இருசக்கர வாகனங்கள் மோதல்: 6 போ் படுகாயம்')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795473631/erode360/ioqdmdahx2xvgx53m3br.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795473635/erode360/zloatdcqtcd2rx1s9sdb.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795477063/erode360/wcej8ybp25xdm9vn0ypg.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795477066/erode360/wnhkhy069pi1do6uwixl.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் 11 கிலோ கஞ்சா பறிமுதல்: இருவர் கைது",
+   "english_headline": "Police seize 11 kg of ganja in Erode near railway station, two arrested",
+   "category": "Crime & Safety",
+   "location": "Erode railway station area, Erode district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "போலீஸ் நடவடிக்கை",
+    "loc": "ஈரோடு ரயில் நிலையம்",
+    "hl1": "ஈரோட்டில் 11 கிலோ கஞ்சா பறிமுதல்",
+    "hl2": "இருவர் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஈரோடு மதுவிலக்கு போலீசார் ரோந்தில் இருந்தனர்",
+       "ரயில் நிலையப் பகுதியில் <b>ஞாயிற்றுக்கிழமை இரவு</b>",
+       "சந்தேகத்துக்கு இடமாக நின்ற இருவரிடம் விசாரணை"
+      ]
+     },
+     {
+      "title": "யார் இவர்கள்?",
+      "lines": [
+       "தஞ்சாவூர் மாவட்டம், பட்டுக்கோட்டையைச் சேர்ந்த சூர்யா (29 வயது)",
+       "சேலம் மாவட்டம், மேட்டூர் அருகே ரமேஷ் (38 வயது)",
+       "பெருந்துறையில் பழைய இரும்புக் கடை நடத்தி வருபவர்"
+      ]
+     },
+     {
+      "title": "எங்கே மறைத்தனர்?",
+      "lines": [
+       "ஆந்திர மாநிலம் விசாகப்பட்டினம் சிறையில் பழக்கம்",
+       "ஈரோட்டில் கஞ்சா விற்பனை செய்ய முயன்றது தெரிந்தது",
+       "ரயில் நிலைய பார்சல் அலுவலகம் அருகே காட்டுப் பகுதியில் <b>11"
+      ]
+     },
+     {
+      "title": "நடவடிக்கை",
+      "lines": [
+       "இருவரும் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டனர்",
+       "<b>திங்கள்கிழமை</b> ஈரோடு கிளைச் சிறையில் அடைக்கப்பட்டனர்",
+       "போலீசார் தொடர்ந்து கண்காணிப்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் 11 கிலோ கஞ்சாவைப் பறிமுதல் செய்து இருவரைப் போலீசார் கைது செய்தனர். ஈரோடு மதுவிலக்கு போலீசார் ரயில் நிலையப் பகுதியில் ஞாயிற்றுக்கிழமை இரவு ரோந்தில் ஈடுபட்டிருந்தனர். அப்போது சந்தேகத்துக்கு இடமாக நின்றிருந்த இருவரிடம் போலீசார் விசாரணை நடத்தினர். விசாரணையில் அவர்கள் தஞ்சாவூர் மாவட்டம், பட்டுக்கோட்டை, கறிக்காடு பகுதியைச் சேர்ந்த சூர்யா (29 வயது) என்பதும், சேலம் மாவட்டம், மேட்டூர் அருகே உள்ள தின்னப்பட்டி பகுதியைச் சேர்ந்த ரமேஷ் (38 வயது) என்பதும் தெரியவந்தது. ரமேஷ் பெருந்துறையில் பழைய இரும்புக் கடை நடத்தி வருகிறார். இருவரும் ஆந்திர மாநிலம் விசாகப்பட்டினம் சிறையில் இருந்தபோது பழக்கமானவர்கள். ஈரோட்டில் கஞ்சா விற்பனை செய்ய முயன்றதும் தெரியவந்தது. இதையடுத்து, ஈரோடு ரயில் நிலைய பார்சல் அலுவலகம் அருகே காட்டுப் பகுதியில் மறைத்து வைத்திருந்த 11 கிலோ கஞ்சாவைப் போலீசார் பறிமுதல் செய்தனர். இருவரையும் நீதிமன்றத்தில் ஆஜர்படுத்தி, திங்கள்கிழமை ஈரோடு கிளைச் சிறையில் அடைத்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோட்டில் 11 கிலோ கஞ்சா பறிமுதல்: இருவர் கைது\n\n📰 முழு விவரம்:\nஈரோடு மதுவிலக்கு போலீசார் ரயில் நிலையப் பகுதியில் ஞாயிற்றுக்கிழமை இரவு ரோந்தில் ஈடுபட்டிருந்தனர். அப்போது சந்தேகத்துக்கு இடமாக நின்றிருந்த இருவரிடம் விசாரணை நடத்தினர்.\nவிசாரணையில் தஞ்சாவூர் மாவட்டம், பட்டுக்கோட்டை, கறிக்காடு பகுதியைச் சேர்ந்த சூர்யா (29 வயது), சேலம் மாவட்டம், மேட்டூர் அருகே தின்னப்பட்டி பகுதியைச் சேர்ந்த ரமேஷ் (38 வயது) என்பது தெரியவந்தது.\nபெருந்துறையில் பழைய இரும்புக் கடை நடத்தி வரும் ரமேஷ், இருவரும் ஆந்திர மாநிலம் விசாகப்பட்டினம் சிறையில் இருந்தபோது பழக்கமானவர்கள் என்றும், ஈரோட்டில் கஞ்சா விற்பனை செய்ய முயன்றனர் என்றும் தெரிவித்தனர்.\nஈரோடு ரயில் நிலைய பார்சல் அலுவலகம் அருகே காட்டுப் பகுதியில் மறைத்து வைத்திருந்த 11 கிலோ கஞ்சாவைப் போலீசார் பறிமுதல் செய்தனர். இருவரையும் நீதிமன்றத்தில் ஆஜர்படுத்தி, திங்கள்கிழமை ஈரோடு கிளைச் சிறையில் அடைத்தனர்.\n\nErode 11 kg ganja seized, two arrested near railway station | Erode news\n📍 ஈரோடு ரயில் நிலையப் பகுதி, ஈரோடு மாவட்டம் | 23 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ஈரோடு #கஞ்சா #ErodeNews",
+   "prompts": "At night, two Tamil Nadu police constables in khaki uniforms stand beside a bushy patch of land near the railway station parcel office in Erode, shining a torch on a heap of 11 kg of ganja packed in dark plastic bundles and gunny sacks laid on the ground among dry grass and scrub. Behind them, two men with their backs to the camera, one in a shirt and one in a checked lungi, stand under the sodium streetlight of the station approach, hands held behind them by constables. The setting is the outer edge of Erode railway station: the low parcel office building with its shutter, a few parked two-wheelers, a concrete boundary wall and an overhead wire, with the dark outline of the wooded area in the background. Night, cool and dim, lit only by the torch and streetlight. Shot at eye level, 35 mm lens, wide enough to show the station edge and the seized heap. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up on a heap of seized ganja on the bare earth of a bushy patch in Erode, dark green and brown dried leaves and flower tops packed tightly into several plastic bundles and a cloth sack, with a police torch beam falling across them and a khaki uniform sleeve and boot at the edge of the frame. Dry grass, scrub and a thin concrete wall corner sit behind the heap, indicating the area beside the railway station parcel office at night. No faces, no readable labels or text on the packets. Night, dim light, torch-lit, eye level, 35 mm lens, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/11-கிலோ-கஞ்சா-பறிமுதல்-இருவா்-கைது-2",
+   "published": "2026-11-23T22:34:17.441Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slide 2 line 1 longer than 60 characters",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795477202/erode360/loolvepd9yqwinh47as9.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795477206/erode360/nw4qvcawc9idhbt3keua.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கோபி அருகே சிறுவனின் கழுத்தில் கத்தி வைத்து 5 பவுன் நகை கொள்ளை: இளைஞர் கைது",
+   "english_headline": "Youth arrested for knife robbery of 5 pavun gold at boy's home near Gobi",
+   "category": "Crime & Safety",
+   "location": "Mothur Puthu Thottam, Gobi, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கொள்ளை சம்பவம்",
+    "loc": "மோதூர், கோபி",
+    "hl1": "கோபி அருகே சிறுவனிடம் கொள்ளை",
+    "hl2": "இளைஞர் கைது",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஞாயிற்றுக்கிழமை நள்ளிரவு வீட்டில் கொள்ளை",
+       "சிறுவனின் கழுத்தில் கத்தி வைத்து மிரட்டல்",
+       "<b>5 பவுன்</b> நகை, <b>ரூ.1,950</b> பணம் பறிப்பு"
+      ]
+     },
+     {
+      "title": "எங்கே?",
+      "lines": [
+       "கோபி அருகே மோதூர் புதுத்தோட்டம்",
+       "தோட்டத்து வீட்டில் தாய், மகன் வசித்தனர்",
+       "பங்களாபுதூர் காவல் நிலையத்தில் புகார்"
+      ]
+     },
+     {
+      "title": "கைது",
+      "lines": [
+       "போலீசார் விசாரணை நடத்தினர்",
+       "கொடிவேரி பகுதியில் பதுங்கியிருந்த நபர் கைது",
+       "நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைப்பு"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கோபி அருகே சிறுவனின் கழுத்தில் கத்தி வைத்து மிரட்டி 5 பவுன் நகை கொள்ளையடிக்கப்பட்டது. மோதூர் புதுத்தோட்டம் பகுதியைச் சேர்ந்த திலகமணி, 45 வயது பெண். கணவர் உயிரிழந்த நிலையில், மகன் மதனரஞ்சித், 15 வயது சிறுவனுடன் தோட்டத்து வீட்டில் வசித்து வருகிறார். ஞாயிற்றுக்கிழமை இரவு இருவரும் உறங்கிக் கொண்டிருந்தனர். நள்ளிரவு வீட்டின் கதவைத் திறந்து உள்ளே நுழைந்த நபர், மதனரஞ்சித்தின் கழுத்தில் கத்தியை வைத்து மிரட்டினார். பீரோவில் உள்ள நகை, பணத்தை எடுத்துத் தருமாறு கூறினார். அச்சமடைந்த மதனரஞ்சித், 5 பவுன் நகை, ரூ.1,950 ரொக்கப் பணத்தை எடுத்துக் கொடுத்தார். பின்னர் அந்த நபர் அங்கிருந்து தப்பிச் சென்றார். நடந்ததை மதனரஞ்சித் தனது தாய் திலகமணியிடம் தெரிவித்தார். திலகமணி பங்களாபுதூர் காவல் நிலையத்தில் புகார் அளித்தார். வழக்குப் பதிவு செய்த போலீசார், கொள்ளையனைத் தேடி விசாரணை நடத்தினர். விசாரணையில் அவர் மோதூர் பகுதியைச் சேர்ந்த பிரதாப், 30 வயது இளைஞர் என்பது தெரியவந்தது. கொடிவேரி பகுதியில் பதுங்கியிருந்த அவரை போலீசார் கைது செய்தனர். திங்கள்கிழமை நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைத்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 கோபி அருகே சிறுவனின் கழுத்தில் கத்தி வைத்து 5 பவுன் நகை கொள்ளை: இளைஞர் கைது\n\n📰 முழு விவரம்:\nகோபி அருகே மோதூர் புதுத்தோட்டம் பகுதியில், ஞாயிற்றுக்கிழமை நள்ளிரவு வீட்டுக்குள் நுழைந்த நபர், 15 வயது மதனரஞ்சித்தின் கழுத்தில் கத்தியை வைத்து மிரட்டி, பீரோவில் இருந்த 5 பவுன் நகை, ரூ.1,950 ரொக்கத்தை பறித்துச் சென்றார். தாய் திலகமணி (45 வயது) பங்களாபுதூர் காவல் நிலையத்தில் புகார் அளித்தார். விசாரணையில் அவர் மோதூரைச் சேர்ந்த பிரதாப் (30 வயது) என்பது தெரியவந்தது. கொடிவேரி பகுதியில் பதுங்கியிருந்த அவரை திங்கள்கிழமை போலீசார் கைது செய்து, நீதிமன்றத்தில் ஆஜர்படுத்தி சிறையில் அடைத்தனர்.\n📍 இடம்: மோதூர் புதுத்தோட்டம், கோபி அருகே\n🗓️ நாள்: ஞாயிற்றுக்கிழமை இரவு – கைது திங்கள்கிழமை\n👮 நடவடிக்கை: இளைஞர் கைது, நீதிமன்றக் காவலில் சிறை\n\nGobi house robbery, knife threat, youth arrested | Erode news\n📍 கோபி அருகே, ஈரோடு மாவட்டம் | 24 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A Tamil Nadu police sub-inspector in khaki uniform stands beside a police jeep in front of a simple farm house in Mothur Puthu Thottam, near Gobi in Erode district, as a suspect is escorted towards the vehicle by two constables seen from behind and far away. The place is a rural garden house with a concrete compound wall, a tiled roof and an iron gate, with coconut palms and green paddy fields in the background under bright daylight. The officers wear khaki shirts and trousers, one holds a file, and the detained youth is shown only from behind, wearing a plain shirt and trousers, his hands loosely held. The scene is shot at eye level from about 20 metres, 35 mm, wide enough to show the house, fields and police vehicle together, with the Kodiveri-side hills faintly visible on the horizon. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden almirah (steel cupboard) inside a modest farm house, its door left open, with a small heap of gold jewellery, a few pavun-weight gold chains and bangles resting on a folded cloth, and a stack of Rs 500 and Rs 100 cash notes placed beside them on a worn wooden shelf. A blurred police officer's khaki sleeve and a notebook appear at the edge of the frame, while a steel tumbler and a plastic lamp sit nearby. Daylight from a small window falls softly on the jewellery and notes. Shot at table height, 35 mm, shallow depth of field with the gold in sharp focus, no faces visible and no readable text on any object. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/23/சிறுவனின்-கழுத்தில்-கத்தியை-வைத்து-மிரட்டி-5-பவுன்-கொள்ளை-இளைஞா்-கைது",
+   "published": "2026-11-23T22:30:38.823Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: reel_script says the mother and son were both sleeping and frames it as a joint household event, but the article says the mother slept in the kitchen and the son in another room; minor but the reel_script omits this distinction (not a major factual error); fact-check: reel_script says the son is a '15 வயது சிறுவன்' living 'with' the mother in the farm house, which matches; however the reel_script states the arrest and court production happened on 'திங்கள்கிழமை' only implicitly and the court appearance is listed as 'திங்கள்கிழமை நீதிமன்றத்தில்' without the article stating the court date, which is a detail not clearly supported by the article; fact-check: caption states the robber took the items 'பீரோவில் இருந்த' and the knife was at the son's neck, consistent; but caption says the mother 'புகார் அளித்தார்' and reel says the same, fine; the caption's 'நீதிமன்றக் காவலில் சிறை' is a reasonable paraphrase of 'சிறையில் அடைத்தனர்'; fact-check: reel_script says Pratap is '30 வயது இளைஞர்' — article says the man is 'பிரதாப் (30)', consistent; no problem",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 4 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795477344/erode360/f3xvebqmdqub89mpioob.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795477347/erode360/slc1r2fvqyiai49ywbga.jpg"
    ]
   }
  ]
