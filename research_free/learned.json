@@ -1,16 +1,17 @@
 {
- "updated": "2026-11-24T10:28+05:30",
- "posts_measured": 220,
+ "updated": "2026-11-24T11:54+05:30",
+ "posts_measured": 224,
  "topic_weight": {
   "crime": 1.5,
   "weather": -0.5,
   "civic": -0.5,
   "accident": 0.89,
   "education": -0.5,
-  "temple": -0.3,
+  "temple": -0.31,
   "politics": -0.14,
-  "power_cut": 0.4,
-  "poultry_agri": -0.5
+  "power_cut": 0.41,
+  "poultry_agri": -0.5,
+  "sports_culture": -0.5
  },
  "topic_n": {
   "crime": 40,
@@ -18,12 +19,12 @@
   "civic": 24,
   "accident": 28,
   "education": 22,
-  "temple": 25,
+  "temple": 26,
   "politics": 14,
   "power_cut": 5,
-  "poultry_agri": 12,
-  "jobs": 1,
-  "sports_culture": 2
+  "poultry_agri": 13,
+  "jobs": 2,
+  "sports_culture": 3
  },
  "best_hours_ist": [
   1,
@@ -32,12 +33,12 @@
   0
  ],
  "top_openings": [
+  "📋 ஈரோட்டில் குறைதீர் கூட்டம்: 245 மனுக்கள் ஏற்பு",
   "🚨 அந்தியூரில் 877 கிலோ தடை புகையிலைப் பொருள்கள் பறிமுதல்: மூவர் கைது",
   "🚨 பவானிசாகரில் போதை பொருட்களுடன் ரவுடி உட்பட 3 பேர் கைது",
-  "🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு",
-  "🚨 பவானி அருகே கஞ்சா விற்பனை: 7 பேர் கைது"
+  "🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு"
  ],
- "avg_watch_s": 8.0,
+ "avg_watch_s": 7.9,
  "best_topics": [
   "crime",
   "accident",
