@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-24 | `8ef40da` | Collection: a news listed late (Dinamalar dates it at print time) is offered once if it is from the last 24 h - it was always 'published before this window' and never posted |
-| 2026-11-24 | `f700f8a` | Facebook posts every news like Instagram: daily news limit 15 -> 30 (Meta's own API reel limit per page in 24 h) |
-| 2026-11-24 | `c5f5291` | stories shared / Instagram pause |
-| 2026-11-24 | `207ed49` | stories shared / Instagram pause |
-| 2026-11-24 | `01c7d85` | facebook RN-271 |
-| 2026-11-24 | `13e9f2d` | posted RN-271 |
-| 2026-11-24 | `22b166a` | stories shared / Instagram pause |
-| 2026-11-24 | `f7545e1` | stories shared / Instagram pause |
-| 2026-11-24 | `5f9831f` | facebook RN-268 |
-| 2026-11-24 | `0f3cfa8` | posted RN-268 |
-| 2026-11-24 | `ecda2ba` | stories shared / Instagram pause |
-| 2026-11-24 | `815e921` | facebook RN-270 |
-| 2026-11-24 | `c551e47` | posted RN-270 |
-| 2026-11-24 | `0f3ba67` | stories shared / Instagram pause |
-| 2026-11-24 | `28d5637` | stories shared / Instagram pause |
-| 2026-11-24 | `5bf93e6` | facebook RN-265 |
-| 2026-11-24 | `7bc18ee` | posted RN-265 |
-| 2026-11-24 | `71e5346` | pick: written and posted |
-| 2026-11-24 | `7842119` | pick: list sent |
-| 2026-11-24 | `dd00c4c` | stories shared / Instagram pause |
-| 2026-11-24 | `2923017` | manual post e-mail RN-271 |
-| 2026-11-24 | `208cd2f` | facebook RN-266 |
-| 2026-11-24 | `d576eac` | posted RN-266 |
-| 2026-11-24 | `c82e78c` | manual post e-mail RN-268 |
-| 2026-11-24 | `e032521` | manual post e-mail RN-265 |
-| 2026-11-24 | `699b2d6` | manual post e-mail RN-270 |
-| 2026-11-24 | `feb30ef` | stories shared / Instagram pause |
-| 2026-11-24 | `ea63737` | stories shared / Instagram pause |
-| 2026-11-24 | `0f89e40` | facebook RN-239 |
-| 2026-11-24 | `facb593` | posted RN-239 |
+| 2026-11-24 | `15e33ec` | A self-immolation / suicide ATTEMPT where nobody died (a protest) is news and posts automatically - a death still needs the owner's tick; Samayam Tamil is a trusted outlet |
+| 2026-11-24 | `7996f4e` | pick: picked news saved |
+| 2026-11-24 | `121eda3` | stories shared / Instagram pause |
+| 2026-11-24 | `523b4a0` | stories shared / Instagram pause |
+| 2026-11-24 | `6aa2d24` | stories shared / Instagram pause |
+| 2026-11-24 | `c62b817` | pick: picked news saved |
+| 2026-11-24 | `1051d94` | pick: list sent |
+| 2026-11-24 | `901e425` | stories shared / Instagram pause |
+| 2026-11-24 | `527e018` | stories shared / Instagram pause |
+| 2026-11-24 | `d08018f` | stories shared / Instagram pause |
+| 2026-11-24 | `d24414c` | stories shared / Instagram pause |
+| 2026-11-24 | `a6c1729` | stories shared / Instagram pause |
+| 2026-11-24 | `af9cffc` | stories shared / Instagram pause |
+| 2026-11-24 | `ffdc68d` | stories shared / Instagram pause |
+| 2026-11-24 | `bac4f36` | stories shared / Instagram pause |
+| 2026-11-24 | `13f1931` | stories shared / Instagram pause |
+| 2026-11-24 | `814fcd9` | powercut: notices written |
+| 2026-11-24 | `c8a4ad8` | stories shared / Instagram pause |
+| 2026-11-24 | `68a82d0` | stories shared / Instagram pause |
+| 2026-11-24 | `3ddb70b` | stories shared / Instagram pause |
+| 2026-11-24 | `aaf09d5` | stories shared / Instagram pause |
+| 2026-11-24 | `34729e0` | stories shared / Instagram pause |
+| 2026-11-24 | `cc33720` | stories shared / Instagram pause |
+| 2026-11-24 | `298e622` | stories shared / Instagram pause |
+| 2026-11-24 | `c605941` | powercut: notices written |
+| 2026-11-24 | `79da550` | stories shared / Instagram pause |
+| 2026-11-24 | `b75d779` | stories shared / Instagram pause |
+| 2026-11-24 | `814fdbf` | stories shared / Instagram pause |
+| 2026-11-24 | `de32e98` | stories shared / Instagram pause |
+| 2026-11-24 | `a0fb44e` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
