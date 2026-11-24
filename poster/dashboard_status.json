@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T06:46:16+00:00",
+ "updated": "2026-11-24T06:59:41+00:00",
  "day": "2026-11-24",
- "ready": 6,
+ "ready": 5,
  "pages": {
   "erode": {
    "label": "ஈரோடு 360",
@@ -69,6 +69,13 @@
       "link": "https://www.instagram.com/reel/DgHU-C5Ddkf/",
       "at": "2026-11-24T06:38:08+00:00",
       "kind": "reel"
+     },
+     {
+      "id": "RN-266",
+      "head": "ஈரோடு மாநகராட்சியில் நாளை 19 இனங்களுக்கு ஏலம்",
+      "link": "https://www.instagram.com/reel/DgHWd9jEroR/",
+      "at": "2026-11-24T06:50:53+00:00",
+      "kind": "reel"
      }
     ],
     "paused": "",
@@ -93,7 +100,14 @@
     ],
     "paused": ""
    },
-   "manual_post": [],
+   "manual_post": [
+    {
+     "id": "RN-271",
+     "why": "ready for more than 3 hours and still not posted",
+     "sent": "2026-11-24T06:56:59+00:00",
+     "video": true
+    }
+   ],
    "daily": {
     "gold": {
      "posted": true,
