@@ -11,7 +11,8 @@
    "category": "ரயில்",
    "score": 6.0,
    "power_cut": false,
-   "listed_at": "2026-11-24T20:26:41.887997+05:30"
+   "listed_at": "2026-11-24T20:26:41.887997+05:30",
+   "picked_at": "2026-11-24T20:27:36.835203+05:30"
   }
  },
  "rounds": {
@@ -543,8 +544,16 @@
    ],
    "sent": false,
    "deadline": "2026-11-24T21:26:41.887997+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 5 of 1 by insights",
+    "ids": [
+     "C41b386f"
+    ],
+    "at": "2026-11-24T20:27:36.835195+05:30"
+   },
+   "written": [
+    "C41b386f"
+   ]
   }
  },
  "retry": {
