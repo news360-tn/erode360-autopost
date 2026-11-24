@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `8eb0e22` | Facebook: 20 news a day per page (owner 24 Nov) |
+| 2026-11-24 | `bb592dc` | stories shared / Instagram pause |
+| 2026-11-24 | `43fa943` | stories shared / Instagram pause |
+| 2026-11-24 | `1866057` | stories shared / Instagram pause |
+| 2026-11-24 | `9ff2411` | facebook RN-273 |
+| 2026-11-24 | `07c3403` | posted RN-273 |
+| 2026-11-24 | `a1378e4` | pick: written and posted |
+| 2026-11-24 | `7247b5d` | stories shared / Instagram pause |
+| 2026-11-24 | `65f3f63` | goldrate posted |
+| 2026-11-24 | `a2e11e8` | facebook RN-272 |
+| 2026-11-24 | `96b8fe5` | posted RN-272 |
 | 2026-11-24 | `15e33ec` | A self-immolation / suicide ATTEMPT where nobody died (a protest) is news and posts automatically - a death still needs the owner's tick; Samayam Tamil is a trusted outlet |
 | 2026-11-24 | `7996f4e` | pick: picked news saved |
 | 2026-11-24 | `121eda3` | stories shared / Instagram pause |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `814fcd9` | powercut: notices written |
 | 2026-11-24 | `c8a4ad8` | stories shared / Instagram pause |
 | 2026-11-24 | `68a82d0` | stories shared / Instagram pause |
-| 2026-11-24 | `3ddb70b` | stories shared / Instagram pause |
-| 2026-11-24 | `aaf09d5` | stories shared / Instagram pause |
-| 2026-11-24 | `34729e0` | stories shared / Instagram pause |
-| 2026-11-24 | `cc33720` | stories shared / Instagram pause |
-| 2026-11-24 | `298e622` | stories shared / Instagram pause |
-| 2026-11-24 | `c605941` | powercut: notices written |
-| 2026-11-24 | `79da550` | stories shared / Instagram pause |
-| 2026-11-24 | `b75d779` | stories shared / Instagram pause |
-| 2026-11-24 | `814fdbf` | stories shared / Instagram pause |
-| 2026-11-24 | `de32e98` | stories shared / Instagram pause |
-| 2026-11-24 | `a0fb44e` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
