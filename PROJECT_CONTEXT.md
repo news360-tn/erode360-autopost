@@ -83,6 +83,7 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `8ef40da` | Collection: a news listed late (Dinamalar dates it at print time) is offered once if it is from the last 24 h - it was always 'published before this window' and never posted |
 | 2026-11-24 | `f700f8a` | Facebook posts every news like Instagram: daily news limit 15 -> 30 (Meta's own API reel limit per page in 24 h) |
 | 2026-11-24 | `c5f5291` | stories shared / Instagram pause |
 | 2026-11-24 | `207ed49` | stories shared / Instagram pause |
@@ -112,5 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `ea63737` | stories shared / Instagram pause |
 | 2026-11-24 | `0f89e40` | facebook RN-239 |
 | 2026-11-24 | `facb593` | posted RN-239 |
-| 2026-11-24 | `87d0b54` | Google News links: when Google refuses the decoder (429), the same headline on Bing (same newspaper) gives the article link - news is no longer dropped |
 <!-- recent-changes:end -->
