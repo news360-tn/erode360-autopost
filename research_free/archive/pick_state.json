@@ -1,45 +1,32 @@
 {
- "last_end": "2026-11-24T12:29:59.427573+05:30",
- "pool": {},
- "rounds": {
-  "2026-11-22_15": {
-   "window": [
-    "2026-11-22T12:29:47.158384+05:30",
-    "2026-11-22T15:29:12.911695+05:30"
-   ],
-   "ids": [
-    "C86f1a77",
-    "C693cc74",
-    "C5aaa7e6",
-    "C7ece59a",
-    "Cbdeb8f9",
-    "C97f3303",
-    "C5748e34",
-    "Cebfe328"
-   ],
-   "sent": false,
-   "deadline": "2026-11-22T16:29:12.911695+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 7 by insights",
-    "ids": [
-     "C693cc74",
-     "C7ece59a",
-     "C86f1a77",
-     "Cbdeb8f9",
-     "C97f3303",
-     "C5748e34"
-    ],
-    "at": "2026-11-22T15:30:29.561724+05:30"
-   },
-   "written": [
-    "C5748e34",
-    "C693cc74",
-    "C7ece59a",
-    "C86f1a77",
-    "C97f3303",
-    "Cbdeb8f9"
-   ]
+ "last_end": "2026-11-24T16:27:38.114665+05:30",
+ "pool": {
+  "C4159df1": {
+   "id": "C4159df1",
+   "url": "https://www.dailythanthi.com/news/tamilnadu/karnataka-gambling-gang-attacks-3-policemen-including-a-sub-inspector-near-thalavadi",
+   "title": "தாளவாடி அருகே சப்-இன்ஸ்பெக்டர் உள்பட 3 போலீசார் மீது தாக்குதல்: கர்நாடக சூதாட்ட கும்பல் அட்டூழியம்",
+   "summary": "ஈரோடு,ஈரோடு மாவட்டம் தாளவாடி அருகே கொங்கள்ளியில் பிரசித்தி பெற்ற மல்லிகார் ஜுன சுவாமி கோவில் அமைந்துள்ளது. இக்கோவிலில் அமாவாசை மற்றும் பவுர்ணமி நாட்களில் சிறப்பு பூஜைகள் நடைபெறும்.",
+   "source": "தினத்தந்தி",
+   "published": "2026-11-24T07:09:31Z",
+   "category": "குற்றம்",
+   "score": 11.0,
+   "power_cut": false,
+   "listed_at": "2026-11-24T16:27:38.114665+05:30"
   },
+  "C215aad8": {
+   "id": "C215aad8",
+   "url": "https://tamil.indianexpress.com/tamilnadu/kalaignar-karunanidhi-statues-vandalised-at-three-locations-in-erode-k-veeramani-condemns-incident-demands-strict-action-12837286",
+   "title": "ஈரோட்டில் 3 இடங்களில் கலைஞர் கருணாநிதி சிலைகள் சேதம்; கி.வீரமணி கண்டனம்; தி.மு.கவினர் சாலை மறியல்",
+   "summary": "ஈரோடு மாவட்டத்தில் முன்னாள் முதலமைச்சரும், திமுக முன்னாள் தலைவருமான முத்தமிழறிஞர் கலைஞர் கருணாநிதியின் சிலைகள் மற்றும் திமுக அலுவலகங்கள் சேதப்படுத்தப்பட்ட சம்பவம் அரசியல் வட்டாரத்தில் பரபரப்பை ஏற்படுத்தியுள்ளது.",
+   "source": "இந்தியன் எக்ஸ்பிரஸ் தமிழ்",
+   "published": "2026-11-24T13:18:42+05:30",
+   "category": "சாலை",
+   "score": 8.5,
+   "power_cut": false,
+   "listed_at": "2026-11-24T16:27:38.114665+05:30"
+  }
+ },
+ "rounds": {
   "2026-11-22_17": {
    "window": [
     "2026-11-22T15:29:12.911695+05:30",
@@ -570,7 +557,36 @@
    "deadline": "2026-11-24T13:29:59.427573+05:30",
    "decided": null,
    "written": []
+  },
+  "2026-11-24_16": {
+   "window": [
+    "2026-11-24T12:29:59.427573+05:30",
+    "2026-11-24T16:27:38.114665+05:30"
+   ],
+   "ids": [
+    "C4159df1",
+    "C215aad8"
+   ],
+   "sent": false,
+   "deadline": "2026-11-24T17:27:38.114665+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {}
+ "retry": {
+  "https://tamil.news18.com/videos/tamil-nadu/erode-karunanithi-2260822.html": {
+   "it": {
+    "key": "CBMifkFVX3lxTE1DYlU2ekVIVjFUNWdseHZyalJTZEVHSzd6a0dHb3pGVmd4ZDJRZU5VS2FkQVV0NVkzSklmbkoxc0c4dGtRSVRjd0c4SHVZUlZtbUlDcU1nS19Da1A1U2ZCbEhVdWFHNWdRRDVrR1REWTR5SUxvZHc2bUZqZ3hqUQ",
+    "url": "https://tamil.news18.com/videos/tamil-nadu/erode-karunanithi-2260822.html",
+    "title": "Erode | Karunanithi | ஈரோட்டில் கருணாநிதி சிலையை சேதம்.. ஒருவரை பிடித்து விசாரணை..",
+    "site": "https://tamil.news18.com",
+    "source": "News18 Tamil",
+    "published": "2026-11-24T13:11:33+05:30",
+    "via": "google",
+    "query": "ஈரோடு",
+    "snippet": " Erode | Karunanithi | ஈரோட்டில் கருணாநிதி சிலையை சேதம்.. ஒருவரை பிடித்து விசாரணை..    News18 Tamil "
+   },
+   "first": "2026-11-24T16:27:38.114665+05:30"
+  }
+ }
 }
