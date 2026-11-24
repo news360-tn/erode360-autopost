@@ -1,14 +1,32 @@
 [
-  {
-    "name": "தினமணி ஈரோடு",
-    "url": "https://www.dinamani.com/all-editions/edition-coimbatore/erode",
-    "link_regex": "href=\"((?:https://www\\.dinamani\\.com)?/all-editions/edition-coimbatore/erode/\\d{4}/[^\"#?]+)\"",
-    "limit": 40
-  },
-  {
-    "name": "ஒன்இந்தியா ஈரோடு",
-    "url": "https://tamil.oneindia.com/news/erode/",
-    "link_regex": "href=\"((?:https://tamil\\.oneindia\\.com)?/news/erode/[^\"#?]+-\\d{5,}\\.html)\"",
-    "limit": 30
-  }
+ {
+  "name": "தினமணி ஈரோடு",
+  "url": "https://www.dinamani.com/all-editions/edition-coimbatore/erode",
+  "link_regex": "href=\"((?:https://www\\.dinamani\\.com)?/all-editions/edition-coimbatore/erode/\\d{4}/[^\"#?]+)\"",
+  "limit": 40
+ },
+ {
+  "name": "ஒன்இந்தியா ஈரோடு",
+  "url": "https://tamil.oneindia.com/news/erode/",
+  "link_regex": "href=\"((?:https://tamil\\.oneindia\\.com)?/news/erode/[^\"#?]+-\\d{5,}\\.html)\"",
+  "limit": 30
+ },
+ {
+  "name": "இந்து தமிழ் ஈரோடு",
+  "url": "https://www.hindutamil.in/topic/erode",
+  "link_regex": "href=\"((?:https://www\\.hindutamil\\.in)?/news/[a-z-]+/[^\"#?]{15,})\"",
+  "limit": 30
+ },
+ {
+  "name": "விகடன் ஈரோடு",
+  "url": "https://www.vikatan.com/topics/erode",
+  "link_regex": "href=\"(https://www\\.vikatan\\.com/(?!live/|topics/)[a-z-]+/[^\"#?]{20,})\"",
+  "limit": 30
+ },
+ {
+  "name": "பாலிமர் ஈரோடு",
+  "url": "https://www.polimernews.com/tags/erode",
+  "link_regex": "href=\"((?:https://www\\.polimernews\\.com)?/districtnews/[^\"#?]+)\"",
+  "limit": 30
+ }
 ]
