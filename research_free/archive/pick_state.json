@@ -1,68 +1,20 @@
 {
- "last_end": "2026-11-24T20:26:41.887997+05:30",
+ "last_end": "2026-11-24T22:26:13.020673+05:30",
  "pool": {
-  "C41b386f": {
-   "id": "C41b386f",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-news/maintenance-work-at-palakkad-shifted-to-erode-and-chennai-trains/4385060",
-   "title": "பாலக்காடில் பராமரிப்பு பணி ஈரோடு, சென்னை ரயில்களில் மாற்றம்",
-   "summary": "சேலம்: கேரள மாநிலம், பாலக்காடு ரயில்வே ஸ்டேஷனில் மறுசீரமைப்பு பணி நடக்கிறது. இதனால், ஈரோடு மற்றும் சென்னை சென்ட்ரல் வழித்தடங்களில் இயக்கப்படும் ரயில் ரத்து செய்யப்பட்டுள்ளன.",
+  "C730c890": {
+   "id": "C730c890",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-news/karunanidhi-statue-vandalism/4385329",
+   "title": "கருணாநிதி சிலை உடைப்பு",
+   "summary": "ஈரோடு: கருணாநிதி சிலைகள், தி.மு.க., அலுவலகங்கள், நுாலக கண்ணாடி உடைப்பு குறித்து அந்தந்த பகுதி தி.மு.க., நிர்வாகிகள், போலீசில் புகார் செய்தனர்.",
    "source": "தினமலர்",
-   "published": "2026-11-24T18:16:42+05:30",
-   "category": "ரயில்",
-   "score": 6.0,
+   "published": "2026-11-24T21:53:02+05:30",
+   "category": "பொது",
+   "score": 4.0,
    "power_cut": false,
-   "listed_at": "2026-11-24T20:26:41.887997+05:30",
-   "picked_at": "2026-11-24T20:27:36.835203+05:30",
-   "posted": true
+   "listed_at": "2026-11-24T22:26:13.020673+05:30"
   }
  },
  "rounds": {
-  "2026-11-22_22": {
-   "window": [
-    "2026-11-22T20:16:29.820349+05:30",
-    "2026-11-22T22:28:34.307494+05:30"
-   ],
-   "ids": [
-    "C25d6d30",
-    "C4d7a130",
-    "C9791cea",
-    "Cd904f1d",
-    "C0d20582",
-    "C8a23190",
-    "Cc5f840a",
-    "C5aaa7e6",
-    "C77908db"
-   ],
-   "sent": false,
-   "deadline": "2026-11-22T23:28:34.307494+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 7 by insights",
-    "ids": [
-     "C25d6d30",
-     "C4d7a130",
-     "C9791cea",
-     "Cd904f1d",
-     "C8a23190",
-     "C0d20582",
-     "Cc5f840a"
-    ],
-    "at": "2026-11-22T22:30:56.442663+05:30"
-   },
-   "written": [
-    "C0d20582",
-    "C25d6d30",
-    "C4d7a130",
-    "C8a23190",
-    "C9791cea",
-    "Cc5f840a",
-    "Cd904f1d"
-   ],
-   "refused": {
-    "C9791cea": "not written: the day's maximum of 30 news was reached",
-    "C4d7a130": "not written: the day's maximum of 30 news was reached",
-    "C25d6d30": "not written: the day's maximum of 30 news was reached"
-   }
-  },
   "2026-11-22_23": {
    "window": [
     "2026-11-22T22:28:34.307494+05:30",
@@ -555,6 +507,19 @@
    "written": [
     "C41b386f"
    ]
+  },
+  "2026-11-24_22": {
+   "window": [
+    "2026-11-24T20:26:41.887997+05:30",
+    "2026-11-24T22:26:13.020673+05:30"
+   ],
+   "ids": [
+    "C730c890"
+   ],
+   "sent": false,
+   "deadline": "2026-11-24T23:26:13.020673+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
