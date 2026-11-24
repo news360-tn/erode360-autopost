@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `f700f8a` | Facebook posts every news like Instagram: daily news limit 15 -> 30 (Meta's own API reel limit per page in 24 h) |
+| 2026-11-24 | `c5f5291` | stories shared / Instagram pause |
+| 2026-11-24 | `207ed49` | stories shared / Instagram pause |
+| 2026-11-24 | `01c7d85` | facebook RN-271 |
+| 2026-11-24 | `13e9f2d` | posted RN-271 |
+| 2026-11-24 | `22b166a` | stories shared / Instagram pause |
+| 2026-11-24 | `f7545e1` | stories shared / Instagram pause |
+| 2026-11-24 | `5f9831f` | facebook RN-268 |
+| 2026-11-24 | `0f3cfa8` | posted RN-268 |
+| 2026-11-24 | `ecda2ba` | stories shared / Instagram pause |
+| 2026-11-24 | `815e921` | facebook RN-270 |
+| 2026-11-24 | `c551e47` | posted RN-270 |
+| 2026-11-24 | `0f3ba67` | stories shared / Instagram pause |
+| 2026-11-24 | `28d5637` | stories shared / Instagram pause |
+| 2026-11-24 | `5bf93e6` | facebook RN-265 |
+| 2026-11-24 | `7bc18ee` | posted RN-265 |
+| 2026-11-24 | `71e5346` | pick: written and posted |
+| 2026-11-24 | `7842119` | pick: list sent |
+| 2026-11-24 | `dd00c4c` | stories shared / Instagram pause |
+| 2026-11-24 | `2923017` | manual post e-mail RN-271 |
+| 2026-11-24 | `208cd2f` | facebook RN-266 |
+| 2026-11-24 | `d576eac` | posted RN-266 |
+| 2026-11-24 | `c82e78c` | manual post e-mail RN-268 |
+| 2026-11-24 | `e032521` | manual post e-mail RN-265 |
+| 2026-11-24 | `699b2d6` | manual post e-mail RN-270 |
+| 2026-11-24 | `feb30ef` | stories shared / Instagram pause |
+| 2026-11-24 | `ea63737` | stories shared / Instagram pause |
+| 2026-11-24 | `0f89e40` | facebook RN-239 |
+| 2026-11-24 | `facb593` | posted RN-239 |
 | 2026-11-24 | `87d0b54` | Google News links: when Google refuses the decoder (429), the same headline on Bing (same newspaper) gives the article link - news is no longer dropped |
-| 2026-11-24 | `9a859aa` | pick: written and posted |
-| 2026-11-24 | `0594c9c` | pick: list sent |
-| 2026-11-24 | `2a191b6` | A death-toll update (மேலும் ஒருவர் உயிரிழப்பு / எண்ணிக்கை உயர்வு) is new news, not a duplicate of the first report |
-| 2026-11-24 | `c694450` | pick: written and posted |
-| 2026-11-24 | `1ffb88b` | goldrate posted |
-| 2026-11-24 | `463fa3d` | stories shared / Instagram pause |
-| 2026-11-24 | `8bb0e1c` | Auto-fix: busy AI writers do not use up a news's tries; each page runs at its own minutes; try counts reset |
-| 2026-11-24 | `057eb62` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
-| 2026-11-24 | `8e59ecb` | facebook RN-267 |
-| 2026-11-24 | `3231315` | posted RN-267 |
-| 2026-11-24 | `737966e` | autofix: corrected held news |
-| 2026-11-24 | `92440a5` | stories shared / Instagram pause |
-| 2026-11-24 | `cf27f73` | facebook RN-262 |
-| 2026-11-24 | `9b0d5ca` | posted RN-262 |
-| 2026-11-24 | `bc84018` | stories shared / Instagram pause |
-| 2026-11-24 | `6539653` | facebook RN-260 |
-| 2026-11-24 | `a7d3ee4` | posted RN-260 |
-| 2026-11-24 | `c3c17ec` | stories shared / Instagram pause |
-| 2026-11-24 | `04474d5` | Auto-fix held news (rewrite from the article, check again, post); Cloudinary fallbacks: pictures kept in the repo, reels direct then repo link; rasipalan and gold the same |
-| 2026-11-24 | `900a4bf` | facebook RN-269 |
-| 2026-11-24 | `525d5d1` | posted RN-269 |
-| 2026-11-24 | `d2b8b1b` | facebook RN-264 |
-| 2026-11-24 | `14c266a` | posted RN-264 |
-| 2026-11-24 | `148aede` | stories shared / Instagram pause |
-| 2026-11-24 | `de557d1` | pick: picked news saved |
-| 2026-11-24 | `6559bc4` | stories shared / Instagram pause |
-| 2026-11-24 | `483b8aa` | stories shared / Instagram pause |
-| 2026-11-24 | `2407130` | pick: picked news saved |
-| 2026-11-24 | `21c0553` | pick: list sent |
 <!-- recent-changes:end -->
