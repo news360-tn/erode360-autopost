@@ -83,6 +83,17 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `057eb62` | Fixes: Facebook 24-hour-limit news wait or are e-mailed (never silently skipped); slow sheet reads get more time; YouTube stops for the whole day after its quota; YouTube tests use today's date |
+| 2026-11-24 | `8e59ecb` | facebook RN-267 |
+| 2026-11-24 | `3231315` | posted RN-267 |
+| 2026-11-24 | `737966e` | autofix: corrected held news |
+| 2026-11-24 | `92440a5` | stories shared / Instagram pause |
+| 2026-11-24 | `cf27f73` | facebook RN-262 |
+| 2026-11-24 | `9b0d5ca` | posted RN-262 |
+| 2026-11-24 | `bc84018` | stories shared / Instagram pause |
+| 2026-11-24 | `6539653` | facebook RN-260 |
+| 2026-11-24 | `a7d3ee4` | posted RN-260 |
+| 2026-11-24 | `c3c17ec` | stories shared / Instagram pause |
 | 2026-11-24 | `04474d5` | Auto-fix held news (rewrite from the article, check again, post); Cloudinary fallbacks: pictures kept in the repo, reels direct then repo link; rasipalan and gold the same |
 | 2026-11-24 | `900a4bf` | facebook RN-269 |
 | 2026-11-24 | `525d5d1` | posted RN-269 |
@@ -102,15 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-24 | `2a747d0` | posted RN-257 |
 | 2026-11-24 | `34274ed` | stories shared / Instagram pause |
 | 2026-11-24 | `ef9213a` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
-| 2026-11-24 | `8c85765` | stories shared / Instagram pause |
-| 2026-11-24 | `f2b02a4` | rasipalan posted |
-| 2026-11-24 | `764a234` | facebook RN-256 |
-| 2026-11-24 | `9641083` | posted RN-256 |
-| 2026-11-24 | `9f49965` | stories shared / Instagram pause |
-| 2026-11-24 | `96c156f` | facebook RN-254 |
-| 2026-11-24 | `47c50c5` | posted RN-254 |
-| 2026-11-24 | `a3aa11a` | stories shared / Instagram pause |
-| 2026-11-24 | `5c3d12e` | stories shared / Instagram pause |
-| 2026-11-24 | `d958e79` | stories shared / Instagram pause |
-| 2026-11-24 | `cf6dbc2` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
