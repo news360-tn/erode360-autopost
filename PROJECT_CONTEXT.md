@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-24 | `8eb0e22` | Facebook: 20 news a day per page (owner 24 Nov) |
-| 2026-11-24 | `bb592dc` | stories shared / Instagram pause |
-| 2026-11-24 | `43fa943` | stories shared / Instagram pause |
-| 2026-11-24 | `1866057` | stories shared / Instagram pause |
-| 2026-11-24 | `9ff2411` | facebook RN-273 |
-| 2026-11-24 | `07c3403` | posted RN-273 |
-| 2026-11-24 | `a1378e4` | pick: written and posted |
-| 2026-11-24 | `7247b5d` | stories shared / Instagram pause |
-| 2026-11-24 | `65f3f63` | goldrate posted |
-| 2026-11-24 | `a2e11e8` | facebook RN-272 |
-| 2026-11-24 | `96b8fe5` | posted RN-272 |
-| 2026-11-24 | `15e33ec` | A self-immolation / suicide ATTEMPT where nobody died (a protest) is news and posts automatically - a death still needs the owner's tick; Samayam Tamil is a trusted outlet |
-| 2026-11-24 | `7996f4e` | pick: picked news saved |
-| 2026-11-24 | `121eda3` | stories shared / Instagram pause |
-| 2026-11-24 | `523b4a0` | stories shared / Instagram pause |
-| 2026-11-24 | `6aa2d24` | stories shared / Instagram pause |
-| 2026-11-24 | `c62b817` | pick: picked news saved |
-| 2026-11-24 | `1051d94` | pick: list sent |
-| 2026-11-24 | `901e425` | stories shared / Instagram pause |
-| 2026-11-24 | `527e018` | stories shared / Instagram pause |
-| 2026-11-24 | `d08018f` | stories shared / Instagram pause |
-| 2026-11-24 | `d24414c` | stories shared / Instagram pause |
-| 2026-11-24 | `a6c1729` | stories shared / Instagram pause |
-| 2026-11-24 | `af9cffc` | stories shared / Instagram pause |
-| 2026-11-24 | `ffdc68d` | stories shared / Instagram pause |
-| 2026-11-24 | `bac4f36` | stories shared / Instagram pause |
-| 2026-11-24 | `13f1931` | stories shared / Instagram pause |
-| 2026-11-24 | `814fcd9` | powercut: notices written |
-| 2026-11-24 | `c8a4ad8` | stories shared / Instagram pause |
-| 2026-11-24 | `68a82d0` | stories shared / Instagram pause |
+| 2026-11-24 | `ad46d6b` | More district source pages: Hindu Tamil, Vikatan, Polimer (and OneIndia where it has the district) - Trichy, Tiruppur, Salem, Erode, Karur read only 1-2 pages |
+| 2026-11-24 | `e4ba000` | pick: picked news saved |
+| 2026-11-24 | `30c7bff` | pick: picked news saved |
+| 2026-11-24 | `35e5f77` | pick: list sent |
+| 2026-11-24 | `d91ac3d` | stories shared / Instagram pause |
+| 2026-11-24 | `7e6d5d7` | stories shared / Instagram pause |
+| 2026-11-24 | `f820130` | stories shared / Instagram pause |
+| 2026-11-24 | `6a39ffa` | stories shared / Instagram pause |
+| 2026-11-24 | `c48383d` | stories shared / Instagram pause |
+| 2026-11-24 | `7cc912c` | stories shared / Instagram pause |
+| 2026-11-24 | `7c6c057` | stories shared / Instagram pause |
+| 2026-11-24 | `f2d13d2` | stories shared / Instagram pause |
+| 2026-11-24 | `9a3660d` | stories shared / Instagram pause |
+| 2026-11-24 | `91a55c7` | stories shared / Instagram pause |
+| 2026-11-24 | `7bd9f96` | stories shared / Instagram pause |
+| 2026-11-24 | `41c7313` | stories shared / Instagram pause |
+| 2026-11-24 | `fcacf89` | stories shared / Instagram pause |
+| 2026-11-24 | `8f2b8c3` | stories shared / Instagram pause |
+| 2026-11-24 | `783ad3d` | pick: written and posted |
+| 2026-11-24 | `2dffc08` | facebook RN-274 |
+| 2026-11-24 | `96aab00` | posted RN-274 |
+| 2026-11-24 | `7b54960` | stories shared / Instagram pause |
+| 2026-11-24 | `6055a8b` | pick: picked news saved |
+| 2026-11-24 | `e6cfa7e` | stories shared / Instagram pause |
+| 2026-11-24 | `0ca40f0` | pick: picked news saved |
+| 2026-11-24 | `75d896c` | pick: list sent |
+| 2026-11-24 | `1e9df28` | stories shared / Instagram pause |
+| 2026-11-24 | `ed99adc` | stories shared / Instagram pause |
+| 2026-11-24 | `ab822fa` | stories shared / Instagram pause |
+| 2026-11-24 | `84dbd36` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
