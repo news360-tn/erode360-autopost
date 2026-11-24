@@ -3,294 +3,115 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/வாக்காளா்-திருத்த-முகாம்களில்-5697-போ்-விண்ணப்பம்",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/கோபியில்-இந்து-முன்னணியினா்-சாலை-மறியல்",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/changes-in-erodepalakkad-train-service-from-today",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/மாநில-அளவிலான-போட்டிகள்-குமுதா-பள்ளி-மாணவா்கள்-தோ்வு",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/அந்தியூரில்-இலவச-ஆம்புலன்ஸ்-சேவை-தொடக்கம்",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/டெக்ஸ்வேலியில்-தொழில்முனைவோா்-மாநாடு",
-  "candidate filter: collected=6",
-  "to write: 6 Erode district candidates (max 6 stories)",
-  "round: top 6 of 6 candidates",
-  "candidates waiting: 6 Erode; time left 79 min",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/new-bridge-in-place-of-95-year-old-nanjai-puliyampatti-bridge",
+  "candidate filter: collected=1",
+  "to write: 1 Erode district candidates (max 1 stories)",
+  "round: top 1 of 1 candidates",
+  "candidates waiting: 1 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
   "posting job started at once",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "NOT filed (N) ஈரோடு-பாலக்காடு ரயில் சேவையில் இன்றுமுதல் மாற்றம்: all free models failed: no usable answer from the models",
-  "NOT filed (N) வாக்காளா் திருத்த முகாம்களில் 5,697 போ் விண்ணப்பம: all free models failed: no usable answer from the models",
-  "NOT filed (N) கோபியில் இந்து முன்னணியினா் சாலை மறியல்: all free models failed: no usable answer from the models",
-  "candidate loop ended: left 0, tried={'N': 6}, done={'N': 3}, time left 77 min",
-  "filed: 3 Erode district stories (target 6), reels only",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 76 min",
+  "filed: 1 Erode district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":6,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (12s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (8s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (45s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (17s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (20s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "ok gemini/gemini-3.5-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (42s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (51s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (4s)",
+  "ok groq/openai/gpt-oss-120b (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b"
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "நம்பியூர் குமுதா பள்ளி மாணவர்கள் மாநில அளவிலான போட்டிக்குத் தேர்வு",
-   "english_headline": "Nambiyur Kumutha school students selected for state-level science and essay competitions",
-   "category": "Education",
-   "location": "Nambiyur, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "கல்விச் செய்தி",
-    "loc": "நம்பியூர், ஈரோடு",
-    "hl1": "நம்பியூர் மாணவர்கள் சாதனை",
-    "hl2": "மாநிலப் போட்டிக்குத் தேர்வு",
-    "slides": [
-     {
-      "title": "அறிவியல் மாநாடு",
-      "lines": [
-       "32-வது குழந்தை அறிவியல் மாநாடு",
-       "7-ஆம் வகுப்பு மாணவர்கள் தேர்வு",
-       "<b>பசுமை காவலர்</b> படைப்புக்கு அங்கீகாரம்"
-      ]
-     },
-     {
-      "title": "கட்டுரைப் போட்டி",
-      "lines": [
-       "வாக்காளர் கல்வியறிவு கட்டுரைப் போட்டி",
-       "11-ஆம் வகுப்பு மாணவி வெற்றி",
-       "மாநில அளவிலான போட்டிக்குத் தகுதி"
-      ]
-     },
-     {
-      "title": "பாராட்டு",
-      "lines": [
-       "100-க்கும் மேற்பட்ட மாணவர்கள் பங்கேற்பு",
-       "பள்ளிச் செயலர் அரவிந்தன் பரிசு வழங்கினார்",
-       "பள்ளித் தாளாளர், ஆசிரியர்கள் பாராட்டு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "நம்பியூர் குமுதா பள்ளி மாணவர்கள் மாநில அளவிலான போட்டிகளுக்குத் தேர்வு செய்யப்பட்டுள்ளனர். ஈரோடு கொங்கு கலை அறிவியல் கல்லூரியில் 32-வது குழந்தை அறிவியல் மாநாடு நடைபெற்றது. இதில் மாவட்டம் முழுவதிலும் இருந்து 80-க்கும் மேற்பட்ட படைப்புகள் சமர்ப்பிக்கப்பட்டன. சுற்றுச்சூழலைப் பாதுகாக்கும் பசுமை காவலர் என்ற படைப்பை 7-ஆம் வகுப்பு மாணவர்கள் சமர்ப்பித்தனர். இவர்களின் படைப்பு சிறந்ததாகத் தேர்வு செய்யப்பட்டு மாநில அளவிலான போட்டிக்குத் தகுதி பெற்றுள்ளது. இதேபோல் ஈரோடு மாவட்ட ஆட்சியர் அலுவலகத்தில் வாக்காளர் கல்வியறிவு மன்றம் சார்பில் கட்டுரைப் போட்டி நடைபெற்றது. வாக்களிப்பதன் முக்கியத்துவம் என்ற தலைப்பில் 11-ஆம் வகுப்பு மாணவி கட்டுரை எழுதினார். 100-க்கும் மேற்பட்ட மாணவர்கள் பங்கேற்ற இந்தப் போட்டியில் மாணவி வெற்றி பெற்று மாநிலப் போட்டிக்குத் தேர்வானார். வெற்றி பெற்ற மாணவர்களுக்குப் பள்ளியின் செயலர் அரவிந்தன் பரிசுகளை வழங்கிப் பாராட்டினார். பள்ளித் தாளாளர் ஜனகரத்தினம் மற்றும் ஆசிரியர்கள் மாணவர்களுக்குத் தங்களது வாழ்த்துகளைத் தெரிவித்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏆 நம்பியூர் குமுதா பள்ளி மாணவர்கள் மாநில அளவிலான போட்டிக்குத் தேர்வு!\n\n📰 முழு விவரம்:\nநம்பியூர் குமுதா பள்ளி மாணவர்கள் அறிவியல் மற்றும் கட்டுரைப் போட்டிகளில் சாதனை படைத்து மாநில அளவிலான போட்டிகளுக்குத் தேர்வாகியுள்ளனர். ஈரோடு கொங்கு கலை அறிவியல் கல்லூரியில் நடைபெற்ற 32-வது குழந்தை அறிவியல் மாநாட்டில், 7-ஆம் வகுப்பு மாணவர்கள் சமர்ப்பித்த 'பசுமை காவலர்' என்ற சுற்றுச்சூழல் படைப்பு சிறந்ததாகத் தேர்வு செய்யப்பட்டது. \n✍️ அதேபோல், ஈரோடு மாவட்ட ஆட்சியர் அலுவலகத்தில் நடைபெற்ற வாக்காளர் கல்வியறிவு மன்ற கட்டுரைப் போட்டியில், 'வாக்களிப்பதன் முக்கியத்துவம்' என்ற தலைப்பில் கட்டுரை எழுதிய 11-ஆம் வகுப்பு மாணவி வெற்றி பெற்று மாநிலப் போட்டிக்குத் தகுதி பெற்றார். வெற்றி பெற்ற மாணவர்களைப் பள்ளித் தாளாளர், செயலர் மற்றும் ஆசிரியர்கள் பாராட்டிப் பரிசுகளை வழங்கினர்.\n\n📍 இடம்: நம்பியூர், ஈரோடு மாவட்டம்\n🗓️ நாள்: நவம்பர் 24, 2026\nℹ️ விவரம்: அறிவியல் மற்றும் கட்டுரைப் போட்டிகளில் வெற்றி\n\nமாணவர்களின் இந்தச் சாதனையைப் பாராட்டுவோம். தேவைப்படுவோருக்கு Share செய்யுங்கள்.\n\nNambiyur Kumutha school students state level competition | Erode news\n📍 Nambiyur, Erode | 24 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Nambiyur #Education #ஈரோடு",
-   "prompts": "A bright, modern classroom in Nambiyur, Erode district, where two 7th-grade boys in school uniforms are presenting a science project titled 'Green Guard' featuring small green plants and recycled models on a table. A teacher and other students are watching with interest, soft morning sunlight through the windows, realistic school setting, wide view. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA formal award ceremony inside a hall at the Erode District Collectorate, where a high school girl in uniform is receiving a certificate and a trophy from a school official in a formal shirt. Other teachers and students are clapping in the background, professional atmosphere, medium shot, warm indoor lighting, no text, no faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/மாநில-அளவிலான-போட்டிகள்-குமுதா-பள்ளி-மாணவா்கள்-தோ்வு",
-   "published": "2026-11-24T20:01:36.915Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: reel_script talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; caption talks about the article instead of the news (கட்டுரை) - if the article has no real news, return an empty reel_script; caption misses facts of the article (put every one in 📰 முழு விவரம்): 80 ('மாவட்டம் முழுவதிலும் இருந்து 80-க்கும் மேற்பட்ட படைப்புகள் ச'); 100 ('சிறந்த படைப்பை உருவாக்கிய இந்த மாணவா்கள் மாநில அளவிலான போட்ட'); known issue meta_article: script talks about the article instead of the news ('கட்டுரை') - rewrite so it does not happen again",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 4 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795553857/erode360/irkofqrbrgduub2t5fhp.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795553861/erode360/etxmbvt6878rzlgf4ert.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு டெக்ஸ்வேலியில் தொழில்முனைவோர் மாநாடு: முதலீட்டாளர்களிடம் ஸ்டார்ட் அப் நிறுவனங்கள் நேரடி சந்திப்பு",
-   "english_headline": "Entrepreneur conference held at Texvalley, Erode: Startups pitch to investors for the first time in Kongu region",
-   "category": "Business & Prices",
-   "location": "Gangapuram Texvalley, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "தொழில் மாநாடு",
-    "loc": "கங்காபுரம், ஈரோடு",
-    "hl1": "ஈரோட்டில் தொழில்முனைவோர் மாநாடு",
-    "hl2": "முதலீட்டாளர்களுடன் நேரடி",
-    "slides": [
-     {
-      "title": "எங்கு நடந்தது?",
-      "lines": [
-       "ஈரோடு கங்காபுரம் <b>டெக்ஸ்வேலியில்</b> மாநாடு",
-       "நம்ம ஆபீஸ் ஸ்டார்ட் அப் நிறுவனம் ஏற்பாடு",
-       "தொழில்முனைவோருக்கான சிறப்பு நிகழ்வு"
-      ]
-     },
-     {
-      "title": "சிறப்பம்சம்",
-      "lines": [
-       "கொங்கு மண்டலத்தில் <b>முதல்முறையாக</b> நேரடி சந்திப்பு",
-       "முதலீட்டாளர்களிடம் தொழில் திட்டங்கள் விளக்கம்",
-       "தேர்ந்தெடுக்கப்பட்ட ஸ்டார்ட் அப் நிறுவனங்கள் பங்கேற்பு"
-      ]
-     },
-     {
-      "title": "முக்கிய நிகழ்வுகள்",
-      "lines": [
-       "தொழில்நுட்பத் திறன், முதலீடு பற்றி சிறப்புரைகள்",
-       "மகளிர் தொழில்முனைவோருக்கு முக்கியத்துவம்",
-       "பல்வேறு நிறுவனங்களின் கண்காட்சி அரங்குகள் அமைப்பு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு டெக்ஸ்வேலியில் கொங்கு மண்டலத்திலேயே முதல்முறையாக ஸ்டார்ட் அப் நிறுவனங்கள் முதலீட்டாளர்களிடம் நேரடியாகத் தொழில் திட்டங்களை விளக்கும் மாநாடு நடைபெற்றது. கங்காபுரம் டெக்ஸ்வேலியில் நம்ம ஆபீஸ் ஸ்டார்ட் அப் நிறுவனம் சார்பில் இந்தத் தொழில்முனைவோர் மாநாடு அண்மையில் நடத்தப்பட்டது. டெக்ஸ்வேலி நிர்வாக இயக்குனர் டி பி குமார் குத்துவிளக்கேற்றி மாநாட்டைத் தொடங்கிவைத்தார். இந்த நிகழ்வில் தொழில்நுட்பத் திறன், முதலீடு மற்றும் மகளிர் தொழில்முனைவோர் குறித்து வல்லுநர்கள் சிறப்புரையாற்றினர். தேர்ந்தெடுக்கப்பட்ட ஸ்டார்ட் அப் நிறுவனங்கள் தங்கள் தொழில் திட்டங்களை முதலீட்டாளர்கள் முன்னிலையில் மேடையில் விளக்கும் நேரடிச் சந்திப்பு நிகழ்வு சிறப்பாக நடைபெற்றது. மேலும் பல்வேறு தொழில் நிறுவனங்களின் கண்காட்சி அரங்குகளும் அங்கு அமைக்கப்பட்டிருந்தன. இந்த மாநாட்டில் டெக்ஸ்வேலி நிர்வாக இயக்குனர் ராஜசேகர், நம்ம ஆபீஸ் தலைமை நிர்வாக அதிகாரி குமரேஷ் மற்றும் பலர் பங்கேற்றனர். ஈரோடு மாவட்டத்தைச் சேர்ந்த ஏராளமான தொழில்முனைவோர் இதில் கலந்துகொண்டு பயன்பெற்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚀 ஈரோடு டெக்ஸ்வேலியில் தொழில்முனைவோர் மாநாடு: முதலீட்டாளர்களிடம் ஸ்டார்ட் அப் நிறுவனங்கள் நேரடி சந்திப்பு\n\n📰 முழு விவரம்:\nஈரோடு கங்காபுரம் டெக்ஸ்வேலியில் நம்ம ஆபீஸ் ஸ்டார்ட் அப் நிறுவனம் சார்பில் தொழில்முனைவோர் மாநாடு அண்மையில் நடைபெற்றது. கொங்கு மண்டலத்திலேயே முதல்முறையாக, தேர்ந்தெடுக்கப்பட்ட ஸ்டார்ட் அப் நிறுவனங்கள் தங்கள் தொழில் திட்டங்களை முதலீட்டாளர்கள் முன்னிலையில் மேடையில் விளக்கும் நேரடிச் சந்திப்பு நிகழ்வு இங்கு நடைபெற்றது. டெக்ஸ்வேலி நிர்வாக இயக்குனர் டி.பி. குமார் மாநாட்டைத் தொடங்கிவைத்தார். தொழில்நுட்பத் திறன், முதலீடு மற்றும் மகளிர் தொழில்முனைவோர் குறித்து இந்த மாநாட்டில் ஆலோசனைகள் வழங்கப்பட்டன. மேலும், பல்வேறு நிறுவனங்களின் கண்காட்சி அரங்குகளும் அமைக்கப்பட்டிருந்தன.\n\n📍 இடம்: டெக்ஸ்வேலி, கங்காபுரம், ஈரோடு\n🤝 ஏற்பாடு: நம்ம ஆபீஸ் ஸ்டார்ட் அப் நிறுவனம்\n💡 சிறப்பம்சம்: முதலீட்டாளர்களுடன் ஸ்டார்ட் அப் நிறுவனங்களின் நேரடிச் சந்திப்பு\nℹ️ மகளிர் தொழில்முனைவோர் மற்றும் தொழில்நுட்பத் திறன் குறித்து சிறப்புரைகள் இடம்பெற்றன.\n\nபுதிய தொழில் தொடங்குவோருக்கு Share செய்யுங்கள்.\n\nErode Texvalley entrepreneur conference and startup pitching | Erode news\n📍 Gangapuram, Erode | 25 November 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gangapuram #Texvalley #ErodeNews",
-   "prompts": "A wide-angle photo-realistic view of a modern conference hall inside Texvalley, Gangapuram, Erode. A stage is set with a podium and a large screen showing business charts. A group of professional men and women in formal attire are seated in the audience. The hall has bright indoor lighting and a professional atmosphere. No text or logos on screen. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of an exhibition area at Texvalley during the entrepreneur conference. Several neatly arranged stalls with business displays are visible. People are interacting and discussing business ideas. The background shows the modern architecture of the Texvalley complex. Soft daylight coming through glass windows, realistic Erode business event setting. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/டெக்ஸ்வேலியில்-தொழில்முனைவோா்-மாநாடு",
-   "published": "2026-11-24T20:03:50.360Z",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795553870/erode360/yyzbjrtdawo9tqx7z4tx.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795553873/erode360/ywyahi2vhaworzfvoiki.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அந்தியூரில் இலவச ஆம்புலன்ஸ் சேவை தொடக்கம்",
-   "english_headline": "Free Ambulance Service Launched in Anthiyur",
-   "category": "Health",
-   "location": "Anthiyur town, Erode district",
+   "tamil_headline": "கோபி நஞ்சை புளியம்பட்டி பாலத்திற்கு மாற்றாக புதிய பாலம்: ரூ.25 கோடி நிதி ஒதுக்கீடு",
+   "english_headline": "TN government allocates Rs 25 crore to construct a new high-level bridge replacing the 95-year-old Nanjai Puliampatti bridge across Bhavani river near Gobichettipalayam",
+   "category": "Roads & Transport",
+   "location": "Nanjai Puliampatti, Gobichettipalayam taluk, Erode district",
    "importance": "High",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மருத்துவ சேவை",
-    "loc": "அந்தியூர் நகர்",
-    "hl1": "அந்தியூரில் இலவச சேவை தொடக்கம்",
-    "hl2": "பிரசவம், விபத்துக்கு இலவசம்",
+    "cat": "புதிய பாலம்",
+    "loc": "நஞ்சை புளியம்பட்டி, கோபி",
+    "hl1": "நஞ்சை புளியம்பட்டியில் புதிய பாலம்",
+    "hl2": "ரூ.25 கோடி நிதி ஒதுக்கீடு",
     "slides": [
      {
-      "title": "சேவை தொடக்கம்",
+      "title": "ரூ.25 கோடி நிதி",
       "lines": [
-       "அந்தியூரில் இலவச ஆம்புலன்ஸ் சேவை தொடங்கியது",
-       "பத்ரகாளியம்மன் கோயில் வளாகத்தில் நிகழ்ச்சி நடைபெற்றது",
-       "செவ்வாய்க்கிழமை இந்நிகழ்ச்சி நடைபெற்றது"
+       "நஞ்சை புளியம்பட்டி பாலத்திற்கு மாற்றாக <b>ரூ.25 கோடி</b> ஒதுக்கீடு",
+       "பவானி ஆற்றில் புதிய உயர்மட்ட பாலம் கட்ட தமிழக அரசு நடவடிக்கை"
       ]
      },
      {
-      "title": "பங்கேற்பாளர்கள்",
+      "title": "95 ஆண்டுகள் பாலம்",
       "lines": [
-       "பெஸ்ட் சக்திவேல் தலைமை வகித்தார்",
-       "ஏ.ஜி.வெங்கடாசலம் சேவையை தொடங்கிவைத்தார்",
-       "எம்.பாண்டியம்மாள் உள்ளிட்டோர் பங்கேற்றனர்"
+       "<b>1928</b>ல் அடிக்கல் நாட்டப்பட்டு <b>1931</b>ல் பாலம் திறக்கப்பட்டது",
+       "பிரிட்டன், ஸ்காட்லாந்து இரும்புத் தூண்களால் கட்டப்பட்டது",
+       "கோபி, பங்களாபுதூரை இணைக்கும் பாலத்தின் அகலம் <b>4.80 மீட்டர்</b>"
       ]
      },
      {
-      "title": "சேவை விவரம்",
+      "title": "ஏன் புதிய பாலம்?",
       "lines": [
-       "கர்ப்பிணி பெண்கள் பிரசவத்திற்கு இலவசம்",
-       "4 கி.மீ. தொலைவுக்குள் விபத்துக்கு இலவசம்",
-       "அருகிலுள்ள மருத்துவமனைக்கு அழைத்துச் செல்லப்படும்"
+       "பாலம் குறுகலாக உள்ளதால் கடும் போக்குவரத்து நெரிசல்",
+       "அடிக்கடி பழுது ஏற்படுவதால் மக்கள் அவதி",
+       "நிலம் கையகப்படுத்தப்பட்ட நிலையில் தற்போது நிதி ஒதுக்கீடு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அந்தியூரில் இலவச ஆம்புலன்ஸ் சேவை இன்று தொடங்கியது. பழனியம்மாள் அறக்கட்டளை இந்த சேவையை வழங்குகிறது. அந்தியூர் பத்ரகாளியம்மன் கோயில் வளாகத்தில் நிகழ்ச்சி நடைபெற்றது. செவ்வாய்க்கிழமை இந்நிகழ்ச்சி நடைபெற்றது. அறக்கட்டளைத் தலைவர் பெஸ்ட் சக்திவேல் தலைமை வகித்தார். முன்னாள் சட்டப் பேரவை உறுப்பினர் ஏ ஜி வெங்கடாசலம் சேவையை தொடங்கிவைத்தார். கர்ப்பிணி பெண்கள் பிரசவத்திற்கு மருத்துவமனைக்கு இலவசமாக அழைத்துச் செல்லப்படுவர். அந்தியூர் நகரைச் சுற்றியுள்ள 4 கிலோமீட்டர் தொலைவுக்குள் விபத்தில் சிக்கியோரை மீட்பார்கள். அவர்களை அருகிலுள்ள மருத்துவமனைகளில் சேர்க்கும் சேவையும் இலவசம். அந்தியூர் பேரூராட்சித் தலைவர் எம் பாண்டியம்மாள் பங்கேற்றார். நிர்வாகிகள் சுரேஷ், ரங்கநாதன் உள்ளிட்டோர் பங்கேற்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚑 அந்தியூரில் இலவச ஆம்புலன்ஸ் சேவை தொடக்கம் - பிரசவம், விபத்துக்கு இலவசம்\n\n📰 முழு விவரம்:\nஅந்தியூரில் பழனியம்மாள் அறக்கட்டளை சார்பில் பொதுமக்களுக்கான இலவச ஆம்புலன்ஸ் சேவை தொடக்க விழா நடைபெற்றது. அந்தியூர் பத்ரகாளியம்மன் கோயில் வளாகத்தில் செவ்வாய்க்கிழமை இந்நிகழ்ச்சி நடைபெற்றது. அறக்கட்டளைத் தலைவர் பெஸ்ட் சக்திவேல் தலைமை வகித்தார். அந்தியூர் சட்டப் பேரவைத் தொகுதி முன்னாள் உறுப்பினர் ஏ.ஜி.வெங்கடாசலம் ஆம்புலன்ஸ் சேவையைத் தொடங்கிவைத்தார். கர்ப்பிணி பெண்கள் பிரசவத்திற்கு மருத்துவமனைக்கு இலவசமாக அழைத்துச் செல்லப்படுவார்கள். அந்தியூர் நகரைச் சுற்றியுள்ள 4 கி.மீ. தொலைவுக்குள் விபத்தில் சிக்குவோரை மீட்டு, அருகிலுள்ள மருத்துவமனைகளில் சேர்க்கும் சேவையும் இலவசமாக வழங்கப்படும். அந்தியூர் பேரூராட்சித் தலைவர் எம்.பாண்டியம்மாள், நிர்வாகிகள் சுரேஷ், ரங்கநாதன் உள்ளிட்டோர் பங்கேற்றனர்.\n\n📍 இடம்: அந்தியூர் பத்ரகாளியம்மன் கோயில் வளாகம்\n🗓️ நாள்: செவ்வாய்க்கிழமை\nℹ️ மக்கள் கவனத்திற்கு: கர்ப்பிணி பெண்கள் மற்றும் 4 கி.மீ. தொலைவுக்குள் விபத்தில் சிக்குவோருக்கு இலவச சேவை\n\nFree ambulance service launched in Anthiyur | Erode news\n📍 Anthiyur, Erode | 24 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Anthiyur #ErodeNews #ஈரோடு",
-   "prompts": "A photo-realistic wide shot of a white ambulance parked in the courtyard of a traditional Tamil temple in Anthiyur, Erode district. The temple has a red and yellow painted gopuram in the background. A group of men in formal wear stand near the ambulance, one man is cutting a ribbon. The scene is bright with daylight, clear sky, and green trees around the temple compound. No text, logos, or faces visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of the side of the white ambulance showing its medical cross symbol and emergency lights. The vehicle is parked on a paved road near a temple wall. A few local residents stand in the background, looking at the ambulance. The lighting is natural daylight, casting soft shadows. The setting is a quiet town street in Tamil Nadu with small shops and houses visible in the distance. No text, numbers, or specific faces shown. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/அந்தியூரில்-இலவச-ஆம்புலன்ஸ்-சேவை-தொடக்கம்",
-   "published": "2026-11-24T20:01:53.100Z",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 0 validator problem(s)",
+   "reel_script": "நஞ்சை புளியம்பட்டியில் புதிய பாலம் கட்ட ரூ.25 கோடி நிதி ஒதுக்கப்பட்டுள்ளது. கோபி மற்றும் பங்களாபுதூரை இணைக்க பவானி ஆற்றில் 1928ல் அடிக்கல் நாட்டப்பட்டு 1931ல் பாலம் திறக்கப்பட்டது. பிரிட்டன், ஸ்காட்லாந்தில் இருந்து கொண்டுவரப்பட்ட இரும்புத் தூண்கள் மூலம் 95 ஆண்டுகளுக்கு முன் இப்பாலம் கட்டப்பட்டது. பங்களாபுதூர், டி என் பாளையம், வாணிப்புத்தூர், குண்டேரிப்பள்ளம் பகுதிகளை சேர்ந்த மக்கள் கோபி செல்ல பாலத்தை பயன்படுத்துகின்றனர். பாலத்தின் அகலம் 4.80 மீட்டர் மட்டுமே உள்ளதால் கனரக வாகனங்களால் கடும் போக்குவரத்து நெரிசல் ஏற்படுகிறது. பாலம் பழுதானால் சத்தியமங்கலம் அல்லது அத்தாணி வழியாக சுற்றி செல்ல வேண்டிய நிலை உள்ளது. தடப்பள்ளி, அரக்கன்கோட்டை பாசன நிலங்கள், சத்தியமங்கலம்-பவானி, கோபி-ஈரோடு சாலைகளை இணைக்கும் முக்கிய வழித்தடமாக பாலம் உள்ளது. 2016 செப்டம்பர் 29ல் புதிய பாலம் குறித்து 110 விதியின் கீழ் அறிவிப்பு வெளியிடப்பட்டது. நிலம் கையகப்படுத்தப்பட்ட பின்னரும் ஆயத்த பணிகள் துவங்காமல் இருந்த நிலையில் தற்போது நிதி ஒதுக்கப்பட்டுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌉 கோபி நஞ்சை புளியம்பட்டியில் புதிய பாலம் கட்ட ரூ.25 கோடி நிதி ஒதுக்கீடு\n\n📰 முழு விவரம்:\nகோபி மற்றும் பங்களாபுதூர் பகுதியை இணைக்கும் வகையில் நஞ்சை புளியம்பட்டி பகுதியில் பவானி ஆற்றில் ஆங்கிலேயர் காலத்தில் உயர்மட்ட பாலம் கட்டப்பட்டது. 1928-இல் அடிக்கல் நாட்டப்பட்டு, பிரிட்டன் மற்றும் ஸ்காட்லாந்தில் இருந்து கொண்டுவரப்பட்ட இரும்புத் தூண்கள் மூலம் கட்டப்பட்டு 1931-இல் திறக்கப்பட்டது.\n95 ஆண்டுகள் பழமையான இப்பாலம் வழியாக பங்களாபுதூர், டி.என்.பாளையம், வாணிப்புத்தூர், குண்டேரிப்பள்ளம் பகுதிகளை சேர்ந்த மக்கள் கோபிக்கு சென்று வருகின்றனர். 4.80 மீட்டர் அகலம் மட்டுமே உள்ளதால் கனரக வாகனங்கள் செல்ல முடியாமல் போக்குவரத்து நெரிசலும் விபத்துகளும் ஏற்படுகின்றன. பாலம் பழுதானால் சத்தியமங்கலம் அல்லது அத்தாணி வழியாக சுற்றி செல்ல வேண்டி இருந்தது.\nதடப்பள்ளி, அரக்கன்கோட்டை பாசன நிலங்கள், சத்தியமங்கலம்-பவானி சாலை மற்றும் கோபி-ஈரோடு சாலையை இணைக்கும் முக்கிய வழித்தடமாக இது உள்ளது. 29.09.2016-இல் 110 விதியின்கீழ் அறிவிக்கப்பட்டு நிலம் கையகப்படுத்தப்பட்ட நிலையில், தற்போது புதிய பாலம் கட்ட ரூ.25 கோடி நிதி ஒதுக்கப்பட்டுள்ளது.\n\n📍 இடம்: நஞ்சை புளியம்பட்டி, கோபி, ஈரோடு மாவட்டம்\n🌉 திட்டம்: பவானி ஆற்றில் ரூ.25 கோடியில் புதிய உயர்மட்ட பாலம்\n📜 வரலாறு: 1928ல் அடிக்கல், 1931ல் திறப்பு (95 ஆண்டுகள் பழமை)\n🚗 பயன்: கோபி, பங்களாபுதூர், டி.என்.பாளையம், வாணிப்புத்தூர் பகுதி மக்கள்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nNanjai Puliampatti new bridge allocation Gobichettipalayam | Erode news\n📍 நஞ்சை புளியம்பட்டி, கோபி, ஈரோடு | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "COVER SCENE: A wide view of the old, narrow high-level bridge spanning the Bhavani river at Nanjai Puliampatti, illustrating the current infrastructure that requires replacement. The bridge is a steel structure with visible iron pillars, appearing aged and narrow, only 4.80 meters wide. Heavy traffic congestion is visible, with a mix of two-wheelers, autorickshaws, and a few heavy vehicles struggling to pass each other on the single-lane width. The river flows below, with green fields and sugarcane plantations visible on the banks, typical of the Gobichettipalayam taluk landscape. In the background, the rural horizon meets the sky, emphasizing the bridge's role as a critical link for farmers and commuters. The scene captures the daily struggle of the local population who rely on this 95-year-old structure to connect Bangalapur and D.N. Palayam to Gobi. The light is bright daylight, highlighting the rust and wear on the bridge's metalwork, underscoring the need for the new Rs 25 crore project. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nDETAIL SCENE: A close-up, slightly high-angle shot focusing on the narrow deck of the bridge, emphasizing its limited width of 4.80 meters. The camera captures the edge of the bridge where the metal railing meets the road surface, showing signs of wear and rust from decades of use. A heavy vehicle's tire is seen pressing close to the edge, illustrating the danger and difficulty of passage for large trucks. In the blurred background, the flow of the Bhavani river is visible, along with the distant greenery of the Kodiveri dam irrigation area. The focus remains on the physical constraint of the bridge, making it clear why the government has allocated funds for a wider, modern replacement. The lighting is natural daylight, casting sharp shadows that accentuate the texture of the old iron and the rough road surface, conveying the urgency of the infrastructure upgrade without showing any specific people's faces. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/24/new-bridge-in-place-of-95-year-old-nanjai-puliyampatti-bridge",
+   "published": "2026-11-24T22:08:15.617Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 10 ('இந்நிலையில், புதிய பாலம் கட்ட தமிழக அரசு ரூ.25 கோடி நிதி ஒது'); கொடிவேரி ('இந்நிலையில், புதிய பாலம் கட்ட தமிழக அரசு ரூ.25 கோடி நிதி ஒது'); 9 ('இப்பாலம் தடப்பள்ளி வாய்க்கால் பாசன ஆயக்கட்டு நிலங்களையும், அ'); கொடிவேரி ('இப்பாலம் தடப்பள்ளி வாய்க்கால் பாசன ஆயக்கட்டு நிலங்களையும், அ'); 10 ('ஆனால், புதிய பாலம் அமைப்பதற்கான எந்த ஆயத்த பணிகளையும் மேற்கொ'); கொடிவேரி ('ஆனால், புதிய பாலம் அமைப்பதற்கான எந்த ஆயத்த பணிகளையும் மேற்கொ')",
+   "note": "free-model draft gemini/gemini-3.6-flash, 4 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795553880/erode360/ktutvc3utogvz352am0i.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795553886/erode360/iiazre7f7srgzaxc6iuv.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795561872/erode360/qmq8tlkidbfhsiikbgm5.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795561911/erode360/aiu4lusssyxetnqdl87c.jpg"
    ]
   }
  ]
