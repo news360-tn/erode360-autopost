@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `09e18a6` | Facebook post text without the outside article link (less reach); the link stays in the first comment, the paper name and date stay |
+| 2026-11-24 | `6fd8bd2` | stories shared / Instagram pause |
+| 2026-11-24 | `1b1f62d` | stories shared / Instagram pause |
+| 2026-11-24 | `2eaab9e` | stories shared / Instagram pause |
+| 2026-11-24 | `23d6a37` | stories shared / Instagram pause |
+| 2026-11-24 | `b197122` | stories shared / Instagram pause |
+| 2026-11-24 | `a89f266` | stories shared / Instagram pause |
+| 2026-11-24 | `7fce8aa` | stories shared / Instagram pause |
+| 2026-11-24 | `9e6d5c7` | pick: written and posted |
+| 2026-11-24 | `a88df2d` | pick: list sent |
+| 2026-11-24 | `9133b41` | stories shared / Instagram pause |
+| 2026-11-24 | `aeffd84` | autofix: corrected held news |
+| 2026-11-24 | `7f34575` | stories shared / Instagram pause |
+| 2026-11-24 | `e644fd3` | stories shared / Instagram pause |
+| 2026-11-24 | `a5ed649` | stories shared / Instagram pause |
+| 2026-11-24 | `5ce3f4f` | stories shared / Instagram pause |
+| 2026-11-24 | `7bc5e9e` | stories shared / Instagram pause |
+| 2026-11-24 | `bbfcc24` | stories shared / Instagram pause |
+| 2026-11-24 | `dfcd8dd` | stories shared / Instagram pause |
+| 2026-11-24 | `58e1297` | stories shared / Instagram pause |
+| 2026-11-24 | `32116a1` | stories shared / Instagram pause |
+| 2026-11-24 | `7cea4fb` | stories shared / Instagram pause |
+| 2026-11-24 | `ab2ee9d` | pick: written and posted |
+| 2026-11-24 | `110968b` | stories shared / Instagram pause |
+| 2026-11-24 | `e9ac660` | facebook RN-275 |
+| 2026-11-24 | `e5ef5dc` | posted RN-275 |
+| 2026-11-24 | `3ebbdce` | stories shared / Instagram pause |
 | 2026-11-24 | `3142d17` | stories shared / Instagram pause |
 | 2026-11-24 | `cd6f112` | Facebook check: read-only views report of the latest reels (plays, reach, processing status) |
 | 2026-11-24 | `ad46d6b` | More district source pages: Hindu Tamil, Vikatan, Polimer (and OneIndia where it has the district) - Trichy, Tiruppur, Salem, Erode, Karur read only 1-2 pages |
-| 2026-11-24 | `e4ba000` | pick: picked news saved |
-| 2026-11-24 | `30c7bff` | pick: picked news saved |
-| 2026-11-24 | `35e5f77` | pick: list sent |
-| 2026-11-24 | `d91ac3d` | stories shared / Instagram pause |
-| 2026-11-24 | `7e6d5d7` | stories shared / Instagram pause |
-| 2026-11-24 | `f820130` | stories shared / Instagram pause |
-| 2026-11-24 | `6a39ffa` | stories shared / Instagram pause |
-| 2026-11-24 | `c48383d` | stories shared / Instagram pause |
-| 2026-11-24 | `7cc912c` | stories shared / Instagram pause |
-| 2026-11-24 | `7c6c057` | stories shared / Instagram pause |
-| 2026-11-24 | `f2d13d2` | stories shared / Instagram pause |
-| 2026-11-24 | `9a3660d` | stories shared / Instagram pause |
-| 2026-11-24 | `91a55c7` | stories shared / Instagram pause |
-| 2026-11-24 | `7bd9f96` | stories shared / Instagram pause |
-| 2026-11-24 | `41c7313` | stories shared / Instagram pause |
-| 2026-11-24 | `fcacf89` | stories shared / Instagram pause |
-| 2026-11-24 | `8f2b8c3` | stories shared / Instagram pause |
-| 2026-11-24 | `783ad3d` | pick: written and posted |
-| 2026-11-24 | `2dffc08` | facebook RN-274 |
-| 2026-11-24 | `96aab00` | posted RN-274 |
-| 2026-11-24 | `7b54960` | stories shared / Instagram pause |
-| 2026-11-24 | `6055a8b` | pick: picked news saved |
-| 2026-11-24 | `e6cfa7e` | stories shared / Instagram pause |
-| 2026-11-24 | `0ca40f0` | pick: picked news saved |
-| 2026-11-24 | `75d896c` | pick: list sent |
-| 2026-11-24 | `1e9df28` | stories shared / Instagram pause |
-| 2026-11-24 | `ed99adc` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
