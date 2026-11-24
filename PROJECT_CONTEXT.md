@@ -83,6 +83,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-24 | `e6d94af` | E-mail for every posted news again (posted_email each) |
+| 2026-11-24 | `22ba1ed` | facebook RN-257 |
+| 2026-11-24 | `2a747d0` | posted RN-257 |
+| 2026-11-24 | `34274ed` | stories shared / Instagram pause |
 | 2026-11-24 | `ef9213a` | Retry plan for any posting problem: 3 tries 5 minutes apart, then 2 tries 15 minutes apart, then Hold + one e-mail; 'account restricted' follows the same plan |
 | 2026-11-24 | `8c85765` | stories shared / Instagram pause |
 | 2026-11-24 | `f2b02a4` | rasipalan posted |
@@ -109,8 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-23 | `fc549e1` | stories shared / Instagram pause |
 | 2026-11-23 | `033af15` | pick: picked news saved |
 | 2026-11-23 | `21ee7ea` | pick: list sent |
-| 2026-11-23 | `c048164` | stories shared / Instagram pause |
-| 2026-11-23 | `37e21f3` | stories shared / Instagram pause |
-| 2026-11-23 | `0a4aa72` | stories shared / Instagram pause |
-| 2026-11-23 | `493b99c` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
