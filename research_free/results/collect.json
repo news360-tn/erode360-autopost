@@ -3,31 +3,107 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://tamil.oneindia.com/news/chennai/divya-sathyaraj-name-surfaces-for-dmk-perundurai-bypoll-ticket-amid-expectations-around-ex-minister-848189.html",
+  "manual link added: https://www.thanthitv.com/news/tamilnadu/erode-tn-rains-heavy-rain-in-bhavani-sewage-water-enters-homes",
   "candidate filter: collected=1",
   "to write: 1 Erode district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Erode; time left 79 min",
-  "try (N) manual=True: https://tamil.oneindia.com/news/chennai/divya-sathyaraj-name",
-  "NOT filed (N) திமுக சார்பாக பெருந்துறை தொகுதியில் களமிறங்கும் சத: all free models failed: no usable answer from the models",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 0}, time left 79 min",
-  "filed: 0 Erode district stories (target 1), reels only",
+  "try (N) manual=True: https://www.thanthitv.com/news/tamilnadu/erode-tn-rains-heav",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "posting job started at once",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
+  "filed: 1 Erode district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
-  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
   "switching away from gemini/gemini-3-flash-preview for 10 min",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7"
+  "ok groq/qwen/qwen3.8-27b (3s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (1s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
- "stories": []
+ "stories": [
+  {
+   "tamil_headline": "பவானியில் கனமழை - வீடுகளுக்குள் சாக்கடை நீர் புகுந்தது",
+   "english_headline": "Heavy rain in Bhavani: Sewage water entered houses",
+   "category": "Weather & Agriculture",
+   "location": "Bhavani town, Erode district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மழை பாதிப்பு",
+    "loc": "பவானி, ஈரோடு",
+    "hl1": "பவானியில் சாக்கடை நீர் வீடுகளில்",
+    "hl2": "3 மணி நேரம் கனமழை",
+    "slides": [
+     {
+      "title": "மழை விவரம்",
+      "lines": [
+       "பவானியில் 3 மணி நேரம் கனமழை",
+       "சுற்றுவட்டாரப் பகுதிகளில் மழை பெய்தது",
+       "குடியிருப்புப் பகுதிகளில் நீர் தேங்கியது"
+      ]
+     },
+     {
+      "title": "சாக்கடை நீர்",
+      "lines": [
+       "திருவள்ளுவர் நகரில் முழங்கால் அளவு நீர்",
+       "கழிவுநீர் வீடுகளுக்குள் புகுந்தது",
+       "துர்நாற்றம் மற்றும் தொற்று அபாயம்"
+      ]
+     },
+     {
+      "title": "மக்கள் கோரிக்கை",
+      "lines": [
+       "கால்வாய்களைத் தூர்வார வேண்டும்",
+       "நிரந்தர வடிகால் வசதி வேண்டும்",
+       "அப்பகுதி மக்கள் கோரிக்கை விடுத்தனர்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பவானியில் வீடுகளுக்குள் சாக்கடை நீர் புகுந்துள்ளது. ஈரோடு மாவட்டம் பவானி மற்றும் சுற்றுவட்டாரப் பகுதிகளில் 3 மணி நேரத்திற்கும் மேலாக கனமழை பெய்தது. இதனால் திருவள்ளுவர் நகர் பகுதியில் மழைநீருடன் கழிவுநீரும் கலந்தது. அப்பகுதியில் முழங்கால் அளவுக்கு நீர் தேங்கியது. சில வீடுகளுக்குள்ளும் கழிவுநீர் புகுந்ததால் துர்நாற்றம் வீசுகிறது. இதனால் தொற்றுநோய் பரவும் அபாயம் ஏற்பட்டுள்ளது. குடியிருப்புப் பகுதிகளில் சாக்கடை கழிவுநீர் தேங்கியதால் பொதுமக்கள் அவதியடைந்துள்ளனர். கால்வாய்களைத் தூர்வார வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர். மேலும் நிரந்தர வடிகால் வசதி ஏற்படுத்தித் தர வேண்டும் என மக்கள் வலியுறுத்தியுள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌧️ பவானியில் கனமழை - வீடுகளுக்குள் சாக்கடை நீர் புகுந்தது\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் பவானி மற்றும் சுற்றுவட்டாரப் பகுதிகளில் 3 மணி நேரத்திற்கும் மேலாக கனமழை பெய்தது. இதனால் திருவள்ளுவர் நகர் பகுதியில் மழைநீருடன் கழிவுநீரும் கலந்து முழங்கால் அளவுக்குத் தேங்கியது. சில வீடுகளுக்குள்ளும் கழிவுநீர் புகுந்ததால் துர்நாற்றம் வீசுகிறது. இதனால் தொற்றுநோய் பரவும் அபாயம் ஏற்பட்டுள்ளது. குடியிருப்புப் பகுதிகளில் சாக்கடை கழிவுநீர் தேங்கியதால் பொதுமக்கள் அவதியடைந்துள்ளனர். கால்வாய்களைத் தூர்வாரி, நிரந்தர வடிகால் வசதி ஏற்படுத்தித் தர வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.\n\n📍 இடம்: பவானி, ஈரோடு மாவட்டம்\n🌧️ மழை: 3 மணி நேரத்திற்கும் மேலாக\n⚠️ பாதிப்பு: திருவள்ளுவர் நகர் பகுதி\n📢 கோரிக்கை: கால்வாய் தூர்வாரல், வடிகால் வசதி\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nBhavani heavy rain sewage water | Erode news\n📍 Bhavani, Erode | 25 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #ErodeNews #ஈரோடு",
+   "prompts": "A knee-deep mixture of rainwater and sewage water floods the residential street in Thiruvalluvar Nagar, Bhavani town. The water is murky and brown, reflecting the grey sky of the heavy downpour that lasted over three hours. The scene is set in a typical Erode residential lane with tiled-roof houses on either side, their ground floors partially obscured by the rising water. Residents are seen from a distance, standing on raised thresholds or porches, looking down at the flooded street, their figures slightly blurred by the rain and distance. No vehicles are visible in the immediate frame, emphasizing the isolation of the flooded lane. The light is dim and diffuse, characteristic of a heavy rainstorm during the day. The camera is positioned at eye level, 35 mm, capturing the full width of the street to show the extent of the water accumulation and the proximity of the houses. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of the murky, brown water standing knee-deep on the concrete road surface, showing the mixture of rain and sewage. The water is stagnant and opaque, with small ripples from the continuing raindrops. In the background, slightly out of focus, the lower part of a residential house wall and a drainage channel opening are visible, indicating the source of the overflow. The texture of the wet concrete is visible through the thin layer of water. The lighting is flat and grey, consistent with heavy overcast weather. The camera is slightly high, looking down at the water surface, 35 mm, focusing on the quality of the water and the immediate ground level to highlight the contamination and the depth of the flood in the residential area. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.thanthitv.com/news/tamilnadu/erode-tn-rains-heavy-rain-in-bhavani-sewage-water-enters-homes",
+   "published": "",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b + proofread groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b + proofread groq/qwen/qwen3.8-27b, 1 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/2e6d242c25950f31.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/410a2b8fc15a64e1.jpg"
+   ]
+  }
+ ]
 }
