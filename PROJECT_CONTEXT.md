@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-24 | `09e18a6` | Facebook post text without the outside article link (less reach); the link stays in the first comment, the paper name and date stay |
-| 2026-11-24 | `6fd8bd2` | stories shared / Instagram pause |
-| 2026-11-24 | `1b1f62d` | stories shared / Instagram pause |
-| 2026-11-24 | `2eaab9e` | stories shared / Instagram pause |
-| 2026-11-24 | `23d6a37` | stories shared / Instagram pause |
-| 2026-11-24 | `b197122` | stories shared / Instagram pause |
-| 2026-11-24 | `a89f266` | stories shared / Instagram pause |
-| 2026-11-24 | `7fce8aa` | stories shared / Instagram pause |
-| 2026-11-24 | `9e6d5c7` | pick: written and posted |
-| 2026-11-24 | `a88df2d` | pick: list sent |
-| 2026-11-24 | `9133b41` | stories shared / Instagram pause |
-| 2026-11-24 | `aeffd84` | autofix: corrected held news |
-| 2026-11-24 | `7f34575` | stories shared / Instagram pause |
-| 2026-11-24 | `e644fd3` | stories shared / Instagram pause |
-| 2026-11-24 | `a5ed649` | stories shared / Instagram pause |
-| 2026-11-24 | `5ce3f4f` | stories shared / Instagram pause |
-| 2026-11-24 | `7bc5e9e` | stories shared / Instagram pause |
-| 2026-11-24 | `bbfcc24` | stories shared / Instagram pause |
-| 2026-11-24 | `dfcd8dd` | stories shared / Instagram pause |
-| 2026-11-24 | `58e1297` | stories shared / Instagram pause |
-| 2026-11-24 | `32116a1` | stories shared / Instagram pause |
-| 2026-11-24 | `7cea4fb` | stories shared / Instagram pause |
-| 2026-11-24 | `ab2ee9d` | pick: written and posted |
-| 2026-11-24 | `110968b` | stories shared / Instagram pause |
-| 2026-11-24 | `e9ac660` | facebook RN-275 |
-| 2026-11-24 | `e5ef5dc` | posted RN-275 |
-| 2026-11-24 | `3ebbdce` | stories shared / Instagram pause |
-| 2026-11-24 | `3142d17` | stories shared / Instagram pause |
-| 2026-11-24 | `cd6f112` | Facebook check: read-only views report of the latest reels (plays, reach, processing status) |
-| 2026-11-24 | `ad46d6b` | More district source pages: Hindu Tamil, Vikatan, Polimer (and OneIndia where it has the district) - Trichy, Tiruppur, Salem, Erode, Karur read only 1-2 pages |
+| 2026-11-25 | `a15af56` | Rasipalan: each page keeps the day's 12 rasi texts; when every AI writer is busy, a page uses the text another 360 page wrote that day |
+| 2026-11-25 | `72d0152` | stories shared / Instagram pause |
+| 2026-11-25 | `24971e6` | stories shared / Instagram pause |
+| 2026-11-25 | `32f8155` | stories shared / Instagram pause |
+| 2026-11-25 | `c9c4e9f` | stories shared / Instagram pause |
+| 2026-11-25 | `818b2dc` | autofix: corrected held news |
+| 2026-11-25 | `7066365` | stories shared / Instagram pause |
+| 2026-11-25 | `3d6d0ba` | stories shared / Instagram pause |
+| 2026-11-25 | `9634984` | stories shared / Instagram pause |
+| 2026-11-25 | `580d7d5` | stories shared / Instagram pause |
+| 2026-11-25 | `c96df12` | stories shared / Instagram pause |
+| 2026-11-25 | `925175e` | stories shared / Instagram pause |
+| 2026-11-25 | `d435ad1` | stories shared / Instagram pause |
+| 2026-11-25 | `fd67bae` | stories shared / Instagram pause |
+| 2026-11-25 | `1fa5a09` | stories shared / Instagram pause |
+| 2026-11-25 | `1fcf78d` | stories shared / Instagram pause |
+| 2026-11-25 | `6092250` | stories shared / Instagram pause |
+| 2026-11-25 | `563ddca` | stories shared / Instagram pause |
+| 2026-11-25 | `c0f0a0a` | stories shared / Instagram pause |
+| 2026-11-25 | `1d31192` | stories shared / Instagram pause |
+| 2026-11-25 | `1eab618` | stories shared / Instagram pause |
+| 2026-11-25 | `96fab92` | stories shared / Instagram pause |
+| 2026-11-25 | `403bcbf` | pick: written and posted |
+| 2026-11-25 | `d4951f4` | pick: list sent |
+| 2026-11-25 | `e19aef1` | stories shared / Instagram pause |
+| 2026-11-25 | `172c2ac` | stories shared / Instagram pause |
+| 2026-11-25 | `66ee3b3` | stories shared / Instagram pause |
+| 2026-11-25 | `a030171` | stories shared / Instagram pause |
+| 2026-11-25 | `a14196e` | stories shared / Instagram pause |
+| 2026-11-25 | `828451f` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
