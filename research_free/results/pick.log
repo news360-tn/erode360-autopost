@@ -1,37 +1,16 @@
-22:57:59 round 2026-11-25_22: news published 25 Nov 22:26 -> 25 Nov 22:57 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
-22:57:59 insights 2026-11-25T22:57+05:30 (247 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.88, 'education': -0.5, 'temple': -0.33, 'politics': 0.15, 'power_cut': 0.36, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
-22:58:14 open search 'ஈரோடு' (from_google): 0 links from our outlets
-22:58:14 69 links on the two papers' Erode pages
-22:58:38 skipped: published before this window=31, already posted=9, not Erode district=6, state-wide / other district=6, same event already posted=2, only a headline=2
-22:58:38 list: 3 new + 0 earlier news not posted yet
-22:58:38    1. [பொது] ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்த அதிகாரிக (தினமலர்)
-22:58:38    2. [பொது] மருந்து கடைக்காரர் மீது பெட்ரோல் ஊற்றிய எலக்ட்ரீஷியனால் பரபரப்பு (தினமலர்)
-22:58:38    3. [பொது] தலையில் மண் பானையுடன் வலம் வந்த சென்னிமலை நெசவாளர் (தினமலர்)
-22:58:38 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-25_22
-22:58:40 round 2026-11-25_22 (at least 3, up to 3 more of well-watched topics): 3 news to choose from (0 from earlier rounds), ranked by this page's insights
-22:58:40   PICK   1.   8.0 [other +0.00 pattern] ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்
-22:58:40   PICK   2.   3.0 [other +0.00 pattern] தலையில் மண் பானையுடன் வலம் வந்த சென்னிமலை நெசவாளர்
-22:58:40   PICK   3.   2.5 [other +0.00 pattern] மருந்து கடைக்காரர் மீது பெட்ரோல் ஊற்றிய எலக்ட்ரீஷியனால் பரபர
-22:58:40 decided: automatic: top 3 of 3 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-erode/rs-3188-lakh-authorities-seal-52-shops-with-rent-arrears/4386049 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/a-chennimalai-weaver-wandering-with-an-earthen-pot-on-his-head/4386105 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/electrician-spills-petrol-on-pharmacist/4385954
-23:00:49 1 picked news refused by the writer - not offered again
-23:00:49 2 listed news now in the Sheet
-23:00:58 instagram duplicate check erode: 50 recent posts read
-23:01:00 verify 2026-11-25_22: 0 of 3 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-23:01:00    SKIPPED Cb684fd8: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - மருந்து கடைக்காரர் மீது பெட்ரோல் ஊற்றிய எலக்ட்ரீஷியனால் பரபர
-23:01:00    SKIPPED Cc92e573: skipped RN-286: held: fact-check problems - numbers not found in the article: 1159325, 3187948 - ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்
-23:01:00    NOT POSTED Cba9c119: queued RN-285 (Queued) - தலையில் மண் பானையுடன் வலம் வந்த சென்னிமலை நெசவாளர்
-23:06:07 instagram duplicate check erode: 50 recent posts read
-23:06:08 verify 2026-11-25_22: 0 of 3 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-23:06:08    SKIPPED Cb684fd8: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - மருந்து கடைக்காரர் மீது பெட்ரோல் ஊற்றிய எலக்ட்ரீஷியனால் பரபர
-23:06:08    SKIPPED Cc92e573: skipped RN-286: held: fact-check problems - numbers not found in the article: 1159325, 3187948 - ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்
-23:06:08    NOT POSTED Cba9c119: queued RN-285 (Queued) - தலையில் மண் பானையுடன் வலம் வந்த சென்னிமலை நெசவாளர்
-23:11:14 instagram duplicate check erode: 50 recent posts read
-23:11:18 verify 2026-11-25_22: 0 of 3 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-23:11:18    SKIPPED Cb684fd8: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - மருந்து கடைக்காரர் மீது பெட்ரோல் ஊற்றிய எலக்ட்ரீஷியனால் பரபர
-23:11:18    SKIPPED Cc92e573: skipped RN-286: held: fact-check problems - numbers not found in the article: 1159325, 3187948 - ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்
-23:11:18    NOT POSTED Cba9c119: queued RN-285 (Queued) - தலையில் மண் பானையுடன் வலம் வந்த சென்னிமலை நெசவாளர்
-23:16:25 verify 2026-11-25_22: 1 of 3 picked news posted, 2 skipped on purpose, 0 waiting for their posting start
-23:16:25    SKIPPED Cb684fd8: skipped: the writer refused it - not filed: all free models failed: no usable answer from the models - மருந்து கடைக்காரர் மீது பெட்ரோல் ஊற்றிய எலக்ட்ரீஷியனால் பரபர
-23:16:25    SKIPPED Cc92e573: skipped RN-286: held: fact-check problems - numbers not found in the article: 1159325, 3187948 - ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்
+01:36:08 round 2026-11-26_01: news published 25 Nov 22:57 -> 26 Nov 01:36 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
+01:36:08 insights 2026-11-26T01:36+05:30 (248 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.94, 'education': -0.5, 'temple': -0.21, 'politics': 0.19, 'power_cut': 0.37, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
+01:37:15 open search 'ஈரோடு' (from_google): 4 links from our outlets
+01:37:15 80 links on the two papers' Erode pages
+01:38:03 skipped: published before this window=31, not Erode district=15, already posted=9, state-wide / other district=6, same event already posted=2, only a headline=2, shop offer / advertisement=1
+01:38:03 list: 8 new + 0 earlier news not posted yet
+01:38:03    1. [குற்றம்] சட்ட விரோதமாக மது விற்றவர் கைது (தினமலர்)
+01:38:03    2. [மழை / வானிலை] பவானி, சென்னிமலை சுற்று பகுதியில் இடியுடன் மழை (தினமலர்)
+01:38:03    3. [பொது] போதையில் மெக்கானிக்கை அடித்து கொன்ற தொழிலாளி (தினமலர்)
+01:38:03    4. [பொது] அஞ்சல் தலை கண்காட்சி போட்டி துவக்கம் (தினமலர்)
+01:38:03    5. [பொது] மனைவி மாயம்; கணவர் புகார் (தினமலர்)
+01:38:03    6. [பொது] இந்து முன்னணியினர் மறியல் (தினமலர்)
+01:38:03    7. [பொது] நாளை பி.எப்., குறைதீர் கூட்டம் (தினமலர்)
+01:38:03    8. [பொது] பண்ணாரி அம்மன் கோவிலில் ரூ.60.99 லட்சம் காணிக்கை (தினமலர்)
+01:38:03 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-26_01
