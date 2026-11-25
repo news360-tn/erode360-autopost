@@ -3,13 +3,13 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.thanthitv.com/news/tamilnadu/fire-accident-karthigai-deepam-lit-at-home-sparks-fire-house-completely-gutted",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/strict-action-should-be-taken-against-those-who-damaged-karunanidhis-statues-m-veerapandian",
   "candidate filter: collected=1",
   "to write: 1 Erode district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Erode; time left 79 min",
-  "try (N) manual=True: https://www.thanthitv.com/news/tamilnadu/fire-accident-karth",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/strict-action-sh",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "posting job started at once",
   "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 77 min",
   "filed: 1 Erode district stories (target 1), reels only",
@@ -19,95 +19,78 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3.6-flash (31s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.6-flash (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (2s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (7s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok groq/openai/gpt-oss-120b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (6s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "நசியனூரில் கார்த்திகை தீ விபத்து",
-   "english_headline": "Karthigai Lamp Fire Accident in Nasiyanur",
+   "tamil_headline": "ஈரோடு, மொடக்குறிச்சியில் கருணாநிதி சிலைகள் சேதம்: கடும் நடவடிக்கை எடுக்க மு.வீரபாண்டியன் வலியுறுத்தல்",
+   "english_headline": "Karunanidhi statues damaged in Erode and Modakurichi; CPI State Secretary Veerapandian demands strict action",
    "category": "Crime & Safety",
-   "location": "Nasiyanur, Sittode, Erode district",
-   "importance": "Medium",
-   "scope": "local",
+   "location": "Modakurichi, Erode district",
+   "importance": "High",
+   "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தீ விபத்து",
-    "loc": "நசியனூர், சித்தோடு",
-    "hl1": "நசியனூரில் கார்த்திகை தீ விபத்து",
-    "hl2": "மொத்தம் கருகிப் போனது",
+    "cat": "சிலை சேதம்",
+    "loc": "மொடக்குறிச்சி, ஈரோடு",
+    "hl1": "ஈரோட்டில் கருணாநிதி சிலைகள் சேதம்",
+    "hl2": "கடும் நடவடிக்கை கோரிக்கை",
     "slides": [
      {
-      "title": "தீ விபத்து",
+      "title": "சிலைகள் சேதம்",
       "lines": [
-       "நசியனூர், சித்தோடு அருகே வீடு தீயில்",
-       "கார்த்திகை தீபம் ஏற்றிய போது"
+       "ஈரோடு, மொடக்குறிச்சியில் <b>4 இடங்களில்</b> சிலைகள் சேதம்",
+       "முன்னாள் முதல்வர் கருணாநிதியின் சிலைகள் சேதப்படுத்தப்பட்டன"
       ]
      },
      {
-      "title": "காரணம்",
+      "title": "கண்டனம்",
       "lines": [
-       "கார்த்திகை தீபம் எரிந்ததால்",
-       "வீட்டில் தீப்பற்றி"
+       "இந்திய கம்யூனிஸ்ட் மாநிலச் செயலாளர் மு.வீரபாண்டியன் கண்டனம்",
+       "சமூக விரோதிகள் மீது சட்டப்படி நடவடிக்கை எடுக்க வலியுறுத்தல்"
       ]
      },
      {
-      "title": "அவலம்",
+      "title": "வலியுறுத்தல்",
       "lines": [
-       "மொத்தம் கருகிப் போனது",
-       "அவலம் முழுமையாக அழிந்தது"
+       "குற்றவாளிகளை உடனடியாகக் கைது செய்ய வேண்டும்",
+       "தமிழ்நாடு அரசு கடுமையான நடவடிக்கை எடுக்க வேண்டும்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு மாவட்டம் சித்தோடு அருகே நசியனூர் பகுதியில் வீட்டில் கார்த்திகை தீபம் ஏற்றியபோது தீ விபத்து ஏற்பட்டது. அந்த தீபம் எரிந்ததால் வீட்டின் உள்ளே தீப்பற்றி. தீ விரைவாகப் பரவி முழு வீட்டும் கருகிப் போனது. அவலம் முழுமையாக அழிந்தது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🔥 நசியனூரில் கார்த்திகை தீபம் ஏற்றியதில் தீ விபத்து\n\n📰 முழு விவரம்:\nநசியனூர், சித்தோடு அருகே உள்ள ஒரு வீட்டில் கார்த்திகை தீபம் ஏற்றியபோது தீ விபத்து ஏற்பட்டது. தீபம் எரிந்ததால் வீட்டின் உள்ளே தீப்பற்றி. தீ விரைவாகப் பரவி முழு வீட்டும் கருகிப் போனது. அவலம் முழுமையாக அழிந்தது.\n📍 இடம்: நசியனூர், சித்தோடு, ஈரோடு மாவட்டம்\n\nShare செய்யுங்கள்\n\nNasiyanur fire accident | Erode news\n📍 Nasiyanur, Erode | 25 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n#Erode360 #Erode #Nasiyanur #ErodeNews #ஈரோடு",
-   "prompts": "A residential house in a rural Tamil Nadu village at night, with a lit karthigai oil lamp on a balcony, flames spreading from the roof, a few villagers standing at a distance, dark sky, soft street lights, realistic photo‑realistic style. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose‑up of a traditional karthigai oil lamp on a wooden table inside a house, flame igniting nearby curtains, smoke rising, showing the cause of the fire, indoor setting with realistic lighting. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.thanthitv.com/news/tamilnadu/fire-accident-karthigai-deepam-lit-at-home-sparks-fire-house-completely-gutted",
-   "published": "",
-   "verification": "DRAFT (groq/openai/gpt-oss-120b) - NOT CLEAN, held from posting - problems: reel_script has 36 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block); sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
-   "note": "free-model draft groq/openai/gpt-oss-120b, 3 attempt(s), 2 validator problem(s)",
+   "reel_script": "ஈரோடு மற்றும் மொடக்குறிச்சியில் 4 இடங்களில் முன்னாள் முதல்வர் கருணாநிதியின் சிலைகள் சேதப்படுத்தப்பட்டுள்ளன. இச்சம்பவத்திற்கு இந்திய கம்யூனிஸ்ட் கட்சியின் மாநிலச் செயலாளர் மு.வீரபாண்டியன் கடும் கண்டனம் தெரிவித்துள்ளார். இது தொடர்பாக அவர் வெளியிட்டுள்ள அறிக்கையில், முன்னாள் முதல்வர் கலைஞர், திராவிட இயக்கத்தின் முன்னோடி தலைவர்களில் ஒருவர் என்றும்; அரசியல், ஆட்சி நிர்வாகம், திரைத்துறை, கலை மற்றும் இலக்கியத் துறைகளில் சிறப்பாகச் செயல்பட்டு சமூக நீதி மற்றும் சமூக சமத்துவத்திற்காக பாடுபட்டவர் என்றும் சுட்டிக்காட்டியுள்ளார். இதனையொட்டி, சிலைகளைச் சேதப்படுத்திய சமூக விரோதிகளை உடனடியாகக் கைது செய்ய வேண்டும் என்றும், குற்றவாளிகள் மீது தமிழ்நாடு அரசு சட்டப்படி கடுமையான நடவடிக்கை எடுக்க வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 ஈரோடு, மொடக்குறிச்சியில் கருணாநிதி சிலைகள் சேதம்: கடும் நடவடிக்கை எடுக்க மு.வீரபாண்டியன் வலியுறுத்தல்\n\n📰 முழு விவரம்:\nஈரோடு மற்றும் மொடக்குறிச்சியில் 4 இடங்களில் முன்னாள் முதல்வர் கருணாநிதியின் சிலைகள் சேதப்படுத்தப்பட்டுள்ளன. இச்சம்பவத்திற்கு இந்திய கம்யூனிஸ்ட் கட்சியின் மாநிலச் செயலாளர் மு.வீரபாண்டியன் கடும் கண்டனம் தெரிவித்துள்ளார்.\n\nஅரசியல், ஆட்சி நிர்வாகம், திரைத்துறை மற்றும் இலக்கியத் துறைகளில் சிறப்பாகச் செயல்பட்டு சமூக நீதிக்கு பாடுபட்ட தலைவரின் சிலைகளைச் சேதப்படுத்தியது கண்டனத்திற்குரியது என அவர் அறிக்கை வெளியிட்டுள்ளார். சிலைகளைச் சேதப்படுத்திய சமூக விரோதிகளைக் கைது செய்து, அவர்கள் மீது தமிழ்நாடு அரசு சட்டப்படி கடுமையான நடவடிக்கை எடுக்க வேண்டும் என வலியுறுத்தியுள்ளார்.\n\n📍 இடம்: மொடக்குறிச்சி மற்றும் ஈரோடு\n👮 கோரிக்கை: குற்றவாளிகளைக் கைது செய்து சட்டப்படி கடும் நடவடிக்கை எடுக்க வேண்டும்\n\nசெய்தியை மற்றவர்களுடன் Share செய்யுங்கள்.\n\nKarunanidhi statue damaged in Erode and Modakurichi CPI demand strict action | Erode news\n📍 மொடக்குறிச்சி, ஈரோடு | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Modakurichi #ErodeNews #ஈரோடு",
+   "prompts": "A life-sized statue of a political leader on a concrete pedestal appears vandalized with visible cracks and damage. The scene is set in a public square in Modakurichi, Erode, surrounded by low-rise buildings and small shops typical of the district. Three local men wearing shirts and veshtis stand several meters away, looking at the statue from behind. The ground around the pedestal has small pieces of broken material. The lighting is bright daylight under a clear sky. The camera is at eye level, using a 35mm lens to capture the statue and its immediate surroundings in a wide shot. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on the damaged section of one of the statues in Erode city. The focus is on the cracked surface of the statue's torso and the chipped paint on the concrete pedestal. A Tamil Nadu police officer in a khaki uniform is partially visible from the side and behind, standing near the base of the statue as if inspecting the crime scene. The background shows a blurred street with a parked two-wheeler. The lighting is natural daylight. The camera is positioned at a slightly low angle, providing a detailed view of the vandalism and the texture of the damaged material. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/strict-action-should-be-taken-against-those-who-damaged-karunanidhis-statues-m-veerapandian",
+   "published": "2026-11-25T07:22:14Z",
+   "verification": "DRAFT (gemini/gemini-3.6-flash + proofread gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash + proofread gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795589978/erode360/t0y9s4i1knwbshxz8lwk.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795589985/erode360/xgh7eujrsf1njvzzczdu.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/d666438619137e6a.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/ad7100aca39ca5c8.jpg"
    ]
   }
  ]
