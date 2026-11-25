@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-25T20:27:50.885989+05:30",
+ "last_end": "2026-11-25T22:26:38.986240+05:30",
  "pool": {
   "C6415808": {
    "id": "C6415808",
@@ -154,33 +154,21 @@
    "listed_at": "2026-11-25T20:27:50.885989+05:30",
    "picked_at": "2026-11-25T20:30:47.431966+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
+  },
+  "Cdecbb0a": {
+   "id": "Cdecbb0a",
+   "url": "https://www.thanthitv.com/news/tamilnadu/erode-tn-rains-heavy-rain-in-bhavani-sewage-water-enters-homes",
+   "title": "Erode | TN Rains | பவானியில் கனமழை - வீடுகளுக்குள் புகுந்த சாக்கடை நீர்",
+   "summary": "Erode | TN Rains | பவானியில் கனமழை - வீடுகளுக்குள் புகுந்த சாக்கடை நீர் #Erode #TNRains #HeavyRain #Flood ஈரோடு மாவட்டம் பவானியில் பெய்த கனமழையால், குடியிருப்புப் பகுதிகளில் சாக்கடை கழிவுநீர் தேங்கியதால் பொதுமக்கள் அவ...",
+   "source": "தந்தி டிவி",
+   "published": "",
+   "category": "மழை / வானிலை",
+   "score": 9.5,
+   "power_cut": false,
+   "listed_at": "2026-11-25T22:26:38.986240+05:30"
   }
  },
  "rounds": {
-  "2026-11-24_03": {
-   "window": [
-    "2026-11-24T00:02:14.380422+05:30",
-    "2026-11-24T03:48:53.188855+05:30"
-   ],
-   "ids": [
-    "C692708b",
-    "Ca47789f"
-   ],
-   "sent": false,
-   "deadline": "2026-11-24T04:48:53.188855+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 2 by insights",
-    "ids": [
-     "C692708b",
-     "Ca47789f"
-    ],
-    "at": "2026-11-24T03:50:16.246129+05:30"
-   },
-   "written": [
-    "C692708b",
-    "Ca47789f"
-   ]
-  },
   "2026-11-24_04": {
    "window": [
     "2026-11-24T03:48:53.188855+05:30",
@@ -600,6 +588,19 @@
    "refused": {
     "C7161198": "not filed: all free models failed: no usable answer from the models"
    }
+  },
+  "2026-11-25_22": {
+   "window": [
+    "2026-11-25T20:27:50.885989+05:30",
+    "2026-11-25T22:26:38.986240+05:30"
+   ],
+   "ids": [
+    "Cdecbb0a"
+   ],
+   "sent": false,
+   "deadline": "2026-11-25T23:26:38.986240+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
