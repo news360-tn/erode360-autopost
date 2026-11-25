@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-25T06:31:10.457303+05:30",
+ "last_end": "2026-11-25T08:28:39.190855+05:30",
  "pool": {
   "C6415808": {
    "id": "C6415808",
@@ -127,20 +127,6 @@
    "picked_at": "2026-11-25T06:33:51.573524+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
   },
-  "C68cdcbe": {
-   "id": "C68cdcbe",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/celebration-of-karthigai-deepavali/4385580",
-   "title": "கார்த்திகை தீப விழா கொண்டாட்டம்",
-   "summary": "ஈரோடு; ஈரோடு மாவட்டத்தில் கார்த்திகை தீப திருவிழாவையொட்டி, கோவில்களில் தீபம் ஏற்றும் விழா, வழக்கமான உற்சாகத்துடன் நடந்தது. ஈரோட்டில் கோட்டை ஆருத்ர கபாலீஸ்வரர் கோவிலில், நேற்று மாலை கார்த்திகை தீபம் ஏற்றப்பட்டது.",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:47:00+05:30",
-   "category": "பொது",
-   "score": 4.0,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:31:10.457303+05:30",
-   "picked_at": "2026-11-25T06:33:51.573527+05:30",
-   "posted": true
-  },
   "C56f96f7": {
    "id": "C56f96f7",
    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/vastra-samman-for-bannari-temple/4385582",
@@ -154,46 +140,9 @@
    "listed_at": "2026-11-25T06:31:10.457303+05:30",
    "picked_at": "2026-11-25T06:33:51.573529+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "Cd674751": {
-   "id": "Cd674751",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/erode-elderly-man-donates-eyes-dies-while-being-treated/4385577",
-   "title": "சிகிச்சைக்கு வந்த நிலையில் மரணம் ஈரோடு முதியவரின் கண்கள் தானம்",
-   "summary": "ஈரோடு; ஈரோடு, திருநகர் காலனியை சேர்ந்தவர் ராதாகிருஷ்ணன், 84; உடல்நலக்குறைவால் ஈரோடு எஸ்.எஸ்.எஸ்., சூப்பர் ஸ்பெஷாலிட்டி மருத்துவமனைக்கு அழைத்து வரப்பட்டார்.",
-   "source": "தினமலர்",
-   "published": "2026-11-25T05:46:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-25T06:31:10.457303+05:30",
-   "picked_at": "2026-11-25T06:33:51.573531+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-23_12": {
-   "window": [
-    "2026-11-23T08:28:19.600205+05:30",
-    "2026-11-23T12:30:06.484278+05:30"
-   ],
-   "ids": [
-    "C3d485f1",
-    "C7b05e9a",
-    "C77908db"
-   ],
-   "sent": false,
-   "deadline": "2026-11-23T13:30:06.484278+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 1 by insights",
-    "ids": [
-     "C3d485f1"
-    ],
-    "at": "2026-11-23T12:34:25.594457+05:30"
-   },
-   "written": [
-    "C3d485f1"
-   ]
-  },
   "2026-11-23_16": {
    "window": [
     "2026-11-23T12:30:06.484278+05:30",
@@ -650,6 +599,17 @@
     "C97f41d9": "not filed: all free models failed: no usable answer from the models",
     "C969f0a6": "not filed: all free models failed: no usable answer from the models"
    }
+  },
+  "2026-11-25_08": {
+   "window": [
+    "2026-11-25T06:31:10.457303+05:30",
+    "2026-11-25T08:28:39.190855+05:30"
+   ],
+   "ids": [],
+   "sent": false,
+   "deadline": "2026-11-25T09:28:39.190855+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
