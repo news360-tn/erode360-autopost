@@ -1,24 +1,17 @@
-05:07:06 round 2026-11-25_05: news published 25 Nov 04:28 -> 25 Nov 05:07 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
-05:07:06 insights 2026-11-25T05:07+05:30 (234 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.91, 'education': -0.5, 'temple': -0.32, 'politics': -0.08, 'power_cut': 0.37, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 அந்தியூரில் 877 கிலோ தடை புகையிலைப் பொருள்கள் பறிமுதல்: மூவர் கைது', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
-05:15:58 from_google dinamalar.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google dinamani.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google dinamalar.com 'கோபி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google dinamani.com 'கோபி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google dinamalar.com 'சத்தியமங்கலம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google dinamani.com 'சத்தியமங்கலம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google tamil.oneindia.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google dinakaran.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google dailythanthi.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google maalaimalar.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google hindutamil.in 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 from_google polimernews.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 open search from_google 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-05:15:58 open search 'ஈரோடு' (from_bing): 0 links from our outlets
-05:15:58 69 links on the two papers' Erode pages
-05:16:44 skipped: published before this window=31, already posted=17, state-wide / other district=6, not Erode district=5, same event already posted=3, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=1
-05:16:44 list: 0 new + 0 earlier news not posted yet
-05:16:44 no news in this window - no e-mail
-ROUND=2026-11-25_05
-05:16:46 no list this round - nothing to post
-PICK_URLS=
-05:16:47 verify: no decided round
+06:31:10 round 2026-11-25_06: news published 25 Nov 05:07 -> 25 Nov 06:31 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
+06:31:10 insights 2026-11-25T06:31+05:30 (238 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.89, 'education': -0.5, 'temple': -0.33, 'politics': -0.1, 'power_cut': 0.35, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 அந்தியூரில் 877 கிலோ தடை புகையிலைப் பொருள்கள் பறிமுதல்: மூவர் கைது', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
+06:33:01 open search 'ஈரோடு' (from_google): 5 links from our outlets
+06:33:01 71 links on the two papers' Erode pages
+06:33:49 skipped: published before this window=31, already posted=9, not Erode district=7, state-wide / other district=6, same event already posted=3, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=1
+06:33:49 list: 9 new + 0 earlier news not posted yet
+06:33:49    1. [மழை / வானிலை] தீப திருநாளில் தீர்த்த மழை (தினமலர்)
+06:33:49    2. [பொது] ஊராட்சி எச்சரிக்கையை மீறி லாரிகளில் தண்ணீர் விற்பனை (தினமலர்)
+06:33:49    3. [பொது] த.வெ.க., அரசை கண்டித்து ஹிந்து முன்னணி மறியல் (தினமலர்)
+06:33:49    4. [பொது] வீட்டு தோட்டம் அமைக்க மானியத்தில் இடுபொருள் (தினமலர்)
+06:33:49    5. [பொது] வாக்காளர் சிறப்பு முகாமில் 5,697 படிவங்கள் ஏற்பு (தினமலர்)
+06:33:49    6. [பொது] இலவச வேட்டி, சேலை தரம்; அமைச்சர் ஆய்வு (தினமலர்)
+06:33:49    7. [பொது] கார்த்திகை தீப விழா கொண்டாட்டம் (தினமலர்)
+06:33:49    8. [பொது] பண்ணாரி கோவிலுக்கு வஸ்திர மரியாதை (தினமலர்)
+06:33:49    9. [பொது] சிகிச்சைக்கு வந்த நிலையில் மரணம் ஈரோடு முதியவரின் கண்கள் தானம் (தினமலர்)
+06:33:49 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-25_06
