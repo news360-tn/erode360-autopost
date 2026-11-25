@@ -1,24 +1,11 @@
-writing [N]: நாட்டுச் சா்க்கரை ஆலைக்கு எரிபொருளாக பிளாஸ்டிக் கழிவுகளை ஏற்
-writing [N]: மாவட்ட அளவிலான அஞ்சல் தலைகள் கண்காட்சி தொடக்கம்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+writing [N]: பாா் ஊழியரை தாக்கிய இருவா் மீது வழக்கு
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
@@ -29,174 +16,57 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-writing [N]: இந்து வக்கீல்கள் ஆர்ப்பாட்டம்
+ok groq/openai/gpt-oss-120b (7s)
+attempt 1 groq/openai/gpt-oss-120b: 3 problems
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-writing [N]: டாஸ்மாக் பார் ஊழியரை தாக்கிய இருவர் மீது வழக்கு
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 switching away from groq/openai/gpt-oss-120b for 10 min
 ok groq/qwen/qwen3.8-27b (4s)
-attempt 1 groq/qwen/qwen3.8-27b: 1 problems
-  hl1 is 44 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+attempt 2 groq/qwen/qwen3.8-27b: 2 problems
+  reel_script must tell how the story ENDED, as the article's last lines say ('பாா் ஊழியரை தாக்கிய இருவா் மீது வழக்கு') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 36 ('பெருந்துறை அருகே, அரசு மதுபானக் கடையில் பாா் ஊழியரை தாக்கிய '); 26 ('இந்த பாருக்கு பெருந்துறையை அடுத்த, சூரநாயக்கனூரைச் சோ்ந்த ம'); 36 ('இந்த பாருக்கு பெருந்துறையை அடுத்த, சூரநாயக்கனூரைச் சோ்ந்த ம')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok gemini/gemini-3-flash-preview (35s)
-attempt 1 gemini/gemini-3-flash-preview: 3 problems
-  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption needs 5 hashtags (Instagram max), has 6
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 15 ('கேரள மாநிலத்திலிருந்து பவானிக்கு நாட்டுச் சா்க்கரை ஆலையின் எ'); 15 ('இதையடுத்து, சட்டவிரோதமாக பிளாஸ்டிக் கழிவுகளை ஏற்றி வந்த லாரி'); 15 ('நாட்டுச் சா்க்கரை ஆலைக்கு எரிபொருளாக பிளாஸ்டிக் கழிவுகளை ஏற்')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-hl1 shortened at a natural break: 'ஈரோடு நீதிமன்றத்தில் வக்கீல்கள் ஆர்ப்பாட்டம்' -> 'ஈரோடு வக்கீல்கள் ஆர்ப்பாட்டம்'
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2q1qqe35a67dhqnh6gc8f` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1698. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
-
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-writing [N]: மாடி தோட்ட தொகுப்பு, காய்கறி விதை தோட்டக்கலை துறை வினியோகம்
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-writing [N]: கோ்மாளம் மலைக் கிராமத்தில் ஜடேருத்ர சுவாமி கோயில் தோ்த் தி
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-writing [N]: கோபியில் பரவலாக மழை: பொதுமக்கள் மகிழ்ச்சி
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-writing [N]: கீழ்பவானி தண்ணீர் விவகாரம் டி.ஆர்.ஓ.,வுடன் எம்.எல்.ஏ., சந்தி
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-writing [N]: போதையில் மெக்கானிக்கை அடித்து கொன்ற தொழிலாளி
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-writing [N]: ஈரோட்டில் வக்கீல்கள் நீதிமன்ற புறக்கணிப்பு
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-writing [N]: சட்டவிரோதமாக மது விற்றவருக்கு காப்பு
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 image brief failed, using the writer's image prompt: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to acces
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
+real photo skipped (photo uploaded 2026-11-10 (older than the news)): https://media.dinamani.com/dinamani/2026-11-10/dixz3fgw/%E0%AE%B5%E0%AE%B4%E0%AE%95%E0%AF%
+real photo skipped (photo uploaded 2026-11-10 (older than the news)): https://media.dinamani.com/dinamani/2026-11-10/dixz3fgw/வழக்கு?w=1200&h=675&auto=format%2C
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
-real photo: vision check out of free quota
-ok groq/qwen/qwen3.8-27b (2s)
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Truck carrying 7 tons of plastic waste f'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0431","first":"RN-289"}
+images made: 2 for 'Case registered against two men for assa'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0504","first":"RN-291"}
 posting job started at once
-real photo: no picture on the source page -> AI pictures
-writing [N]: மருந்துக் கடை உரிமையாளா் மீது பெட்ரோல் ஊற்றி தீ வைக்க முயற்ச
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Hindu Lawyers Protest at Erode Court Aga'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-0431","first":"RN-290"}
-writing [N]: தாக்குதல் சம்பவம் எதிரொலி சிலைகளுக்கு போலீஸ் பாதுகாப்பு
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-claude rewrite failed: anthropic 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/statue-of-unity-attacked-by-police/4386500
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/attempt-made-to-set-a-pharmacy-owner-on-fire-by-pouring-petrol-on-him
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protection-for-illegal-liquor-dealers/4386496
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/lawyers-boycott-court-in-erode/4386504
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/labourer-beaten-to-death-by-inebriated-mechanic/4386506
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/-mla-meets-on-low-lying-water-issue/4386497
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/widespread-rain-in-gobi-public-delighted
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/chariot-festival-of-the-jaderudra-swami-temple-in-the-hill-village-of-kermalam
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/floor-garden-package-distribution-of-vegetable-seed-horticulture-department/4386503
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/two-booked-for-assaulting-tasmac-bar-employee/4386505
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/district-level-philatelic-exhibition-begins
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/hindu-lawyers-stage-protest/4386502
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/a-fine-of-rs-15000-has-been-imposed-on-a-lorry-that-was-transporting-plastic-waste-to-be-used-as-fuel-for-a-jaggery-manufacturing-unit
-candidate filter: collected=13
-to write: 13 Erode district candidates (max 13 stories)
-round: top 13 of 13 candidates
-candidates waiting: 13 Erode; time left 79 min
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/பாா்-ஊழியரை-தாக்கிய-இருவா்-மீது-வழக்கு
+candidate filter: collected=1
+to write: 1 Erode district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Erode; time left 79 min
 try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-NOT filed (N) மாவட்ட அளவிலான அஞ்சல் தலைகள் கண்காட்சி தொடக்கம்: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-NOT filed (N) டாஸ்மாக் பார் ஊழியரை தாக்கிய இருவர் மீது வழக்கு: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-NOT filed (N) மாடி தோட்ட தொகுப்பு, காய்கறி விதை தோட்டக்கலை துறை : all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-NOT filed (N) கோ்மாளம் மலைக் கிராமத்தில் ஜடேருத்ர சுவாமி கோயில்: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-NOT filed (N) கோபியில் பரவலாக மழை: பொதுமக்கள் மகிழ்ச்சி: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-NOT filed (N) கீழ்பவானி தண்ணீர் விவகாரம் டி.ஆர்.ஓ.,வுடன் எம்.எல்: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-NOT filed (N) போதையில் மெக்கானிக்கை அடித்து கொன்ற தொழிலாளி: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-NOT filed (N) ஈரோட்டில் வக்கீல்கள் நீதிமன்ற புறக்கணிப்பு: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-NOT filed (N) சட்டவிரோதமாக மது விற்றவருக்கு காப்பு: all free models failed: no usable answer from the models
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-NOT filed (N) மருந்துக் கடை உரிமையாளா் மீது பெட்ரோல் ஊற்றி தீ வை: all free models failed: no usable answer from the models
-NOT filed (N) தாக்குதல் சம்பவம் எதிரொலி சிலைகளுக்கு போலீஸ் பாதுக: all free models failed: no usable answer from the models
-candidate loop ended: left 0, tried={'N': 13}, done={'N': 2}, time left 78 min
-filed: 2 Erode district stories (target 13), reels only
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 78 min
+filed: 1 Erode district stories (target 1), reels only
 queue: 0 news waiting to be written
-All News sheet: {"ok":true,"added":13,"updated":0} 
-stories: 2
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
