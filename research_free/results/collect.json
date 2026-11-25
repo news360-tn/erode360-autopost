@@ -3,32 +3,47 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/rs-3188-lakh-authorities-seal-52-shops-with-rent-arrears/4386049",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/a-chennimalai-weaver-wandering-with-an-earthen-pot-on-his-head/4386105",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/electrician-spills-petrol-on-pharmacist/4385954",
-  "candidate filter: collected=3",
-  "to write: 3 Erode district candidates (max 3 stories)",
-  "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Erode; time left 79 min",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/illegal-liquor-seller-arrested/4386493",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/labourer-beaten-to-death-by-inebriated-mechanic/4386437",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/thunderstorm-accompanied-with-gusty-winds-in-bhavani-and-chennimalai-neighbourhoods/4386483",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/wife-disappears-husband-complains/4386490",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/postage-stamp-competition-begins/4386492",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/hindu-front-stages-protest/4386488",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tomorrow--grievance-meeting/4386486",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/offer-of-rs-6099-lakh-at-bannari-amman-temple/4386489",
+  "candidate filter: collected=8",
+  "to write: 8 Erode district candidates (max 8 stories)",
+  "round: top 8 of 8 candidates",
+  "candidates waiting: 8 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "NOT filed (N) பண்ணாரி அம்மன் கோவிலில் ரூ.60.99 லட்சம் காணிக்கை: bad draft: 'scenes'",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "NOT filed (N) அஞ்சல் தலை கண்காட்சி போட்டி துவக்கம்: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "NOT filed (N) மனைவி மாயம்; கணவர் புகார்: all free models failed: no usable answer from the models",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "NOT filed (N) மருந்து கடைக்காரர் மீது பெட்ரோல் ஊற்றிய எலக்ட்ரீஷி: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/labourer-beat",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 2}, time left 77 min",
-  "filed: 2 Erode district stories (target 3), reels only",
+  "NOT filed (N) பவானி, சென்னிமலை சுற்று பகுதியில் இடியுடன் மழை: all free models failed: no usable answer from the models",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "NOT filed (N) போதையில் மெக்கானிக்கை அடித்து கொன்ற தொழிலாளி: all free models failed: no usable answer from the models",
+  "NOT filed (N) சட்ட விரோதமாக மது விற்றவர் கைது: all free models failed: no usable answer from the models",
+  "candidate loop ended: left 0, tried={'N': 8}, done={'N': 2}, time left 78 min",
+  "filed: 2 Erode district stories (target 8), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":8,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
@@ -39,53 +54,43 @@
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (10s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (13s)",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (10s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (14s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing ",
-  "ok gemini/gemini-3-flash-preview (17s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "switching away from gemini/gemini-3-flash-preview for 10 min",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
-  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (0s)",
+  "ok gemini/gemini-3-flash-preview (13s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
+  "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (0s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
@@ -93,126 +98,137 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b"
  ],
  "stories": [
   {
-   "tamil_headline": "சென்னிமலையில் நூதன விழிப்புணர்வு: தலையில் மண்பானையுடன் வலம் வந்த 72 வயது நெசவாளர்",
-   "english_headline": "72-year-old weaver in Chennimalai conducts unique awareness campaign with a clay pot on his head",
-   "category": "Civic Issues",
-   "location": "Chennimalai town, Erode district",
+   "tamil_headline": "அந்தியூரில் இந்து முன்னணியினர் மறியல்: 8 பேர் பங்கேற்பு",
+   "english_headline": "Hindu Munnani members block road in Anthiyur over Tirupparankundram lamp issue",
+   "category": "Crime & Safety",
+   "location": "Anthiyur town, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விழிப்புணர்வு",
-    "loc": "சென்னிமலை",
-    "hl1": "சென்னிமலையில் நூதன விழிப்புணர்வு",
-    "hl2": "72 வயது நெசவாளர் பிரசாரம்",
-    "slides": [
-     {
-      "title": "நூதனப் பிரசாரம்",
-      "lines": [
-       "சென்னிமலையில் <b>72 வயது</b> நெசவாளர் விழிப்புணர்வு",
-       "தலையில் <b>மண் பானை</b> சுமந்து நூதனப் பயணம்",
-       "1010 நெசவாளர் காலனி முதல் குமரன் சதுக்கம் வரை"
-      ]
-     },
-     {
-      "title": "யார் இவர்?",
-      "lines": [
-       "முகாசிபிடாரியூர் ஊராட்சி <b>துரைசாமி</b>",
-       "கைத்தறி நெசவுத் தொழில் செய்து வருகிறார்",
-       "சமூகப் பிரச்னைகள் குறித்து விழிப்புணர்வு"
-      ]
-     },
-     {
-      "title": "என்ன",
-      "lines": [
-       "<b>100%</b> வாக்களிப்போம்; ஓட்டு விற்பனைக்கு அல்ல",
-       "ஊழல் இல்லாத தேசம்; நெகிழி தவிர்ப்போம்",
-       "மரம் வளர்ப்போம்; மழை பெறுவோம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சென்னிமலையில் தலையில் மண்பானை சுமந்து 72 வயது நெசவாளர் நூதன விழிப்புணர்வு. ஈரோடு மாவட்டம் சென்னிமலை அருகே முகாசிபிடாரியூர் ஊராட்சியைச் சேர்ந்தவர் துரைசாமி. 72 வயதான இவர் கைத்தறி நெசவுத் தொழில் செய்து வருகிறார். இவர் சமூகப் பிரச்னைகள் மற்றும் சுற்றுச்சூழல் பாதுகாப்பு குறித்துத் தொடர்ந்து விழிப்புணர்வு ஏற்படுத்தி வருகிறார். இதற்காக இரும்புச் சட்டங்களால் ஆன நகரும் சக்கர வாகனம் ஒன்றை அவரே வடிவமைத்துள்ளார். அந்த வாகனத்தில் தேசியக் கொடி மற்றும் தலைவர்களின் படங்களை வைத்து அலங்கரித்துள்ளார். ஓட்டு விற்பனைக்கு அல்ல, 100 சதவீதம் வாக்களிப்போம் போன்ற வாசகங்களை பருத்தித் துணியில் நெய்து தொங்கவிட்டுள்ளார். மேலும் ஊழல் எதிர்ப்பு மற்றும் மரம் வளர்ப்பு குறித்த விழிப்புணர்வு வாசகங்களும் அதில் இடம்பெற்றுள்ளன. இவர் தலையில் மண்பானையைச் சுமந்தபடி 1010 நெசவாளர் காலனியில் இருந்து சென்னிமலை குமரன் சதுக்கம் வரை வாகனத்தைத் தள்ளிச் சென்றார். இவரின் இந்த நூதனப் பிரசாரம் சென்னிமலை பகுதி மக்களின் கவனத்தை ஈர்த்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ சென்னிமலையில் நூதன விழிப்புணர்வு: தலையில் மண்பானையுடன் வலம் வந்த 72 வயது நெசவாளர்!\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் சென்னிமலை அருகே முகாசிபிடாரியூர் ஊராட்சியைச் சேர்ந்த கைத்தறி நெசவாளர் துரைசாமி (72 வயது) சமூக விழிப்புணர்வு ஏற்படுத்தி வருகிறார். இவர் இரும்புச் சட்டங்களால் ஆன சக்கர வாகனத்தை வடிவமைத்து, அதில் தேசியக் கொடி மற்றும் தலைவர்களின் படங்களை வைத்துள்ளார். \"ஓட்டு என்பது நமது அதிகாரம்; விற்பனைக்கு அல்ல\", \"100 சதவீதம் வாக்களிப்போம்\", \"ஊழல் தவிர்ப்போம்\", \"மரம் வளர்ப்போம்\" போன்ற வாசகங்களை பருத்தித் துணியில் நெய்து வாகனத்தில் தொங்கவிட்டுள்ளார். தலையில் மண்பானையைச் சுமந்தபடி, 1010 நெசவாளர் காலனியில் இருந்து சென்னிமலை குமரன் சதுக்கம் வரை இந்த வாகனத்தைத் தள்ளிச் சென்று விழிப்புணர்வு செய்தார்.\n\n📍 இடம்: சென்னிமலை, ஈரோடு மாவட்டம்\n🗓️ நாள்: 25 நவம்பர் 2026\nℹ️ விழிப்புணர்வு: 100% வாக்குப்பதிவு, ஊழல் எதிர்ப்பு, சுற்றுச்சூழல் பாதுகாப்பு\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nChennimalai weaver awareness campaign with clay pot | Erode news\n📍 சென்னிமலை, ஈரோடு | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Chennimalai #Awareness #ஈரோடு",
-   "prompts": "A 72-year-old Tamil man in a white dhoti and shirt, carrying a traditional clay pot on his head, pushing a custom-made wheeled iron cart along a road in Chennimalai, Erode. The cart is decorated with small national flags, colorful garlands, and framed portraits of Indian leaders. Hand-woven cotton banners with Tamil text are hanging from the sides. The background shows a typical Erode village street with small houses and coconut trees under a bright afternoon sun. Photo-realistic, wide view. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot from the side of the decorated awareness vehicle being pushed by the elderly weaver on the road towards Chennimalai Kumaran Square. The hand-woven fabric banners with Tamil messages are clearly visible. People on the roadside are watching the unique procession. The setting includes local shops and a clear blue sky. Realistic Tamil Nadu town atmosphere, sharp detail, no text on screen. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/a-chennimalai-weaver-wandering-with-an-earthen-pot-on-his-head/4386105",
-   "published": "2026-11-25T19:26:32+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 4 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/c5ce7019ac8d8b0e.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/fbedd46056920b86.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோட்டில் 52 கடைகளுக்கு சீல்: ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்ததால் அதிரடி",
-   "english_headline": "Erode Corporation seals 52 shops for ₹31.88 lakh rent arrears; 35 shops reopened after partial payment",
-   "category": "Government & Services",
-   "location": "Erode city, Erode district",
-   "importance": "Medium",
-   "scope": "local",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மாநகராட்சி நடவடிக்கை",
-    "loc": "ஈரோடு மாநகரம்",
-    "hl1": "ஈரோட்டில் 52 கடைகளுக்கு சீல்",
-    "hl2": "ரூ.31.88 லட்சம் வாடகை பாக்கி",
+    "cat": "கண்டன ஆர்ப்பாட்டம்",
+    "loc": "அந்தியூர்",
+    "hl1": "அந்தியூரில் இந்து முன்னணியினர் மறியல்",
+    "hl2": "8 பேர் மீது நடவடிக்கை",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "ஈரோடு மாநகராட்சிக்குச் சொந்தமான <b>52 கடைகளுக்கு</b> சீல்",
-       "<b>ரூ.31.88 லட்சம்</b> வாடகை பாக்கி வைத்ததால் நடவடிக்கை",
-       "மாநகராட்சி ஆணையாளர் அர்பித்ஜெயின் உத்தரவு"
+       "மதுரை திருப்பரங்குன்றம் தீபத்தூணில் தீபம்",
+       "அந்தியூர் பத்ரகாளியம்மன் கோவில் முன் ஆர்ப்பாட்டம்"
       ]
      },
      {
-      "title": "எந்தப் பகுதிகள்?",
+      "title": "சாலை மறியல்",
       "lines": [
-       "பஸ் ஸ்டாண்ட், காமராஜர் சாலை, நேதாஜி சாலை",
-       "சூரம்பட்டி, ஹம்மிங் வே மார்க்கெட்",
-       "மற்றும் கரூர் பைபாஸ் சாலை வணிக வளாகங்கள்"
+       "ஒன்றிய தலைவர் <b>முனுசாமி</b> தலைமையில் ஊர்வலம்",
+       "அந்தியூர் பஸ் ஸ்டாண்ட் எதிரில் சாலை மறியல்"
       ]
      },
      {
-      "title": "தற்போதைய நிலை",
+      "title": "விவரங்கள்",
       "lines": [
-       "35 கடைக்காரர்கள் <b>ரூ.11.59 லட்சம்</b> பாக்கி செலுத்தினர்",
-       "அந்த 35 கடைகள் மட்டும் மீண்டும் திறந்து விடப்பட்டன",
-       "மீதமுள்ளவர்கள் பணம் செலுத்தினால் மட்டுமே திறக்கப்படும்"
+       "மறியலில் ஈடுபட்ட <b>8 பேர்</b>",
+       "இந்து முன்னணி சார்பில் கண்டனம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு மாநகராட்சியில் வாடகை பாக்கி வைத்திருந்த 52 கடைகளுக்கு அதிகாரிகள் இன்று சீல் வைத்தனர். ஈரோடு மாநகராட்சிக்குச் சொந்தமான வணிக வளாகங்களில் வாடகை செலுத்தாத கடைகள் மீது நடவடிக்கை எடுக்க ஆணையாளர் அர்பித்ஜெயின் உத்தரவிட்டார். இதன்படி பஸ் ஸ்டாண்ட், காமராஜர் சாலை, நேதாஜி சாலை, சூரம்பட்டி, ஹம்மிங் வே மார்க்கெட் மற்றும் கரூர் பைபாஸ் சாலை ஆகிய இடங்களில் அதிகாரிகள் ஆய்வு செய்தனர். மொத்தம் 52 கடைகளின் உரிமையாளர்கள் 31 லட்சத்து 87 ஆயிரத்து 948 ரூபாய் வாடகை பாக்கி வைத்திருந்தது தெரியவந்தது. ஏற்கனவே நோட்டீஸ் அனுப்பியும் வாடகை செலுத்தாததால், இன்று நவம்பர் 25ஆம் தேதி அந்த 52 கடைகளுக்கும் அதிகாரிகள் சீல் வைத்தனர். இந்த நடவடிக்கைக்குப் பிறகு 35 கடைக்காரர்கள் 11 லட்சத்து 59 ஆயிரத்து 325 ரூபாய் பாக்கியைச் செலுத்தினர். இதனால் அந்த 35 கடைகள் மட்டும் மீண்டும் திறந்து விடப்பட்டன. மீதமுள்ள கடைக்காரர்கள் நிலுவைத் தொகையைச் செலுத்தினால் மட்டுமே கடைகள் திறக்கப்படும் என்று அதிகாரிகள் எச்சரித்துள்ளனர். இல்லையென்றால் அடுத்தகட்ட நடவடிக்கை எடுக்கப்படும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஈரோட்டில் 52 கடைகளுக்கு சீல் - ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்ததால் மாநகராட்சி அதிரடி\n\n📰 முழு விவரம்:\nஈரோடு மாநகராட்சிக்குச் சொந்தமான வணிக வளாகங்களில் நீண்ட நாட்களாக வாடகை செலுத்தாத 52 கடைகளுக்கு அதிகாரிகள் இன்று (நவம்பர் 25) சீல் வைத்தனர். மாநகராட்சி ஆணையாளர் அர்பித்ஜெயின் உத்தரவின் பேரில் இந்த நடவடிக்கை எடுக்கப்பட்டது.\n📍 இடங்கள்: பஸ் ஸ்டாண்ட், காமராஜர் சாலை, நேதாஜி சாலை, சூரம்பட்டி, ஹம்மிங் வே மார்க்கெட் மற்றும் கரூர் பைபாஸ் சாலை வணிக வளாகங்கள்.\n💰 பாக்கித் தொகை: 52 கடைகளின் உரிமையாளர்கள் மொத்தம் ரூ.31,87,948 வாடகை பாக்கி வைத்திருந்தனர்.\n✅ தற்போதைய நிலை: சீல் வைக்கப்பட்ட பிறகு 35 கடைக்காரர்கள் ரூ.11,59,325 பாக்கியைச் செலுத்தியதால், அவர்களின் கடைகள் மட்டும் மீண்டும் திறக்கப்பட்டன.\nℹ️ மக்கள் கவனத்திற்கு: மீதமுள்ள கடைக்காரர்கள் நிலுவைத் தொகையைச் செலுத்தினால் மட்டுமே கடைகள் திறக்கப்படும் என அதிகாரிகள் தெரிவித்துள்ளனர்.\n\nErode Corporation seals shops for rent arrears | Erode news\n📍 ஈரோடு மாநகரம் | 25 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeCity #ErodeNews #ஈரோடு",
-   "prompts": "A busy commercial street in Erode city, Tamil Nadu, near the main bus stand. A group of Erode Municipal Corporation officials in formal shirts are standing in front of a row of closed shop shutters. One official is applying a wax seal and a notice paper to the lock of a shop. A few onlookers and shopkeepers are watching from a distance. Bright daylight, typical Indian city market architecture with colorful signboards, parked two-wheelers on the side. Wide-angle view. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a heavy iron padlock on a blue metal shop shutter in Erode. A white official notice paper with a red wax seal is stuck across the gap where the lock meets the door. The background shows a busy Erode street with blurred people and traffic. Sharp focus on the seal and lock, realistic textures of rusted metal and paper, natural daylight. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/rs-3188-lakh-authorities-seal-52-shops-with-rent-arrears/4386049",
-   "published": "2026-11-25T19:00:02+05:30",
-   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: numbers not found in the article: 1159325, 3187948; caption misses facts of the article (put every one in 📰 முழு விவரம்): 87 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 948 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 11 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 59 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 325 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்')",
-   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 2 validator problem(s)",
+   "reel_script": "அந்தியூர் பஸ் ஸ்டாண்ட் எதிரில் இந்து முன்னணியினர் திடீர் சாலை மறியலில் ஈடுபட்டனர். மதுரை மாவட்டம் திருப்பரங்குன்றம் தீபத்தூணில் தீபம் ஏற்றாததைக் கண்டித்து இந்தப் போராட்டம் நடைபெற்றது. அந்தியூர் பத்ரகாளியம்மன் கோவில் முன்பு இந்து முன்னணி சார்பில் முதலில் கண்டன ஆர்ப்பாட்டம் நடத்தப்பட்டது. இதனைத் தொடர்ந்து ஒன்றிய தலைவர் முனுசாமி தலைமையில் தொண்டர்கள் ஊர்வலமாகச் சென்றனர். அந்தியூர் பஸ் ஸ்டாண்ட் எதிரில் 8 பேர் சாலையில் அமர்ந்து மறியலில் ஈடுபட்டனர். இதனால் அந்தப் பகுதியில் சிறிது நேரம் பரபரப்பு ஏற்பட்டது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚩 அந்தியூரில் இந்து முன்னணியினர் சாலை மறியல்: 8 பேர் பங்கேற்பு\n\n📰 முழு விவரம்:\nமதுரை மாவட்டம் திருப்பரங்குன்றம் தீபத்தூணில் தீபம் ஏற்றாததைக் கண்டித்து அந்தியூரில் இந்து முன்னணி சார்பில் போராட்டம் நடைபெற்றது. அந்தியூர் பத்ரகாளியம்மன் கோவில் முன்பு திரண்டவர்கள் முதலில் கண்டன ஆர்ப்பாட்டத்தில் ஈடுபட்டனர். பின்னர் ஒன்றிய தலைவர் முனுசாமி தலைமையில் ஊர்வலமாகச் சென்ற 8 பேர், அந்தியூர் பஸ் ஸ்டாண்ட் எதிரில் திடீரென சாலை மறியலில் ஈடுபட்டனர்.\n\n📍 இடம்: அந்தியூர் பஸ் ஸ்டாண்ட் மற்றும் பத்ரகாளியம்மன் கோவில்\n🗓️ நாள்: 26 நவம்பர் 2026\n👤 தலைமை: ஒன்றிய தலைவர் முனுசாமி\nℹ️ காரணம்: திருப்பரங்குன்றம் தீபத்தூணில் தீபம் ஏற்றாததைக் கண்டித்து போராட்டம்.\n\nAnthiyur Hindu Munnani protest and road blockade | Erode news\n📍 Anthiyur, Erode | 26 Nov 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Anthiyur #Protest #ஈரோடு",
+   "prompts": "A wide shot of the Anthiyur bus stand area in Erode district during the daytime. A small group of about 8 men in white shirts and saffron scarves are sitting on the asphalt road in a symbolic blockade. A few police officers in khaki uniforms are standing nearby. Local shops and a few parked town buses are visible in the background. Clear daylight, realistic Tamil Nadu town setting. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA medium shot of the entrance of the Anthiyur Bhadrakali Amman temple with its colorful gopuram. A group of protesters is gathered in front of the temple gates, holding flags. The scene captures the traditional architecture of the temple and the bustling street activity of a rural Tamil Nadu town. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/hindu-front-stages-protest/4386488",
+   "published": "2026-11-26T01:27:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - NOT CLEAN, held from posting - problems: fact-check: hl2 claims action was taken against 8 people, which is not mentioned in the article; fact-check: The first line of Slide 1 is an incomplete phrase and fails to mention that the lamp was not lit; fact-check: The reel script includes invented details not found in the article, such as protesters sitting on the road and the event causing a sensation",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 1 attempt(s), 3 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/e83af70958244c39.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/720cbfc28c3a2508.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/611c35cac06c89e5.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/ec37666b48ec27a3.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "நாளை ஈரோட்டில் பி.எப். குறைதீர் கூட்டம்",
+   "english_headline": "EPF grievance redressal meeting in Erode tomorrow",
+   "category": "Government & Services",
+   "location": "Nambiyur, Erode district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பி.எப். கூட்டம்",
+    "loc": "நம்பியூர், ஈரோடு",
+    "hl1": "ஈரோட்டில் நாளை பி.எப். குறைதீர் கூட்டம்",
+    "hl2": "27ம் தேதி நடைபெறும்",
+    "slides": [
+     {
+      "title": "இடம் மற்றும் நேரம்",
+      "lines": [
+       "நம்பியூர் ஜெயவர்மா டெக்ஸ்டைல்ஸ் கூடத்தில்",
+       "27ம் தேதி மாவட்ட அளவிலான கூட்டம்"
+      ]
+     },
+     {
+      "title": "யார் வர வேண்டும்",
+      "lines": [
+       "பி.எப். உறுப்பினர்கள், தொழிலதிபர்கள்",
+       "ஓய்வூதியர்கள், தொழிற்சங்க பிரதிநிதிகள்"
+      ]
+     },
+     {
+      "title": "தயார் செய்யுங்கள்",
+      "lines": [
+       "குறை விபரங்கள் மற்றும் ஆவணங்கள்",
+       "நேரில் பங்கேற்று பயன் பெறுங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோடு மாவட்டத்தில் நாளை பி எப் குறைதீர் கூட்டம் நடைபெற உள்ளது. நம்பியூர், கெட்டிசெவியூரில் உள்ள ஜெயவர்மா டெக்ஸ்டைல்ஸ் நிறுவனத்தில் இது நடைபெறும். நாளை 27ம் தேதி இந்த கூட்டம் நடைபெறும். தொழிலாளர் வருங்கால வைப்புநிதி நிறுவனம் மற்றும் இ எஸ் ஐ சார்பில் இது நடக்கிறது. 'நிதி ஆப்கே நிகட் - பி எப் உங்கள் அருகில்' என்ற தலைப்பில் இது நடைபெறும். மாவட்ட அளவிலான விழிப்புணர்வு மற்றும் குறைதீர் கூட்டம் இது. பி எப் தொடர்பான குறைகளை தெரிவிக்க விரும்பும் உறுப்பினர்கள் வரலாம். தொழிலதிபர்கள், ஓய்வூதியர்கள் மற்றும் தொழிற்சங்க பிரதிநிதிகள் பங்கேற்கலாம். தங்கள் குறைகள் தொடர்பான விபரங்களை தயார் செய்யுங்கள். தேவையான ஆவணங்களுடன் நேரில் வந்து பங்கேற்று பயன் பெறுங்கள். தொழிலாளர் வருங்கால வைப்புநிதி நிறுவன ஈரோடு மாவட்ட அமலாக்க அலுவலகம் இந்த தகவலை தெரிவித்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚡ ஈரோட்டில் நாளை பி.எப். குறைதீர் கூட்டம் - 27ம் தேதி\n\n📰 முழு விவரம்:\nநாளை 27ம் தேதி ஈரோடு மாவட்டத்தில் பி.எப். குறைதீர் கூட்டம் நடைபெற உள்ளது. நம்பியூர், கெட்டிசெவியூரில் உள்ள ஜெயவர்மா டெக்ஸ்டைல்ஸ் நிறுவன யூனிட்-1 கருத்தரங்க கூடத்தில் இது நடக்கிறது. தொழிலாளர் வருங்கால வைப்புநிதி நிறுவனம் மற்றும் இ.எஸ்.ஐ. சார்பில் இது நடைபெறும். 'நிதி ஆப்கே நிகட் - பி.எப். உங்கள் அருகில்' என்ற தலைப்பில் மாவட்ட அளவிலான விழிப்புணர்வு மற்றும் குறைதீர் கூட்டம் இது. பி.எப். தொடர்பான குறைகளை தெரிவிக்க விரும்பும் உறுப்பினர்கள், தொழிலதிபர்கள், ஓய்வூதியர்கள் மற்றும் தொழிற்சங்க பிரதிநிதிகள் பங்கேற்கலாம். தங்கள் குறைகள் தொடர்பான விபரங்கள் மற்றும் ஆவணங்களுடன் நேரில் வந்து பயன் பெறலாம். தொழிலாளர் வருங்கால வைப்புநிதி நிறுவன ஈரோடு மாவட்ட அமலாக்க அலுவலகம் இந்த தகவலை தெரிவித்துள்ளது.\n\n📍 இடம்: நம்பியூர், கெட்டிசெவியூர், ஜெயவர்மா டெக்ஸ்டைல்ஸ்\n🗓️ நாள்: 27ம் தேதி\nℹ️ மக்கள் கவனத்திற்கு: குறை விபரங்கள் மற்றும் ஆவணங்களுடன் நேரில் வரவும்\n\nErode EPF grievance redressal meeting tomorrow | Erode news\n📍 Nambiyur, Erode | 26 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Nambiyur #ErodeNews #ஈரோடு",
+   "prompts": "A photo-realistic wide shot of a large conference hall inside a textile factory in Erode, Tamil Nadu. The hall is filled with rows of chairs facing a stage. A banner with Tamil text hangs on the stage. Several men in formal shirts and trousers are seated, holding documents. The lighting is bright and professional. The atmosphere is serious and organized. No visible faces, just the backs of people and the general setup of a government or corporate meeting. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up photo-realistic shot of a table in a conference room. On the table, there are stacks of paper documents, a pen, and a name card. A hand is pointing at a specific line in a document. The background is slightly blurred, showing other people in the room. The focus is on the paperwork and the act of reviewing details, representing the grievance redressal process. Clean, professional lighting. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tomorrow--grievance-meeting/4386486",
+   "published": "2026-11-26T01:25:00+05:30",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - fact-check: no problems found",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/55c6092fbdc87e7a.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/32c694ad6cb04a8d.jpg"
    ]
   }
  ]
