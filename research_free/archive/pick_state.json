@@ -166,7 +166,8 @@
    "score": 8.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-25T22:57:59.531499+05:30"
+   "listed_at": "2026-11-25T22:57:59.531499+05:30",
+   "picked_at": "2026-11-25T22:58:40.673845+05:30"
   },
   "Cb684fd8": {
    "id": "Cb684fd8",
@@ -179,7 +180,8 @@
    "score": 3.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-25T22:57:59.531499+05:30"
+   "listed_at": "2026-11-25T22:57:59.531499+05:30",
+   "picked_at": "2026-11-25T22:58:40.673848+05:30"
   },
   "Cba9c119": {
    "id": "Cba9c119",
@@ -192,7 +194,8 @@
    "score": 3.0,
    "power_cut": false,
    "late_listed": true,
-   "listed_at": "2026-11-25T22:57:59.531499+05:30"
+   "listed_at": "2026-11-25T22:57:59.531499+05:30",
+   "picked_at": "2026-11-25T22:58:40.673847+05:30"
   }
  },
  "rounds": {
@@ -628,8 +631,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-25T23:57:59.531499+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 3 by insights",
+    "ids": [
+     "Cc92e573",
+     "Cba9c119",
+     "Cb684fd8"
+    ],
+    "at": "2026-11-25T22:58:40.673837+05:30"
+   },
+   "written": [
+    "Cb684fd8",
+    "Cba9c119",
+    "Cc92e573"
+   ]
   }
  },
  "retry": {}
