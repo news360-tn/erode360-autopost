@@ -167,7 +167,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-25T22:57:59.531499+05:30",
-   "picked_at": "2026-11-25T22:58:40.673845+05:30"
+   "picked_at": "2026-11-25T22:58:40.673845+05:30",
+   "posted": true
   },
   "Cb684fd8": {
    "id": "Cb684fd8",
@@ -181,7 +182,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-25T22:57:59.531499+05:30",
-   "picked_at": "2026-11-25T22:58:40.673848+05:30"
+   "picked_at": "2026-11-25T22:58:40.673848+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   },
   "Cba9c119": {
    "id": "Cba9c119",
@@ -195,7 +197,8 @@
    "power_cut": false,
    "late_listed": true,
    "listed_at": "2026-11-25T22:57:59.531499+05:30",
-   "picked_at": "2026-11-25T22:58:40.673847+05:30"
+   "picked_at": "2026-11-25T22:58:40.673847+05:30",
+   "posted": true
   }
  },
  "rounds": {
@@ -644,7 +647,10 @@
     "Cb684fd8",
     "Cba9c119",
     "Cc92e573"
-   ]
+   ],
+   "refused": {
+    "Cb684fd8": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
