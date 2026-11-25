@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-26T04:28:33.038774+05:30",
+ "last_end": "2026-11-26T05:03:19.743397+05:30",
  "pool": {
   "C969f0a6": {
    "id": "C969f0a6",
@@ -385,47 +385,21 @@
    "picked_at": "2026-11-26T04:29:57.378343+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
   },
-  "C21bec5f": {
-   "id": "C21bec5f",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/hindu-lawyers-stage-protest/4386502",
-   "title": "இந்து வக்கீல்கள் ஆர்ப்பாட்டம்",
-   "summary": "ஈரோடு: ஈரோடு இந்து வக்கீல்கள் முன்னணி, பா.ஜ., வக்கீல் பிரிவின் அகில பாரத வக்கீல்கள் சங்கம் இணைந்து, மாவட்ட ஒருங்கிணைந்த நீதிமன்றம் முன்புறம் உச்சநீதிமன்ற தீர்ப்பை திருப்பரங்குன்றத்தில் அமல்படுத்தாத தமிழக அரசு, மதுரை க...",
-   "source": "தினமலர்",
-   "published": "2026-11-26T01:37:00+05:30",
-   "category": "பொது",
+  "C180ab3a": {
+   "id": "C180ab3a",
+   "url": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/பாா்-ஊழியரை-தாக்கிய-இருவா்-மீது-வழக்கு",
+   "title": "பாா் ஊழியரை தாக்கிய இருவா் மீது வழக்கு",
+   "summary": "பெருந்துறை அருகே, அரசு மதுபானக் கடையில் பாா் ஊழியரை தாக்கிய இருவா் மீது போலீஸாா் வழக்குப் பதிவு செய்தனா்..கிருஷ்ணகிரி மாவட்டம், பா்கூா், கந்திக்குப்பத்தைச் சோ்ந்தவா் மூா்த்தி மகன் மணிகண்டன் (36).",
+   "source": "தினமணி",
+   "published": "2026-11-25T20:27:41.565Z",
+   "category": "குற்றம்",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-26T04:28:33.038774+05:30",
-   "picked_at": "2026-11-26T04:29:57.378346+05:30",
-   "posted": true
-  },
-  "C973877a": {
-   "id": "C973877a",
-   "url": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/a-fine-of-rs-15000-has-been-imposed-on-a-lorry-that-was-transporting-plastic-waste-to-be-used-as-fuel-for-a-jaggery-manufacturing-unit",
-   "title": "நாட்டுச் சா்க்கரை ஆலைக்கு எரிபொருளாக பிளாஸ்டிக் கழிவுகளை ஏற்றி வந்த லாரிக்கு ரூ.15 ஆயிரம் அபராதம்",
-   "summary": "கேரள மாநிலத்திலிருந்து பவானிக்கு நாட்டுச் சா்க்கரை ஆலையின் எரிபொருள் தேவைக்கு பிளாஸ்டிக் கழிவுகள் ஏற்றி வந்த சரக்கு லாரிக்கு ரூ.15 ஆயிரம் அபராதம் விதிக்கப்பட்டது..பவானியை அடுத்த மாணிக்கம்பாளையம் பிரிவு பகுதியில் செவ்வ...",
-   "source": "தினமணி",
-   "published": "2026-11-25T20:36:25.389Z",
-   "category": "பொது",
-   "score": 2.5,
-   "power_cut": false,
-   "listed_at": "2026-11-26T04:28:33.038774+05:30",
-   "picked_at": "2026-11-26T04:29:57.378348+05:30",
-   "posted": true
+   "late_listed": true,
+   "listed_at": "2026-11-26T05:03:19.743397+05:30"
   }
  },
  "rounds": {
-  "2026-11-24_11": {
-   "window": [
-    "2026-11-24T08:48:38.784034+05:30",
-    "2026-11-24T11:54:12.858385+05:30"
-   ],
-   "ids": [],
-   "sent": false,
-   "deadline": "2026-11-24T12:54:12.858385+05:30",
-   "decided": null,
-   "written": []
-  },
   "2026-11-24_12": {
    "window": [
     "2026-11-24T11:54:12.858385+05:30",
@@ -901,6 +875,20 @@
     "Cd1e1b31": "not filed: all free models failed: no usable answer from the models",
     "Ca079472": "not filed: all free models failed: no usable answer from the models"
    }
+  },
+  "2026-11-26_05": {
+   "window": [
+    "2026-11-26T04:28:33.038774+05:30",
+    "2026-11-26T05:03:19.743397+05:30"
+   ],
+   "ids": [
+    "C180ab3a",
+    "C83aeddb"
+   ],
+   "sent": false,
+   "deadline": "2026-11-26T06:03:19.743397+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
