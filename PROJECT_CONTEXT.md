@@ -83,6 +83,16 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `77f550d` | R2 free-tier safety: at most 300 MB and 400 files per page per day, 100 MB per file; usage read from the bucket before each upload; over a limit R2 is skipped until tomorrow |
+| 2026-11-25 | `3280e30` | stories shared / Instagram pause |
+| 2026-11-25 | `5f203da` | stories shared / Instagram pause |
+| 2026-11-25 | `effdabb` | powercut: notices written |
+| 2026-11-25 | `2d142c2` | stories shared / Instagram pause |
+| 2026-11-25 | `f1fbde2` | stories shared / Instagram pause |
+| 2026-11-25 | `2fad05e` | facebook RN-259 |
+| 2026-11-25 | `5951065` | posted RN-259 |
+| 2026-11-25 | `e64d184` | stories shared / Instagram pause |
+| 2026-11-25 | `f25192d` | stories shared / Instagram pause |
 | 2026-11-25 | `ecd61c4` | Watchdog: ignore the shared rasipalan text files (rasis_*.json) - they stopped the watchdog on every run |
 | 2026-11-25 | `4b81cc8` | facebook RN-253 |
 | 2026-11-25 | `63c6d2b` | posted RN-253 |
@@ -103,14 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `3a7f577` | stories shared / Instagram pause |
 | 2026-11-25 | `a4937cc` | stories shared / Instagram pause |
 | 2026-11-25 | `9e9ed0c` | stories shared / Instagram pause |
-| 2026-11-25 | `b3c61da` | stories shared / Instagram pause |
-| 2026-11-25 | `169d5b4` | stories shared / Instagram pause |
-| 2026-11-25 | `353a098` | stories shared / Instagram pause |
-| 2026-11-25 | `33d283c` | stories shared / Instagram pause |
-| 2026-11-25 | `f16bbf2` | stories shared / Instagram pause |
-| 2026-11-25 | `ca8733b` | stories shared / Instagram pause |
-| 2026-11-25 | `c679dcb` | R2: accept the Account ID pasted as a link or with spaces; clear message when it is another value |
-| 2026-11-25 | `d163067` | stories shared / Instagram pause |
-| 2026-11-25 | `b2eb2cb` | stories shared / Instagram pause |
-| 2026-11-25 | `471a1b0` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
