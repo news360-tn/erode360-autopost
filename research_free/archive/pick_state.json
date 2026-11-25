@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-25T12:26:20.035237+05:30",
+ "last_end": "2026-11-25T16:29:39.147093+05:30",
  "pool": {
   "C6415808": {
    "id": "C6415808",
@@ -141,50 +141,20 @@
    "picked_at": "2026-11-25T06:33:51.573529+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
   },
-  "Cd77d0c4": {
-   "id": "Cd77d0c4",
-   "url": "https://www.thanthitv.com/news/tamilnadu/fire-accident-karthigai-deepam-lit-at-home-sparks-fire-house-completely-gutted",
-   "title": "Fire Accident | வீட்டில் ஏற்றப்பட்ட கார்த்திகை தீபம்.. மொத்தமும் கருகிப்போன அவலம்",
-   "summary": "வீட்டில் ஏற்றப்பட்ட கார்த்திகை தீபம்.. மொத்தமும் கருகிப்போன அவலம் ஈரோட்டில் வீட்டில் தீபம் ஏற்றியபோது தீ விபத்து ஈரோடு மாவட்டம் சித்தோடு அருகே நசியனூர் பகுதியில் கார்த்திகை தீபம் ஏற்றியபோது தீ விபத்து ஏற்பட்டது",
-   "source": "தந்தி டிவி",
-   "published": "",
-   "category": "விபத்து",
-   "score": 8.0,
+  "Ce878255": {
+   "id": "Ce878255",
+   "url": "https://www.dailythanthi.com/news/tamilnadu/strict-action-should-be-taken-against-those-who-damaged-karunanidhis-statues-m-veerapandian",
+   "title": "கருணாநிதி சிலைகளை சேதப்படுத்தியவர்கள் மீது கடும் நடவடிக்கை எடுக்க வேண்டும் - மு.வீரபாண்டியன்",
+   "summary": "சென்னை,ஈரோடு மற்றும் மொடக்குறிச்சியில் 4 இடங்களில் முன்னாள் முதல்-அமைச்சர் கருணாநிதியின் சிலைகள் சேதப்படுத்தப்பட்ட சம்பவத்துக்கு இந்திய கம்யூனிஸ்டு கட்சியின் மாநிலச் செயலாளர் மு.வீரபாண்டியன் கண்டனம் தெரிவித்துள்ளார்.....",
+   "source": "தினத்தந்தி",
+   "published": "2026-11-25T07:22:14Z",
+   "category": "பொது",
+   "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-25T12:26:20.035237+05:30",
-   "picked_at": "2026-11-25T12:27:26.776235+05:30",
-   "posted": true
+   "listed_at": "2026-11-25T16:29:39.147093+05:30"
   }
  },
  "rounds": {
-  "2026-11-23_20": {
-   "window": [
-    "2026-11-23T17:02:00.334576+05:30",
-    "2026-11-23T20:26:28.911571+05:30"
-   ],
-   "ids": [
-    "C9fb16bc",
-    "C82791ad",
-    "C9babde3",
-    "C7b05e9a"
-   ],
-   "sent": false,
-   "deadline": "2026-11-23T21:26:28.911571+05:30",
-   "decided": {
-    "how": "automatic: top 5 of 3 by insights",
-    "ids": [
-     "C82791ad",
-     "C9fb16bc",
-     "C9babde3"
-    ],
-    "at": "2026-11-23T20:28:39.167165+05:30"
-   },
-   "written": [
-    "C82791ad",
-    "C9babde3",
-    "C9fb16bc"
-   ]
-  },
   "2026-11-23_22": {
    "window": [
     "2026-11-23T20:26:28.911571+05:30",
@@ -606,22 +576,20 @@
    "written": [
     "Cd77d0c4"
    ]
+  },
+  "2026-11-25_16": {
+   "window": [
+    "2026-11-25T12:26:20.035237+05:30",
+    "2026-11-25T16:29:39.147093+05:30"
+   ],
+   "ids": [
+    "Ce878255"
+   ],
+   "sent": false,
+   "deadline": "2026-11-25T17:29:39.147093+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {
-  "https://tamil.news18.com/videos/tamil-nadu/erode-karunanithi-2260822.html": {
-   "it": {
-    "key": "CBMifkFVX3lxTE1DYlU2ekVIVjFUNWdseHZyalJTZEVHSzd6a0dHb3pGVmd4ZDJRZU5VS2FkQVV0NVkzSklmbkoxc0c4dGtRSVRjd0c4SHVZUlZtbUlDcU1nS19Da1A1U2ZCbEhVdWFHNWdRRDVrR1REWTR5SUxvZHc2bUZqZ3hqUQ",
-    "url": "https://tamil.news18.com/videos/tamil-nadu/erode-karunanithi-2260822.html",
-    "title": "Erode | Karunanithi | ஈரோட்டில் கருணாநிதி சிலையை சேதம்.. ஒருவரை பிடித்து விசாரணை..",
-    "site": "https://tamil.news18.com",
-    "source": "News18 Tamil",
-    "published": "2026-11-24T13:11:33+05:30",
-    "via": "google",
-    "query": "ஈரோடு",
-    "snippet": " Erode | Karunanithi | ஈரோட்டில் கருணாநிதி சிலையை சேதம்.. ஒருவரை பிடித்து விசாரணை..    News18 Tamil "
-   },
-   "first": "2026-11-24T16:27:38.114665+05:30"
-  }
- }
+ "retry": {}
 }
