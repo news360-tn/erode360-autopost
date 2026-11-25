@@ -152,7 +152,8 @@
    "score": 3.19,
    "power_cut": false,
    "listed_at": "2026-11-25T20:27:50.885989+05:30",
-   "picked_at": "2026-11-25T20:30:47.431966+05:30"
+   "picked_at": "2026-11-25T20:30:47.431966+05:30",
+   "refused": "not filed: all free models failed: no usable answer from the models"
   }
  },
  "rounds": {
@@ -595,7 +596,10 @@
    },
    "written": [
     "C7161198"
-   ]
+   ],
+   "refused": {
+    "C7161198": "not filed: all free models failed: no usable answer from the models"
+   }
   }
  },
  "retry": {}
