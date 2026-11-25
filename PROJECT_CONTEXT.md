@@ -83,6 +83,11 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-25 | `b1814cc` | Platform text: Facebook news caption short (headline + 3 lines + source) with the Tamil district tag; YouTube title ~70 chars with an English search word, 3 hashtags first, Subscribe line, Tamil language |
+| 2026-11-25 | `0065908` | stories shared / Instagram pause |
+| 2026-11-25 | `aa3fccf` | pick: written and posted |
+| 2026-11-25 | `eb74f43` | stories shared / Instagram pause |
+| 2026-11-25 | `a09366b` | goldrate posted |
 | 2026-11-25 | `1432400` | YouTube: the Instagram source comment (source + link) at the top of each Short's description |
 | 2026-11-25 | `abf4613` | facebook RN-283 |
 | 2026-11-25 | `62634de` | posted RN-283 |
@@ -108,9 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-25 | `8ae42c0` | stories shared / Instagram pause |
 | 2026-11-25 | `33b7af3` | stories shared / Instagram pause |
 | 2026-11-25 | `ca84f62` | stories shared / Instagram pause |
-| 2026-11-25 | `064e7b1` | stories shared / Instagram pause |
-| 2026-11-25 | `1ebecd3` | stories shared / Instagram pause |
-| 2026-11-25 | `e93cc84` | stories shared / Instagram pause |
-| 2026-11-25 | `68c5ead` | stories shared / Instagram pause |
-| 2026-11-25 | `aac8d88` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
