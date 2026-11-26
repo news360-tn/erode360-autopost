@@ -1,0 +1,423 @@
+writing [N]: தாக்குதல் சம்பவம் எதிரொலி சிலைகளுக்கு போலீஸ் பாதுகாப்பு
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high d
+switching away from gemini/gemini-3.6-flash for 10 min
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+writing [N]: தாக்குதல் சம்பவம் எதிரொலி சிலைகளுக்கு போலீஸ் பாதுகாப்பு
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 503: {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing 
+writing [N]: பவானி, சென்னிமலை சுற்று பகுதியில் இடியுடன் மழை
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (13s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
+ok gemini/gemini-3-flash-preview (28s)
+attempt 1 gemini/gemini-3-flash-preview: 3 problems
+  caption needs 5 hashtags (Instagram max), has 7
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 55 ('இதே போல், ஆப்பக்கூடல் அதன் சுற்றுவட்டார பகுதிகளில் மாலை, 4:5'); ஆப்பக்கூடல் ('இதே போல், ஆப்பக்கூடல் அதன் சுற்றுவட்டார பகுதிகளில் மாலை, 4:5')
+  known issue repeated_words: word said twice in a row ('விட்டு') - rewrite so it does not happen again
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 1 groq/qwen/qwen3.8-27b: 1 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  The reel_script says the rain at Bhavani area was 'பலத்த மழை' lasting until 5 PM, which matches, but the reel_script names 'கூடுதுறை' and 'காலிங்கராயன்பாளையம' as places where rain fell, which is consistent with the article; however the slides_spec 'மழை அளவு' slide says 'ஈரோடு 4.40 மி.மீ.' and 'பவானி 4 மி.மீ.' while the article says these were recorded on the day BEFORE (நேற்று முன்தினம்), not the day of the storm — the draft presents them as part of the same report without this date distinction in the reel_script and slides_spec, mixing two different days' facts
+  The reel_script states 'சென்னிமலையில் 14 மில்லிமீட்டர் மழை பதிவானது' without noting it was the day before yesterday, mixing facts from different days into one sentence
+  The reel_script omits the important detail that the Anthiyur-area rain was 'மிதமான' and ran intermittently from 4 PM to 7 PM, and the Chennimalai 12 PM start is presented with the 3 PM second spell missing, so the second rain spell at 3 PM in Chennimalai is an important fact missing from the reel_script
+  The reel_script describes the Aappakoodal rain as causing 'இதமான சூழல' in a way that conflates it with the Bhavani section's sentence structure; the article says the pleasant climate was in those areas, which is acceptable, but the caption places 'ஒரிச்சேரி' and 'சக்தி நகர்' under Aappakoodal while the article lists them there too — no error here, so this item is withdrawn
+  The slides_spec slide 'மழை அளவு' lists 'சென்னிமலையில் 14 மி.மீ. அதிகபட்சம்' without stating the day, mixing the day-before-yesterday rainfall with the current report
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: The reel_script says the rain at Bhavani area was 'பலத்த மழை' lasting until 5 PM, which matches, but the reel_script names 'கூடுதுறை' and 'காலிங்கராயன்பாளையம' as places where rain fell, which is consistent with the article; however the slides_spec 'மழை அளவு' slide says 'ஈரோடு 4.40 மி.மீ.' and 'பவானி 4 மி.மீ.' while the article says these were recorded on the day BEFORE (நேற்று முன்தினம்), not the day of the storm — the draft presents them as part of the same report without this date distinction in the reel_script and slides_spec, mixing two different days' facts
+  fact-check: The reel_script states 'சென்னிமலையில் 14 மில்லிமீட்டர் மழை பதிவானது' without noting it was the day before yesterday, mixing facts from different days into one sentence
+  fact-check: The reel_script omits the important detail that the Anthiyur-area rain was 'மிதமான' and ran intermittently from 4 PM to 7 PM, and the Chennimalai 12 PM start is presented with the 3 PM second spell missing, so the second rain spell at 3 PM in Chennimalai is an important fact missing from the reel_script
+  fact-check: The reel_script describes the Aappakoodal rain as causing 'இதமான சூழல' in a way that conflates it with the Bhavani section's sentence structure; the article says the pleasant climate was in those areas, which is acceptable, but the caption places 'ஒரிச்சேரி' and 'சக்தி நகர்' under Aappakoodal while the article lists them there too — no error here, so this item is withdrawn
+  fact-check: The slides_spec slide 'மழை அளவு' lists 'சென்னிமலையில் 14 மி.மீ. அதிகபட்சம்' without stating the day, mixing the day-before-yesterday rainfall with the current report
+ok gemini/gemini-3-flash-preview (52s)
+factcheck by gemini/gemini-3-flash-preview: 3 problems
+  The date 'Nov 24' and day 'Tuesday' are not mentioned in the article.
+  The name of the accused 'Hari Vignesh' and his affiliation 'TVK sympathizer' are missing from the reel_script.
+  The year '2026' in the caption is not mentioned in the article.
+attempt 1 gemini/gemini-3-flash-preview: 3 problems
+  fact-check: The date 'Nov 24' and day 'Tuesday' are not mentioned in the article.
+  fact-check: The name of the accused 'Hari Vignesh' and his affiliation 'TVK sympathizer' are missing from the reel_script.
+  fact-check: The year '2026' in the caption is not mentioned in the article.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free models unavailable: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 2 problems
+  The article says the statues are at the B.S. Park area, but the draft mentions P.S. Park in the caption; the article does not specify P.S. Park explicitly as in the draft? (The article says 'பி.எஸ்.பார்க்', which matches; no problem here.)
+  The article states the attacker was arrested, but the reel_script says the police 'confirmed via CCTV' the phone call, which the article attributes to CCTV — no issue; however, the slides_spec and caption describe the mobile phone conversation as the person 'inciting' him, while the article only says the person who talked on the phone may be the instigator (inferred), and the article does not say the caller is the person who incited him as a confirmed fact.
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  fact-check: The article says the statues are at the B.S. Park area, but the draft mentions P.S. Park in the caption; the article does not specify P.S. Park explicitly as in the draft? (The article says 'பி.எஸ்.பார்க்', which matches; no problem here.)
+  fact-check: The article states the attacker was arrested, but the reel_script says the police 'confirmed via CCTV' the phone call, which the article attributes to CCTV — no issue; however, the slides_spec and caption describe the mobile phone conversation as the person 'inciting' him, while the article only says the person who talked on the phone may be the instigator (inferred), and the article does not say the caller is the person who incited him as a confirmed fact.
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  known issue repeated_words: word said twice in a row ('விட்டு') - rewrite so it does not happen again
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 5 problems
+  reel_script says the Karunanidhi statues and the library glass were damaged, but the article says the statues and library glass were struck and damaged; the draft also says the Modakkurichi statue was damaged, which is accurate, so no issue there — however the caption and reel say the attacker was 'ஹரிவிக்னேஷ் என்பவர்' and the slide says 'சிசிடிவியில் சேதப்படுத்திய காட்சி உறுதி', consistent with article
+  reel_script says police 'உறுதி செய்தனர்' via CCTV but the article says the CCTV confirmed the damage while he was talking on a mobile phone with another person; the reel omits that he was on the phone with another person while damaging the statues, which is an important fact of the article missing from the reel_script
+  reel_script says 'தி மு க வினர் மறியலில் ஈடுபட்டனர்' without the article's context that this followed the attack, and the reel never states that the damage was done 'நேற்று முன்தினம்' relative to today's posting; minor timing framing not supported but present in article
+  reel_script states the attacker 'ஹரிவிக்னேஷைத் தூண்டிய நபர்' fear without noting the article says the inciter is an unnamed person; caption says 'ஹரிவிக்னேஷைத் தூண்டிய நபர்' which matches article, so not an error
+  slides_spec third slide says 'பொதுமக்கள் அமைதி காக்க வேண்டும்' (public should maintain calm), which is an invented detail not present in the article
+claude rewrite 1 anthropic/claude-haiku-5-5: 5 problems
+  fact-check: reel_script says the Karunanidhi statues and the library glass were damaged, but the article says the statues and library glass were struck and damaged; the draft also says the Modakkurichi statue was damaged, which is accurate, so no issue there — however the caption and reel say the attacker was 'ஹரிவிக்னேஷ் என்பவர்' and the slide says 'சிசிடிவியில் சேதப்படுத்திய காட்சி உறுதி', consistent with article
+  fact-check: reel_script says police 'உறுதி செய்தனர்' via CCTV but the article says the CCTV confirmed the damage while he was talking on a mobile phone with another person; the reel omits that he was on the phone with another person while damaging the statues, which is an important fact of the article missing from the reel_script
+  fact-check: reel_script says 'தி மு க வினர் மறியலில் ஈடுபட்டனர்' without the article's context that this followed the attack, and the reel never states that the damage was done 'நேற்று முன்தினம்' relative to today's posting; minor timing framing not supported but present in article
+  fact-check: reel_script states the attacker 'ஹரிவிக்னேஷைத் தூண்டிய நபர்' fear without noting the article says the inciter is an unnamed person; caption says 'ஹரிவிக்னேஷைத் தூண்டிய நபர்' which matches article, so not an error
+  fact-check: slides_spec third slide says 'பொதுமக்கள் அமைதி காக்க வேண்டும்' (public should maintain calm), which is an invented detail not present in the article
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has 79 words; need 85-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 7 ('பாளையம், காட்டூர், பருவாச்சி, சங்கராப்பாளையம், வெள்ளித்திருப')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 6 problems
+  Caption says the statues and library glass were damaged 'by Harivignesh with a rod' (கம்பியால்) — article says he damaged them with a rod, consistent; no problem there. However, the reel_script says 'ஈரோடு பி எஸ் பார்க், முனிசிபல் காலனி மற்றும் மொடக்குறிச்சி அருகே' statues were damaged, which is consistent with the article.
+  Reel_script and slides say the 24-hour police protection covers the statues in 'ஈரோடு, மொடக்குறிச்சி பகுதிகள்' — acceptable, but the slide text states 'சிலைகள் உள்ள இடங்களில்' which is fine; no issue.
+  Reel_script omits that the accused was found to be a த.வெ.க. sympathiser after checking his Facebook page, which is only partially included; it mentions the Facebook check but not the த.வெ.க. affiliation — an important fact missing from the reel_script (affiliation/cause context).
+  Reel_script omits the detail that Harivignesh was initially described as mentally unwell and that the police later did not confirm this as the reason; the initial claim is mentioned without the outcome linked, which is partly ambiguous.
+  Reel_script says 'அவரைத் தூண்டிய நபர் மீண்டும் தாக்குதல் நடத்தலாம்' — the article says the person who incited him 'may attack again', consistent; no problem.
+  Slide 2 line 'சிசிடிவியில் மொபைல் போனில் பேசியபடி சேதப்படுத்தியது' is an ungrammatical fragment with no clear meaning as a statement about the arrest slide; it lacks a verb tying it to the sentence.
+claude rewrite 3 anthropic/claude-haiku-5-5: 6 problems
+  fact-check: Caption says the statues and library glass were damaged 'by Harivignesh with a rod' (கம்பியால்) — article says he damaged them with a rod, consistent; no problem there. However, the reel_script says 'ஈரோடு பி எஸ் பார்க், முனிசிபல் காலனி மற்றும் மொடக்குறிச்சி அருகே' statues were damaged, which is consistent with the article.
+  fact-check: Reel_script and slides say the 24-hour police protection covers the statues in 'ஈரோடு, மொடக்குறிச்சி பகுதிகள்' — acceptable, but the slide text states 'சிலைகள் உள்ள இடங்களில்' which is fine; no issue.
+  fact-check: Reel_script omits that the accused was found to be a த.வெ.க. sympathiser after checking his Facebook page, which is only partially included; it mentions the Facebook check but not the த.வெ.க. affiliation — an important fact missing from the reel_script (affiliation/cause context).
+  fact-check: Reel_script omits the detail that Harivignesh was initially described as mentally unwell and that the police later did not confirm this as the reason; the initial claim is mentioned without the outcome linked, which is partly ambiguous.
+  fact-check: Reel_script says 'அவரைத் தூண்டிய நபர் மீண்டும் தாக்குதல் நடத்தலாம்' — the article says the person who incited him 'may attack again', consistent; no problem.
+  fact-check: Slide 2 line 'சிசிடிவியில் மொபைல் போனில் பேசியபடி சேதப்படுத்தியது' is an ungrammatical fragment with no clear meaning as a statement about the arrest slide; it lacks a verb tying it to the sentence.
+hl1 shortened at a natural break: 'ஈரோட்டில் கருணாநிதி சிலைகளுக்கு பாதுகாப்பு' -> 'ஈரோட்டில் சிலைகளுக்கு பாதுகாப்பு'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+real photo: no picture on the source page -> AI pictures
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 4 problems
+  The reel_script and caption omit that Harivignesh was arrested and sent to prison, and the caption's mention that he was first described as mentally unstable is accurate but the reel_script leaves out the initial 'mental state' claim and the prison detail; the reel_script also omits that police first called him mentally unstable before the Facebook review, which is an important part of the sequence.
+  The reel_script says Harivignesh was arrested after DMK members staged a protest, but the article only states DMK members protested and Harivignesh was arrested; the sentence links the two as cause and effect, which the article does not explicitly establish.
+  The caption says 'ஈரோடு பி.எஸ். பார்க் மற்றும் முனிசிபல் காலனியில் உள்ள ... நூலகக் கண்ணாடிகள் ... சேதப்படுத்தப்பட்டன', which mixes the statues and the library glass into the same sentence with the Modakkurichi statue; the article lists these separately, so the grouping is loose.
+  The slides_spec 'என்ன நடந்தது?' slide says 'நேற்று முன்தினம் சேதப்படுத்தப்பட்டது', but the article says the damage was done the day before yesterday (நேற்று முன்தினம்), so this is consistent; however the reel_script states the arrest and the TVK sympathiser detail are not included, leaving out an important fact (his Facebook link to TVK) from the reel_script.
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  fact-check: The reel_script and caption omit that Harivignesh was arrested and sent to prison, and the caption's mention that he was first described as mentally unstable is accurate but the reel_script leaves out the initial 'mental state' claim and the prison detail; the reel_script also omits that police first called him mentally unstable before the Facebook review, which is an important part of the sequence.
+  fact-check: The reel_script says Harivignesh was arrested after DMK members staged a protest, but the article only states DMK members protested and Harivignesh was arrested; the sentence links the two as cause and effect, which the article does not explicitly establish.
+  fact-check: The caption says 'ஈரோடு பி.எஸ். பார்க் மற்றும் முனிசிபல் காலனியில் உள்ள ... நூலகக் கண்ணாடிகள் ... சேதப்படுத்தப்பட்டன', which mixes the statues and the library glass into the same sentence with the Modakkurichi statue; the article lists these separately, so the grouping is loose.
+  fact-check: The slides_spec 'என்ன நடந்தது?' slide says 'நேற்று முன்தினம் சேதப்படுத்தப்பட்டது', but the article says the damage was done the day before yesterday (நேற்று முன்தினம்), so this is consistent; however the reel_script states the arrest and the TVK sympathiser detail are not included, leaving out an important fact (his Facebook link to TVK) from the reel_script.
+hl1 shortened at a natural break: 'ஈரோட்டில் சிலைகள் சேதம்: போலீஸ் பாதுகாப்பு' -> 'ஈரோட்டில் சிலைகள் போலீஸ் பாதுகாப்பு'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+image match check unavailable: gemini-3.5-flash: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Thunderstorm lashes Bhavani and Chennima'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1843","first":"RN-293"}
+posting job started at once
+real photo: no picture on the source page -> AI pictures
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for '24-hour police protection for Karunanidh'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261126-1844","first":"RN-294"}
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+source dinamalar list: 15 items
+source google 'ஈரோடு': 53 items
+source bing 'ஈரோடு': 12 items
+source google 'பவானி': 7 items
+source bing 'பவானி': 12 items
+source google 'கோபி': 7 items
+source bing 'கோபி': 12 items
+source google 'கோபிசெட்டிபாளையம்': 0 items
+source bing 'கோபிசெட்டிபாளையம்': 6 items
+source google 'கோபிச்செட்டிபாளையம்': 0 items
+source bing 'கோபிச்செட்டிபாளையம்': 2 items
+source google 'சத்தியமங்கலம்': 9 items
+source bing 'சத்தியமங்கலம்': 12 items
+source google 'பெருந்துறை': 11 items
+source bing 'பெருந்துறை': 11 items
+source google 'அந்தியூர்': 5 items
+source bing 'அந்தியூர்': 11 items
+source google 'கொடுமுடி': 0 items
+source bing 'கொடுமுடி': 8 items
+source google 'மொடக்குறிச்சி': 6 items
+source bing 'மொடக்குறிச்சி': 12 items
+source google 'தாளவாடி': 0 items
+source bing 'தாளவாடி': 7 items
+source google 'நம்பியூர்': 0 items
+source bing 'நம்பியூர்': 4 items
+source google 'சென்னிமலை': 2 items
+source bing 'சென்னிமலை': 12 items
+source google 'சிவகிரி': 0 items
+source bing 'சிவகிரி': 9 items
+source google 'பவானிசாகர்': 2 items
+source bing 'பவானிசாகர்': 10 items
+source google 'புஞ்சைபுளியம்பட்டி': 0 items
+source bing 'புஞ்சைபுளியம்பட்டி': 1 items
+source google 'புளியம்பட்டி': 4 items
+source bing 'புளியம்பட்டி': 12 items
+source google 'ஈரோடு மாவட்டம்': 48 items
+source bing 'ஈரோடு மாவட்டம்': 12 items
+source google 'ஈரோடு மின்தடை': 9 items
+source bing 'ஈரோடு மின்தடை': 10 items
+source google 'கோபி மின்தடை': 0 items
+source bing 'கோபி மின்தடை': 0 items
+source google 'சத்தியமங்கலம் மின்தடை': 0 items
+source bing 'சத்தியமங்கலம் மின்தடை': 10 items
+source google 'பவானி மின்தடை': 0 items
+source bing 'பவானி மின்தடை': 7 items
+source google 'ஈரோடு ஆட்சியர் அறிவிப்பு': 0 items
+source bing 'ஈரோடு ஆட்சியர் அறிவிப்பு': 6 items
+source google 'ஈரோடு மாவட்ட நிர்வாகம்': 0 items
+source bing 'ஈரோடு மாவட்ட நிர்வாகம்': 6 items
+source google 'ஈரோடு வேலைவாய்ப்பு முகாம்': 1 items
+source bing 'ஈரோடு வேலைவாய்ப்பு முகாம்': 2 items
+source google 'ஈரோடு ஆட்சேர்ப்பு': 12 items
+source bing 'ஈரோடு ஆட்சேர்ப்பு': 1 items
+source google 'ஈரோடு சிறப்பு முகாம்': 1 items
+source bing 'ஈரோடு சிறப்பு முகாம்': 5 items
+source google 'ஈரோடு குறைதீர் கூட்டம்': 1 items
+source bing 'ஈரோடு குறைதீர் கூட்டம்': 2 items
+source google 'சூரம்பட்டி': 1 items
+source bing 'சூரம்பட்டி': 2 items
+source google 'கருங்கல்பாளையம்': 1 items
+source bing 'கருங்கல்பாளையம்': 4 items
+source google 'வீரப்பன்சத்திரம்': 1 items
+source bing 'வீரப்பன்சத்திரம்': 4 items
+source google 'சம்பத் நகர்': 0 items
+source bing 'சம்பத் நகர்': 8 items
+source google 'திண்டல்': 1 items
+source bing 'திண்டல்': 4 items
+source google 'காசிபாளையம்': 0 items
+source bing 'காசிபாளையம்': 8 items
+source google 'கோபிசெட்டிபாளையம் மின்தடை': 0 items
+source bing 'கோபிசெட்டிபாளையம் மின்தடை': 0 items
+source google 'கோபிச்செட்டிபாளையம் மின்தடை': 0 items
+source bing 'கோபிச்செட்டிபாளையம் மின்தடை': 0 items
+source google 'பெருந்துறை மின்தடை': 0 items
+source bing 'பெருந்துறை மின்தடை': 0 items
+source google 'அந்தியூர் மின்தடை': 0 items
+source bing 'அந்தியூர் மின்தடை': 2 items
+source google 'கொடுமுடி மின்தடை': 0 items
+source bing 'கொடுமுடி மின்தடை': 2 items
+source google 'மொடக்குறிச்சி மின்தடை': 0 items
+source bing 'மொடக்குறிச்சி மின்தடை': 0 items
+source google 'தாளவாடி மின்தடை': 0 items
+source bing 'தாளவாடி மின்தடை': 0 items
+source google 'நம்பியூர் மின்தடை': 0 items
+source bing 'நம்பியூர் மின்தடை': 0 items
+source google 'சென்னிமலை மின்தடை': 0 items
+source bing 'சென்னிமலை மின்தடை': 0 items
+source google 'சிவகிரி மின்தடை': 0 items
+source bing 'சிவகிரி மின்தடை': 2 items
+source google 'பவானிசாகர் மின்தடை': 0 items
+source bing 'பவானிசாகர் மின்தடை': 0 items
+source google 'ஈரோடு மின்தடை நாளை': 10 items
+source bing 'ஈரோடு மின்தடை நாளை': 7 items
+source google 'ஈரோடு மின்தடை பகுதிகள்': 3 items
+source bing 'ஈரோடு மின்தடை பகுதிகள்': 4 items
+source google 'ஈரோடு மின் நிறுத்தம்': 0 items
+source bing 'ஈரோடு மின் நிறுத்தம்': 2 items
+source google தினமலர் 'ஈரோடு': 100 items
+source bing தினமலர் 'ஈரோடு': 12 items
+source google தினமலர் 'கோபி': 34 items
+source bing தினமலர் 'கோபி': 12 items
+source google தினமணி 'ஈரோடு': 42 items
+source bing தினமணி 'ஈரோடு': 12 items
+source google தினமணி 'கோபி': 20 items
+source bing தினமணி 'கோபி': 12 items
+source google தினகரன் 'ஈரோடு': 100 items
+source bing தினகரன் 'ஈரோடு': 11 items
+source google தினகரன் 'கோபி': 3 items
+source bing தினகரன் 'கோபி': 5 items
+source google ஒன்இந்தியா 'ஈரோடு': 13 items
+source bing ஒன்இந்தியா 'ஈரோடு': 12 items
+source google ஒன்இந்தியா 'கோபி': 1 items
+source bing ஒன்இந்தியா 'கோபி': 4 items
+source google தினத்தந்தி 'ஈரோடு': 18 items
+source bing தினத்தந்தி 'ஈரோடு': 12 items
+source google தினத்தந்தி 'கோபி': 3 items
+source bing தினத்தந்தி 'கோபி': 6 items
+source google மாலைமலர் 'ஈரோடு': 8 items
+source bing மாலைமலர் 'ஈரோடு': 12 items
+source google மாலைமலர் 'கோபி': 1 items
+source bing மாலைமலர் 'கோபி': 4 items
+source google தந்தி டிவி 'ஈரோடு': 6 items
+source bing தந்தி டிவி 'ஈரோடு': 8 items
+source google தந்தி டிவி 'கோபி': 0 items
+source bing தந்தி டிவி 'கோபி': 0 items
+source google இந்து தமிழ் 'ஈரோடு': 5 items
+source bing இந்து தமிழ் 'ஈரோடு': 12 items
+source google இந்து தமிழ் 'கோபி': 2 items
+source bing இந்து தமிழ் 'கோபி': 2 items
+source google பாலிமர் 'ஈரோடு': 2 items
+source bing பாலிமர் 'ஈரோடு': 3 items
+source google பாலிமர் 'கோபி': 37 items
+source bing பாலிமர் 'கோபி': 0 items
+source google மாலை முரசு 'ஈரோடு': 1 items
+source bing மாலை முரசு 'ஈரோடு': 1 items
+source google மாலை முரசு 'கோபி': 1 items
+source bing மாலை முரசு 'கோபி': 0 items
+source google நியூஸ்18 தமிழ் 'ஈரோடு': 100 items
+source bing நியூஸ்18 தமிழ் 'ஈரோடு': 12 items
+source google நியூஸ்18 தமிழ் 'கோபி': 100 items
+source bing நியூஸ்18 தமிழ் 'கோபி': 6 items
+source google இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'ஈரோடு': 1 items
+source bing இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'ஈரோடு': 7 items
+source google இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'கோபி': 13 items
+source bing இந்தியன் எக்ஸ்பிரஸ் தமிழ் 'கோபி': 1 items
+source தினமணி ஈரோடு: 9 items
+source ஒன்இந்தியா ஈரோடு: 17 items
+source இந்து தமிழ் ஈரோடு: 9 items
+source விகடன் ஈரோடு: 14 items
+source பாலிமர் ஈரோடு: 4 items
+Tamil outlets only: kept 1175 of 1303 items
+all sources: 1175 items -> 729 different news
+candidate filter: not written=377, not Erode district news (state-wide / ot=245, already filed=38, collected=31, old=22, not written=16
+to write: 31 Erode district candidates (max 3 stories)
+round: top 3 of 31 candidates + 5 power cut(s)
+candidates waiting: 31 Erode; time left 53 min
+try (N) manual=False: கருணாநிதி சிலைகள் சேதப்படுத்தப்பட்ட வழக்கில் இளைஞா் கைது
+try (N) manual=False: நாளை (நவ.27) மின்தடை (காலை 9:00 – மதியம் 2:00 மணி)
+try (N) manual=False: தாக்குதல் சம்பவம் எதிரொலி சிலைகளுக்கு போலீஸ் பாதுகாப்பு
+skip (N) similar to a filed story: கருணாநிதி சிலைகள் சேதப்படுத்தப்பட்ட வழக்கில் இளைஞா
+try (N) manual=False: நகராட்சி நிர்வாக துறையில் டெண்டர் முறைகேடு வழக்கு; கே.என்.நே
+skip (N) too old (2026-11-21T17:50:02+05:30): நாளை மறுதினம் (நவ.23) மின்தடை (காலை 9:00 – மதியம் 
+try (N) manual=False: 19 வயது கர்ப்பிணியை தாய், தந்தையே கொடூரமாக கொலை செய்தது ஏன்?
+skip (N) no Erode place in article: நகராட்சி நிர்வாக துறையில் டெண்டர் முறைகேடு வழக்கு;
+try (N) manual=False: தாக்குதல் சம்பவம் எதிரொலி சிலைகளுக்கு போலீஸ் பாதுகாப்பு
+skip (N) no Erode place in article: 19 வயது கர்ப்பிணியை தாய், தந்தையே கொடூரமாக கொலை செ
+try (N) manual=False: தலையில் கல்லைப்போட்டு கொடூரம் ரிக் வண்டி தொழிலாளி கொலை
+skip (N) too old (2013-06-20T04:15:00+05:30): தலையில் கல்லைப்போட்டு கொடூரம் ரிக் வண்டி தொழிலாளி 
+try (N) manual=False: தாளவாடியில் விவசாய சங்க தலைவர் கைது
+skip (N) too old (2024-10-31T06:23:00+05:30): தாளவாடியில் விவசாய சங்க தலைவர் கைது
+try (N) manual=False: சென்னிமலை அருகே 10 கிலோ கஞ்சா பறிமுதல்: 2 போ் கைது
+skip (N) too old (2026-11-13T18:25:11.077Z): சென்னிமலை அருகே 10 கிலோ கஞ்சா பறிமுதல்: 2 போ் கைத
+try (N) manual=False: சேவல் சூதாட்டத்தில் ஈடுபட்ட 9 போ் கைது! காா்கள், பணம் பறிமுத
+skip (N) too old (2026-11-01T21:35:10.114Z): சேவல் சூதாட்டத்தில் ஈடுபட்ட 9 போ் கைது! காா்கள், 
+try (N) manual=False: மாமனாருக்கு கத்திக்குத்து: மருமகன் தற்கொலை முயற்சி
+skip (N) too old (2016-02-27T06:55:00+05:30): மாமனாருக்கு கத்திக்குத்து: மருமகன் தற்கொலை முயற்சி
+try (N) manual=False: பெண் தற்கொலை வழக்கில் கணவா், மாமியாா் கைது
+skip (N) no Erode place in article: பெண் தற்கொலை வழக்கில் கணவா், மாமியாா் கைது
+try (N) manual=False: போக்சோ வழக்கில் நடிகர் ஸ்ரீஜித் ரவிக்கு ஓராண்டு சிறை!
+skip (N) too old (2026-11-24T06:45:58.971Z): போக்சோ வழக்கில் நடிகர் ஸ்ரீஜித் ரவிக்கு ஓராண்டு சி
+try (N) manual=False: நாளைய மின்தடை: புன்செய்புளியம்பட்டி, பவானிசாகா்
+skip (N) too old (2026-11-16T21:25:41.363Z): நாளைய மின்தடை: புன்செய்புளியம்பட்டி, பவானிசாகா்
+try (N) manual=False: 24ம் தேதி மின் நிறுத்தம்
+skip (N) too old (2026-11-21T16:52:26+05:30): 24ம் தேதி மின் நிறுத்தம்
+try (N) manual=False: நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்!
+skip (N) too old (2026-11-14T19:17:15.490Z): நாளைய மின்தடை: அறச்சலூா், கஸ்தூரிபா கிராமம்!
+try (N) manual=False: எல்.வலையபட்டியில் நாளை மின்தடை
+skip (N) no Erode place in article: எல்.வலையபட்டியில் நாளை மின்தடை - Dinakaran
+try (N) manual=False: அமலாக்கத்துறை வழக்குகளில் சொத்துகளை பறிமுதல் செய்ய கட்டுப்பா
+skip (N) no Erode place in article: அமலாக்கத்துறை வழக்குகளில் சொத்துகளை பறிமுதல் செய்ய
+try (N) manual=False: பெண் ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய விவகாரம்: தவெக 
+skip (N) no Erode place in article: பெண் ஆட்சியருக்கு ஆபாச குறுஞ்செய்தி அனுப்பிய விவகா
+try (N) manual=False: பவானி பகுதியில் பெய்த கன மழையால் வீடுகளில் மழைநீருடன் கழிவு 
+skip (N) similar to a filed story: பவானி பகுதியில் பெய்த கன மழையால் வீடுகளில் மழைநீரு
+try (N) manual=False: பவானி, சென்னிமலை சுற்று பகுதியில் இடியுடன் மழை
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+try (N) manual=False: ஈரோடு மாநகரில் வெளுத்து வாங்கிய கனமழை வழக்கம்போல் குளமான ...
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
+NOT filed (N) தாக்குதல் சம்பவம் எதிரொலி சிலைகளுக்கு போலீஸ் பாதுக: duplicate after write
+try (N) manual=False: பேக்கரி ஓனர் வீட்டில் தீ விபத்து
+try (N) manual=False: டூவீலர்கள் மோதி ஒருவர் உயிரிழப்பு
+skip (N) too old (2026-10-16T06:57:00+05:30): ஈரோடு மாநகரில் வெளுத்து வாங்கிய கனமழை வழக்கம்போல் 
+try (N) manual=False: அரசுப் பேருந்து மோதி முதியவா் காயம்!
+skip (N) too old (2026-11-22T19:28:46.766Z): அரசுப் பேருந்து மோதி முதியவா் காயம்!
+try (N) manual=False: விண்கல்லில் மோதிய நாசாவின் விண்கலம்..!
+skip (N) no Erode place in article: விண்கல்லில் மோதிய நாசாவின் விண்கலம்..!
+try (N) manual=False: கார்த்திகை தீப அகல் விளக்கால் நேர்ந்த விபரீதம்.. டீசல் பட்டு
+skip (N) too old (2026-11-16T06:45:00+05:30): பேக்கரி ஓனர் வீட்டில் தீ விபத்து
+try (N) manual=False: கோபி தாலுகாவில் நடப்பாண்டில் சராசரி அளவை கடந்த மழை
+skip (N) too old (2026-11-23T06:27:00+05:30): கோபி தாலுகாவில் நடப்பாண்டில் சராசரி அளவை கடந்த மழை
+try (N) manual=False: கருத்தப்பிள்ளையூா் மலையடிவாரப்பகுதியில் காட்டு யானைகள் முகாம
+skip (N) too old (2026-11-14T19:55:12.697Z): கருத்தப்பிள்ளையூா் மலையடிவாரப்பகுதியில் 
+காட்டு யா
+try (N) manual=False: TVS சாம்ராஜ்ஜியத்தில் வெடித்த சொத்துப் பங்கீடு சர்ச்சை : தந்
+skip (N) no Erode place in article: கார்த்திகை தீப அகல் விளக்கால் நேர்ந்த விபரீதம்.. ட
+try (N) manual=False: ராஜ்குமார் கடத்தல் வழக்கு 9 பேர் விடுதலையை எதிர்த்த மனு தள்ள
+skip (N) could not open: TVS சாம்ராஜ்ஜியத்தில் வெடித்த சொத்துப் பங்கீடு சர் [https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUZVeXl] 403 Client Error: Forbidden for url: https://tamil.news18.com/business/tvs-famil
+skip (N) no Erode place in article: டூவீலர்கள் மோதி ஒருவர் உயிரிழப்பு
+skip (N) too old (2026-02-26T02:27:00+05:30): ﻿ ராஜ்குமார் கடத்தல் வழக்கு 9 பேர் விடுதலையை  எதிர
+candidate loop ended: left 0, tried={'N': 31}, done={'N': 2}, time left 49 min
+filed: 2 Erode district stories (target 3), reels only
+queue: 2 news waiting to be written
+All News sheet: {"ok":true,"added":42,"updated":18}
+All News sheet: {"ok":true,"added":58,"updated":2}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":60,"updated":0}
+All News sheet: {"ok":true,"added":57,"updated":3}
+All News sheet: {"ok":true,"added":37,"updated":0} 
+stories: 2
