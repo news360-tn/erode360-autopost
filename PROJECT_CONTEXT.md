@@ -83,6 +83,15 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-26 | `f929baf` | Clean-up: with Cloudflare R2 set up, Cloudinary credit/login problems are yellow warnings (backup only) and no longer turn the run red |
+| 2026-11-26 | `f23209c` | stories shared / Instagram pause |
+| 2026-11-26 | `d85dbee` | stories shared / Instagram pause |
+| 2026-11-26 | `e85424c` | stories shared / Instagram pause |
+| 2026-11-26 | `53ac7b0` | stories shared / Instagram pause |
+| 2026-11-26 | `4fee9ec` | stories shared / Instagram pause |
+| 2026-11-26 | `e899949` | stories shared / Instagram pause |
+| 2026-11-26 | `de55e23` | stories shared / Instagram pause |
+| 2026-11-26 | `7a5c0b5` | stories shared / Instagram pause |
 | 2026-11-26 | `0526c73` | YouTube: a channel's own upload limit ('exceeded the number of videos') pauses that channel for 2 hours, not the whole day; Erode's day-block cleared |
 | 2026-11-26 | `3404d26` | stories shared / Instagram pause |
 | 2026-11-26 | `af8417e` | stories shared / Instagram pause |
@@ -104,13 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-26 | `a4ddd51` | stories shared / Instagram pause |
 | 2026-11-26 | `ea964b3` | stories shared / Instagram pause |
 | 2026-11-26 | `d442a3a` | stories shared / Instagram pause |
-| 2026-11-26 | `a2e6df1` | stories shared / Instagram pause |
-| 2026-11-26 | `d621d1f` | stories shared / Instagram pause |
-| 2026-11-26 | `b887a71` | stories shared / Instagram pause |
-| 2026-11-26 | `dd416d3` | stories shared / Instagram pause |
-| 2026-11-26 | `ad6b1c2` | stories shared / Instagram pause |
-| 2026-11-26 | `3e7cd77` | stories shared / Instagram pause |
-| 2026-11-26 | `d3adb59` | stories shared / Instagram pause |
-| 2026-11-26 | `199c5e4` | stories shared / Instagram pause |
-| 2026-11-26 | `4b584ce` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
