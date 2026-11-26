@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-26T20:26:04.174819+05:30",
+ "last_end": "2026-11-26T22:28:38.090343+05:30",
  "pool": {
   "Cd193f2d": {
    "id": "Cd193f2d",
@@ -210,78 +210,9 @@
    "listed_at": "2026-11-26T04:28:33.038774+05:30",
    "picked_at": "2026-11-26T04:29:57.378343+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "Caf84900": {
-   "id": "Caf84900",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-news/account-of-fund-allocation-for-nutritious-meal-vegetable-to-a-closed-government-school/4386970",
-   "title": "மூடப்பட்ட அரசு பள்ளிக்கு சத்துணவு காய்கறிக்கு நிதி ஒதுக்கியதாக கணக்கு",
-   "summary": "ஈரோடு: ஈரோடு மாவட்டம், மொடக்குறிச்சி வட்டாரத்துக்கு உட்பட்ட, துய்யம்பூந்துறை நாத கவுண்டன்பாளையம் தொடக்கப்பள்ளியில், ‘போதிய மாணவர்கள் இல்லை’ என காரணம் காட்டி, இரண்டாண்டுகளுக்கு முன், பள்ளி மூடப்பட்டது.",
-   "source": "தினமலர்",
-   "published": "2026-11-26T19:07:01+05:30",
-   "category": "கல்வி",
-   "score": 6.5,
-   "power_cut": false,
-   "listed_at": "2026-11-26T20:26:04.174819+05:30",
-   "picked_at": "2026-11-26T20:29:06.935915+05:30",
-   "posted": true
-  },
-  "Cd753303": {
-   "id": "Cd753303",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/no-progress-on-palani-erode-new-railway-line-project/4386743",
-   "title": "இல்லை முன்னேற்றம் பழநி – ஈரோடு புதிய ரயில் பாதை திட்டத்தில்... போதிய நிதி ஒதுக்கி செயல்படுத்த கோரிக்கை",
-   "summary": "பழநி: பழநி- – ஈரோடு புதிய ரயில் பாதை அமைக்கும் திட்டத்திற்கு போதிய நிதி ஒதுக்கீடு செய்து, இத்திட்டத்தை விரைந்து செயல்படுத்த ரயில்வே துறை நடவடிக்கை எடுக்க வேண்டும் என கோரிக்கை எழுந்துள்ளது.",
-   "source": "தினமலர்",
-   "published": "2026-11-26T17:08:26+05:30",
-   "category": "ரயில்",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-26T20:26:04.174819+05:30",
-   "picked_at": "2026-11-26T20:29:06.935910+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-25_02": {
-   "window": [
-    "2026-11-24T23:29:47.986783+05:30",
-    "2026-11-25T02:24:08.522448+05:30"
-   ],
-   "ids": [
-    "C6415808",
-    "C518f121",
-    "C1a39488",
-    "Cbcad9fd",
-    "C4f73b8c",
-    "C49faa51"
-   ],
-   "sent": false,
-   "deadline": "2026-11-25T03:24:08.522448+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 6 by insights",
-    "ids": [
-     "C518f121",
-     "C6415808",
-     "Cbcad9fd",
-     "C1a39488",
-     "C4f73b8c",
-     "C49faa51"
-    ],
-    "at": "2026-11-25T02:25:40.691917+05:30"
-   },
-   "written": [
-    "C1a39488",
-    "C49faa51",
-    "C4f73b8c",
-    "C518f121",
-    "C6415808",
-    "Cbcad9fd"
-   ],
-   "refused": {
-    "Cbcad9fd": "not filed: all free models failed: no usable answer from the models",
-    "C6415808": "not filed: all free models failed: no usable answer from the models",
-    "C518f121": "not filed: all free models failed: no usable answer from the models"
-   }
-  },
   "2026-11-25_04": {
    "window": [
     "2026-11-25T02:24:08.522448+05:30",
@@ -749,7 +680,35 @@
     "Caf84900",
     "Cd753303"
    ]
+  },
+  "2026-11-26_22": {
+   "window": [
+    "2026-11-26T20:26:04.174819+05:30",
+    "2026-11-26T22:28:38.090343+05:30"
+   ],
+   "ids": [
+    "C83aeddb"
+   ],
+   "sent": false,
+   "deadline": "2026-11-26T23:28:38.090343+05:30",
+   "decided": null,
+   "written": []
   }
  },
- "retry": {}
+ "retry": {
+  "https://www.dinamalar.com/news/world-tamil-news/indians-are-top-in-immigration-and-exit-to-uk/4387231": {
+   "it": {
+    "key": "CBMiowFBVV95cUxPdVRsUFVhbHJDclowRklIc1YzRjdJSzZzNTZSRE9VNDJlZUE4a2ZSQU8wZTFWRWxIZ3plbE0wYXdJb2g5YlFHUTU5OTFGd3A4TmJCV1pZNHhqXzh2TTJNR2NsR01XbGVQNlJ4UElyMFhWYTlCQ0JEQ2p2WGV1ZEZsWlUxTzc4MnFJWkhPbm93RUl4Z3M0cWdVNHIza0kzTlFuSHkw",
+    "url": "https://www.dinamalar.com/news/world-tamil-news/indians-are-top-in-immigration-and-exit-to-uk/4387231",
+    "title": "பிரிட்டனுக்கு குடியேறுவதிலும் வெளியேறுவதிலும் இந்தியர்களே `டாப்'",
+    "site": "https://www.dinamalar.com",
+    "source": "Dinamalar",
+    "published": "2026-11-26T21:30:37+05:30",
+    "via": "google",
+    "query": "ஈரோடு site:dinamalar.com",
+    "snippet": " பிரிட்டனுக்கு குடியேறுவதிலும் வெளியேறுவதிலும் இந்தியர்களே `டாப்'    Dinamalar "
+   },
+   "first": "2026-11-26T22:28:38.090343+05:30"
+  }
+ }
 }
