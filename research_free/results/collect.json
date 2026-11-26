@@ -3,197 +3,591 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/no-progress-on-palani-erode-new-railway-line-project/4386743",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-news/account-of-fund-allocation-for-nutritious-meal-vegetable-to-a-closed-government-school/4386970",
-  "candidate filter: collected=2",
-  "to write: 2 Erode district candidates (max 2 stories)",
-  "round: top 2 of 2 candidates",
-  "candidates waiting: 2 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-news/account-of-fu",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-dind",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/இருசக்கர-வாகனம்-மோதி-முதியவா்-உயிரிழப்பு-10",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/அறச்சலூரில்-மழைநீா்-சேகரிப்பு-விழிப்புணா்வுப்-பேரணி",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/heavy-rain-in-bhavani-rainwater-surrounds-houses-in-low-lying-areas",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/a-government-doctor-who-underwent-childbirth-at-a-government-hospital",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/snake-enters-government-school-kitchen-student-catches-it-skillfully",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/minister-d-sarathkumar-inspects-the-government-officers-training-institute-in-bhavanisagar",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/protest-in-poonachi-against-the-ethanol-plant",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/protest-by-hindu-lawyers-in-coimbatore",
+  "candidate filter: collected=8",
+  "to write: 8 Erode district candidates (max 8 stories)",
+  "round: top 8 of 8 candidates",
+  "candidates waiting: 8 Erode; time left 79 min",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 1})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "candidate loop ended: left 0, tried={'N': 2}, done={'N': 2}, time left 75 min",
-  "filed: 2 Erode district stories (target 2), reels only",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "NOT filed (N) பூனாச்சியில் எத்தனால் ஆலையைக் கண்டித்து ஆா்ப்பாட்ட: not Erode district news (the story's first lines name another place and no Erode place)",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 7})",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 9})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 11})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 13})",
+  "candidate loop ended: left 0, tried={'N': 8}, done={'N': 7}, time left 76 min",
+  "filed: 7 Erode district stories (target 8), reels only",
   "queue: 0 news waiting to be written",
-  "All News sheet: {\"ok\":true,\"added\":2,\"updated\":0}"
+  "All News sheet: {\"ok\":true,\"added\":8,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "ok gemini/gemini-3-flash-preview (37s)",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (52s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok gemini/gemini-3-flash-preview (46s)",
+  "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "ok anthropic/claude-haiku-5-5",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok groq/qwen/qwen3.8-27b (5s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (5s)",
+  "fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3.5-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "பழநி–ஈரோடு புதிய ரயில் பாதைக்கு போதிய நிதி ஒதுக்க கோரிக்கை",
-   "english_headline": "Demand to allot enough funds for Palani-Erode new railway line project and implement it quickly",
-   "category": "Government & Services",
-   "location": "Palani, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "ரயில் பாதை",
-    "loc": "பழநி – ஈரோடு",
-    "hl1": "பழநி–ஈரோடு ரயில் பாதைக்கு நிதி கோரிக்கை",
-    "hl2": "முன்னேற்றம் இல்லை",
-    "slides": [
-     {
-      "title": "திட்டத்தின் வரலாறு",
-      "lines": [
-       "பழநி–ஈரோடு ரயில் பாதை திட்டம் <b>1922</b>ல் தயாரானது",
-       "1982–1986 இடைப்பட்ட ஆண்டுகளில் ஆய்வு நடந்தது",
-       "ஈரோடு, சென்னிமலை, காங்கேயம், பெருந்துறை வழியாக பாதை"
-      ]
-     },
-     {
-      "title": "நிதி நிலவரம்",
-      "lines": [
-       "2011 பட்ஜெட்டில் <b>ரூ.50 கோடி</b> ஒதுக்கீடு",
-       "2024 பட்ஜெட்டில் <b>ரூ.100 கோடி</b> ஒதுக்கீடு",
-       "ஒவ்வொரு பட்ஜெட்டிலும் சிறு தொகை மட்டுமே"
-      ]
-     },
-     {
-      "title": "கோரிக்கை",
-      "lines": [
-       "போதிய நிதி ஒதுக்கி விரைந்து செயல்படுத்த கோரிக்கை",
-       "ரயில்வே துறை நடவடிக்கை எடுக்க வேண்டும்",
-       "பணியில் பெரிய முன்னேற்றம் இல்லை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "பழநி–ஈரோடு புதிய ரயில் பாதை திட்டத்திற்கு போதிய நிதி ஒதுக்கி விரைந்து செயல்படுத்த வேண்டும் என கோரிக்கை எழுந்துள்ளது. இத்திட்டம் 1922ஆம் ஆண்டிலேயே பிரிட்டிஷ் காலத்தில் தயாரானது. 1982 முதல் 1986 வரையிலான ஆண்டுகளில் இதற்கான ஆய்வு நடைபெற்றது. ஈரோட்டில் இருந்து சென்னிமலை, காங்கேயம், பெருந்துறை, தாராபுரம், தொப்பம்பட்டி வழியாக பழநியை அடையும் வகையில் பாதை அமைக்க முடிவு செய்யப்பட்டது. 480 ஹெக்டர் நிலத்தை கையகப்படுத்தவும், 91.5 கிலோமீட்டர் தூரத்திற்கு புதிய ரயில் பாதை அமைக்கவும் திட்டமிடப்பட்டது. 2005–2006 பட்ஜெட்டில் ஆய்வுப் பணிகளுக்கு அறிவிப்பு வெளியானது. 2008–2009 பட்ஜெட்டில் மத்திய அரசு சிறிய அளவில் நிதி ஒதுக்கியது. இறுதி வடிவத்திற்கு ஒப்புதலும் பெறப்பட்டது. 6 பெரிய பாலங்கள், 42 சிறிய பாலங்கள், 23 ரயில்வே கதவுகள் அமையும் என தெரிவிக்கப்பட்டது. 2011 பட்ஜெட்டில் ரூ.50 கோடியும், 2024 பட்ஜெட்டில் ரூ.100 கோடியும் ஒதுக்கப்பட்டது. ஆனாலும் பணியில் பெரிய முன்னேற்றம் இல்லை. இத்திட்டம் அமைந்தால் விவசாயம், சுற்றுலா, வியாபாரம் வளரும் என சமூக ஆர்வலர்கள் தெரிவித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚆 பழநி–ஈரோடு ரயில் பாதைக்கு போதிய நிதி ஒதுக்க கோரிக்கை\n\n📰 முழு விவரம்:\nபழநியில் இருந்து ஈரோடு வழியாக ரயில் பாதை அமைக்கும் திட்டம் 1922ஆம் ஆண்டிலேயே பிரிட்டிஷ் காலத்தில் தயாரானது. 1982–1986 இடைப்பட்ட ஆண்டுகளில் ஆய்வு நடைபெற்றது. ஈரோட்டில் இருந்து சென்னிமலை, காங்கேயம், பெருந்துறை, தாராபுரம், தொப்பம்பட்டி வழியாக பழநியை அடையும் வகையில் பாதை அமைக்க முடிவு செய்யப்பட்டது. 480 ஹெக்டர் நிலம் கையகப்படுத்தவும், 91.5 கி.மீ. தூரத்திற்கு புதிய ரயில் பாதை அமைக்கவும் திட்டமிடப்பட்டது. 2005–2006 பட்ஜெட்டில் ஆய்வுப் பணிகளுக்கு அறிவிப்பு வெளியானது. 2008–2009 பட்ஜெட்டில் மத்திய அரசு சிறிய அளவில் நிதி ஒதுக்கீடு செய்தது. இறுதி வடிவத்திற்கு ஒப்புதலும் பெறப்பட்டது. 6 பெரிய பாலங்கள், 42 சிறிய பாலங்கள், 23 ரயில்வே கதவுகள் அமையும் எனத் தெரிவிக்கப்பட்டது. 2011 பட்ஜெட்டில் ரூ.50 கோடியும், 2024 பட்ஜெட்டில் ரூ.100 கோடியும் ஒதுக்கப்பட்டது. ஆனாலும் பணியில் பெரிய முன்னேற்றம் இல்லை.\n🌾 விவசாயம், சுற்றுலா, வியாபாரம் வளரும்; கொடைக்கானல் சுற்றுலா மேம்படும்.\n🚉 பழநியில் இருந்து ஈரோடு செல்லும் தொலைவு 36 கி.மீ. குறையும்; பயணக் கட்டணமும் குறையும்.\n\nPalani-Erode new railway line funds demand | Erode news\n📍 பழநி, ஈரோடு மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Palani #ErodeNews #ஈரோடு",
-   "prompts": "A group of social activists and local residents stands beside an unfinished railway embankment on open land at the edge of Palani town, Erode district, Tamil Nadu, looking toward a stretch of bare earth where a new broad-gauge track is planned. Around ten people, men in shirts and veshti and women in cotton sarees, are gathered in a loose cluster, seen from behind and from a distance, with some holding a rolled paper and one raising a hand as if speaking. Faint outlines of surveyed land, wooden survey pegs and a few stacked concrete sleepers lie on the dry red soil, with paddy fields and the Sirumalai hills in the background. The scene is in bright daylight under a clear sky, shot at eye level on a 35 mm lens wide enough to show the empty corridor of the proposed route stretching into the distance. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of an old yellowed survey map spread on a wooden table in a government office in Erode district, with a steel pen and a stack of paper files beside it. The map shows a dotted line tracing a railway route with small bridge and gate markings along its length, and the edges curl slightly as if handled many times. Soft daylight comes through a window at the left, casting gentle shadows, and a blurred figure in a shirt sits far behind the table, seen only from the back. Shot close-up at a slightly high angle on a 35 mm lens to show the route lines and the paper texture clearly, with no readable text on the map. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/no-progress-on-palani-erode-new-railway-line-project/4386743",
-   "published": "2026-11-26T17:08:26+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; numbers not found in the article: 2009; caption misses facts of the article (put every one in 📰 முழு விவரம்): 20 ('அதன்பிறகு 2008 – 20-09 பட்ஜெட்டில் மத்திய அரசு சிறிய அளவில் '); 09 ('அதன்பிறகு 2008 – 20-09 பட்ஜெட்டில் மத்திய அரசு சிறிய அளவில் ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 11 attempt(s), 3 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/0b7f235858ba9c9f.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/4da60b022c228bca.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "மூடப்பட்ட பள்ளிக்கு காய்கறி நிதி; செயல்படும் பள்ளிகளுக்கு நிதி இல்லை",
-   "english_headline": "Funds for vegetables allotted to a closed Erode school while running schools wait four months for money",
-   "category": "Government & Services",
-   "location": "Thuyambooranthurai Natha Goundanpalayam, Modakkurichi block, Erode district",
+   "tamil_headline": "கோபியில் இந்து அமைப்பு வழக்குரைஞர்கள் ஆர்ப்பாட்டம்: திருப்பரங்குன்றம் தீபம் விவகாரம்",
+   "english_headline": "Hindu organisation lawyers protest in Gobichettipalayam over Thiruparankundram Karthigai lamp issue",
+   "category": "Civic Issues",
+   "location": "Gobichettipalayam town, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு திட்டம்",
-    "loc": "மொடக்குறிச்சி",
-    "hl1": "மூடிய பள்ளிக்கு காய்கறி நிதி ஒதுக்கீடு",
-    "hl2": "நான்கு மாதமாக நிதி இல்லை",
+    "cat": "ஆர்ப்பாட்டம்",
+    "loc": "கோபி",
+    "hl1": "கோபியில் வழக்குரைஞர்கள் ஆர்ப்பாட்டம்",
+    "hl2": "திருப்பரங்குன்றம் தீபம்",
     "slides": [
      {
-      "title": "மூடிய பள்ளி",
+      "title": "எங்கு, எப்போது?",
       "lines": [
-       "மொடக்குறிச்சி வட்டம், துய்யம்பூந்துறை நாத கவுண்டன்பாளையம்",
-       "போதிய மாணவர்கள் இல்லை என <b>இரண்டு ஆண்டுகளுக்கு</b> முன்",
-       "ஆனால் இன்றும் காலை உணவு திட்டத்தில் காய்கறிக்கு பணம்"
+       "கோபி ஒருங்கிணைந்த நீதிமன்ற வளாகம் முன்பு",
+       "வியாழக்கிழமை <b>ஆர்ப்பாட்டம்</b> நடைபெற்றது",
+       "இந்து அமைப்பு வழக்குரைஞர்கள் பங்கேற்றனர்"
       ]
      },
      {
-      "title": "நிதி கிடைக்காத",
+      "title": "யார் தலைமை?",
       "lines": [
-       "ஆணைக்கல்பாளையம், பூலாம்பாளையம், செல்லப்பம்பாளையம்",
-       "எம்.நாத கவுண்டன்பாளையம், எலையாம்பாளையம், கிளியம்பட்டி",
-       "இவற்றுக்கு <b>நான்கு மாதங்களாக</b> காய்கறி பணம் வழங்கப்படவில்லை"
+       "இந்து அமைப்பு வழக்குரைஞர்கள் சங்க ஒருங்கிணைப்பாளர்",
+       "<b>ஆர்.எஸ்.குணசேகரன்</b> தலைமை வகித்தார்",
+       "எஸ்.வீரமணி, எஸ்.சக்திவேல் முன்னிலை வகித்தனர்"
       ]
      },
      {
-      "title": "சிரமத்தில்",
+      "title": "ஏன் ஆர்ப்பாட்டம்?",
       "lines": [
-       "மகளிர் குழுவினர் சிரமத்துக்கு இடையே உணவு தயாரிக்கின்றனர்",
-       "எம்.நாத கவுண்டன்பாளையம் பள்ளி சமையல் பணியாளருக்கு <b>ஐந்து",
-       "மேற்பார்வையாளரிடம் தெரிவித்தும் பதில் இல்லை"
+       "திருப்பரங்குன்றம் மலை உச்சியில் கார்த்திகை தீபம் ஏற்றாதது",
+       "உச்ச நீதிமன்ற உத்தரவை அமல்படுத்தாத தமிழக அரசு கண்டனம்",
+       "ஆர்ப்பாட்டத்தில் முழக்கங்கள் எழுப்பப்பட்டன"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "மூடப்பட்ட ஒரு அரசுப் பள்ளிக்கு சத்துணவுக் காய்கறிக்கு நிதி ஒதுக்கப்படுவதாகக் கணக்கு காட்டப்படுகிறது. ஈரோடு மாவட்டம், மொடக்குறிச்சி வட்டம், துய்யம்பூந்துறை நாத கவுண்டன்பாளையம் தொடக்கப் பள்ளி போதிய மாணவர்கள் இல்லை என்று இரண்டு ஆண்டுகளுக்கு முன் மூடப்பட்டது. ஆனால் இன்றும் காலை உணவுத் திட்டத்தில் அந்தப் பள்ளிக்குக் காய்கறி செலவுக்குப் பணம் ஒதுக்கப்படுகிறது. இதே நேரத்தில், ஆணைக்கல்பாளையம், பூலாம்பாளையம், செல்லப்பம்பாளையம், எம்.நாத கவுண்டன்பாளையம், எலையாம்பாளையம், கிளியம்பட்டி ஆகிய செயல்படும் பள்ளிகளுக்கு நான்கு மாதங்களாகக் காய்கறி வாங்கப் பணம் வழங்கப்படவில்லை. இதனால் சமையல் செய்யும் மகளிர் குழுவினர் பெரும் சிரமத்துக்கு இடையே உணவு தயாரித்துக் கொடுக்கின்றனர். இது குறித்து மேற்பார்வையாளரிடம் தெரிவித்தும் பதில் இல்லை. மேலும், எம்.நாத கவுண்டன்பாளையம் பள்ளியில் உணவு சமைக்கும் பெண் ஊழியருக்கு ஐந்து மாதமாகச் சம்பளம் வழங்கப்படவில்லை. மொடக்குறிச்சி வட்டம் வளர்ச்சி அலுவலர் ரவிச்சந்திரன், தமக்கு எவ்வித தகவலும் வரவில்லை என்றும், விசாரித்து நடவடிக்கை எடுக்கப்படும் என்றும் தெரிவித்துள்ளார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🍲 மூடிய பள்ளிக்கு காய்கறி நிதி; செயல்படும் பள்ளிகளுக்கு நான்கு மாதமாக இல்லை\n\n📰 முழு விவரம்:\nமொடக்குறிச்சி வட்டம், துய்யம்பூந்துறை நாத கவுண்டன்பாளையம் தொடக்கப் பள்ளி போதிய மாணவர்கள் இல்லை என்று இரண்டு ஆண்டுகளுக்கு முன் மூடப்பட்டது. ஆனால் இன்றும் காலை உணவுத் திட்டத்தில் அப்பள்ளிக்குக் காய்கறி செலவுக்குப் பணம் ஒதுக்கப்படுகிறது. ஆணைக்கல்பாளையம், பூலாம்பாளையம், செல்லப்பம்பாளையம், எம்.நாத கவுண்டன்பாளையம், எலையாம்பாளையம், கிளியம்பட்டி பள்ளிகளுக்கு நான்கு மாதங்களாகக் காய்கறிப் பணம் வழங்கப்படவில்லை. சமையல் மகளிர் குழுவினர் பெரும் சிரமத்துக்கு இடையே உணவு தயாரிக்கின்றனர். எம்.நாத கவுண்டன்பாளையம் பள்ளி சமையல் பணியாளருக்கு ஐந்து மாதமாகச் சம்பளம் வழங்கப்படவில்லை. மேற்பார்வையாளரிடம் தெரிவித்தும் பதில் இல்லை.\n📍 இடம்: மொடக்குறிச்சி வட்டம், ஈரோடு மாவட்டம்\n👮 நடவடிக்கை: விசாரித்து நடவடிக்கை எடுக்கப்படும் என மொடக்குறிச்சி வட்டம் வளர்ச்சி அலுவலர் ரவிச்சந்திரன் தெரிவித்துள்ளார்.\n\nErode mid-day meal vegetable funds issue | Erode news\n📍 மொடக்குறிச்சி, ஈரோடு மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Modakkurichi #ErodeNews #ஈரோடு",
-   "prompts": "A group of women from a self-help group cook a midday meal in a rural village school kitchen in Modakkurichi block, Erode district, while the school beside them stands locked and shuttered. Seen from behind at a distance, three women in cotton sarees stir large aluminium cooking vessels on a traditional stove, with a small heap of green vegetables and a sack of onions on the cement floor beside them, showing that vegetables are being bought from their own hands. The setting is a plain single-storey government primary school in a dry village with a red-oxide tiled roof, a tin-sheet shed, a dusty compound with a neem tree and low brick walls, and paddy fields and the Kodiveri-area hills faintly visible behind. A closed iron gate with a padlock and a faded school board stands in the background, with the building's windows shut. Bright daylight, mild afternoon sun, dry clear sky. Camera at eye level, 35 mm, wide enough to show the kitchen, the locked school and the empty compound. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a worn cooking vessel and a thin pile of fresh vegetables on a cement floor in a village school kitchen in Erode district, showing the strain of cooking without money. An aluminium pot sits on a clay-brick stove with a few loose tomatoes, onions and drumsticks beside it, and a half-empty steel bucket and a plastic jar of water lie nearby. A woman's hand in a faded cotton saree sleeve is seen reaching toward the pot, the face out of frame. Behind, a sliver of a padlocked school gate and a dusty wall with peeling paint show the shut school next door. Plain daylight from an open doorway, soft natural shadows, dusty cement texture. Camera slightly high, 35 mm, shallow depth of field, focus on the vegetables and pot. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-news/account-of-fund-allocation-for-nutritious-meal-vegetable-to-a-closed-government-school/4386970",
-   "published": "2026-11-26T19:07:01+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'மொடக்குறிச்சி', e.g. 'மொடக்குறிச்சி: ...' or 'மொடக்குறிச்சி-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5 + proofread groq/qwen/qwen3.8-27b, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "கோபியில் இந்து அமைப்பு வழக்குரைஞர்கள் ஆர்ப்பாட்டம் நடத்தினர். வியாழக்கிழமை கோபி ஒருங்கிணைந்த நீதிமன்ற வளாகம் முன்பு இந்த ஆர்ப்பாட்டம் நடைபெற்றது. இந்து அமைப்பு வழக்குரைஞர்கள் சங்க ஒருங்கிணைப்பாளர் ஆர் எஸ் குணசேகரன் தலைமை வகித்தார். எஸ் வீரமணி, எஸ் சக்திவேல் ஆகியோர் முன்னிலை வகித்தனர். திருப்பரங்குன்றம் மலை உச்சியில் கார்த்திகை தீபம் ஏற்றப்படாததைக் கண்டித்து இந்த ஆர்ப்பாட்டம் நடத்தப்பட்டது. திருப்பரங்குன்றம் விவகாரத்தில் உச்ச நீதிமன்றம் அளித்த உத்தரவை அமல்படுத்தாத தமிழக அரசைக் கண்டித்து முழக்கங்கள் எழுப்பப்பட்டன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚖️ கோபியில் இந்து அமைப்பு வழக்குரைஞர்கள் ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nதிருப்பரங்குன்றம் மலை உச்சியில் கார்த்திகை தீபம் ஏற்றாததைக் கண்டித்து, வியாழக்கிழமை கோபி ஒருங்கிணைந்த நீதிமன்ற வளாகம் முன்பு இந்து அமைப்பு வழக்குரைஞர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர். இந்து அமைப்பு வழக்குரைஞர்கள் சங்க ஒருங்கிணைப்பாளர் ஆர்.எஸ்.குணசேகரன் தலைமை வகித்தார். எஸ்.வீரமணி, எஸ்.சக்திவேல் ஆகியோர் முன்னிலை வகித்தனர். திருப்பரங்குன்றம் விவகாரத்தில் உச்ச நீதிமன்றம் அளித்த உத்தரவை அமல்படுத்தாத தமிழக அரசைக் கண்டித்து ஆர்ப்பாட்டத்தில் முழக்கங்கள் எழுப்பப்பட்டன.\n📍 இடம்: கோபி ஒருங்கிணைந்த நீதிமன்ற வளாகம் முன்பு\n🗓️ நாள்: வியாழக்கிழமை\n\nGobichettipalayam Hindu lawyers protest Thiruparankundram lamp | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A group of lawyers in black coats and white shirts stands in front of the combined court complex in Gobichettipalayam town, Erode district, raising their arms and shouting slogans during a Thursday daytime protest over the unlit Karthigai lamp on the Thiruparankundram hilltop. The courthouse is a low, plain government building with a wide entrance and a concrete compound wall, and a few two-wheelers and an autorickshaw are parked at the roadside beyond the gate. Around fifteen advocates gather in a loose line, most of them seen from behind or from a distance, while one leader at the front holds a placard overhead and a couple of men carry a folded banner on a bamboo pole. Daylight, clear sky with a soft warm tone, typical of Erode mid-morning. Camera at eye level, 35 mm, wide enough to show the court gate and the crowd of lawyers together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/protest-by-hindu-lawyers-in-coimbatore",
+   "published": "2026-11-26T19:12:36.340Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/b9f84044168d0a81.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/639c3e2cb9b19ccf.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/e3327d18142099c1.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பவானிசாகர் அரசு அலுவலர் பயிற்சி நிலையத்தில் அமைச்சர் ஆய்வு",
+   "english_headline": "Minister D. Sarathkumar inspects Government Officers' Training Institute at Bhavanisagar",
+   "category": "Government & Services",
+   "location": "Bhavanisagar, Sathyamangalam taluk, Erode district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "அரசுப் பணி",
+    "loc": "பவானிசாகர்",
+    "hl1": "பவானிசாகர் பயிற்சி அமைச்சர் ஆய்வு",
+    "hl2": "ரூ.2.95 கோடி சமையல்கூடம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "மனிதவள மேம்பாட்டுத் துறை அமைச்சர் டி.சரத்குமார் ஆய்வு",
+       "பவானிசாகர் அரசு அலுவலர் பயிற்சி நிலையத்தில் ஆய்வு",
+       "வியாழக்கிழமை ஆய்வு மேற்கொண்டார்"
+      ]
+     },
+     {
+      "title": "புதிய கட்டடம்",
+      "lines": [
+       "ரூ.<b>2.95 கோடி</b> மதிப்பில் நவீன சமையல்கூடம் திறப்பு",
+       "உணவருந்தும் கூடமும் அமைச்சரால் திறந்துவைக்கப்பட்டது",
+       "பயிற்சி நிலைய வளாகத்தில் கட்டப்பட்டது"
+      ]
+     },
+     {
+      "title": "பயிற்சி நிலவரம்",
+      "lines": [
+       "தமிழகத்தின் அனைத்துத் துறை அலுவலர்களுக்கு அடிப்படைப் பயிற்சி",
+       "பயிற்சி நல்ல முறையில் உள்ளதா என அமைச்சர் கேட்டறிந்தார்",
+       "வெளி விளையாட்டு அரங்கம் அமைக்கப்பட உள்ள இடத்தையும்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பவானிசாகர் அரசு அலுவலர் பயிற்சி நிலையத்தில் அமைச்சர் டி சரத்குமார் ஆய்வு செய்தார். வியாழக்கிழமை நடந்த இந்த ஆய்வில், ரூ.2.95 கோடி மதிப்பில் கட்டப்பட்ட நவீன சமையல்கூடம் மற்றும் உணவருந்தும் கூடத்தை அமைச்சர் திறந்துவைத்தார். இந்தப் பயிற்சி நிலையம் சத்தியமங்கலத்தை அடுத்த பவானிசாகரில் செயல்பட்டு வருகிறது. தமிழக அரசின் மனிதவள மேலாண்மைத் துறையின் கீழ் இயங்கும் இந்த நிலையத்தில், தமிழகத்தின் அனைத்துத் துறை அரசு அலுவலர்களுக்கும் அடிப்படைப் பயிற்சி வழங்கப்படுகிறது. பயிற்சி பெறும் அலுவலர்களிடம் பயிற்சி நல்ல முறையில் அளிக்கப்படுகிறதா என அமைச்சர் கேட்டறிந்தார். பின்னர், வெளி விளையாட்டு அரங்கம் அமைக்கப்பட உள்ள இடத்தையும் அமைச்சர் பார்வையிட்டார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏛️ பவானிசாகர் பயிற்சி நிலையத்தில் அமைச்சர் ஆய்வு\n\n📰 முழு விவரம்:\nசத்தியமங்கலத்தை அடுத்த பவானிசாகர் அரசு அலுவலர் பயிற்சி நிலையத்தில் மனிதவள மேம்பாட்டுத் துறை அமைச்சர் டி.சரத்குமார் வியாழக்கிழமை ஆய்வு மேற்கொண்டார். தமிழக அரசின் மனிதவள மேலாண்மைத் துறையின் கீழ் செயல்படும் இந்த நிலையத்தில், தமிழகத்தின் அனைத்துத் துறை அரசு அலுவலர்களுக்கும் அடிப்படைப் பயிற்சி வழங்கப்படுகிறது. வளாகத்தில் ரூ.2.95 கோடி மதிப்பில் கட்டப்பட்ட நவீன சமையல்கூடம் மற்றும் உணவருந்தும் கூடத்தை அமைச்சர் திறந்துவைத்தார். பயிற்சி நல்ல முறையில் அளிக்கப்படுகிறதா என்றும் அவர் பயிற்சி பெறும் அலுவலர்களிடம் கேட்டறிந்தார். பின்னர் வெளி விளையாட்டு அரங்கம் அமைக்கப்பட உள்ள இடத்தையும் பார்வையிட்டார்.\n\nBhavanisagar training institute minister inspection | Erode news\n📍 பவானிசாகர், சத்தியமங்கலம் வட்டம், ஈரோடு மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavanisagar #ErodeNews #ஈரோடு",
+   "prompts": "A group of officials in shirts and sarees gathers near the newly built modern kitchen and dining hall at the Government Officers' Training Institute in Bhavanisagar, Sathyamangalam taluk, as a minister is about to cut a ribbon at the entrance. Seen from behind at a short distance, a few men in formal shirts and trousers and women in cotton sarees stand on a paved campus path, with a row of neat new dining tables visible through the open doorway. Behind them are green trees and a glimpse of the Bhavanisagar dam hills under daylight. The institute campus shows a clean concrete building with plain walls and a flat roof. It is a bright Thursday daytime with clear sky. Camera at eye level, 35 mm, wide enough to show the building and the group together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the open dining hall interior at the Government Officers' Training Institute campus in Bhavanisagar, showing long rows of plain wooden dining tables and benches laid out in a clean, newly built hall with tiled floor and white walls. Daylight comes in through large windows, and a stainless steel serving counter stands at the far end near the kitchen doorway. No people in the frame except a blurred figure far back. The surroundings suggest a government training campus in Erode district, with a glimpse of green trees outside. Camera slightly high, 35 mm, focused on the tables and the bright, orderly space. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/minister-d-sarathkumar-inspects-the-government-officers-training-institute-in-bhavanisagar",
+   "published": "2026-11-26T19:10:09.105Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/b21eda8f8a12b06e.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/92877598aafcab8b.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அரசு மருத்துவர் அரசு மருத்துவமனையில் பிரசவம்",
+   "english_headline": "Government doctor gives birth at government hospital in Perundurai",
+   "category": "Health",
+   "location": "Perundurai, Erode district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மருத்துவம்",
+    "loc": "பெருந்துறை",
+    "hl1": "பெருந்துறையில் அரசு மருத்துவர் பிரசவம்",
+    "hl2": "அரசு மருத்துவமனையில் பெண்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அரசு மருத்துவர் வித்யாவுக்கு பெண் குழந்தை பிறந்தது",
+       "பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் பிரசவம்",
+       "வியாழக்கிழமை காலை அறுவை சிகிச்சை மூலம் குழந்தை பிறந்தது"
+      ]
+     },
+     {
+      "title": "யார் பிரசவம்",
+      "lines": [
+       "மகளிர் மற்றும் மகப்பேறுத் துறை பேராசிரியர் திலகவதி இந்திரா",
+       "மயக்கவியல் துறை மருத்துவர் கார்த்திகேயன் உட்பட",
+       "வித்யா குன்னத்தூர் அரசு ஆரம்ப சுகாதார நிலையத்தில்"
+      ]
+     },
+     {
+      "title": "ஏன் இங்கு?",
+      "lines": [
+       "அரசு மருத்துவமனையில் தரமான சிகிச்சை கிடைக்கும் என்ற",
+       "மருத்துவக் கல்லூரி முதல்வர் செந்தில்குமார் தகவல்",
+       "மருத்துவமனை கண்காணிப்பாளர் சண்முகசுந்தரம் உடன் இருந்தார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அரசு மருத்துவர் ஒருவர் அரசு மருத்துவமனையில் பிரசவம் பார்த்துக்கொண்டார். பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் வியாழக்கிழமை காலை அவருக்கு பெண் குழந்தை பிறந்தது. குன்னத்தூர் அரசு ஆரம்ப சுகாதார நிலையத்தில் வட்டார மருத்துவ அலுவலராகப் பணியாற்றும் மருத்துவர் வித்யா இதில் பங்கேற்றார். அவரது கணவர் அரவிந்த் தனியார் மருத்துவமனையில் மருத்துவராகப் பணியாற்றுகிறார். வித்யா புதன்கிழமை இரவு மருத்துவமனையில் சேர்ந்தார். அறுவை சிகிச்சை மூலம் குழந்தை பிறந்தது. மகளிர் மற்றும் மகப்பேறுத் துறை பேராசிரியர் மருத்துவர் திலகவதி இந்திரா தலைமையில் மருத்துவக் குழு பிரசவம் பார்த்தது. மயக்கவியல் துறை மருத்துவர் கார்த்திகேயனும் குழுவில் இருந்தார். மருத்துவக் கல்லூரி முதல்வர் மருத்துவர் செந்தில்குமார், மருத்துவமனை கண்காணிப்பாளர் மருத்துவர் சண்முகசுந்தரம் ஆகியோர் கூறுகையில், அரசு மருத்துவமனையில் அனைத்து சிகிச்சைகளும் தரத்துடன் வழங்கப்படுகின்றன என்ற விழிப்புணர்வை மக்களுக்கு ஏற்படுத்தவே மருத்துவர் வித்யா இங்கு பிரசவம் பார்த்ததாகத் தெரிவித்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🏥 பெருந்துறை அரசு மருத்துவமனையில் அரசு மருத்துவர் பிரசவம்\n\n📰 முழு விவரம்:\nகுன்னத்தூர் அரசு ஆரம்ப சுகாதார நிலையத்தில் பணியாற்றும் மருத்துவர் வித்யா, பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் புதன்கிழமை இரவு சேர்ந்தார். வியாழக்கிழமை காலை அறுவை சிகிச்சை மூலம் பெண் குழந்தை பிறந்தது. மகளிர் மற்றும் மகப்பேறுத் துறை பேராசிரியர் மருத்துவர் திலகவதி இந்திரா தலைமையிலான மருத்துவக் குழு பிரசவம் பார்த்தது. அரசு மருத்துவமனையில் தரமான சிகிச்சை கிடைக்கும் என்ற விழிப்புணர்வை ஏற்படுத்தவே இங்கு பிரசவம் பார்த்ததாக மருத்துவக் கல்லூரி முதல்வர் மருத்துவர் செந்தில்குமார், மருத்துவமனை கண்காணிப்பாளர் மருத்துவர் சண்முகசுந்தரம் ஆகியோர் தெரிவித்தனர்.\n📍 இடம்: பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனை\n🗓️ நாள்: வியாழக்கிழமை (நவம்பர் 26, 2026)\n\nGovernment doctor delivers baby at Perundurai government hospital | Erode news\n📍 பெருந்துறை, ஈரோடு மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
+   "prompts": "A group of doctors and nurses in white coats and green surgical scrubs stand around an operating table in the operating theatre of the Perundurai Government Medical College Hospital, gently attending to a newly born baby girl wrapped in a white cloth under bright overhead surgical lights. The room is clean and tiled in pale green and white, with stainless steel trolleys, monitors, and medical equipment lining the walls. Two senior women doctors and an anaesthesia doctor, all seen from behind or in soft focus, are busy at the table, while a nurse in a face mask holds a towel near the baby. Through a glass window in the background, a few relatives in ordinary Tamil Nadu clothes, a woman in a cotton saree and a man in a shirt and veshti, wait quietly in a corridor. It is Thursday morning, lit by cool indoor fluorescent and surgical light, and the scene is shot at eye level with a 35 mm lens, wide enough to show the operating room and the hospital setting. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a clean hospital cot in the maternity ward of the Perundurai Government Medical College Hospital, with a small newborn baby girl wrapped snugly in a soft white cotton blanket, resting beside a hospital bed with a pale blue sheet. A stainless steel bedside trolley holds neatly arranged medical items such as a folded towel, a stethoscope and a small cup of water. A white-coated doctor's hand, seen from behind and slightly out of focus, adjusts the blanket. The background shows plain cream-coloured walls, a ceiling fan, and soft morning daylight coming through a window. The mood is calm and gentle, and the camera is set slightly high at a 35 mm focal length to keep the baby, the cot and the trolley clearly in view. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/a-government-doctor-who-underwent-childbirth-at-a-government-hospital",
+   "published": "2026-11-26T19:16:34.031Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script sentence 1 (heard in the first 3 seconds) must name the place 'பெருந்துறை' and the news itself, e.g. 'பெருந்துறை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/9d25ab2270b3a143.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/463f60dfd9451bd9.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "கோபி அருகே அரசுப் பள்ளி சமையலறையில் பாம்பு: மாணவி லாவகமாகப் பிடித்தார்",
+   "english_headline": "Snake found in Gobi-area government school kitchen; student helps her forest guard father catch it",
+   "category": "Crime & Safety",
+   "location": "T.N.Palayam, Gobichettipalayam taluk, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பள்ளி செய்தி",
+    "loc": "டி.என்.பாளையம், கோபி",
+    "hl1": "டி.என்.பாளையம்: பள்ளி சமையலறையில் பாம்பு",
+    "hl2": "மாணவி லாவகமாகப் பிடித்தார்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கோபி அருகே டி.என்.பாளையம் அரசுப் பள்ளி சமையலறையில் <b>7",
+       "வியாழக்கிழமை காலை பள்ளி தொடங்கியதும் பாம்பு கண்டறியப்பட்டது",
+       "சத்துணவு அமைப்பாளரும் உதவியாளரும் அச்சமடைந்தனர்"
+      ]
+     },
+     {
+      "title": "மாணவி உதவி",
+      "lines": [
+       "8ஆம் வகுப்பு மாணவி கனிஷ்கா தந்தைக்குத் தகவல் அளித்தார்",
+       "தந்தை பழனிச்சாமி கடம்பூர் வனச் சரக அலுவலகத்தில்",
+       "மாணவி கனிஷ்கா தந்தைக்கு உதவியாகப் பாம்பைப் பிடித்தார்"
+      ]
+     },
+     {
+      "title": "பாதுகாப்பாகப்",
+      "lines": [
+       "பாம்பை உயிருடன் பிடித்து சாக்குப்பையில் அடைத்தனர்",
+       "சக மாணவிகளும் ஆசிரியர்களும் துணிச்சலைப் பாராட்டினர்",
+       "பாம்பு ஆபத்தானது; முறையாகக் கையாண்டால்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "டி என் பாளையம் அரசுப் பள்ளி சமையலறையில் 7 அடி நீள சாரைப்பாம்பு புகுந்ததால் பரபரப்பு ஏற்பட்டது. கோபி அருகே உள்ள இந்தப் பள்ளியில் வியாழக்கிழமை காலை பள்ளி தொடங்கியதும் இந்தச் சம்பவம் நடந்தது. மதிய உணவு சமைப்பதற்காகச் சென்ற சத்துணவு அமைப்பாளரும் உதவியாளரும் சமையலறையில் பாம்பு பதுங்கியிருப்பதைக் கண்டு அச்சமடைந்தனர். 8ஆம் வகுப்பு மாணவி கனிஷ்கா, கடம்பூர் வனச் சரக அலுவலகத்தில் வேட்டைத் தடுப்புக் காவலராகப் பணியாற்றும் தனது தந்தை பழனிச்சாமிக்குத் தகவல் அளித்தார். பள்ளிக்கு விரைந்து வந்த பழனிச்சாமி பாம்பைப் பிடிக்கச் சென்றார். அவருக்கு உதவியாக இருந்த மாணவி கனிஷ்கா, அந்தப் பாம்பை லாவகமாகப் பிடித்து வெளியே கொண்டு வந்து சாக்குப்பையில் அடைத்தார். மாணவியின் துணிச்சலைக் கண்டு சக மாணவிகளும் ஆசிரியர்களும் வியந்து பாராட்டினர். பாம்புகளைப் பாதுகாப்பாகப் பிடிக்கும் முறையைத் தான் கற்றிருப்பதாகப் பழனிச்சாமி தெரிவித்தார். பாம்பு ஆபத்தான உயிரினம் என்றாலும் முறையாகக் கையாண்டால் பாதுகாப்பாகப் பிடிக்கலாம் என்றும் அவர் கூறினார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🐍 டி.என்.பாளையம் அரசுப் பள்ளி சமையலறையில் பாம்பு: மாணவி துணிச்சலாகப் பிடித்தார்\n\n📰 முழு விவரம்:\nகோபி அருகே டி.என்.பாளையம் அரசு மகளிர் மேல்நிலைப் பள்ளி சமையலறையில் வியாழக்கிழமை 7 அடி நீள சாரைப்பாம்பு புகுந்ததால் பரபரப்பு ஏற்பட்டது.\nபள்ளி தொடங்கியதும் மதிய உணவு சமைக்கச் சென்ற சத்துணவு அமைப்பாளரும் உதவியாளரும் பாம்பைக் கண்டு அச்சமடைந்தனர்.\n8ஆம் வகுப்பு மாணவி கனிஷ்கா, கடம்பூர் வனச் சரக அலுவலகத்தில் வேட்டைத் தடுப்புக் காவலராகப் பணியாற்றும் தந்தை பழனிச்சாமிக்குத் தகவல் அளித்தார்.\nபள்ளிக்கு வந்த பழனிச்சாமிக்கு உதவிய கனிஷ்கா, பாம்பை லாவகமாகப் பிடித்து சாக்குப்பையில் அடைத்தார்.\nமாணவியின் துணிச்சலைச் சக மாணவிகளும் ஆசிரியர்களும் வியந்து பாராட்டினர்.\n\n📍 இடம்: டி.என்.பாளையம், கோபி அருகே, ஈரோடு மாவட்டம்\n🗓️ நாள்: வியாழக்கிழமை\nℹ️ மக்கள் கவனத்திற்கு: பாம்பு ஆபத்தானது; பாதுகாப்பாகப் பிடிக்க வனத்துறையினரை அழையுங்கள்.\n\nSnake in government school kitchen, student catches it | Erode news\n📍 டி.என்.பாளையம், கோபி | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A forest guard in uniform and his Class 8 daughter in a school uniform kneel near the open door of a school kitchen in T.N.Palayam, Erode district, carefully lifting a long rat snake, about seven feet, from the floor between steel cooking vessels and a gas stove. The father, seen from behind, holds the snake behind the head with a gloved hand while the girl steadies the body with both hands. The kitchen is a simple government school cooking room with a tiled or concrete floor, stacked steel tumblers and large cooking pots, a rack of rice sacks along one wall, and a bare bulb overhead. Two schoolgirls in Tamil Nadu school uniform, seen from behind at the doorway, and a teacher in a sari watch from a distance. It is Thursday morning in daylight coming through the open doorway, with a cool, calm atmosphere. Camera at eye level, 35 mm, wide enough to show the kitchen and the group. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a long empty gunny sack lying open on a concrete school floor beside a steel cooking pot, the mouth of the sack held open by a forest guard's hand in uniform, a coiled rat snake about seven feet long being slid into it. Only the sack, the dark scaled body of the snake, and the edge of a steel vessel fill the frame, with the blurred school kitchen behind, a rice sack rack and tiled wall visible. Morning daylight enters from the doorway, giving soft natural light. No faces shown, the person seen only as hands and forearms in uniform sleeves. Camera slightly high, 35 mm, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/snake-enters-government-school-kitchen-student-catches-it-skillfully",
+   "published": "2026-11-26T19:17:13.895Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): 400 ('கோபி அருகே உள்ள டி.என்.பாளையம் அரசுப் பள்ளி சமையலறையில் வியா')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/1348e8264a2d7aee.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/817851446bb11b54.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பவானியில் கனமழை: வீடுகளைச் சூழ்ந்த மழைநீர்",
+   "english_headline": "Heavy rain in Bhavani floods low-lying houses with sewage-mixed rainwater",
+   "category": "Civic Issues",
+   "location": "Bhavani municipality, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மழை பாதிப்பு",
+    "loc": "பவானி",
+    "hl1": "பவானியில் வீடுகளைச் சூழ்ந்த மழைநீர்",
+    "hl2": "61 மி.மீ. மழை பதிவு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "புதன்கிழமை மாலை சுமார் <b>3 மணி நேரம்</b> கனமழை",
+       "மழையளவு <b>61 மில்லி மீட்டர்</b> பதிவு",
+       "சாலைகளில் மழைநீர் பெருக்கெடுத்து ஓடியது"
+      ]
+     },
+     {
+      "title": "எங்கே பாதிப்பு?",
+      "lines": [
+       "பவானி நகராட்சி 7ஆவது வார்டு, திருவள்ளுவர் நகர் அருகே",
+       "தாழ்வான வீடுகளை கழிவுநீருடன் மழைநீர் சூழ்ந்தது",
+       "பொதுமக்கள் பெரிதும் அவதிக்குள்ளானார்கள்"
+      ]
+     },
+     {
+      "title": "அடுத்து என்ன?",
+      "lines": [
+       "20 தூய்மைப் பணியாளர்கள் வடிகால் தூர்வாரும் பணி",
+       "அடைப்புள்ள சாக்கடைகளில் பொக்லைன் மூலம் கழிவு அகற்றம்",
+       "சுகாதாரக் கேடு ஏற்பட்டதால் கவனமாக இருங்கள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பவானியில் புதன்கிழமை மாலை பெய்த கனமழையால் தாழ்வான வீடுகளை மழைநீர் கழிவுநீருடன் சூழ்ந்தது. பவானி வட்டாரத்தில் சுமார் 3 மணி நேரம் கனமழை பெய்தது. மழையளவு 61 மில்லி மீட்டராகப் பதிவானது. சாலைகளில் மழைநீர் பெருக்கெடுத்து ஓடியது. பவானி நகராட்சி 7ஆவது வார்டு, திருவள்ளுவர் நகர் அருகே 9, 10 மற்றும் 1ஆவது வார்டுகள் மற்றும் பிற பகுதிகளிலிருந்து கழிவுநீர் பாதையில் வந்த மழைநீர் சாலையில் தேங்கி நின்றது. மழைநீர் சிறிது நேரத்தில் வடிந்தபோதிலும், சாக்கடையில் அடித்து வரப்பட்ட கழிவுகளால் சுகாதாரக் கேடு ஏற்பட்டது. இதையடுத்து, பவானி நகராட்சி நிர்வாகம் 20 தூய்மைப் பணியாளர்களைக் கொண்டு மழைநீர் வடிகாலைத் தூர்வாரும் பணியை வியாழக்கிழமை மேற்கொண்டது. அடைப்பு ஏற்பட்ட சாக்கடைகளில் பொக்லைன் இயந்திரம் மூலம் கழிவுகள் அகற்றப்பட்டன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌧️ பவானியில் கனமழை: தாழ்வான வீடுகளைச் சூழ்ந்த மழைநீர்\n\n📰 முழு விவரம்:\nபவானி வட்டாரத்தில் புதன்கிழமை மாலை சுமார் 3 மணி நேரம் கனமழை பெய்தது. மழையளவு 61 மில்லி மீட்டராகப் பதிவானது. பவானி நகராட்சி 7ஆவது வார்டு, திருவள்ளுவர் நகர் அருகே கழிவுநீர் பாதையில் வந்த மழைநீர் சாலையில் தேங்கியது. தாழ்வான வீடுகளை கழிவுநீருடன் மழைநீர் சூழ்ந்ததால் பொதுமக்கள் பெரிதும் அவதிக்குள்ளானார்கள்.\nமழைநீர் சிறிது நேரத்தில் வடிந்தபோதிலும், சாக்கடையில் அடித்து வரப்பட்ட கழிவுகளால் சுகாதாரக் கேடு ஏற்பட்டது.\nஇதையடுத்து, பவானி நகராட்சி நிர்வாகம் 20 தூய்மைப் பணியாளர்களைக் கொண்டு மழைநீர் வடிகாலைத் தூர்வாரும் பணியை வியாழக்கிழமை மேற்கொண்டது. அடைப்புள்ள சாக்கடைகளில் பொக்லைன் இயந்திரம் மூலம் கழிவுகள் அகற்றப்பட்டன.\n📍 இடம்: பவானி நகராட்சி, ஈரோடு மாவட்டம்\n🗓️ நாள்: 26 நவம்பர் 2026 (புதன்கிழமை)\nℹ️ மக்கள் கவனத்திற்கு: தாழ்வான பகுதி மக்கள் மழைக்காலத்தில் கவனமாக இருங்கள்.\n\nBhavani heavy rain floods houses | Erode news\n📍 பவானி, ஈரோடு மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavani #மழை #ErodeNews",
+   "prompts": "A row of low-lying houses in a Bhavani town residential street stands partly surrounded by murky, sewage-tinged rainwater that has spilled over the road after heavy evening rain. Residents, seen from behind and at a distance, wade carefully with their sarees and veshti lifted, one woman holding a plastic water pot while a man in a shirt steps over the flooded edge. A two-wheeler is parked on dry ground at the side, and a concrete drain cover is visible with dark water pooling around it. Wet tarmac reflects grey daylight after the rain stopped, and the houses have tiled roofs and small front verandas. Shot at eye level, 35 mm lens, wide enough to show the whole flooded street and the houses. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open concrete stormwater drain on a wet street in Bhavani, its black sludge and sewage-mixed water backed up to the brim, with a pile of wet silt and plastic waste heaped on the edge. Behind it, a municipal sanitary worker in a plain uniform and rubber boots pushes a long-handled rake through the drain, while a yellow JCB backhoe loader stands partly visible on the road. Overcast daylight after the rain, damp concrete and muddy tarmac in the foreground, shot at slightly high angle with a 35 mm lens to show the drain, the clogged waste and the cleaning work. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/heavy-rain-in-bhavani-rainwater-surrounds-houses-in-low-lying-areas",
+   "published": "2026-11-26T19:12:05.960Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has numbers without their meaning (9); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'; caption misses facts of the article (put every one in 📰 முழு விவரம்): 9, ('பவானி நகராட்சி, 7-ஆவது வாா்டு, திருவள்ளுவா் நகா் பகுதிக்கு அ'); 10 ('பவானி நகராட்சி, 7-ஆவது வாா்டு, திருவள்ளுவா் நகா் பகுதிக்கு அ'); 1 ('பவானி நகராட்சி, 7-ஆவது வாா்டு, திருவள்ளுவா் நகா் பகுதிக்கு அ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 2 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/5672eb01031c8c58.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/d88d0a2aa87eb773.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "பெருந்துறை அருகே இருசக்கர வாகனம் மோதி முதியவர் உயிரிழப்பு",
+   "english_headline": "Elderly man dies after two two-wheelers collide near Perundurai, Erode district",
+   "category": "Roads & Transport",
+   "location": "Vijayamangalam, Perundurai taluk, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "பெருந்துறை",
+    "hl1": "பெருந்துறை அருகே விபத்தில் முதியவர் பலி",
+    "hl2": "இரு இருசக்கர வாகனங்கள் மோதல்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "பெருந்துறை அருகே இரு இருசக்கர வாகனங்கள் மோதின",
+       "விஜயமங்கலம், ஊத்துக்குளி சாலையில் விபத்து",
+       "விபத்தில் முதியவர் <b>சண்முகம் (60 வயது)</b> பலத்த காயம்"
+      ]
+     },
+     {
+      "title": "எப்போது?",
+      "lines": [
+       "<b>புதன்கிழமை</b> மாலை நடந்த விபத்து",
+       "விஜயமங்கலத்தில் இருந்து வீடு திரும்பியபோது நடந்தது",
+       "அவரது வாகனத்தின் மீது மற்றொரு வாகனம் மோதியது"
+      ]
+     },
+     {
+      "title": "என்ன ஆனது?",
+      "lines": [
+       "பலத்த காயமடைந்த அவரை அப்பகுதியினர் மீட்டனர்",
+       "பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்ப்பு",
+       "அன்று இரவு அங்கு உயிரிழந்தார்"
+      ]
+     },
+     {
+      "title": "போலீஸ் நடவடிக்கை",
+      "lines": [
+       "பெருந்துறை போலீஸார் வழக்குப் பதிவு செய்தனர்",
+       "விபத்து குறித்து விசாரணை நடைபெற்று வருகிறது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "பெருந்துறை அருகே இரு இருசக்கர வாகனங்கள் மோதிய விபத்தில் முதியவர் ஒருவர் உயிரிழந்தார். பெருந்துறையை அடுத்த விஜயமங்கலம், ஊத்துக்குளி சாலையைச் சேர்ந்தவர் சண்முகம், 60 வயது முதியவர். அவர் விஜயமங்கலம் சென்றுவிட்டு இருசக்கர வாகனத்தில் வீட்டுக்குப் புதன்கிழமை மாலை திரும்பிக்கொண்டிருந்தார். அப்போது அந்த வழியாக வந்த மற்றொரு இருசக்கர வாகனம் சண்முகம் ஓட்டி வந்த வாகனத்தின் மீது மோதியது. பலத்த காயமடைந்த அவரை அப்பகுதியினர் மீட்டு, பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்த்தனர். அங்கு சிகிச்சையில் இருந்த அவர் அன்று இரவு உயிரிழந்தார். இந்த விபத்து குறித்து பெருந்துறை போலீஸார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 பெருந்துறை அருகே இருசக்கர வாகனம் மோதி முதியவர் உயிரிழப்பு\n\n📰 முழு விவரம்:\nபெருந்துறையை அடுத்த விஜயமங்கலம், ஊத்துக்குளி சாலையைச் சேர்ந்தவர் சண்முகம் (60 வயது). புதன்கிழமை மாலை விஜயமங்கலம் சென்றுவிட்டு இருசக்கர வாகனத்தில் வீட்டுக்குத் திரும்பிக்கொண்டிருந்தார். அப்போது அந்த வழியாக வந்த மற்றொரு இருசக்கர வாகனம் அவரது வாகனத்தின் மீது மோதியது. பலத்த காயமடைந்த அவரை அப்பகுதியினர் மீட்டு பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்த்தனர். அங்கு இரவு அவர் உயிரிழந்தார். பெருந்துறை போலீஸார் வழக்குப் பதிவு செய்து விசாரணை நடத்தி வருகின்றனர்.\n📍 இடம்: விஜயமங்கலம், ஊத்துக்குளி சாலை, பெருந்துறை அருகே\n🗓️ நாள்: புதன்கிழமை (நவம்பர் 25, 2026) மாலை\n👮 நடவடிக்கை: பெருந்துறை போலீஸார் வழக்குப் பதிவு செய்து விசாரணை\n\nPerundurai road accident elderly man dies | Erode news\n📍 பெருந்துறை, ஈரோடு மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
+   "prompts": "Two two-wheelers lie tangled on the side of a narrow village road in Vijayamangalam, Perundurai taluk, Erode district, at dusk on a Wednesday evening. One motorcycle has fallen on its side and the other has stopped with its front wheel bent against it, the damage clearly visible but no person in the frame. Some local villagers stand at a distance on the roadside, seen from behind, watching and talking, with a few dim lights from nearby houses and a shop front. Paddy fields and a line of palm trees stretch behind the road under a fading orange and grey evening sky. Tamil Nadu police in khaki stand near the edge of the road at a distance, seen from behind. Camera at eye level, 35 mm lens, wide enough to show the road, fields and vehicles together, soft evening light. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of the damaged two-wheeler on a tarred village road in Vijayamangalam, Perundurai, Erode district, at dusk. The bent front fork, cracked headlamp housing and scratched fuel tank of the motorcycle lie on the dark asphalt beside a scattered pool of spilled oil and a broken side mirror. A second motorcycle's footrest and handle are visible at the edge of the frame. A pair of sandals lies on the road nearby. Behind, out of focus, a few villagers stand at a distance and a police khaki sleeve is just visible. Dim evening light from a roadside lamp and fading daylight, no people's faces shown. Camera slightly high, 35 mm lens, shallow depth of field focusing on the damaged vehicle. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/இருசக்கர-வாகனம்-மோதி-முதியவா்-உயிரிழப்பு-10",
+   "published": "2026-11-26T18:57:44.561Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('பெருந்துறை அருகே, 2 இருசக்கர வாகனங்கள் மோதிய விபத்தில் முதிய')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/099811f912760c3d.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/7f9b8dfb115a7b61.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "அறச்சலூரில் மழைநீர் சேகரிப்பு விழிப்புணர்வுப் பேரணி",
+   "english_headline": "Rainwater harvesting awareness rally held in Aracalur town panchayat",
+   "category": "Government & Services",
+   "location": "Aracalur town panchayat, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "மழைநீர் சேகரிப்பு",
+    "loc": "அறச்சலூர்",
+    "hl1": "அறச்சலூரில் மழைநீர் சேகரிப்பு பேரணி",
+    "hl2": "குடிநீர்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "அறச்சலூர் பேரூராட்சியில் விழிப்புணர்வுப் பேரணி",
+       "வியாழக்கிழமை <b>நடைபெற்றது</b>",
+       "பேரூராட்சி அலுவலகத்தில் இருந்து தொடங்கியது"
+      ]
+     },
+     {
+      "title": "யார் பங்கேற்றனர்?",
+      "lines": [
+       "அரசு மேல்நிலைப் பள்ளி மாணவ, மாணவியர்",
+       "பொதுமக்கள் உள்ளிட்டோர் பங்கேற்பு",
+       "விழிப்புணர்வுப் பதாகைகளை ஏந்திச் சென்றனர்"
+      ]
+     },
+     {
+      "title": "அதிகாரி சொன்னது",
+      "lines": [
+       "பேரூராட்சித் தலைவர் விஜயகுமார் தலைமை",
+       "செயல் அலுவலர் என். பார்வதி பேசினார்",
+       "பழைய, புதிய கட்டடங்களில் மழைநீர் கட்டமைப்புகள்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "அறச்சலூர் பேரூராட்சியில் மழைநீர் சேகரிப்பு விழிப்புணர்வுப் பேரணி வியாழக்கிழமை நடைபெற்றது. பேரூராட்சி அலுவலகத்தில் பொதுமக்களுக்கு மழைநீர் சேகரிப்பு குறித்த விழிப்புணர்வுக் கூட்டம் நடைபெற்றது. கூட்டத்துக்கு பேரூராட்சித் தலைவர் விஜயகுமார் தலைமை தாங்கினார். பேரூராட்சி செயல் அலுவலர் என் பார்வதி பேசினார். பழைய கட்டடங்களில் உள்ள மழைநீர் சேகரிப்புக் கட்டமைப்புகளைப் புனரமைக்க வேண்டும் என்றும், புதிய கட்டடங்களில் அவற்றை உருவாக்கிப் பராமரிக்க வேண்டும் என்றும் அவர் வலியுறுத்தினார். இதனால் நிலத்தடி நீர்மட்டம் உயர்ந்து குடிநீர் பற்றாக்குறைக்குத் தீர்வு ஏற்படும் என்று அவர் தெரிவித்தார். தொடர்ந்து, பேரூராட்சி அலுவலகத்தில் இருந்து அறச்சலூர் அரசு மேல்நிலைப் பள்ளி மாணவ, மாணவியர் மற்றும் பொதுமக்கள் பங்கேற்ற விழிப்புணர்வுப் பேரணி நடைபெற்றது. பேரணியில் பங்கேற்றவர்கள் மழைநீர் சேகரிப்பு குறித்த விழிப்புணர்வுப் பதாகைகளை ஏந்திச் சென்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "💧 அறச்சலூரில் மழைநீர் சேகரிப்பு விழிப்புணர்வுப் பேரணி\n\n📰 முழு விவரம்:\nஅறச்சலூர் பேரூராட்சியில் மழைநீர் சேகரிப்பு விழிப்புணர்வுப் பேரணி வியாழக்கிழமை நடைபெற்றது. பேரூராட்சி அலுவலகத்தில் பொதுமக்களுக்கு மழைநீர் சேகரிப்பு குறித்த விழிப்புணர்வுக் கூட்டம் நடைபெற்றது. கூட்டத்துக்குப் பேரூராட்சித் தலைவர் விஜயகுமார் தலைமை தாங்கினார். பேரூராட்சி செயல் அலுவலர் என். பார்வதி, பழைய கட்டடங்களில் மழைநீர் சேகரிப்புக் கட்டமைப்புகளைப் புனரமைக்கவும், புதிய கட்டடங்களில் உருவாக்கிப் பராமரிக்கவும் வேண்டும் என்றார். இதனால் நிலத்தடி நீர்மட்டம் உயர்ந்து குடிநீர் பற்றாக்குறைக்குத் தீர்வு ஏற்படும் என்று அவர் கூறினார். பின்னர் பேரூராட்சி அலுவலகத்தில் இருந்து அறச்சலூர் அரசு மேல்நிலைப் பள்ளி மாணவ, மாணவியர் மற்றும் பொதுமக்கள் பங்கேற்ற பேரணி நடைபெற்றது.\n📍 இடம்: அறச்சலூர் பேரூராட்சி, ஈரோடு மாவட்டம்\n🗓️ நாள்: வியாழக்கிழமை\n\nAracalur rainwater harvesting awareness rally | Erode news\n📍 அறச்சலூர், ஈரோடு மாவட்டம் | 26 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Aracalur #ErodeNews #ஈரோடு",
+   "prompts": "A long line of Tamil Nadu government school students in uniform, with boys and girls from Aracalur Government Higher Secondary School, walks in a rally through the streets of Aracalur town panchayat, Erode district, holding rainwater harvesting awareness banners high above their heads. Seen from behind at a slight distance, several adult members of the public in shirts, veshti and sarees walk alongside them. The rally starts from the town panchayat office, a plain government building with a flat roof and a tiled entrance, visible at the edge of the frame. Two-wheelers are parked along the roadside and a few autorickshaws pass on the road. The scene is daylight on a Thursday with a clear sky, shot at eye level with a 35 mm lens wide enough to show the street, the office building and the marching crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of several placards and banners being carried by students in Tamil Nadu school uniform during a rainwater harvesting awareness rally in Aracalur town panchayat, Erode district. The banners are held up by hands seen from behind, with a plain colour background of the panchayat road and a few shop fronts blurred behind them. Only the arms, shoulders and the top of white school shirts are visible, with no faces shown. The objects are rolled and held upright, with a slightly out-of-focus water pot-free roadside and daylight falling across the scene. Shot at slightly high eye level with a 35 mm lens to show the banners clearly against the street. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/அறச்சலூரில்-மழைநீா்-சேகரிப்பு-விழிப்புணா்வுப்-பேரணி",
+   "published": "2026-11-26T19:10:29.075Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script says the rally 'started from the Panchayat Town office' and the slides say it started there, which matches the article, so no problem there. However, the caption states the rally was held after the meeting and the reel_script says 'the rally... started from the panchayat office' — consistent. Actual problem: slides_spec slide 'அதிகாரி சொன்னது' lists 'பேரூராட்சித் தலைவர் விஜயகுமார் தலைமை' under the officer's statement, mixing the chairman's role (presiding) with the executive officer's speech as one slide, and the 'பழைய, புதிய கட்டடங்களில்' line is a fragment that does not clearly convey the officer's statement.; fact-check: The reel_script states the officer 'emphasized' (வலியுறுத்தினார்) that old buildings' systems be renovated and new buildings' be built and maintained; the article says this in the officer's words, so the wording is acceptable, but the reel_script says 'பேரூராட்சி செயல் அலுவலர் என் பார்வதி பேசினார்' whereas the article's name is 'என். பாா்வதி', fine. The caption says 'பழைய கட்டடங்களில்... புனரமைக்கவும், புதிய கட்டடங்களில் உருவாக்கிப் பராமரிக்கவும் வேண்டும் என்றார்' which is a faithful paraphrase.; fact-check: The caption's 'Aracalur rainwater harvesting awareness rally | Erode news' English line and the 'நாள்: வியாழக்கிழமை' line are acceptable as footer content, so they are not counted.",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 3 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/755c22e4ce25b692.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/1fea2836b6c5288e.jpg"
    ]
   }
  ]
