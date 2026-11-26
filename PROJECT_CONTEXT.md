@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-25 | `6e388d9` | YouTube: upload only when the login's channel is this page's (verify_channel on Erode, Karur, Salem, Tiruppur, Trichy - their Shorts went to the Namakkal channel) |
-| 2026-11-25 | `5018e81` | stories shared / Instagram pause |
-| 2026-11-25 | `d87d977` | stories shared / Instagram pause |
-| 2026-11-25 | `fab414d` | stories shared / Instagram pause |
-| 2026-11-25 | `1844b27` | stories shared / Instagram pause |
-| 2026-11-25 | `7deeac9` | stories shared / Instagram pause |
-| 2026-11-25 | `343aee4` | stories shared / Instagram pause |
-| 2026-11-25 | `1da3fbd` | stories shared / Instagram pause |
-| 2026-11-25 | `c7bfeff` | stories shared / Instagram pause |
-| 2026-11-25 | `ea34d21` | stories shared / Instagram pause |
-| 2026-11-25 | `c95e270` | stories shared / Instagram pause |
-| 2026-11-25 | `1cea7c5` | stories shared / Instagram pause |
-| 2026-11-25 | `3940916` | stories shared / Instagram pause |
-| 2026-11-25 | `0f1c15e` | stories shared / Instagram pause |
-| 2026-11-25 | `c01e063` | stories shared / Instagram pause |
-| 2026-11-25 | `b97de94` | stories shared / Instagram pause |
-| 2026-11-25 | `f6d3e5c` | stories shared / Instagram pause |
-| 2026-11-25 | `65f38c4` | stories shared / Instagram pause |
-| 2026-11-25 | `ae70e05` | stories shared / Instagram pause |
-| 2026-11-25 | `23e75e5` | stories shared / Instagram pause |
-| 2026-11-25 | `73a1457` | stories shared / Instagram pause |
-| 2026-11-25 | `1360adc` | stories shared / Instagram pause |
-| 2026-11-25 | `738d576` | stories shared / Instagram pause |
-| 2026-11-25 | `33bf2c2` | stories shared / Instagram pause |
-| 2026-11-25 | `131642b` | stories shared / Instagram pause |
-| 2026-11-25 | `7c9ac67` | stories shared / Instagram pause |
-| 2026-11-25 | `0ff731a` | stories shared / Instagram pause |
-| 2026-11-25 | `2b80399` | stories shared / Instagram pause |
-| 2026-11-25 | `8b9a9d0` | stories shared / Instagram pause |
-| 2026-11-25 | `10d30f2` | stories shared / Instagram pause |
+| 2026-11-26 | `0526c73` | YouTube: a channel's own upload limit ('exceeded the number of videos') pauses that channel for 2 hours, not the whole day; Erode's day-block cleared |
+| 2026-11-26 | `3404d26` | stories shared / Instagram pause |
+| 2026-11-26 | `af8417e` | stories shared / Instagram pause |
+| 2026-11-26 | `c5f9fbf` | stories shared / Instagram pause |
+| 2026-11-26 | `fb71399` | stories shared / Instagram pause |
+| 2026-11-26 | `ce51784` | stories shared / Instagram pause |
+| 2026-11-26 | `1cff2fb` | stories shared / Instagram pause |
+| 2026-11-26 | `fd560ea` | stories shared / Instagram pause |
+| 2026-11-26 | `439bc28` | stories shared / Instagram pause |
+| 2026-11-26 | `24067ea` | stories shared / Instagram pause |
+| 2026-11-26 | `9b0b9d1` | stories shared / Instagram pause |
+| 2026-11-26 | `c48d5a7` | autofix: corrected held news |
+| 2026-11-26 | `cf12a04` | stories shared / Instagram pause |
+| 2026-11-26 | `9d0c3e8` | stories shared / Instagram pause |
+| 2026-11-26 | `6a9f879` | stories shared / Instagram pause |
+| 2026-11-26 | `6ab30c6` | stories shared / Instagram pause |
+| 2026-11-26 | `9e46edc` | stories shared / Instagram pause |
+| 2026-11-26 | `29bf344` | stories shared / Instagram pause |
+| 2026-11-26 | `a4ddd51` | stories shared / Instagram pause |
+| 2026-11-26 | `ea964b3` | stories shared / Instagram pause |
+| 2026-11-26 | `d442a3a` | stories shared / Instagram pause |
+| 2026-11-26 | `a2e6df1` | stories shared / Instagram pause |
+| 2026-11-26 | `d621d1f` | stories shared / Instagram pause |
+| 2026-11-26 | `b887a71` | stories shared / Instagram pause |
+| 2026-11-26 | `dd416d3` | stories shared / Instagram pause |
+| 2026-11-26 | `ad6b1c2` | stories shared / Instagram pause |
+| 2026-11-26 | `3e7cd77` | stories shared / Instagram pause |
+| 2026-11-26 | `d3adb59` | stories shared / Instagram pause |
+| 2026-11-26 | `199c5e4` | stories shared / Instagram pause |
+| 2026-11-26 | `4b584ce` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
