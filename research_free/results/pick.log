@@ -1,43 +1,9 @@
-01:16:50 round 2026-11-27_01: news published 26 Nov 22:38 -> 27 Nov 01:16 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
-01:16:50 insights 2026-11-27T01:16+05:30 (258 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.89, 'education': -0.5, 'temple': -0.33, 'politics': -0.12, 'power_cut': 0.33, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
-01:17:31 open search 'ஈரோடு' (from_google): 0 links from our outlets
-01:17:31 82 links on the two papers' Erode pages
-01:18:21 skipped: published before this window=31, not Erode district=15, already posted=10, state-wide / other district=5, only a headline=2, same event already posted=1, not Tamil=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
-01:18:21 list: 9 new + 1 earlier news not posted yet
-01:18:21    1. [விபத்து] இருசக்கர வாகனம் மோதி முதியவா் உயிரிழப்பு (தினமணி)
-01:18:21    2. [மழை / வானிலை] அறச்சலூரில் மழைநீா் சேகரிப்பு விழிப்புணா்வுப் பேரணி (தினமணி)
-01:18:21    3. [மழை / வானிலை] பவானியில் கனமழை :தாழ்வான பகுதியில் வீடுகளைச் சூழ்ந்த மழைநீா் (தினமணி)
-01:18:21    4. [கல்வி] அரசுப் பள்ளி சமையலறையில் புகுந்த பாம்பு: லாவகமாகப் பிடித்த மாணவி (தினமணி)
-01:18:21    5. [பொது] அரசு மருத்துவமனையில் பிரசவம் பாா்த்துக் கொண்ட அரசு மருத்துவா் (தினமணி)
-01:18:21    6. [பொது] பவானிசாகா் அரசு அலுவலா் பயிற்சி நிலையத்தில் அமைச்சா் டி.சரத்குமாா் ஆய் (தினமணி)
-01:18:21    7. [பொது] பூனாச்சியில் எத்தனால் ஆலையைக் கண்டித்து ஆா்ப்பாட்டம் (தினமணி)
-01:18:21    8. [பொது] கோபியில் ஹிந்து வழக்குரைஞா்கள் ஆா்ப்பாட்டம் (தினமணி)
-01:18:21    9. [பொது] குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது (தினமணி)
-01:18:21   10. [குற்றம்] பெருந்துறை அருகே வடமாநில பெண் தற்கொலை (தினமணி) (earlier)
-01:18:21 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-27_01
-01:18:23    not picked automatically (suicide / obituary - only when the owner ticks it): பெருந்துறை அருகே வடமாநில பெண் தற்கொலை
-01:18:23    not picked automatically (ceremony / award / awareness event (low views)): குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது
-01:18:23 round 2026-11-27_01 (at least 3, up to 3 more of well-watched topics): 8 news to choose from (0 from earlier rounds), ranked by this page's insights
-01:18:23   PICK   1.  13.6 [accident +0.89 page] இருசக்கர வாகனம் மோதி முதியவா் உயிரிழப்பு
-01:18:23   PICK   2.   9.0 [weather -0.50 page] அறச்சலூரில் மழைநீா் சேகரிப்பு விழிப்புணா்வுப் பேரணி
-01:18:23   PICK   3.   9.0 [weather -0.50 page] பவானியில் கனமழை :தாழ்வான பகுதியில் வீடுகளைச் சூழ்ந்த மழைநீா்
-01:18:23   PICK   4.   6.0 [other +0.00 pattern] அரசு மருத்துவமனையில் பிரசவம் பாா்த்துக் கொண்ட அரசு மருத்துவா
-01:18:23   PICK   5.   5.0 [education -0.50 page] அரசுப் பள்ளி சமையலறையில் புகுந்த பாம்பு: லாவகமாகப் பிடித்த ம
-01:18:23   PICK   6.   3.0 [other +0.00 pattern] பவானிசாகா் அரசு அலுவலா் பயிற்சி நிலையத்தில் அமைச்சா் டி.சரத்
-01:18:23   PICK   7.   3.0 [other +0.00 pattern] பூனாச்சியில் எத்தனால் ஆலையைக் கண்டித்து ஆா்ப்பாட்டம்
-01:18:23   PICK   8.   3.0 [other +0.00 pattern] கோபியில் ஹிந்து வழக்குரைஞா்கள் ஆா்ப்பாட்டம்
-01:18:23 decided: automatic: top 3 of 8 by insights -> 8 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/இருசக்கர-வாகனம்-மோதி-முதியவா்-உயிரிழப்பு-10 https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/அறச்சலூரில்-மழைநீா்-சேகரிப்பு-விழிப்புணா்வுப்-பேரணி https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/heavy-rain-in-bhavani-rainwater-surrounds-houses-in-low-lying-areas https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/a-government-doctor-who-underwent-childbirth-at-a-government-hospital https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/snake-enters-government-school-kitchen-student-catches-it-skillfully https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/minister-d-sarathkumar-inspects-the-government-officers-training-institute-in-bhavanisagar https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/protest-in-poonachi-against-the-ethanol-plant https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/26/protest-by-hindu-lawyers-in-coimbatore
-01:22:03 1 picked news refused by the writer - not offered again
-01:22:03 7 listed news now in the Sheet
-01:22:11 instagram duplicate check erode: 50 recent posts read
-01:22:11 verify 2026-11-27_01: 0 of 8 picked news posted, 3 skipped on purpose, 5 waiting for their posting start
-01:22:11    WAITING C20e3fba: waiting RN-297: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - கோபியில் ஹிந்து வழக்குரைஞா்கள் ஆா்ப்பாட்டம்
-01:22:11    WAITING C54756db: waiting RN-298: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - பவானிசாகா் அரசு அலுவலா் பயிற்சி நிலையத்தில் அமைச்சா் டி.சரத்
-01:22:11    WAITING Ca316590: waiting RN-299: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - அரசு மருத்துவமனையில் பிரசவம் பாா்த்துக் கொண்ட அரசு மருத்துவா
-01:22:11    WAITING Caecfb63: waiting RN-302: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - இருசக்கர வாகனம் மோதி முதியவா் உயிரிழப்பு
-01:22:11    WAITING Cf940f81: waiting RN-300: night: nothing is posted 00:00-04:00 IST (owner 21 Nov) - அரசுப் பள்ளி சமையலறையில் புகுந்த பாம்பு: லாவகமாகப் பிடித்த ம
-01:22:11    SKIPPED C5b64a98: skipped RN-303: held: fact-check problems - fact-check: The reel_script says the rally 'started from the Panchayat Town office' and the slides say it started th - அறச்சலூரில் மழைநீா் சேகரிப்பு விழிப்புணா்வுப் பேரணி
-01:22:11    SKIPPED C741fbcc: skipped: the writer refused it - not filed: not Erode district news (the story's first lines name another place and no Erode place) - பூனாச்சியில் எத்தனால் ஆலையைக் கண்டித்து ஆா்ப்பாட்டம்
-01:22:11    SKIPPED C7f80b42: skipped RN-301: already on Instagram (2026-11-25T17:08:11+0000) - பவானியில் கனமழை :தாழ்வான பகுதியில் வீடுகளைச் சூழ்ந்த மழைநீா்
+04:28:28 round 2026-11-27_04: news published 27 Nov 01:16 -> 27 Nov 04:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
+04:28:28 insights 2026-11-27T04:28+05:30 (258 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.89, 'education': -0.5, 'temple': -0.33, 'politics': -0.12, 'power_cut': 0.33, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
+04:35:59 open search 'ஈரோடு' (from_google): 0 links from our outlets
+04:35:59 70 links on the two papers' Erode pages
+04:36:37 skipped: published before this window=31, already posted=10, state-wide / other district=5, not Erode district=4, only a headline=2, same event already posted=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
+04:36:37 list: 0 new + 1 earlier news not posted yet
+04:36:37    1. [பொது] குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது (தினமணி) (earlier)
+04:36:37 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_04
