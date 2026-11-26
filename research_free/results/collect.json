@@ -3,15 +3,15 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/பாா்-ஊழியரை-தாக்கிய-இருவா்-மீது-வழக்கு",
+  "manual link added: https://www.vikatan.com/government-and-politics/erode-hosts-eropex-2026-stamp-exhibition-by-postal-department",
   "candidate filter: collected=1",
   "to write: 1 Erode district candidates (max 1 stories)",
   "round: top 1 of 1 candidates",
   "candidates waiting: 1 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.vikatan.com/government-and-politics/erode-hosts-",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
-  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 78 min",
+  "candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 75 min",
   "filed: 1 Erode district stories (target 1), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":1,\"updated\":0}"
@@ -19,88 +19,96 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.6-flash for 10 min",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high d",
+  "switching away from gemini/gemini-3.5-flash for 10 min",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (10s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "ok groq/qwen/qwen3.8-27b (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `or",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/openai/gpt-oss-120b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/openai/gpt-oss-120b (2s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "பெருந்துறை அருகே பார் ஊழியரை தாக்கிய இருவர் மீது வழக்கு",
-   "english_headline": "Case registered against two men for assaulting bar employee near Perundurai",
-   "category": "Crime & Safety",
-   "location": "Perundurai, Erode district",
-   "importance": "Medium",
+   "tamil_headline": "ஈரோட்டில் அஞ்சல் துறை சார்பில் 'ஈரோபெக்ஸ் 2026' கண்காட்சி நடைபெற்றது",
+   "english_headline": "Erode hosts 'EROPEX 2026' stamp exhibition by Postal Department",
+   "category": "Temples & Events",
+   "location": "Erode city, Erode district",
+   "importance": "Low",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "போலீஸ் நடவடிக்கை",
-    "loc": "சீனாபுரம், பெருந்துறை",
-    "hl1": "பெருந்துறை அருகே பார் ஊழியரை தாக்கம்",
-    "hl2": "இருவர் மீது வழக்கு பதிவு",
+    "cat": "கண்காட்சி",
+    "loc": "ஈரோடு நகரம்",
+    "hl1": "ஈரோட்டில் 2026 கண்காட்சி நடைபெற்றது",
+    "hl2": "அஞ்சல் துறை முன்னெடுப்பு",
     "slides": [
      {
-      "title": "தாக்கம் நடந்த இடம்",
+      "title": "கண்காட்சி விவரம்",
       "lines": [
-       "சீனாபுரம் அரசு மதுபானக் கடையில் பார்",
-       "பெருந்துறை அருகே உள்ள இடம்",
-       "செவ்வாய்க்கிழமை நடைபெற்ற சம்பவம்"
+       "ஈரோட்டில் 'ஈரோபெக்ஸ் 2026' கண்காட்சி நடைபெற்றது",
+       "இந்திய அஞ்சல் துறை இதை நடத்தியது",
+       "அஞ்சல் தலைகளின் வரலாறு காட்டப்பட்டது"
       ]
      },
      {
-      "title": "தாக்கம் எப்படி",
+      "title": "கண்காட்சி நோக்கம்",
       "lines": [
-       "மது பாட்டில் வாங்குவது குறித்த பிரச்சனை",
-       "மெரூன், முத்து ஆகிய இருவர் தாக்கினர்",
-       "பார் ஊழியர் மணிகண்டன் காயமடைந்தார்"
+       "அஞ்சல் தலைகளின் கலையை காட்டினர்",
+       "பண்பாட்டை அடுத்த தலைமுறைக்கு அறிமுகம்",
+       "இளைஞர்கள் கலையுடன் பழகும் வகையில்"
       ]
      },
      {
-      "title": "மருத்துவம்",
+      "title": "மக்கள் கவனத்திற்கு",
       "lines": [
-       "பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனை",
-       "புகாரின் பேரில் வழக்கு பதிவு செய்தனர்",
-       "பெருந்துறை போலீஸார் விசாரித்து வருகின்றனர்"
+       "அஞ்சல் தலை கலையை அறிய வந்தவர்கள்",
+       "கண்காட்சியில் பங்கேற்கலாம்",
+       "ஈரோடு நகரில் நடைபெறும் நிகழ்வு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பெருந்துறை அருகே பார் ஊழியரை இருவர் தாக்கினர். இது செவ்வாய்க்கிழமை நடந்தது. சீனாபுரம் அரசு மதுபானக் கடையில் பார் ஊழியராக மணிகண்டன் வேலை செய்து வருகிறார். மெரூன் மற்றும் முத்து ஆகிய இருவர் மது அருந்த அந்த பாரில் வந்தனர். மது பாட்டில் வாங்குவது தொடர்பான பிரச்சனையில் இருவர் மணிகண்டனை தாக்கினர். காயமடைந்த மணிகண்டனை பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சேர்த்தனர். புகாரின் பேரில் பெருந்துறை போலீஸார் வழக்கு பதிவு செய்தனர். போலீஸார் விசாரித்து வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பெருந்துறை அருகே பார் ஊழியரை தாக்கிய இருவர் மீது வழக்கு பதிவு\n\n📰 முழு விவரம்:\nபெருந்துறை அருகே உள்ள சீனாபுரம் அரசு மதுபானக் கடையில் பார் ஊழியரை இருவர் தாக்கியுள்ளனர். செவ்வாய்க்கிழமை மது அருந்த வந்த மெரூன் மற்றும் முத்து ஆகிய இருவருக்கும் மது பாட்டில் வாங்குவது தொடர்பான பிரச்சனை ஏற்பட்டது. இதில் இருவர் பார் ஊழியரான மணிகண்டனை தாக்கினர். காயமடைந்த மணிகண்டனை பெருந்துறை அரசு மருத்துவக் கல்லூரி மருத்துவமனையில் சிகிச்சைக்காக சேர்த்தனர். புகாரின் பேரில் பெருந்துறை போலீஸார் மெரூன் மற்றும் முத்து ஆகிய இருவர் மீது வழக்கு பதிவு செய்து விசாரித்து வருகின்றனர்.\n\n📍 இடம்: சீனாபுரம், பெருந்துறை\n🗓️ நாள்: செவ்வாய்க்கிழமை\n👮 நடவடிக்கை: வழக்கு பதிவு செய்து விசாரித்து வருகின்றனர்\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\n\nBar employee assaulted near Perundurai | Erode news\n📍 Perundurai, Erode | 25 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
-   "prompts": "A photo-realistic wide shot of a government liquor shop exterior in a rural Tamil Nadu town near Perundurai, Erode district. The building has a simple concrete structure with a glass door and a small signboard area (no text visible). Two men in casual clothes are standing near the entrance, appearing agitated, facing a third man who is the bar employee. The scene is set during the day with bright sunlight casting sharp shadows. The background shows a typical Erode district road with a few parked two-wheelers and autorickshaws. The atmosphere is tense but calm, capturing the moment after an altercation. No injuries or blood are visible. The setting includes coconut trees and distant Western Ghats hills in the background. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA photo-realistic medium shot of the interior of a government liquor shop bar counter in Tamil Nadu. The counter is made of wood with shelves of liquor bottles behind it (no readable labels). A male bar employee in a white shirt is standing behind the counter, looking concerned. Two male customers are standing in front of the counter, one pointing a finger, indicating a dispute. The lighting is fluorescent, typical of a local shop. The floor is tiled. The scene captures the specific incident of a verbal and physical altercation over purchasing a liquor bottle. No weapons or severe injuries are shown. The background shows a simple, clean shop environment with a cash register and a small fan. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/25/பாா்-ஊழியரை-தாக்கிய-இருவா்-மீது-வழக்கு",
-   "published": "2026-11-25T20:27:41.565Z",
-   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script must tell how the story ENDED, as the article's last lines say ('பாா் ஊழியரை தாக்கிய இருவா் மீது வழக்கு') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown; caption misses facts of the article (put every one in 📰 முழு விவரம்): 36 ('பெருந்துறை அருகே, அரசு மதுபானக் கடையில் பாா் ஊழியரை தாக்கிய '); 26 ('இந்த பாருக்கு பெருந்துறையை அடுத்த, சூரநாயக்கனூரைச் சோ்ந்த ம'); 36 ('இந்த பாருக்கு பெருந்துறையை அடுத்த, சூரநாயக்கனூரைச் சோ்ந்த ம')",
-   "note": "free-model draft groq/qwen/qwen3.8-27b, 2 attempt(s), 2 validator problem(s)",
+   "reel_script": "ஈரோட்டில் அஞ்சல் தலை கலையை காட்டும் 'ஈரோபெக்ஸ் 2026' கண்காட்சி நடைபெற்றது. இந்திய அஞ்சல் துறை இந்த கண்காட்சியை நடத்தியது. அஞ்சல் தலைகளின் வரலாறு கண்காட்சியில் காட்டப்பட்டது. அஞ்சல் தலைகளின் கலை அம்சங்களும் காட்டப்பட்டன. பண்பாட்டு மதிப்புகளும் கண்காட்சியில் இடம் பெற்றன. அடுத்த தலைமுறைக்கு இந்த கலையை அறிமுகப்படுத்தும் நோக்கம் உள்ளது. இளைஞர்கள் அஞ்சல் தலை கலையுடன் பழகும் வகையில் நடத்தப்பட்டது. ஈரோடு நகரில் இந்த கண்காட்சி நடைபெற்றது. கண்காட்சியை மக்கள் பார்வையிடலாம். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📍 ஈரோட்டில் அஞ்சல் துறை சார்பில் 'ஈரோபெக்ஸ் 2026' கண்காட்சி நடைபெற்றது\n\n📰 முழு விவரம்:\nஇந்திய அஞ்சல் துறை ஈரோட்டில் 'ஈரோபெக்ஸ் 2026' கண்காட்சியை நடத்தியது. அஞ்சல் தலைகளின் வரலாறு கண்காட்சியில் காட்டப்பட்டது. அஞ்சல் தலைகளின் கலை அம்சங்களும் பார்வைக்கு வைக்கப்பட்டன. பண்பாட்டு மதிப்புகளும் கண்காட்சியில் இடம் பெற்றன. அடுத்த தலைமுறைக்கு இந்த கலையை அறிமுகப்படுத்தும் நோக்கம் உள்ளது. இளைஞர்கள் அஞ்சல் தலை கலையுடன் பழகும் வகையில் நடத்தப்பட்டது. ஈரோடு நகரில் இந்த கண்காட்சி நடைபெற்றது.\n\n📍 இடம்: ஈரோடு நகரம்\nℹ️ மக்கள் கவனத்திற்கு: அஞ்சல் தலை கலையை அறிய வந்தவர்கள் கண்காட்சியை பார்வையிடலாம்.\n\nErode hosts EROPEX 2026 stamp exhibition | Postal Department\n📍 Erode city, Erode | 26 Nov 2026\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #ErodeEvents",
+   "prompts": "A stamp exhibition set up in a hall in Erode city, with rows of tables displaying collections of Indian postage stamps. The venue is a modest indoor hall with plain walls and simple lighting. From the back, several visitors in casual clothing walk between the tables, while a few Postal Department officials in khaki stand near the entrance, overseeing the display. The tables are covered with clear acrylic stands holding stamp sheets, and some decorative placards (blurred) hint at the theme. Daylight filters through high windows, giving a bright indoor ambience. Shot at eye level with a 35 mm lens, wide enough to capture the hall’s interior and the flow of people. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view of a wooden table inside the exhibition hall, focusing on a glass‑covered tray holding a spread of colorful Indian stamps arranged by year. The stamps are visible as tiny printed rectangles, some with historic images, others with modern designs. A pair of hands in khaki sleeves (blurred) gently adjust a stamp sheet, while the background shows the edge of a banner with the word “EROPEX 2026” (out of focus). The lighting is soft, highlighting the glossy surface of the stamps. Captured at eye level with a 35 mm lens, the frame isolates the stamps as the key object telling the story. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.vikatan.com/government-and-politics/erode-hosts-eropex-2026-stamp-exhibition-by-postal-department",
+   "published": "2026-11-26T07:00:19Z",
+   "verification": "DRAFT (groq/qwen/qwen3.8-27b) - NOT CLEAN, held from posting - problems: reel_script has 59 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft groq/qwen/qwen3.8-27b, 3 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/29816233edd455e3.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261125/2d74cc3ee9e8c21a.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/548b6ac198283226.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261126/7b9a91a136491d04.jpg"
    ]
   }
  ]
