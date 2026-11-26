@@ -1,27 +1,77 @@
-10:59:17 hold lifted: RN-6 - not grounded: location 'பகுதி' is not in the article - the location IS in the article (checked again)
-10:59:26 hold lifted: RN-44 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-10:59:28 hold lifted: RN-134 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-10:59:29 hold lifted: RN-142 - not grounded: location 'நகர்' is not in the article - the location IS in the article (checked again)
-10:59:32 hold lifted: RN-190 - not grounded: location 'நகர்' is not in the article - the location IS in the article (checked again)
-10:59:34 2 held news to fix: ['RN-286', 'RN-287']
+14:05:23 hold lifted: RN-6 - not grounded: location 'பகுதி' is not in the article - the location IS in the article (checked again)
+14:05:30 hold lifted: RN-44 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+14:05:32 hold lifted: RN-134 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+14:05:32 hold lifted: RN-142 - not grounded: location 'நகர்' is not in the article - the location IS in the article (checked again)
+14:05:34 hold lifted: RN-190 - not grounded: location 'நகர்' is not in the article - the location IS in the article (checked again)
+14:05:36 2 held news to fix: ['RN-286', 'RN-287']
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+ok gemini/gemini-3.5-flash (18s)
+attempt 1 gemini/gemini-3.5-flash: 2 problems
+  numbers not found in the article: 1159325, 3187948
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 948 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 11 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 59 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 325 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 88 ('ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (18s)
+attempt 2 gemini/gemini-3.5-flash: 2 problems
+  numbers not found in the article: 1159325, 3187948
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 87 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 948 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 11 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 59 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 325 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (37s)
+attempt 3 gemini/gemini-3.5-flash: 2 problems
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 59325, 87948
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+ok gemini/gemini-3.5-flash (29s)
+attempt 4 gemini/gemini-3.5-flash: 2 problems
+  numbers not found in the article: 1159325, 3187948
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 87 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 948 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 11 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 59 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 325 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (33s)
+attempt 5 gemini/gemini-3.5-flash: 2 problems
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 1159325, 3187948
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.5-flash (56s)
+attempt 6 gemini/gemini-3.5-flash: 2 problems
+  numbers not found in the article: 1159325, 3187948, 6
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 87 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 948 ('மாநகராட்சிக்கு சொந்தமான பஸ் ஸ்டாண்ட் வணிக வளாகம், காமராஜர் ச'); 11 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 59 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்'); 325 ('இதையடுத்து, 35 கடைகளின் உரிமையாளர்கள், 11 லட்சத்து 59 ஆயிரத்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (59s)
+attempt 7 gemini/gemini-3.5-flash: 3 problems
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  numbers not found in the article: 1159325, 3187948
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 88 ('ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 503: {
   "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.6-flash
-fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please che
-dead for this round: gemini/gemini-3.5-flash
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
+    "code": 503,
+    "message": "This model is currently experiencing high d
+fail gemini/gemini-3.5-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (41s)
+attempt 8 gemini/gemini-3-flash-preview: 2 problems
+  numbers not found in the article: 1159325, 3187948
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 88 ('ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3-flash-preview (40s)
+attempt 9 gemini/gemini-3-flash-preview: 2 problems
+  numbers not found in the article: 1159325, 3187948
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 88 ('ரூ.31.88 லட்சம் வாடகை பாக்கி வைத்த 52 கடைகளுக்கு ‘சீல்’ வைத்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)
+poor answer - skipped for 30 min: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
 free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-10:59:43 RN-286 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
+14:14:43 RN-286 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request 
