@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-26T16:27:05.628401+05:30",
+ "last_end": "2026-11-26T16:49:33.067095+05:30",
  "pool": {
   "C7161198": {
    "id": "C7161198",
@@ -268,20 +268,6 @@
    "listed_at": "2026-11-26T04:28:33.038774+05:30",
    "picked_at": "2026-11-26T04:29:57.378343+05:30",
    "refused": "not filed: all free models failed: no usable answer from the models"
-  },
-  "Ccbe35e5": {
-   "id": "Ccbe35e5",
-   "url": "https://www.vikatan.com/government-and-politics/erode-hosts-eropex-2026-stamp-exhibition-by-postal-department",
-   "title": "ஈரோடு: அஞ்சல் துறை சார்பில் நடைபெற்ற 'ஈரோபெக்ஸ் 2026' கண்காட்சி | Photo Album",
-   "summary": "ஈரோடு: அஞ்சல்துறை சார்பில் நடைபெற்ற 'ஈரோபெக்ஸ் 2026' கண்காட்சி | Photo Album | Erode Hosts 'EROPEX 2026' Stamp Exhibition by Postal Department - Vikatan அஞ்சல்தலைகளின் வரலாறு, கலை, பண்பாட்டை அடுத்த தலைமுறையினருக்கு அற...",
-   "source": "விகடன்",
-   "published": "2026-11-26T07:00:19Z",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-26T16:27:05.628401+05:30",
-   "picked_at": "2026-11-26T16:28:47.769382+05:30",
-   "posted": true
   }
  },
  "rounds": {
@@ -765,25 +751,16 @@
   },
   "2026-11-26_16": {
    "window": [
-    "2026-11-26T12:27:23.894017+05:30",
-    "2026-11-26T16:27:05.628401+05:30"
+    "2026-11-26T16:27:05.628401+05:30",
+    "2026-11-26T16:49:33.067095+05:30"
    ],
    "ids": [
-    "Ccbe35e5",
     "C83aeddb"
    ],
    "sent": false,
-   "deadline": "2026-11-26T17:27:05.628401+05:30",
-   "decided": {
-    "how": "automatic: top 6 of 1 by insights",
-    "ids": [
-     "Ccbe35e5"
-    ],
-    "at": "2026-11-26T16:28:47.769374+05:30"
-   },
-   "written": [
-    "Ccbe35e5"
-   ]
+   "deadline": "2026-11-26T17:49:33.067095+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {}
