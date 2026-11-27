@@ -84,6 +84,21 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `c8299b8` | Posting rules 27 Nov: 30 news a day per platform by views, 06:00-22:00 (urgent any time), retry 10 min x5 then 1 h, block wait as stated else 2 h, collect every 2 h |
+| 2026-11-27 | `b3e0018` | stories shared / Instagram pause |
+| 2026-11-27 | `06dd495` | stories shared / Instagram pause |
+| 2026-11-27 | `d40d584` | stories shared / Instagram pause |
+| 2026-11-27 | `2647780` | stories shared / Instagram pause |
+| 2026-11-27 | `d425935` | stories shared / Instagram pause |
+| 2026-11-27 | `2f1a8ba` | pick: written and posted |
+| 2026-11-27 | `dcb21f9` | pick: picked news saved |
+| 2026-11-27 | `5d8ea2a` | pick: list sent |
+| 2026-11-27 | `d81a126` | stories shared / Instagram pause |
+| 2026-11-27 | `c16930b` | stories shared / Instagram pause |
+| 2026-11-27 | `f12c4fa` | stories shared / Instagram pause |
+| 2026-11-27 | `22a1ead` | stories shared / Instagram pause |
+| 2026-11-27 | `371cc31` | stories shared / Instagram pause |
+| 2026-11-27 | `6d74ce1` | stories shared / Instagram pause |
 | 2026-11-27 | `cedb1be` | No manual work: stop the manual-post and Facebook-share e-mails (config.json owner_emails false); only automatic posting |
 | 2026-11-27 | `d339e0b` | stories shared / Instagram pause |
 | 2026-11-27 | `d4869a1` | stories shared / Instagram pause |
@@ -99,19 +114,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `1252bb2` | stories shared / Instagram pause |
 | 2026-11-27 | `b2bd5c0` | stories shared / Instagram pause |
 | 2026-11-27 | `ddfda3d` | stories shared / Instagram pause |
-| 2026-11-27 | `931c8a2` | stories shared / Instagram pause |
-| 2026-11-27 | `890c1f3` | stories shared / Instagram pause |
-| 2026-11-27 | `68e7b19` | stories shared / Instagram pause |
-| 2026-11-27 | `420a244` | stories shared / Instagram pause |
-| 2026-11-27 | `1820941` | stories shared / Instagram pause |
-| 2026-11-27 | `f43dd66` | stories shared / Instagram pause |
-| 2026-11-27 | `f910f8b` | stories shared / Instagram pause |
-| 2026-11-27 | `698535d` | stories shared / Instagram pause |
-| 2026-11-27 | `4153af3` | stories shared / Instagram pause |
-| 2026-11-27 | `03f4d0d` | stories shared / Instagram pause |
-| 2026-11-27 | `808549a` | stories shared / Instagram pause |
-| 2026-11-27 | `8a26d0f` | stories shared / Instagram pause |
-| 2026-11-27 | `924bc0d` | stories shared / Instagram pause |
-| 2026-11-27 | `ab847c4` | stories shared / Instagram pause |
-| 2026-11-27 | `c2f8d5d` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
