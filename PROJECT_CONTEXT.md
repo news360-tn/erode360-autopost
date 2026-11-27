@@ -83,6 +83,19 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `1ad957b` | Power cuts are never missed: held notices are rewritten at once |
+| 2026-11-27 | `9e1af4f` | facebook RN-322 |
+| 2026-11-27 | `8250014` | posted RN-322 |
+| 2026-11-27 | `3e6d60d` | stories shared / Instagram pause |
+| 2026-11-27 | `ef44d5b` | pick: picked news saved |
+| 2026-11-27 | `0d5c560` | stories shared / Instagram pause |
+| 2026-11-27 | `ef5ae79` | pick: picked news saved |
+| 2026-11-27 | `bbe5a5b` | pick: list sent |
+| 2026-11-27 | `7de31cd` | stories shared / Instagram pause |
+| 2026-11-27 | `a828fa7` | stories shared / Instagram pause |
+| 2026-11-27 | `793ba57` | pick: written and posted |
+| 2026-11-27 | `a854910` | facebook RN-321 |
+| 2026-11-27 | `2f1b238` | posted RN-321 |
 | 2026-11-27 | `01f35dc` | Blocked Google News links: also look for the same headline at another trusted outlet |
 | 2026-11-27 | `9e0cbaa` | stories shared / Instagram pause |
 | 2026-11-27 | `a141d18` | News supply (from Trichy, 27 Nov): writer failures retried, 24 h search window, taluk towns searched |
@@ -100,17 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `8531cb2` | stories shared / Instagram pause |
 | 2026-11-27 | `52f02b0` | stories shared / Instagram pause |
 | 2026-11-27 | `335c890` | stories shared / Instagram pause |
-| 2026-11-27 | `9fe948a` | stories shared / Instagram pause |
-| 2026-11-27 | `2ca5325` | stories shared / Instagram pause |
-| 2026-11-27 | `7b5a024` | goldrate posted |
-| 2026-11-27 | `929f326` | stories shared / Instagram pause |
-| 2026-11-27 | `424b3d0` | stories shared / Instagram pause |
-| 2026-11-27 | `d5cd14b` | stories shared / Instagram pause |
-| 2026-11-27 | `bb0ade6` | stories shared / Instagram pause |
-| 2026-11-27 | `be1e042` | stories shared / Instagram pause |
-| 2026-11-27 | `0120843` | stories shared / Instagram pause |
-| 2026-11-27 | `1b0d7be` | stories shared / Instagram pause |
-| 2026-11-27 | `f89d39b` | stories shared / Instagram pause |
-| 2026-11-27 | `6e84a53` | stories shared / Instagram pause |
-| 2026-11-27 | `338ab2f` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
