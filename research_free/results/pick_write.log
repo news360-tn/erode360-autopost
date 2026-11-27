@@ -1,0 +1,72 @@
+writing [N]: கீழ்பவானி முதல் போக பாசனத்துக்கு சிறப்பு நனைப்பாக 15 நாள்களு
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 16 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 8 ('ஆனால் நடப்பு ஆண்டு கொடிவேரி பாசனத்துக்கு 8.81 டிஎம்சியும், க'); 81 ('ஆனால் நடப்பு ஆண்டு கொடிவேரி பாசனத்துக்கு 8.81 டிஎம்சியும், க'); 2 ('ஆனால் நடப்பு ஆண்டு கொடிவேரி பாசனத்துக்கு 8.81 டிஎம்சியும், க'); கொடிவேரி ('ஆனால் நடப்பு ஆண்டு கொடிவேரி பாசனத்துக்கு 8.81 டிஎம்சியும், க'); 4 ('இதுபோல தொழில்நுட்பக் கோளாறுகளை விரைந்து சரி செய்து விவசாயிகள'); 60 ('சோலாா்-கருமாண்டாம்பாளையம் நான்கு வழிச்சாலை பாலம் கட்டுமான பண')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'ஈரோடு', e.g. 'ஈரோடு: ...' or 'ஈரோடு-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('ஆனால் நடப்பு ஆண்டு கொடிவேரி பாசனத்துக்கு 8.81 டிஎம்சியும், க'); 60 ('சோலாா்-கருமாண்டாம்பாளையம் நான்கு வழிச்சாலை பாலம் கட்டுமான பண'); 31 ('அதையடுத்து டிசம்பா் 15- ஆம் தேதி முதல் ஏப்ரல் மாதம் வரை 160 '); 3 ('அதையடுத்து டிசம்பா் 15- ஆம் தேதி முதல் ஏப்ரல் மாதம் வரை 160 ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
+  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('ஆனால் நடப்பு ஆண்டு கொடிவேரி பாசனத்துக்கு 8.81 டிஎம்சியும், க'); 4 ('இதுபோல தொழில்நுட்பக் கோளாறுகளை விரைந்து சரி செய்து விவசாயிகள'); 60 ('சோலாா்-கருமாண்டாம்பாளையம் நான்கு வழிச்சாலை பாலம் கட்டுமான பண'); 25 ('அரசு அந்த முடிவை கைவிட்டு வாணிபக் கழகம் மூலமே கொள்முதல் செய்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/openai/gpt-oss-120b (6s)
+proofread rejected (3 problems)
+  missing key: reel_script
+  missing key: caption
+  missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+ok groq/openai/gpt-oss-120b (2s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Farmers urge special 15-day water releas'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261127-0618","first":"RN-304"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/demand-to-release-water-for-15-days-as-a-special-irrigation-spell-for-the-first-crop-season-in-the-lower-bhavani-project-area
+candidate filter: collected=1
+to write: 1 Erode district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Erode; time left 79 min
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 78 min
+filed: 1 Erode district stories (target 1), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
