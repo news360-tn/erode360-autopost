@@ -83,6 +83,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `887197f` | Gold rate and rasipalan reels: each page its own colour theme |
+| 2026-11-27 | `29b48b9` | stories shared / Instagram pause |
+| 2026-11-27 | `d2f94e3` | stories shared / Instagram pause |
 | 2026-11-27 | `1ad957b` | Power cuts are never missed: held notices are rewritten at once |
 | 2026-11-27 | `9e1af4f` | facebook RN-322 |
 | 2026-11-27 | `8250014` | posted RN-322 |
@@ -110,7 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `bef4316` | Sources: Dailythanthi and Maalaimalar Tamil Nadu / district lists (this district's links only) |
 | 2026-11-27 | `be3e3ef` | stories shared / Instagram pause |
 | 2026-11-27 | `b8ceaf6` | stories shared / Instagram pause |
-| 2026-11-27 | `8531cb2` | stories shared / Instagram pause |
-| 2026-11-27 | `52f02b0` | stories shared / Instagram pause |
-| 2026-11-27 | `335c890` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
