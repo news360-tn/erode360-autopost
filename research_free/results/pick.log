@@ -1,91 +1,34 @@
-16:44:56 round 2026-11-27_16: news published 27 Nov 16:26 -> 27 Nov 16:44 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
-16:44:56    + news published since 26 Nov 16:44 that no earlier round found (listed / indexed late) - never one already listed or posted
-16:44:56 insights 2026-11-27T16:44+05:30 (282 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.87, 'education': -0.5, 'temple': -0.35, 'politics': -0.21, 'power_cut': 0.31, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
-16:46:57 open search 'ஈரோடு' (from_google): 24 links from our outlets
-16:46:57 town searches (கோபி, சத்தியமங்கலம், பவானி, பெருந்துறை, அந்தியூர், கொடுமுடி, மொடக்குறிச்சி (+Google), தாளவாடி (+Google)): 14 links from our outlets
-16:46:57 search links: 40 Google links decoded, 0 not decoded, 0 known from an earlier round, 38 left for the next round, 47 of another district by their headline (not opened)
-16:46:57 109 links on the two papers' Erode pages
-16:50:34 skipped: published before this window=41, already posted=26, not Erode district=22, state-wide / other district=6, only a headline=3, could not open (HTTPSConnectionPool(host='www.dinamalar.com', port)=2, same event already posted=2, could not open (403 Client Error: Forbidden for url: https://tamil)=1, no title=1
-16:50:34    drop [already posted] எஸ்.பி., ஆபீசுக்கு மனு தர போறீங்களா? கால் வலி இலவசமாக கிடைப் | dinamalar.com/news/tamil-nad...ice-feel-free-to-get-foot-pain/4387454
-16:50:34    drop [already posted] கனி மார்க்கெட் வணிக வியாபாரிகள் கடைகளை அடைத்து போராட்டம் | dinamalar.com/news/tamil-nad...ket-traders-shut-shops-protest/4387457
-16:50:34    drop [already posted] சேதப்படுத்தப்பட்ட கருணாநிதி உருவச்சிலைகள் சீரமைப்பு | dinamalar.com/news/tamil-nad...of-damaged-karunanidhi-statues/4387447
-16:50:34    drop [already posted] அஞ்சல் தலை கண்காட்சி | dinamalar.com/news/tamil-nad...erode/postage-stamp-exhibition/4387460
-16:50:34    drop [already posted] எத்தனால் ஆலைக்கு எதிராக மீண்டும் போராட்டம் அதிகாரிகள் உறுதிய | dinamalar.com/news/tamil-nad...-protest-against-ethanol-plant/4387463
-16:50:34    drop [already posted] சிப்காட் ஸ்டீல் நிறுவன உரிம விவகாரம் மா.க.வா., ஆய்வு நடத்த க | dinamalar.com/news/tamil-nad...ks-probe-into-licensing-issue-/4387469
-16:50:34    drop [already posted] காய்ச்சல், சளி, பாதிப்பு; உயரும் நோயாளிகள் | dinamalar.com/news/tamil-nad...-chills-infection-rising-cases/4387468
-16:50:34    drop [already posted] சிறுமிக்கு தொந்தரவு: முதியவருக்கு அடி | dinamalar.com/news/tamil-nad...-of-girl-elderly-man-beaten-up/4387467
-16:50:34    drop [already posted] தங்க கொடியால் விவசாயத்துக்கு கடும் ஆபத்து விவசாயிகளுக்கு வேள | dinamalar.com/news/tamil-nad...y-to-farmers-against-gold-flag/4387465
-16:50:34    drop [already posted] சுத்தம் செய்ய வந்து சாக்கடையில் 20 மணி நேரம் தவித்த இயந்திரம | dinamalar.com/news/tamil-nad...nd-spent-20-hours-in-the-sewer/4387464
-16:50:34    drop [could not open (HTTPSConnectionPool(host='www]  | dinamalar.com/news/tamil-nad...e-on-constitution-day-of-india/4387462
-16:50:34    drop [already posted] வெற்றி வீடு கட்டும் திட்டம் கிராமசபையில் அறிக்கை | dinamalar.com/news/tamil-nad...g-project-report-in-gram-sabha/4387461
-16:50:34    drop [already posted] பவானியில் 61 மி.மீ., மழை | dinamalar.com/news/tamil-nad...-erode/61--rainfall-in-bhavani/4387459
-16:50:34    drop [same event already posted] பைக் மோதி முதியவர் சாவு | dinamalar.com/news/tamil-nad...n-dies-after-being-hit-by-bike/4387458
-16:50:34    drop [not Erode district] கள்ளக்குறிச்சி விவகாரம்: பதிலளிக்க மறுத்த அமைச்சர் விஜய் பால | dinamani.com/all-editions/ed...s-regarding-the-kallakurichi-mla-issue
-16:50:34    drop [already posted] கீழ்பவானி முதல் போக பாசனத்துக்கு சிறப்பு நனைப்பாக 15 நாள்களு | dinamani.com/all-editions/ed...ason-in-the-lower-bhavani-project-area
-16:50:34    drop [already posted] அரசுப் பள்ளி சமையலறையில் புகுந்த பாம்பு: லாவகமாகப் பிடித்த ம | dinamani.com/all-editions/ed...-kitchen-student-catches-it-skillfully
-16:50:34    drop [already posted] அரசு மருத்துவமனையில் பிரசவம் பாா்த்துக் கொண்ட அரசு மருத்துவா | dinamani.com/all-editions/ed...nt-childbirth-at-a-government-hospital
-16:50:34    drop [already posted] கோபியில் ஹிந்து வழக்குரைஞா்கள் ஆா்ப்பாட்டம் | dinamani.com/all-editions/ed...protest-by-hindu-lawyers-in-coimbatore
-16:50:34    drop [already posted] பவானியில் கனமழை :தாழ்வான பகுதியில் வீடுகளைச் சூழ்ந்த மழைநீா் | dinamani.com/all-editions/ed...er-surrounds-houses-in-low-lying-areas
-16:50:34    drop [already posted] பூனாச்சியில் எத்தனால் ஆலையைக் கண்டித்து ஆா்ப்பாட்டம் | dinamani.com/all-editions/ed...-in-poonachi-against-the-ethanol-plant
-16:50:34    drop [already posted] அறச்சலூரில் மழைநீா் சேகரிப்பு விழிப்புணா்வுப் பேரணி | dinamani.com/all-editions/ed...ழைநீா்-சேகரிப்பு-விழிப்புணா்வுப்-பேரணி
-16:50:34    drop [already posted] பவானிசாகா் அரசு அலுவலா் பயிற்சி நிலையத்தில் அமைச்சா் டி.சரத் | dinamani.com/all-editions/ed...ers-training-institute-in-bhavanisagar
-16:50:34    drop [state-wide / other district] விஜய்க்கு அன்று நாங்க தேவை.. இன்று தேவையில்லையா.. கம்யூனிஸ்ட | tamil.oneindia.com/news/erod...id-communist-veerapandiyan-848587.html
-16:50:34    drop [not Erode district] வேலுமணி பதிவுக்கு ஆர்.பி.உதயகுமார் நச்! சமரசத்துக்கு எடப்பாட | tamil.oneindia.com/news/erod...palanisamy-ready-for-recon-847615.html
-16:50:34    drop [published before this window] [2026-11-19T14:58] தரமற்ற வேட்டி சேலைகளை ஒருபோதும் வாங்க மாட்டோம்.. உற்பத்தியாள | tamil.oneindia.com/news/erod...says-minister-vijay-balaji-846601.html
-16:50:34    drop [state-wide / other district] பெருந்துறை இடைத்தேர்தல்.. திமுக வேட்பாளராக திவ்யா சத்யராஜ்?  | tamil.oneindia.com/news/erod...-fray-as-the-dmk-candidate-846131.html
-16:50:34    drop [published before this window] [2026-11-17T15:24] ஈரோட்டில் தாலி கட்டிய மறுநாளே தேனி மாப்ளையை காணோம்.. காஸ்ட்ல | tamil.oneindia.com/news/erod...-money-and-iphone-cheating-846093.html
-16:50:34    drop [published before this window] [2026-11-12T12:46] நம்பிக்கையில்லா தீர்மானம் கொண்டு வரப்படுகிறதா? வந்தால்.. அமை | tamil.oneindia.com/news/erod...ught-tvk-govt-will-face-it-844781.html
-16:50:34    drop [state-wide / other district] சாணி உருண்டைகள் வீசி அடிக்கும் வினோத கோயில் திருவிழா.. தமிழ் | tamil.oneindia.com/news/erod...al-near-thalavadi-in-erode-844755.html
-16:50:34    drop [published before this window] [2026-11-09T08:30] ஈரோட்டில் இன்று ஆடைகள் வாங்க அதிகாலையிலேயே குவிந்த பொதுமக்கள | tamil.oneindia.com/news/erod...-gathered-as-early-as-dawn-843991.html
-16:50:34    drop [published before this window] [2026-11-08T18:45] ஈரோட்டில் ஒரே நாள் இரவில் 5 கடைகளில் கொள்ளையர்கள் கைவரிசை! ப | tamil.oneindia.com/news/erod...bed-in-erode-kollampalayam-843947.html
-16:50:34    drop [published before this window] [2026-11-05T11:19] வெறும் 30 யூனிட்டுக்கு 141 ரூபாயா? விஜய் சார் இதுதான் உங்கள் | tamil.oneindia.com/news/erod...-erode-who-tagged-cm-vijay-843185.html
-16:50:34    drop [state-wide / other district] ஏமாற்றத்துடன் காத்திருந்த ரசிகை! தேடி அழைத்து குழந்தைக்கு பெ | tamil.oneindia.com/news/erod...r-woman-fanss-3-month-baby-842799.html
-16:50:34    drop [published before this window] [2026-11-03T16:13] "உடனே வீட்டுக்கு வாம்மா".. 22 நாட்களாக மனைவியை காணோம்.. ஈரோட | tamil.oneindia.com/news/erod...husband-s-emotional-appeal-842775.html
-16:50:34    drop [state-wide / other district] எங்க அண்ணன் ஆட்சியில எங்களுக்கு பாதுகாப்பே இல்ல.. விஜய்யை பா | tamil.oneindia.com/news/erod...et-while-waiting-to-see-cm-842769.html
-16:50:34    drop [published before this window] [2026-11-03T07:47] மகளிர் சுய உதவிக்குழுவினருக்கு ரூ.3,000 கோடி உதவி.. பெருந்து | tamil.oneindia.com/news/erod...ce-for-women-shgs-in-erode-842603.html
-16:50:34    drop [published before this window] [2026-11-02T22:19] பெருந்துறையில் நாளை விஜய் பங்கேற்கும் நிகழ்ச்சி இடமாற்றம்! ப | tamil.oneindia.com/news/erod...e-shifted-to-marriage-hall-842579.html
-16:50:34    drop [published before this window] [2026-11-02T13:32] திடீர் சேஞ்ச்.. நாளை பெருந்துறையில் நடைபெறவிருந்த முதல்வர் வ | tamil.oneindia.com/news/erod...-college-site-to-new-venue-842443.html
-16:50:34    drop [published before this window] [2026-11-02T11:02] திம்பம் மலைப் பாதையில் ஹாயாக உலா வந்த சிறுத்தை.. நடுரோட்டில் | tamil.oneindia.com/news/erod...g-on-thimbam-mountain-road-842399.html
-16:50:34    (+ 64 more dropped links not shown)
-16:50:34 list: 3 new + 2 earlier news not posted yet
-16:50:34    1. [பொது] பவானி ஆற்றங்கரையில் 48 நாட்கள் யானைகள் புத்துணர்வு முகாம் (மாலைமலர்) (published 27 Nov 05:04, found only now)
-16:50:34    2. [நீதிமன்றம்] அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உயர்நீதிமன் (தினமணி) (published 27 Nov 05:19, found only now)
-16:50:34    3. [நீதிமன்றம்] 2 தொகுதிகளுக்கு மட்டும் இடைத்தேர்தலுக்கான தடை நீக்கம்..! - உயர்நீதிமன் (பாலிமர்) (published 27 Nov 12:55, found only now)
-16:50:34    4. [குற்றம்] கேஷியர் தற்கொலை (தினமலர்) (earlier)
-16:50:34    5. [பொது] குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது (தினமணி) (earlier)
-16:50:34 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-27_16
-16:50:36    not picked automatically (suicide / obituary - only when the owner ticks it): கேஷியர் தற்கொலை
-16:50:36    not picked automatically (ceremony / award / awareness event (low views)): குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது
-16:50:36 round 2026-11-27_16 (at least 6, up to 3 more of well-watched topics): 3 news to choose from (0 from earlier rounds), ranked by this page's insights
-16:50:36   PICK   1.   8.5 [other +0.00 pattern] பவானி ஆற்றங்கரையில் 48 நாட்கள் யானைகள் புத்துணர்வு முகாம்
-16:50:36   PICK   2.   3.0 [other +0.00 pattern] 2 தொகுதிகளுக்கு மட்டும் இடைத்தேர்தலுக்கான தடை நீக்கம்..! - உ
-16:50:36   PICK   3.   2.5 [other +0.00 pattern] அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உ
-16:50:36 decided: automatic: top 6 of 3 by insights -> 3 news to write and post
-PICK_URLS=https://www.maalaimalar.com/news/tamilnadu/elephants-welfare-camp-in-bhavani-river https://www.polimernews.com/tamilnadunews/by-elections-ban-lifted-for-just-two-constituencies-high-court-12845251 https://www.dinamani.com/tamilnadu/2026/Nov/27/madras-high-court-verdict-stay-lifted-on-by-elections-for-ambasamudram-and-perunduraii
-16:54:24 1 picked news refused by the writer - not offered again
-16:54:24 2 listed news now in the Sheet
-16:54:36 instagram duplicate check erode: 50 recent posts read
-16:54:36 verify 2026-11-27_16: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-16:54:36    SKIPPED Cf5e82bd: skipped: the writer refused it - not filed: duplicate after write - அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உ
-16:54:36    NOT POSTED C7b4e6ed: queued RN-322 (Queued) - 2 தொகுதிகளுக்கு மட்டும் இடைத்தேர்தலுக்கான தடை நீக்கம்..! - உ
-16:54:36    NOT POSTED Cbb2f491: queued RN-323 (Queued) - பவானி ஆற்றங்கரையில் 48 நாட்கள் யானைகள் புத்துணர்வு முகாம்
-16:59:43 instagram duplicate check erode: 50 recent posts read
-16:59:43 verify 2026-11-27_16: 0 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-16:59:43    SKIPPED Cf5e82bd: skipped: the writer refused it - not filed: duplicate after write - அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உ
-16:59:43    NOT POSTED C7b4e6ed: queued RN-322 (Queued) - 2 தொகுதிகளுக்கு மட்டும் இடைத்தேர்தலுக்கான தடை நீக்கம்..! - உ
-16:59:43    NOT POSTED Cbb2f491: queued RN-323 (Queued) - பவானி ஆற்றங்கரையில் 48 நாட்கள் யானைகள் புத்துணர்வு முகாம்
-17:04:50 instagram duplicate check erode: 50 recent posts read
-17:04:50 verify 2026-11-27_16: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:04:50    SKIPPED Cf5e82bd: skipped: the writer refused it - not filed: duplicate after write - அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உ
-17:04:50    NOT POSTED Cbb2f491: queued RN-323 (Queued) - பவானி ஆற்றங்கரையில் 48 நாட்கள் யானைகள் புத்துணர்வு முகாம்
-17:09:59 instagram duplicate check erode: 50 recent posts read
-17:09:59 verify 2026-11-27_16: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:09:59    SKIPPED Cf5e82bd: skipped: the writer refused it - not filed: duplicate after write - அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உ
-17:09:59    NOT POSTED Cbb2f491: queued RN-323 (Queued) - பவானி ஆற்றங்கரையில் 48 நாட்கள் யானைகள் புத்துணர்வு முகாம்
-17:15:06 instagram duplicate check erode: 50 recent posts read
-17:15:06 verify 2026-11-27_16: 1 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:15:06    SKIPPED Cf5e82bd: skipped: the writer refused it - not filed: duplicate after write - அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உ
-17:15:06    NOT POSTED Cbb2f491: queued RN-323 (Queued) - பவானி ஆற்றங்கரையில் 48 நாட்கள் யானைகள் புத்துணர்வு முகாம்
-17:20:12 verify 2026-11-27_16: 2 of 3 picked news posted, 1 skipped on purpose, 0 waiting for their posting start
-17:20:12    SKIPPED Cf5e82bd: skipped: the writer refused it - not filed: duplicate after write - அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உ
+20:26:54 round 2026-11-27_20: news published 27 Nov 16:44 -> 27 Nov 20:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
+20:26:54    + news published since 26 Nov 20:26 that no earlier round found (listed / indexed late) - never one already listed or posted
+20:26:54 insights 2026-11-27T20:26+05:30 (285 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.88, 'education': -0.5, 'temple': -0.35, 'politics': -0.17, 'power_cut': 0.31, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
+20:28:46 open search 'ஈரோடு' (from_google): 21 links from our outlets
+20:28:46 town searches (கோபி, சத்தியமங்கலம், பவானி (+Google), பெருந்துறை (+Google), அந்தியூர், கொடுமுடி, மொடக்குறிச்சி, தாளவாடி): 32 links from our outlets
+20:28:46 search links: 40 Google links decoded, 0 not decoded, 46 known from an earlier round, 20 left for the next round, 25 of another district by their headline (not opened)
+20:28:46 107 links on the two papers' Erode pages
+20:30:05 skipped: published before this window=41, already posted=25, not Erode district=21, state-wide / other district=7, only a headline=2, checked in an earlier round=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, same event already posted=1, no title=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
+20:30:05    drop [already posted] சத்தியமங்கலம் மார்க்கெட்டில் மல்லிகை கிலோ ரூ.1,960-க்கு ஏலம் | dailythanthi.com/news/tamiln...e-price-rose-by-rs-520-in-a-single-day
+20:30:05    drop [state-wide / other district] 5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது; அம்பா | dinakaran.com/news/ambasamudram_perundurai_inbathurai
+20:30:05    drop [could not open (403 Client Error: Forbidden f] "அம்பாசமுத்திரம், பெருந்துறை தொகுதிகளில் இடைத்தேர்தலை நடத்தல | tamil.news18.com/videos/tami.../ambasamudram-by-election-2263115.html
+20:30:05    drop [not Erode district] கலை அறிவியல் கல்லூரிகளில் திறன் சார்ந்த பயிற்சி வகுப்புகள் | dinamalar.com/news/tamil-nad...urses-in-arts-science-colleges/4387775
+20:30:05    drop [not Erode district] சர்க்கரை நோய் கண்டறிய இலவச பரிசோதனை முகாம் | dinamalar.com/news/tamil-nad...re/free-diabetes-check-up-camp/4387795
+20:30:05    drop [not Erode district] நேர்மையாக செயல்பட்டால் பொறுப்புகள் தானாக தேடி வரும்! கிருஷ்ண | dinamalar.com/news/tamil-nad...atically-find-responsibilities/4387796
+20:30:05    drop [not Erode district] ரூ.58 லட்சம் மதுபானத்துடன் சாலையில் கவிழ்ந்து லாரி விபத்து | dinamalar.com/news/tamil-nad...-alcohol-overturns-on-the-road/4387788
+20:30:05    drop [not Erode district] நடைபாதை ஆக்கிரமிப்பு அகற்ற சர்வே பணி துவக்கம் | dinamalar.com/news/tamil-nad...clear-encroachment-on-pavement/4387799
+20:30:05    drop [not Erode district] நடுக்காட்டில் தவித்த குழந்தைகள்..வைரலான வீடியோவில் டிவிஸ்ட். | polimernews.com/video/viral-video-issue-12846593
+20:30:05    drop [not Erode district] தூணில் தீபம்...உச்சநீதிமன்ற உத்தரவு முழு விபரம் | Thiruparan | dinamani.com/videos/video-ne...ull-details-of-the-supreme-court-order
+20:30:05    drop [not Erode district] கல்லூரி மாணவர்கள் ரத்ததான முகாம். | dinamalar.com/news/tamil-nad...tion-camp-for-college-students/4387679
+20:30:05    drop [not Erode district] மெரினா கலங்கரை விளக்கம் முதல் பட்டினப்பாக்கம் வரை ஆக்கிரமிப் | dinakaran.com/news/marina-li...e-pattinapakkam-shop-7-days-expiration
+20:30:05    drop [not Erode district] 22,500 கி.மீ வேகத்தில் பாய்ந்த நாசா விண்கலம்-திசைமாறிய விண்க | dinakaran.com/news/22500-km-h-impact-nasa-deflects-asteroid
+20:30:05    drop [not Erode district] வேப்பேரி, பெரியார் திடலில் இன்று மனிதநேய நல்லிணக்க நலத்திட்ட | dinakaran.com/news/welfare_assistance_udhayanidhistalin
+20:30:05    drop [not Erode district] ‘வஸ்த்ராலயா’ அழகிய ஆடைகளின் உலகம்! - Dinakaran - Dinakaran | dinakaran.com/ladies/vastralaya-world-of-beautiful-garments
+20:30:05    drop [not Erode district] நாடாளுமன்ற சிறப்பு கூட்டத்தொடர்- எம்.பி.க்களுக்கு காங்கிரஸ்  | dinakaran.com/news/congress-...ip-ahead-of-special-parliament-sitting
+20:30:05    drop [not Erode district] மக்களவைத் தொகுதிகளின் எண்ணிக்கை 50% அதிகரிக்க மசோதா: ஒன்றிய  | dinakaran.com/news/bill-to-increase-number-lok-sabha-constituencies
+20:30:05    drop [not Erode district] 2வது டெஸ்ட் போட்டியில் ஜடேஜாவுக்கு இடம் கிடைக்காதது துரதிர்ஷ | dinakaran.com/news/sports_news/jadeja_sunil_gavaskar
+20:30:05    drop [not Erode district] இந்திய அணிக்கு திரும்புவது பற்றிய எண்ணத்தை நிறுத்திவிட்டேன்: | dinakaran.com/news/indian_team_mohammedshami
+20:30:05    drop [not Erode district] நாடாளுமன்ற கூட்டத்தொடர்: நாளை (நவ. 28) திமுக எம்.பி.க்கள் கூ | dinamani.com/tamilnadu/2026/...ession-dmk-mps-meeting-tomorrow-nov-28
+20:30:05    drop [not Erode district] கிண்டி சிறுவர் பூங்காவில் நீர்வாழ் பறவைகள் அடுத்தடுத்து உயிர | dinakaran.com/news/successiv...y-childrens-park-closed-until-the-30th
+20:30:05 list: 0 new + 2 earlier news not posted yet
+20:30:05    1. [குற்றம்] கேஷியர் தற்கொலை (தினமலர்) (earlier)
+20:30:05    2. [பொது] குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது (தினமணி) (earlier)
+20:30:05 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-27_20
