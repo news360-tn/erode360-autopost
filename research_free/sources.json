@@ -46,5 +46,11 @@
   "url": "https://www.maalaimalar.com/news/tamilnadu",
   "link_regex": "href=\"((?:https://www\\.maalaimalar\\.com)?/news/tamilnadu/(?:[a-z0-9]+-)*(?:erode|gobichettipalayam|gobi|sathyamangalam|perundurai|anthiyur|kodumudi|chennimalai|talavadi|thalavadi|modakurichi)(?:-[a-z0-9]+)*)\"",
   "limit": 15
+ },
+ {
+  "name": "தினகரன் ஈரோடு",
+  "url": "https://www.dinakaran.com/district/erode/",
+  "link_regex": "((?:https://www\\.dinakaran\\.com)?/district/erode_\\d{6}_\\d+/?)",
+  "limit": 30
  }
 ]
