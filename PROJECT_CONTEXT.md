@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-26 | `1954d61` | Keywords after hashtags on Instagram/Facebook/YouTube; Facebook follower count in insights |
-| 2026-11-26 | `cb8b4db` | stories shared / Instagram pause |
-| 2026-11-26 | `fa45bab` | facebook RN-294 |
-| 2026-11-26 | `8ddfd09` | posted RN-294 |
-| 2026-11-26 | `65d212b` | stories shared / Instagram pause |
-| 2026-11-26 | `3818c81` | facebook RN-293 |
-| 2026-11-26 | `044b09a` | posted RN-293 |
-| 2026-11-26 | `fa9e6c3` | stories shared / Instagram pause |
-| 2026-11-26 | `dfc4a0c` | stories shared / Instagram pause |
-| 2026-11-26 | `cdeb99a` | autofix: corrected held news |
-| 2026-11-26 | `50886a1` | stories shared / Instagram pause |
-| 2026-11-26 | `65702fa` | stories shared / Instagram pause |
-| 2026-11-26 | `5b682fe` | powercut: notices written |
-| 2026-11-26 | `b71f7b1` | stories shared / Instagram pause |
-| 2026-11-26 | `605fb8a` | stories shared / Instagram pause |
-| 2026-11-26 | `c5a1a3e` | stories shared / Instagram pause |
-| 2026-11-26 | `e3ebcea` | stories shared / Instagram pause |
-| 2026-11-26 | `6ab83e5` | stories shared / Instagram pause |
-| 2026-11-26 | `e8720bf` | stories shared / Instagram pause |
-| 2026-11-26 | `11621da` | stories shared / Instagram pause |
-| 2026-11-26 | `150f1ae` | stories shared / Instagram pause |
-| 2026-11-26 | `559c44a` | stories shared / Instagram pause |
-| 2026-11-26 | `97321cd` | stories shared / Instagram pause |
-| 2026-11-26 | `f8061f3` | stories shared / Instagram pause |
-| 2026-11-26 | `afba9ed` | stories shared / Instagram pause |
-| 2026-11-26 | `e4ce917` | stories shared / Instagram pause |
-| 2026-11-26 | `8ed1298` | stories shared / Instagram pause |
-| 2026-11-26 | `1a521be` | stories shared / Instagram pause |
-| 2026-11-26 | `35caf49` | stories shared / Instagram pause |
-| 2026-11-26 | `81a64bf` | stories shared / Instagram pause |
+| 2026-11-27 | `a141d18` | News supply (from Trichy, 27 Nov): writer failures retried, 24 h search window, taluk towns searched |
+| 2026-11-27 | `bb035d8` | pick: picked news saved |
+| 2026-11-27 | `bf8b3c5` | stories shared / Instagram pause |
+| 2026-11-27 | `566b31d` | stories shared / Instagram pause |
+| 2026-11-27 | `65b2ffd` | pick: picked news saved |
+| 2026-11-27 | `456fbfd` | pick: list sent |
+| 2026-11-27 | `1f64a0c` | stories shared / Instagram pause |
+| 2026-11-27 | `15fa44d` | stories shared / Instagram pause |
+| 2026-11-27 | `3a4038f` | Sources: the missing district list of this page (Dinakaran / Oneindia) |
+| 2026-11-27 | `bef4316` | Sources: Dailythanthi and Maalaimalar Tamil Nadu / district lists (this district's links only) |
+| 2026-11-27 | `be3e3ef` | stories shared / Instagram pause |
+| 2026-11-27 | `b8ceaf6` | stories shared / Instagram pause |
+| 2026-11-27 | `8531cb2` | stories shared / Instagram pause |
+| 2026-11-27 | `52f02b0` | stories shared / Instagram pause |
+| 2026-11-27 | `335c890` | stories shared / Instagram pause |
+| 2026-11-27 | `9fe948a` | stories shared / Instagram pause |
+| 2026-11-27 | `2ca5325` | stories shared / Instagram pause |
+| 2026-11-27 | `7b5a024` | goldrate posted |
+| 2026-11-27 | `929f326` | stories shared / Instagram pause |
+| 2026-11-27 | `424b3d0` | stories shared / Instagram pause |
+| 2026-11-27 | `d5cd14b` | stories shared / Instagram pause |
+| 2026-11-27 | `bb0ade6` | stories shared / Instagram pause |
+| 2026-11-27 | `be1e042` | stories shared / Instagram pause |
+| 2026-11-27 | `0120843` | stories shared / Instagram pause |
+| 2026-11-27 | `1b0d7be` | stories shared / Instagram pause |
+| 2026-11-27 | `f89d39b` | stories shared / Instagram pause |
+| 2026-11-27 | `6e84a53` | stories shared / Instagram pause |
+| 2026-11-27 | `338ab2f` | stories shared / Instagram pause |
+| 2026-11-27 | `700da16` | stories shared / Instagram pause |
+| 2026-11-27 | `8ec5d84` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
