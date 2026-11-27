@@ -83,34 +83,34 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
-| 2026-11-27 | `2866c4a` | Power cuts: never post a cut that is over; post cancellations and reschedules |
-| 2026-11-27 | `b921867` | stories shared / Instagram pause |
-| 2026-11-27 | `b5ac390` | stories shared / Instagram pause |
-| 2026-11-27 | `9ba4f7b` | stories shared / Instagram pause |
-| 2026-11-27 | `4e69f9e` | stories shared / Instagram pause |
-| 2026-11-27 | `56c32a3` | stories shared / Instagram pause |
-| 2026-11-27 | `db79a34` | Page names as the owner writes them: Tiruppur 360 |
-| 2026-11-27 | `223bbd7` | stories shared / Instagram pause |
-| 2026-11-27 | `7a715a5` | stories shared / Instagram pause |
-| 2026-11-27 | `d826fad` | Instagram handles: the real usernames of every page |
-| 2026-11-27 | `e47e2f2` | stories shared / Instagram pause |
-| 2026-11-27 | `6667728` | Rasipuram 360 username is rasipuram360.official |
-| 2026-11-27 | `3148f43` | stories shared / Instagram pause |
-| 2026-11-27 | `498a1b5` | stories shared / Instagram pause |
-| 2026-11-27 | `f772e2b` | stories shared / Instagram pause |
-| 2026-11-27 | `3fc8ad2` | stories shared / Instagram pause |
-| 2026-11-27 | `d0d8a36` | stories shared / Instagram pause |
-| 2026-11-27 | `266046b` | pick: written and posted |
-| 2026-11-27 | `8c8caa5` | Rasipalan theme: Coimbatore page named in full (கோயம்புத்தூர்) gets its colour too |
-| 2026-11-27 | `64418d2` | facebook RN-323 |
-| 2026-11-27 | `f1a7563` | posted RN-323 |
-| 2026-11-27 | `887197f` | Gold rate and rasipalan reels: each page its own colour theme |
-| 2026-11-27 | `29b48b9` | stories shared / Instagram pause |
-| 2026-11-27 | `d2f94e3` | stories shared / Instagram pause |
-| 2026-11-27 | `1ad957b` | Power cuts are never missed: held notices are rewritten at once |
-| 2026-11-27 | `9e1af4f` | facebook RN-322 |
-| 2026-11-27 | `8250014` | posted RN-322 |
-| 2026-11-27 | `3e6d60d` | stories shared / Instagram pause |
-| 2026-11-27 | `ef44d5b` | pick: picked news saved |
-| 2026-11-27 | `0d5c560` | stories shared / Instagram pause |
+| 2026-11-27 | `cedb1be` | No manual work: stop the manual-post and Facebook-share e-mails (config.json owner_emails false); only automatic posting |
+| 2026-11-27 | `d339e0b` | stories shared / Instagram pause |
+| 2026-11-27 | `d4869a1` | stories shared / Instagram pause |
+| 2026-11-27 | `9f4a324` | stories shared / Instagram pause |
+| 2026-11-27 | `3128aa9` | stories shared / Instagram pause |
+| 2026-11-27 | `cc34497` | stories shared / Instagram pause |
+| 2026-11-27 | `7c1852a` | stories shared / Instagram pause |
+| 2026-11-27 | `55f16f6` | stories shared / Instagram pause |
+| 2026-11-27 | `112f592` | stories shared / Instagram pause |
+| 2026-11-27 | `79a146a` | stories shared / Instagram pause |
+| 2026-11-27 | `ee79bad` | stories shared / Instagram pause |
+| 2026-11-27 | `49bf7c6` | stories shared / Instagram pause |
+| 2026-11-27 | `1252bb2` | stories shared / Instagram pause |
+| 2026-11-27 | `b2bd5c0` | stories shared / Instagram pause |
+| 2026-11-27 | `ddfda3d` | stories shared / Instagram pause |
+| 2026-11-27 | `931c8a2` | stories shared / Instagram pause |
+| 2026-11-27 | `890c1f3` | stories shared / Instagram pause |
+| 2026-11-27 | `68e7b19` | stories shared / Instagram pause |
+| 2026-11-27 | `420a244` | stories shared / Instagram pause |
+| 2026-11-27 | `1820941` | stories shared / Instagram pause |
+| 2026-11-27 | `f43dd66` | stories shared / Instagram pause |
+| 2026-11-27 | `f910f8b` | stories shared / Instagram pause |
+| 2026-11-27 | `698535d` | stories shared / Instagram pause |
+| 2026-11-27 | `4153af3` | stories shared / Instagram pause |
+| 2026-11-27 | `03f4d0d` | stories shared / Instagram pause |
+| 2026-11-27 | `808549a` | stories shared / Instagram pause |
+| 2026-11-27 | `8a26d0f` | stories shared / Instagram pause |
+| 2026-11-27 | `924bc0d` | stories shared / Instagram pause |
+| 2026-11-27 | `ab847c4` | stories shared / Instagram pause |
+| 2026-11-27 | `c2f8d5d` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
