@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:22+05:30",
+ "updated": "2026-11-28T00:25+05:30",
  "posts_measured": 285,
  "topic_weight": {
   "crime": 1.5,
@@ -13,6 +13,22 @@
   "poultry_agri": -0.5,
   "sports_culture": -0.5
  },
+ "topic_10k_share": {
+  "crime": 0.29,
+  "weather": 0.0,
+  "civic": 0.0,
+  "accident": 0.23,
+  "education": 0.07,
+  "temple": 0.09,
+  "politics": 0.0,
+  "power_cut": 0.0,
+  "poultry_agri": 0.0,
+  "sports_culture": 0.0
+ },
+ "urgent_topics": [
+  "accident",
+  "crime"
+ ],
  "topic_n": {
   "crime": 48,
   "weather": 12,

@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-27T22:22:08.216591+05:30",
+ "last_end": "2026-11-28T00:25:38.021751+05:30",
  "pool": {
   "C78c565e": {
    "id": "C78c565e",
@@ -24,39 +24,46 @@
    "score": 12.5,
    "power_cut": false,
    "listed_at": "2026-11-27T08:27:50.254332+05:30"
+  },
+  "C4b872bc": {
+   "id": "C4b872bc",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/is-there-water-for-a-special-dip/4387455",
+   "title": "சிறப்பு நனைப்புக்கு தண்ணீரா? அமைச்சரை அணுக யோசனை",
+   "summary": "ஈரோடு:பவானிசாகர் அணையில் இருந்து கீழ்பவானி வாய்க்காலில் புன்செய் போக பாசனத்துக்கு டிச., 15 முதல் ஏப்., 15 வரை பாசனத்துக்கு, சுழற்சியில் முறையில் தண்ணீர் விடவும், முன்னதாக முதல் போக பாசன பகுதிக்கு, 20 நாள் சிறப்பு நனைப...",
+   "source": "தினமலர்",
+   "published": "2026-11-27T06:49:00+05:30",
+   "category": "பொது",
+   "score": 7.0,
+   "power_cut": false,
+   "late_listed": true,
+   "listed_at": "2026-11-28T00:25:38.021751+05:30"
+  },
+  "C7acbe89": {
+   "id": "C7acbe89",
+   "url": "https://www.dinamalar.com/news/tamil-nadu-news/additional-time-for-production-of-free-dhoti-sarees/4388080",
+   "title": "இலவச வேட்டி சேலை உற்பத்திக்கு கூடுதல் அவகாசம்",
+   "summary": "ஈரோடு: ஈரோடு பஸ் ஸ்டாண்டில், கைத்தறி, துணிநுால் மற்றும் கதர் துறை அமைச்சர் விஜய் பாலாஜி நேற்று ஆய்வு மேற்கொண்டார். பஸ் ஸ்டாண்ட் அருகில் கட்டப்பட்டு வரும் ஒருங்கிணைந்த காய்கறி மார்க்கெட் கட்டுமான பணிகளை பார்வையிட்டார்.",
+   "source": "தினமலர்",
+   "published": "2026-11-27T23:28:38+05:30",
+   "category": "பொது",
+   "score": 6.0,
+   "power_cut": false,
+   "listed_at": "2026-11-28T00:25:38.021751+05:30"
+  },
+  "C91e604a": {
+   "id": "C91e604a",
+   "url": "https://tamil.oneindia.com/news/erode/tvk-bhavanisagar-mla-tamilselvi-hospitalised-due-to-ill-health-848835.html",
+   "title": "தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று சந்தித்த அமைச்சர்கள்!",
+   "summary": "ஈரோடு: பவானிசாகர் தொகுதி தவெக எம்.எல்.ஏ தமிழ்ச்செல்வி, உடல்நலக் குறைவால் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார். அவரை தவெக அமைச்சர்கள் செங்கோட்டையன், சரத்குமார், கமலி உள்ளிட்டோர் மருத்துவமனைக்கு நேரில் சென்று பார்த்து...",
+   "source": "ஒன்இந்தியா",
+   "published": "2026-11-27T23:00:49+05:30",
+   "category": "பொது",
+   "score": 2.7800000000000002,
+   "power_cut": false,
+   "listed_at": "2026-11-28T00:25:38.021751+05:30"
   }
  },
  "rounds": {
-  "2026-11-25_22": {
-   "window": [
-    "2026-11-25T22:26:38.986240+05:30",
-    "2026-11-25T22:57:59.531499+05:30"
-   ],
-   "ids": [
-    "Cc92e573",
-    "Cb684fd8",
-    "Cba9c119"
-   ],
-   "sent": false,
-   "deadline": "2026-11-25T23:57:59.531499+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 3 by insights",
-    "ids": [
-     "Cc92e573",
-     "Cba9c119",
-     "Cb684fd8"
-    ],
-    "at": "2026-11-25T22:58:40.673837+05:30"
-   },
-   "written": [
-    "Cb684fd8",
-    "Cba9c119",
-    "Cc92e573"
-   ],
-   "refused": {
-    "Cb684fd8": "not filed: all free models failed: no usable answer from the models"
-   }
-  },
   "2026-11-26_01": {
    "window": [
     "2026-11-25T22:57:59.531499+05:30",
@@ -584,23 +591,26 @@
     "at": "2026-11-27T22:33:11.184790+05:30"
    },
    "written": []
+  },
+  "2026-11-28_00": {
+   "window": [
+    "2026-11-27T22:22:08.216591+05:30",
+    "2026-11-28T00:25:38.021751+05:30"
+   ],
+   "ids": [
+    "C4b872bc",
+    "C7acbe89",
+    "C91e604a",
+    "C96b0978",
+    "C78c565e"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T01:25:38.021751+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
-  "https://www.dinamalar.com/news/world-tamil-news/indians-are-top-in-immigration-and-exit-to-uk/4387231": {
-   "it": {
-    "key": "CBMiowFBVV95cUxPdVRsUFVhbHJDclowRklIc1YzRjdJSzZzNTZSRE9VNDJlZUE4a2ZSQU8wZTFWRWxIZ3plbE0wYXdJb2g5YlFHUTU5OTFGd3A4TmJCV1pZNHhqXzh2TTJNR2NsR01XbGVQNlJ4UElyMFhWYTlCQ0JEQ2p2WGV1ZEZsWlUxTzc4MnFJWkhPbm93RUl4Z3M0cWdVNHIza0kzTlFuSHkw",
-    "url": "https://www.dinamalar.com/news/world-tamil-news/indians-are-top-in-immigration-and-exit-to-uk/4387231",
-    "title": "பிரிட்டனுக்கு குடியேறுவதிலும் வெளியேறுவதிலும் இந்தியர்களே `டாப்'",
-    "site": "https://www.dinamalar.com",
-    "source": "Dinamalar",
-    "published": "2026-11-26T21:30:37+05:30",
-    "via": "google",
-    "query": "ஈரோடு site:dinamalar.com",
-    "snippet": " பிரிட்டனுக்கு குடியேறுவதிலும் வெளியேறுவதிலும் இந்தியர்களே `டாப்'    Dinamalar "
-   },
-   "first": "2026-11-26T22:28:38.090343+05:30"
-  },
   "https://tamil.news18.com/tamil-nadu/election-can-be-held-in-ambasamudram-perundurai-constituencies-high-court-vjr-ws-l-2263121.html": {
    "it": {
     "key": "https://tamil.news18.com/tamil-nadu/election-can-be-held-in-ambasamudram-perundurai-constituencies-high-court-vjr-ws-l-2263121.html",
@@ -627,6 +637,84 @@
     "snippet": " \"அம்பாசமுத்திரம், பெருந்துறை தொகுதிகளில் இடைத்தேர்தலை நடத்தலாம்\" | Ambasamudram by-election    News18 Tamil "
    },
    "first": "2026-11-27T20:26:54.962723+05:30"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/are-you-going-to-apply-to-the--office-feel-free-to-get-foot-pain/4387454": {
+   "it": {
+    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/are-you-going-to-apply-to-the--office-feel-free-to-get-foot-pain/4387454",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/are-you-going-to-apply-to-the--office-feel-free-to-get-foot-pain/4387454",
+    "title": "",
+    "source": "தினமலர்",
+    "published": "",
+    "via": "dinamalar-list",
+    "query": "district list",
+    "snippet": ""
+   },
+   "first": "2026-11-28T00:25:38.021751+05:30"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/repair-of-damaged-karunanidhi-statues/4387447": {
+   "it": {
+    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/repair-of-damaged-karunanidhi-statues/4387447",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/repair-of-damaged-karunanidhi-statues/4387447",
+    "title": "",
+    "source": "தினமலர்",
+    "published": "",
+    "via": "dinamalar-list",
+    "query": "district list",
+    "snippet": ""
+   },
+   "first": "2026-11-28T00:25:38.021751+05:30"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/agriculture-department-issues-advisory-to-farmers-against-gold-flag/4387465": {
+   "it": {
+    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/agriculture-department-issues-advisory-to-farmers-against-gold-flag/4387465",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/agriculture-department-issues-advisory-to-farmers-against-gold-flag/4387465",
+    "title": "",
+    "source": "தினமலர்",
+    "published": "",
+    "via": "dinamalar-list",
+    "query": "district list",
+    "snippet": ""
+   },
+   "first": "2026-11-28T00:25:38.021751+05:30"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/adoption-of-the-pledge-of-allegiance-on-constitution-day-of-india/4387462": {
+   "it": {
+    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/adoption-of-the-pledge-of-allegiance-on-constitution-day-of-india/4387462",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/adoption-of-the-pledge-of-allegiance-on-constitution-day-of-india/4387462",
+    "title": "",
+    "source": "தினமலர்",
+    "published": "",
+    "via": "dinamalar-list",
+    "query": "district list",
+    "snippet": ""
+   },
+   "first": "2026-11-28T00:25:38.021751+05:30"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/successful-house-building-project-report-in-gram-sabha/4387461": {
+   "it": {
+    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/successful-house-building-project-report-in-gram-sabha/4387461",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/successful-house-building-project-report-in-gram-sabha/4387461",
+    "title": "",
+    "source": "தினமலர்",
+    "published": "",
+    "via": "dinamalar-list",
+    "query": "district list",
+    "snippet": ""
+   },
+   "first": "2026-11-28T00:25:38.021751+05:30"
+  },
+  "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/61--rainfall-in-bhavani/4387459": {
+   "it": {
+    "key": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/61--rainfall-in-bhavani/4387459",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/61--rainfall-in-bhavani/4387459",
+    "title": "",
+    "source": "தினமலர்",
+    "published": "",
+    "via": "dinamalar-list",
+    "query": "district list",
+    "snippet": ""
+   },
+   "first": "2026-11-28T00:25:38.021751+05:30"
   }
  },
  "seen": {
@@ -710,19 +798,19 @@
   "G54e518f13f": "2026-11-27T16:44 D",
   "Gb814b539b2": "2026-11-27T16:44 D",
   "G9a43857986": "2026-11-27T16:44 D",
-  "C86b2ba9": "2026-11-27T16:44 already posted",
+  "C86b2ba9": "2026-11-27T16:44 could not open (HTTPSConnectionPool(host",
   "C4bb23d9": "2026-11-27T16:44 already posted",
-  "C2705d2f": "2026-11-27T16:44 already posted",
+  "C2705d2f": "2026-11-27T16:44 could not open (HTTPSConnectionPool(host",
   "Ce23ed51": "2026-11-27T16:44 already posted",
   "C3995856": "2026-11-27T16:44 already posted",
   "Ce711f90": "2026-11-27T16:44 already posted",
   "C9b68e81": "2026-11-27T16:44 already posted",
   "C6a41263": "2026-11-27T16:44 already posted",
-  "C0bb08dd": "2026-11-27T16:44 already posted",
+  "C0bb08dd": "2026-11-27T16:44 could not open (HTTPSConnectionPool(host",
   "Ce8723ef": "2026-11-27T16:44 already posted",
-  "C58f4d83": "2026-11-27T16:44 already posted",
-  "Cfeee4e5": "2026-11-27T16:44 already posted",
-  "C751ae7f": "2026-11-27T16:44 already posted",
+  "C58f4d83": "2026-11-27T16:44 could not open (HTTPSConnectionPool(host",
+  "Cfeee4e5": "2026-11-27T16:44 could not open (HTTPSConnectionPool(host",
+  "C751ae7f": "2026-11-27T16:44 could not open (HTTPSConnectionPool(host",
   "Ca2033e6": "2026-11-27T16:44 same event already posted",
   "Cf7802f3": "2026-11-27T16:44 not Erode district",
   "C58d5535": "2026-11-27T16:44 already posted",
@@ -896,6 +984,62 @@
   "C9955559": "2026-11-27T20:26 not Erode district",
   "Cbb2f491": "2026-11-27T22:22 already posted",
   "Cf5e82bd": "2026-11-27T22:22 already posted",
-  "C7b4e6ed": "2026-11-27T22:22 already posted"
+  "C7b4e6ed": "2026-11-27T22:22 already posted",
+  "Ge6738856c9": "2026-11-28T00:25 D",
+  "Gdbb31f592f": "2026-11-28T00:25 D",
+  "Gcb0dbcaa28": "2026-11-28T00:25 D",
+  "Gfd377351a3": "2026-11-28T00:25 D",
+  "G3dee841a35": "2026-11-28T00:25 D",
+  "Ge561fa2389": "2026-11-28T00:25 D",
+  "G21b61467ac": "2026-11-28T00:25 D",
+  "G6ee6517ca9": "2026-11-28T00:25 D",
+  "G66b698d8e4": "2026-11-28T00:25 D",
+  "G87c9f8a247": "2026-11-28T00:25 D",
+  "Geb21874cb2": "2026-11-28T00:25 D",
+  "G4b2b9d2af8": "2026-11-28T00:25 D",
+  "G3c6f59d3fd": "2026-11-28T00:25 D",
+  "G4b32079dbd": "2026-11-28T00:25 D",
+  "Gc95f3cd181": "2026-11-28T00:25 D",
+  "Gb30736ef88": "2026-11-28T00:25 D",
+  "G571de20f3e": "2026-11-28T00:25 D",
+  "G38afeb26e8": "2026-11-28T00:25 D",
+  "Gb2b12a96c5": "2026-11-28T00:25 D",
+  "Gc1f3d4cf76": "2026-11-28T00:25 D",
+  "G66a3756f80": "2026-11-28T00:25 D",
+  "Gc882313fe4": "2026-11-28T00:25 D",
+  "G86676cd284": "2026-11-28T00:25 D",
+  "Gabfada28cc": "2026-11-28T00:25 D",
+  "Gad02b3ac4d": "2026-11-28T00:25 D",
+  "G15e03f3781": "2026-11-28T00:25 D",
+  "Ge12b6f888a": "2026-11-28T00:25 D",
+  "Gc8f3970147": "2026-11-28T00:25 D",
+  "Gbacbd5cdcd": "2026-11-28T00:25 D",
+  "G0f527ef29a": "2026-11-28T00:25 D",
+  "Gbb9070ae82": "2026-11-28T00:25 D",
+  "Gb2a8c19293": "2026-11-28T00:25 D",
+  "Gbf656a3bfa": "2026-11-28T00:25 D",
+  "G9634495f30": "2026-11-28T00:25 D",
+  "G86c010ed4e": "2026-11-28T00:25 D",
+  "G888aaa3cac": "2026-11-28T00:25 D",
+  "Ga2afff0c6a": "2026-11-28T00:25 D",
+  "Gc1744cac73": "2026-11-28T00:25 D",
+  "Gfd84473176": "2026-11-28T00:25 D",
+  "Cca5dcf3": "2026-11-28T00:25 already posted",
+  "C162bad5": "2026-11-28T00:25 not Erode district",
+  "C5158b10": "2026-11-28T00:25 not Erode district",
+  "C8efa949": "2026-11-28T00:25 not Erode district",
+  "C02dfeac": "2026-11-28T00:25 not Erode district",
+  "C2e7569f": "2026-11-28T00:25 not Erode district",
+  "Cd637db3": "2026-11-28T00:25 only a headline",
+  "Cbb21008": "2026-11-28T00:25 only a headline",
+  "Cbe05d20": "2026-11-28T00:25 not Erode district",
+  "Cfa7001c": "2026-11-28T00:25 not Erode district",
+  "C1cc065c": "2026-11-28T00:25 already posted",
+  "C95ad19b": "2026-11-28T00:25 already posted",
+  "Cb064106": "2026-11-28T00:25 already posted",
+  "Cae2bb21": "2026-11-28T00:25 not Erode district",
+  "C9bd65a3": "2026-11-28T00:25 not Erode district",
+  "Cfe78b0f": "2026-11-28T00:25 not Erode district",
+  "Cdecc0e4": "2026-11-28T00:25 not Erode district"
  }
 }

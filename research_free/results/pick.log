@@ -1,37 +1,33 @@
-22:22:08 round 2026-11-27_22: news published 27 Nov 20:26 -> 27 Nov 22:22 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
-22:22:08    + news published since 26 Nov 22:22 that no earlier round found (listed / indexed late) - never one already listed or posted
-22:22:08 insights 2026-11-27T22:22+05:30 (285 reels): topic weights {'crime': 1.5, 'weather': -0.49, 'civic': -0.5, 'accident': 0.97, 'education': -0.5, 'temple': -0.29, 'politics': -0.22, 'power_cut': 0.39, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
-22:32:24 from_google dinamalar.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google dinamani.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google dinamalar.com 'கோபி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google dinamani.com 'கோபி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google dinamalar.com 'சத்தியமங்கலம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google dinamani.com 'சத்தியமங்கலம்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google tamil.oneindia.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google dinakaran.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google dailythanthi.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google maalaimalar.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google hindutamil.in 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 from_google polimernews.com 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 open search from_google 'ஈரோடு' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 open search 'ஈரோடு' (from_bing): 5 links from our outlets
-22:32:24 town search from_google 'அந்தியூர்' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 town search from_google 'கொடுமுடி' failed: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc
-22:32:24 town searches (கோபி, சத்தியமங்கலம், பவானி, பெருந்துறை, அந்தியூர் (+Google), கொடுமுடி (+Google), மொடக்குறிச்சி, தாளவாடி): 9 links from our outlets
-22:32:24 search links: 0 Google links decoded, 0 not decoded, 0 known from an earlier round, 0 left for the next round, 16 of another district by their headline (not opened)
-22:32:24 87 links on the two papers' Erode pages
-22:33:09 skipped: published before this window=41, already posted=27, state-wide / other district=6, not Erode district=3, checked in an earlier round=3, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, same event already posted=1, could not open (404 Client Error: Not Found for url: https://www.d)=1
-22:33:09    drop [already posted] பவானி ஆற்றங்கரையில் 48 நாட்கள் யானைகள் புத்துணர்வு முகாம் | maalaimalar.com/news/tamilnadu/elephants-welfare-camp-in-bhavani-river
-22:33:09    drop [already posted] அம்பாசமுத்திரம், பெருந்துறை இடைத்தேர்தலுக்கான தடை நீக்கம்: உ | dinamani.com/tamilnadu/2026/...tions-for-ambasamudram-and-perunduraii
-22:33:09    drop [already posted] 2 தொகுதிகளுக்கு மட்டும் இடைத்தேர்தலுக்கான தடை நீக்கம்..! - உ | polimernews.com/tamilnadunew...two-constituencies-high-court-12845251
-22:33:09 list: 0 new + 2 earlier news not posted yet
-22:33:09    1. [குற்றம்] கேஷியர் தற்கொலை (தினமலர்) (earlier)
-22:33:09    2. [பொது] குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது (தினமணி) (earlier)
-22:33:09 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-27_22
-22:33:11    not picked automatically (suicide / obituary - only when the owner ticks it): கேஷியர் தற்கொலை
-22:33:11    not picked automatically (ceremony / award / awareness event (low views)): குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது
-22:33:11 round 2026-11-27_22 (at least 3, up to 3 more of well-watched topics): 0 news to choose from (0 from earlier rounds), ranked by this page's insights
-22:33:11 decided: automatic: top 3 of 0 by insights -> 0 news to write and post
-PICK_URLS=
-22:33:16 verify 2026-11-27_22: 0 of 0 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+00:25:38 round 2026-11-28_00: news published 27 Nov 22:22 -> 28 Nov 00:25 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
+00:25:38    + news published since 27 Nov 00:25 that no earlier round found (listed / indexed late) - never one already listed or posted
+00:25:38 insights 2026-11-28T00:25+05:30 (285 reels): topic weights {'crime': 1.5, 'weather': -0.49, 'civic': -0.5, 'accident': 0.97, 'education': -0.5, 'temple': -0.29, 'politics': -0.22, 'power_cut': 0.39, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
+00:27:07 open search 'ஈரோடு' (from_google): 21 links from our outlets
+00:27:07 town searches (கோபி (+Google), சத்தியமங்கலம் (+Google), பவானி, பெருந்துறை, அந்தியூர், கொடுமுடி, மொடக்குறிச்சி, தாளவாடி): 14 links from our outlets
+00:27:07 search links: 29 Google links decoded, 0 not decoded, 65 known from an earlier round, 0 left for the next round, 15 of another district by their headline (not opened)
+00:27:07 104 links on the two papers' Erode pages
+00:36:04 skipped: published before this window=40, already posted=22, not Erode district=14, could not open (HTTPSConnectionPool(host='www.dinamalar.com', port)=6, state-wide / other district=6, checked in an earlier round=5, only a headline=4, could not open (403 Client Error: Forbidden for url: https://tamil)=2, same event already posted=1
+00:36:04    drop [already posted] சத்தியமங்கலம் மார்க்கெட்டில் மல்லிகை கிலோ ரூ.1,960-க்கு ஏலம் | dailythanthi.com/amp/story/n...e-price-rose-by-rs-520-in-a-single-day
+00:36:04    drop [not Erode district] சிறுமலை சுற்றுலா திட்டம் அறிவிப்பு | dinamalar.com/news/tamil-nad...-of-girl-child-tourism-project/4388070
+00:36:04    drop [not Erode district] தமிழ்நாட்டின் அனைத்து மாவட்டங்களிலும் மத நல்லிணக்கம், மக்கள் | dinakaran.com/news/leftwing_parties_religious_harmony_rally
+00:36:04    drop [not Erode district] தொகுதி மறுவரையறை மசோதாவை குறுக்கு வழியில் ஒன்றிய பாஜ அரசு நி | dinakaran.com/news/delimitation_bill_manickamtagore
+00:36:04    drop [not Erode district] மகசூலை அதிகரிக்க உதவும் ‘தென்னை டானிக்’: வேர் வழியாக செலுத்த | dinamalar.com/news/tamil-nad...ion-to-be-applied-through-root/4387804
+00:36:04    drop [not Erode district] ஐகோர்ட், மகளிர் ஆணையம் சீற்றத்தால் அருள் விக்னேஷ் கைது; சொல் | dinamalar.com/news/tamil-nad...mens-commission-outrage-stalin/4387765
+00:36:04    drop [only a headline] பெண் ஐஏஎஸ் அதிகாரிக்கு ஆபாச மெசேஜ் அனுப்பியதாக வழக்கு; தவெக  | dinakaran.com/news/tvkmla_arulvignesh_arrested
+00:36:04    drop [only a headline] மும்பை இந்தியன்ஸ் அணியின் புதிய கேப்டன் ரோஹித் சர்மா - Dinak | dinakaran.com/news/captain_rohit_sharma
+00:36:04    drop [not Erode district] தீபத்தூண் விவகாரத்தில் பிடிவாதம் விட்டு, கோர்ட் உத்தரவை மதிய | dinamalar.com/news/tamil-nad...issue-of-fire-annamalai-advice/4387632
+00:36:04    drop [not Erode district] பஞ்சாபில் கோசாலைகளுக்கு ரூ.100 கோடி உடனடி ஒதுக்கீடு | dinamalar.com/news/india-tam...ocation-for-goshalas-in-punjab/4387542
+00:36:04    drop [already posted] அரசு அலுவலர் பயிற்சி நிலையத்தில் நவீன சமையல் கூடம் திறப்பு | dinamalar.com/news/tamil-nad...nt-officers-training-institute/4387456
+00:36:04    drop [already posted] 6 மாதம் அவகாசம் நீட்டிப்பு கன்டிஷன் பட்டா பெற அழைப்பு | dinamalar.com/news/tamil-nad...nths-neet-tipu-condition-patta/4387453
+00:36:04    drop [already posted] மனைவியிடம் குடும்ப தகராறு ஐ.டி., ஊழியர் விபரீத முடிவு | dinamalar.com/news/tamil-nad...yee-ends-family-feud-with-wife/4387449
+00:36:04    drop [not Erode district] பாவூா்சத்திரம் பகுதிகளில் மிதமான மழை | dinamani.com/tenkasi/2026/No...E%E0%AE%A9-%E0%AE%AE%E0%AE%B4%E0%AF%88
+00:36:04    drop [not Erode district] வழிப்பறி, கொலை முயற்சி வழக்குகள்: 6 பேருக்கு 7 ஆண்டுகள் சிறை | dinamani.com/all-editions/ed...ear-prison-sentences-for-6-individuals
+00:36:04    drop [not Erode district] பரோடா வங்கியின் ‘கிசான் பக்வாடா’ திட்டத்தின் 9-ஆவது பதிப்பு  | dinamani.com/trade/2026/Nov/...das-kisan-pakhwada-initiative-launched
+00:36:04    drop [not Erode district] போத்தனூா் வழித்தடத்தில் எா்ணாகுளம்- கயா இடையே சிறப்பு ரயில் | dinamani.com/all-editions/ed...gayavia-the-podanur-routesend-feedback
+00:36:04 list: 3 new + 2 earlier news not posted yet
+00:36:04    1. [பொது] சிறப்பு நனைப்புக்கு தண்ணீரா? அமைச்சரை அணுக யோசனை (தினமலர்) (published 27 Nov 06:49, found only now)
+00:36:04    2. [பொது] இலவச வேட்டி சேலை உற்பத்திக்கு கூடுதல் அவகாசம் (தினமலர்)
+00:36:04    3. [பொது] தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று சந்தித்த அம (ஒன்இந்தியா)
+00:36:04    4. [குற்றம்] கேஷியர் தற்கொலை (தினமலர்) (earlier)
+00:36:04    5. [பொது] குடவாயில் பாலசுப்ரமணியனுக்கு பாரதி விருது (தினமணி) (earlier)
+00:36:04 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_00
