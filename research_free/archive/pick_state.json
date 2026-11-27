@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-27T04:40:51.620915+05:30",
+ "last_end": "2026-11-27T06:15:38.651168+05:30",
  "pool": {
   "C741fbcc": {
    "id": "C741fbcc",
@@ -26,63 +26,21 @@
    "score": 2.5,
    "power_cut": false,
    "listed_at": "2026-11-27T01:16:50.065670+05:30"
+  },
+  "C58d5535": {
+   "id": "C58d5535",
+   "url": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/demand-to-release-water-for-15-days-as-a-special-irrigation-spell-for-the-first-crop-season-in-the-lower-bhavani-project-area",
+   "title": "கீழ்பவானி முதல் போக பாசனத்துக்கு சிறப்பு நனைப்பாக 15 நாள்களுக்கு தண்ணீா் திறக்க வலியுறுத்தல்",
+   "summary": "கீழ்பவானி முதல் போக பாசனத்துக்கு சிறப்பு நனைப்பாக உடனடியாக 15 நாள்களுக்கு தண்ணீா் திறக்க வேண்டும் என விவசாயிகள் வலியுறுத்தினா்..மாவட்ட அளவிலான வேளாண் குறைதீா் கூட்டம் மாவட்ட ஆட்சியா் ச.கந்தசாமி தலைமையில் ஆட்சியா் அலுவ...",
+   "source": "தினமணி",
+   "published": "2026-11-27T00:11:00.000Z",
+   "category": "பொது",
+   "score": 3.0,
+   "power_cut": false,
+   "listed_at": "2026-11-27T06:15:38.651168+05:30"
   }
  },
  "rounds": {
-  "2026-11-25_06": {
-   "window": [
-    "2026-11-25T05:07:06.317208+05:30",
-    "2026-11-25T06:31:10.457303+05:30"
-   ],
-   "ids": [
-    "C969f0a6",
-    "Cad2ab41",
-    "C97f41d9",
-    "Ccf0bda3",
-    "C233b671",
-    "C13a2ce2",
-    "C68cdcbe",
-    "C56f96f7",
-    "Cd674751"
-   ],
-   "sent": false,
-   "deadline": "2026-11-25T07:31:10.457303+05:30",
-   "decided": {
-    "how": "automatic: top 7 of 9 by insights",
-    "ids": [
-     "C969f0a6",
-     "C97f41d9",
-     "Cad2ab41",
-     "Ccf0bda3",
-     "C233b671",
-     "C13a2ce2",
-     "C68cdcbe",
-     "C56f96f7",
-     "Cd674751"
-    ],
-    "at": "2026-11-25T06:33:51.573500+05:30"
-   },
-   "written": [
-    "C13a2ce2",
-    "C233b671",
-    "C56f96f7",
-    "C68cdcbe",
-    "C969f0a6",
-    "C97f41d9",
-    "Cad2ab41",
-    "Ccf0bda3",
-    "Cd674751"
-   ],
-   "refused": {
-    "C56f96f7": "not filed: all free models failed: no usable answer from the models",
-    "C13a2ce2": "not filed: all free models failed: no usable answer from the models",
-    "C233b671": "not filed: all free models failed: no usable answer from the models",
-    "Ccf0bda3": "not filed: all free models failed: no usable answer from the models",
-    "Cad2ab41": "not filed: all free models failed: no usable answer from the models",
-    "C97f41d9": "not filed: all free models failed: no usable answer from the models",
-    "C969f0a6": "not filed: all free models failed: no usable answer from the models"
-   }
-  },
   "2026-11-25_08": {
    "window": [
     "2026-11-25T06:31:10.457303+05:30",
@@ -544,6 +502,20 @@
     "ids": [],
     "at": "2026-11-27T04:41:46.864747+05:30"
    },
+   "written": []
+  },
+  "2026-11-27_06": {
+   "window": [
+    "2026-11-27T04:40:51.620915+05:30",
+    "2026-11-27T06:15:38.651168+05:30"
+   ],
+   "ids": [
+    "C58d5535",
+    "C78c565e"
+   ],
+   "sent": false,
+   "deadline": "2026-11-27T07:15:38.651168+05:30",
+   "decided": null,
    "written": []
   }
  },
