@@ -1,0 +1,115 @@
+writing [N]: சத்தியமங்கலம் மார்க்கெட்டில் மல்லிகை கிலோ ரூ.1,960-க்கு ஏலம்
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (15s)
+attempt 1 gemini/gemini-3.6-flash: 2 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 135 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 1,200 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 560 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 500 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 170 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 160 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (19s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.6-flash (7s)
+factcheck by gemini/gemini-3.6-flash: 1 problems
+  Slide 1 line 2 is an incomplete sentence in Tamil ('முந்தைய நாள் ரூ.1,440-க்கு விற்ற நிலையில் ஒரே நாளில்')
+attempt 2 gemini/gemini-3.6-flash: 1 problems
+  fact-check: Slide 1 line 2 is an incomplete sentence in Tamil ('முந்தைய நாள் ரூ.1,440-க்கு விற்ற நிலையில் ஒரே நாளில்')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.6-flash: Expecting ',' delimiter: line 1 column 1158 (char 1157)
+poor answer - skipped for 30 min: gemini/gemini-3.6-flash
+ok gemini/gemini-3.5-flash (16s)
+attempt 3 gemini/gemini-3.5-flash: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,440 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 1,200 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 560 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 500 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 170 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 160 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.5-flash (12s)
+attempt 4 gemini/gemini-3.5-flash: 2 problems
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 40 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 26 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 20 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 50 ('அதேசமயம், கனகாம்பரம் கிலோவுக்கு ரூ.100-ம், அரளி ரூ.50-ம், செ'); 20 ('அதேசமயம், கனகாம்பரம் கிலோவுக்கு ரூ.100-ம், அரளி ரூ.50-ம், செ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.5-flash (14s)
+attempt 5 gemini/gemini-3.5-flash: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,440 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 1,200 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 560 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 500 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 170 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 160 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (13s)
+attempt 6 gemini/gemini-3.5-flash: 1 problems
+  reel_script has 75 words; need 84-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (15s)
+attempt 7 gemini/gemini-3.5-flash: 2 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 135 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 120 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 60 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 1,440 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 1,200 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 560 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3.5-flash (13s)
+attempt 8 gemini/gemini-3.5-flash: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 40 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 26 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 20 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 50 ('அதேசமயம், கனகாம்பரம் கிலோவுக்கு ரூ.100-ம், அரளி ரூ.50-ம், செ'); 20 ('அதேசமயம், கனகாம்பரம் கிலோவுக்கு ரூ.100-ம், அரளி ரூ.50-ம், செ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok gemini/gemini-3.5-flash (17s)
+attempt 9 gemini/gemini-3.5-flash: 2 problems
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,440 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 1,200 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 560 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 500 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 170 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 160 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+ok gemini/gemini-3-flash-preview (11s)
+attempt 10 gemini/gemini-3-flash-preview: 2 problems
+  hl1 (the first headline on screen) must name the place 'சத்தியமங்கலம்', e.g. 'சத்தியமங்கலம்: ...' or 'சத்தியமங்கலம்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 40 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 26 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 20 ('இதேபோல் காக்கடா ரூ.100-ம், முல்லைப்பூ ரூ.40-ம், செண்டுமல்லி '); 50 ('அதேசமயம், கனகாம்பரம் கிலோவுக்கு ரூ.100-ம், அரளி ரூ.50-ம், செ'); 20 ('அதேசமயம், கனகாம்பரம் கிலோவுக்கு ரூ.100-ம், அரளி ரூ.50-ம், செ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has numbers without their meaning (,100); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,200 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 560 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 500 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 170 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 160 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 80 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  reel_script has numbers without their meaning (,100); write what each number is: '15 வயது', '30 பாட்டில்கள்', 'அக்டோபர் 26ஆம் தேதி'
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 1,200 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 560 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 500 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 170 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 160 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 80 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ')
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 7 ('இங்கு தினமும் காலை 7 மணி முதல் மாலை 5 மணி வரை பூக்கள் ஏலம் ந'); 5 ('இங்கு தினமும் காலை 7 மணி முதல் மாலை 5 மணி வரை பூக்கள் ஏலம் ந')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (12s)
+proofread rejected (4 problems)
+  hl1 is 48 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 7
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 7 ('இங்கு தினமும் காலை 7 மணி முதல் மாலை 5 மணி வரை பூக்கள் ஏலம் ந'); 5 ('இங்கு தினமும் காலை 7 மணி முதல் மாலை 5 மணி வரை பூக்கள் ஏலம் ந'); 1,200 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 560 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 500 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ'); 170 ('அதன்படி, நேற்று நடைபெற்ற ஏலத்திற்காக சத்தியமங்கலம் மற்றும் அ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok gemini/gemini-3-flash-preview (7s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+Cloudflare R2 refused (R2 daily safety limit reached for erode360 (299 MB, 55 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
+images made: 2 for 'Sathyamangalam flower market: jasmine so'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261127-1633","first":"RN-321"}
+posting job started at once
+earlier stories still waiting for images: []
+instagram check: 50 recent posts read from the page
+pick round: only the picked links are written (research_free/pick.py)
+manual link added: https://www.dailythanthi.com/news/tamilnadu/at-the-sathyamangalam-market-jasmine-flowers-were-auctioned-at-rs-1960-per-kilogram-farmers-are-delighted-as-the-price-rose-by-rs-520-in-a-single-day
+candidate filter: collected=1
+to write: 1 Erode district candidates (max 1 stories)
+round: top 1 of 1 candidates
+candidates waiting: 1 Erode; time left 79 min
+try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/at-the-sathyaman
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+posting job started at once
+candidate loop ended: left 0, tried={'N': 1}, done={'N': 1}, time left 74 min
+filed: 1 Erode district stories (target 1), reels only
+queue: 0 news waiting to be written
+All News sheet: {"ok":true,"added":1,"updated":0} 
+stories: 1
