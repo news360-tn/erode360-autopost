@@ -120,11 +120,17 @@
   },
   "erode:RN-317": {
    "day": "2026-11-27",
-   "tries": 2
+   "tries": 3,
+   "how": "failed"
   },
   "erode:RN-310": {
    "day": "2026-11-27",
-   "tries": 2
+   "tries": 3,
+   "how": "failed"
+  },
+  "erode:RN-311": {
+   "day": "2026-11-27",
+   "tries": 1
   }
  }
 }
