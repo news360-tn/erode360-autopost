@@ -1,59 +1,35 @@
-02:26:18 round 2026-11-28_02: news published 28 Nov 00:25 -> 28 Nov 02:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
-02:26:18    + news published since 27 Nov 02:26 that no earlier round found (listed / indexed late) - never one already listed or posted
-02:26:18 insights 2026-11-28T02:26+05:30 (285 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.92, 'education': -0.5, 'temple': -0.32, 'politics': -0.25, 'power_cut': 0.34, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
-02:27:14 open search 'ஈரோடு' (from_google): 16 links from our outlets
-02:27:14 town searches (கோபி, சத்தியமங்கலம், பவானி (+Google), பெருந்துறை (+Google), அந்தியூர், கொடுமுடி, மொடக்குறிச்சி, தாளவாடி): 38 links from our outlets
-02:27:14 search links: 18 Google links decoded, 0 not decoded, 82 known from an earlier round, 0 left for the next round, 11 of another district by their headline (not opened)
-02:27:14 98 links on the two papers' Erode pages
-02:28:10 skipped: published before this window=40, already posted=17, not Erode district=12, state-wide / other district=6, checked in an earlier round=4, same event already posted=2, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2
-02:28:10    drop [not Erode district] போத்தனூா் வழித்தடத்தில் எா்ணாகுளம் - பாட்னா இடையே சிறப்பு ரய | dinamani.com/all-editions/ed...etween-ernakulam-and-patna-via-podanur
-02:28:10    drop [not Erode district] சபரிமலை சீசன்: போத்தனூா் வழியாக சாா்லப்பள்ளி - கொல்லம் இடையே | dinamani.com/all-editions/ed...een-charlapalli-and-kollam-via-podanur
-02:28:10    drop [not Erode district] பள்ளி விளையாட்டு விழா | dinamalar.com/news/tamil-nad...s-theni/school-sports-festival/4388144
-02:28:10    drop [not Erode district] மகா தீபத்திற்கு நெய் கொண்டு செல்லும் குழுவினருக்கு அன்னதானம் | dinamani.com/all-editions/ed...roup-carrying-ghee-for-the-maha-deepam
-02:28:10    drop [same event already posted] அம்பாசமுத்திரம், பெருந்துறை 2 தொகுதிகளில் தேர்தல் நடத்தலாம்: | dinakaran.com/news/elections...constituencies-madrashighcourt-verdict
-02:28:10    drop [not Erode district] ஜெம் கிரானைட் வீரமணி மீதான போக்சோ வழக்கில் தேடப்படும் பிரகாஷ | dinakaran.com/news/prakashs-...-bail-plea-transferred-two-judge-bench
-02:28:10    drop [not Erode district] தமிழ்நாட்டு வரலாற்றில் இல்லாத வகையில் மதநல்லிணக்கம், மாநில உ | dinakaran.com/news/mkstalin-...rnment-creatingdanger-statesovereignty
-02:28:10    drop [not Erode district] மகள் இறந்த மன வருத்தம்: தந்தை தற்கொலை | dinamani.com/all-editions/ed...daughters-death-father-commits-suicide
-02:28:10    drop [not Erode district] பால் உற்பத்தியாளருக்கு மானிய விலையில் தீவனம் | dinamani.com/all-editions/ed...7/subsidized-fodder-for-milk-producers
-02:28:10    drop [not Erode district] பள்ளி மாணவிகளிடம் ஆபாச செய்கை: போக்ஸோவில் இளைஞா் கைது | dinamani.com/all-editions/ed...olgirls-youth-arrested-under-pocso-act
-02:28:10 list: 9 new + 3 earlier news not posted yet
-02:28:10    1. [குற்றம்] அறச்சலூா் அருகே கொலை வழக்கில் ஒருவா் கைது (தினமணி)
-02:28:10    2. [பொது] குட்கா விற்ற 4 கடை மூடல் ரூ.2 லட்சம் அபராதம் விதிப்பு (தினமலர்) (published 27 Nov 06:43, found only now)
-02:28:10    3. [போக்குவரத்து] கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து அமைச்சா் த (தினமணி)
-02:28:10    4. [ஆன்மிகம்] கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அளிக்கக் கூட (தினமணி)
-02:28:10    5. [பொது] பா்கூா் வனப் பகுதியில் ட்ரோன் கேமராவில் விடியோ எடுத்தவருக்கு ரூ.10 ஆயி (தினமணி)
-02:28:10    6. [பொது] பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் அபராதம் (தினமணி)
-02:28:10    7. [பொது] நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா (தினமணி)
-02:28:10    8. [பொது] 5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது அம்பை, பெருந்துற (தினகரன்)
-02:28:10    9. [பொது] கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள் நிகழ்ச்ச (தினமணி)
-02:28:10   10. [குற்றம்] கேஷியர் தற்கொலை (தினமலர்) (earlier)
-02:28:10   11. [பொது] சிறப்பு நனைப்புக்கு தண்ணீரா? அமைச்சரை அணுக யோசனை (தினமலர்) (earlier)
-02:28:10   12. [பொது] தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று சந்தித்த அம (ஒன்இந்தியா) (earlier)
-02:28:10 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_02
-02:28:12    not picked automatically (suicide / obituary - only when the owner ticks it): கேஷியர் தற்கொலை
-02:28:12 round 2026-11-28_02 (at least 1, up to 3 more of well-watched topics): 11 news to choose from (2 from earlier rounds), ranked by this page's insights
-02:28:12   PICK   1.  17.0 [crime +1.50 page] அறச்சலூா் அருகே கொலை வழக்கில் ஒருவா் கைது
-02:28:12          2.   7.0 [other +0.00 pattern] குட்கா விற்ற 4 கடை மூடல் ரூ.2 லட்சம் அபராதம் விதிப்பு
-02:28:12          3.   5.0 [other +0.00 pattern] (earlier) சிறப்பு நனைப்புக்கு தண்ணீரா? அமைச்சரை அணுக யோசனை
-02:28:12          4.   4.0 [other +0.00 pattern] பா்கூா் வனப் பகுதியில் ட்ரோன் கேமராவில் விடியோ எடுத்தவருக்கு
-02:28:12          5.   4.0 [civic -0.50 page] கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-02:28:12          6.   4.0 [other +0.00 pattern] பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் 
-02:28:12          7.   3.7 [temple -0.32 page] கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
-02:28:12          8.   3.0 [other +0.00 pattern] நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா
-02:28:12          9.   2.0 [politics -0.25 page] (earlier) தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று ச
-02:28:12         10.   2.0 [politics -0.25 page] 5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது அம்பை,
-02:28:12         11.   1.0 [poultry_agri -0.50 page] கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள
-02:28:12 decided: automatic: top 1 of 11 by insights -> 1 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/one-person-arrested-in-a-murder-case-near-arachalur
-02:31:51 1 listed news now in the Sheet
-02:32:01 instagram duplicate check erode: 50 recent posts read
-02:32:01 verify 2026-11-28_02: 0 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:32:01    NOT POSTED C09f11fc: queued RN-325 (Queued) - அறச்சலூா் அருகே கொலை வழக்கில் ஒருவா் கைது
-02:37:09 instagram duplicate check erode: 50 recent posts read
-02:37:09 verify 2026-11-28_02: 0 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:37:09    NOT POSTED C09f11fc: queued RN-325 (Queued) - அறச்சலூா் அருகே கொலை வழக்கில் ஒருவா் கைது
-02:42:15 instagram duplicate check erode: 50 recent posts read
-02:42:15 verify 2026-11-28_02: 0 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-02:42:15    NOT POSTED C09f11fc: queued RN-325 (Queued) - அறச்சலூா் அருகே கொலை வழக்கில் ஒருவா் கைது
-02:47:20 verify 2026-11-28_02: 1 of 1 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+04:26:48 round 2026-11-28_04: news published 28 Nov 02:26 -> 28 Nov 04:26 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
+04:26:48    + news published since 27 Nov 04:26 that no earlier round found (listed / indexed late) - never one already listed or posted
+04:26:48 insights 2026-11-28T04:26+05:30 (286 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.93, 'education': -0.5, 'temple': -0.31, 'politics': -0.24, 'power_cut': 0.35, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
+04:27:41 open search 'ஈரோடு' (from_google): 19 links from our outlets
+04:27:41 town searches (கோபி, சத்தியமங்கலம், பவானி, பெருந்துறை, அந்தியூர் (+Google), கொடுமுடி (+Google), மொடக்குறிச்சி, தாளவாடி): 11 links from our outlets
+04:27:41 search links: 17 Google links decoded, 0 not decoded, 80 known from an earlier round, 0 left for the next round, 7 of another district by their headline (not opened)
+04:27:41 100 links on the two papers' Erode pages
+04:28:42 skipped: published before this window=41, already posted=17, not Erode district=10, checked in an earlier round=7, state-wide / other district=6, not Tamil=3, only a headline=2, already listed in an earlier round=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, same event already posted=1
+04:28:42    drop [already posted] இலவச வேட்டி சேலை உற்பத்திக்கு கூடுதல் அவகாசம் | dinamalar.com/news/tamil-nad...roduction-of-free-dhoti-sarees/4388080
+04:28:42    drop [already listed in an earlier round] பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம்  | dinamani.com/all-editions/ed...B0%E0%AE%BE%E0%AE%A4%E0%AE%AE%E0%AF%8D
+04:28:42    drop [already listed in an earlier round] கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள | dinamani.com/all-editions/ed...9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D
+04:28:42    drop [not Erode district] கடை குத்தகை விவகாரம்: வணிகா்களின் கருத்தை கேட்டறிய வேண்டும்  | dinamani.com/all-editions/ed...A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D
+04:28:42    drop [not Erode district] பதவிக்காக கொள்கையை உதறிவிட்டு செல்லும் மானமற்ற, நன்றிகெட்ட க | dinakaran.com/news/nochange-...tance-constituency-redelineation-issue
+04:28:42    drop [not Erode district] பெண் ஐஏஎஸ் அதிகாரி பாலியல் புகார்; தலைமை செயலாளர் மீது விசார | dinakaran.com/news/female-ia...ual-complaint-lawyer-petition-governor
+04:28:42    drop [not Erode district] ஜெம் கிரானைட் வீரமணி மீதான போக்சோ வழக்கில் தேடப்படும் பிரகாஷ | dinakaran.com/news/prakashs-...l-plea-transferred-two-judge-bench/amp
+04:28:42    drop [not Erode district] தமிழ்நாட்டு வரலாற்றில் இல்லாத வகையில் மதநல்லிணக்கம், மாநில உ | dinakaran.com/news/mkstalin-...nt-creatingdanger-statesovereignty/amp
+04:28:42    drop [not Erode district] திருப்புத்தூர் சர்ச் விழா கொடியேற்றத்துடன் துவக்கம் | dinamalar.com/news/tamil-nad...ival-begins-with-flag-hoisting/4388112
+04:28:42    drop [not Tamil] Three girls injured as dilapidated school wall collapses in  | dinamalar.com/news/kalvimala...-wall-collapses-in-up39s-sitapur/62522
+04:28:42    drop [not Tamil] Physician uses Galaxy Watch to help save his mother and moni | dinamalar.com/news/kalvimala...other-and-monitor-his-own-health/62524
+04:28:42    drop [not Tamil] Two-thirds of Indian adolescents have vitamin B12 deficiency | dinamalar.com/news/kalvimala...tamin-b12-deficiency-icmr-survey/62513
+04:28:42    drop [not Erode district] முருகனுக்கு உகந்த கார்த்திகை! - Dinakaran - Dinakaran | dinakaran.com/spirtual_aanmeegam/karthigai-dear-to-lord-murugan
+04:28:42 list: 0 new + 11 earlier news not posted yet
+04:28:42    1. [குற்றம்] கேஷியர் தற்கொலை (தினமலர்) (earlier)
+04:28:42    2. [பொது] குட்கா விற்ற 4 கடை மூடல் ரூ.2 லட்சம் அபராதம் விதிப்பு (தினமலர்) (earlier)
+04:28:42    3. [பொது] சிறப்பு நனைப்புக்கு தண்ணீரா? அமைச்சரை அணுக யோசனை (தினமலர்) (earlier)
+04:28:42    4. [போக்குவரத்து] கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து அமைச்சா் த (தினமணி) (earlier)
+04:28:42    5. [ஆன்மிகம்] கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அளிக்கக் கூட (தினமணி) (earlier)
+04:28:42    6. [பொது] பா்கூா் வனப் பகுதியில் ட்ரோன் கேமராவில் விடியோ எடுத்தவருக்கு ரூ.10 ஆயி (தினமணி) (earlier)
+04:28:42    7. [பொது] பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் அபராதம் (தினமணி) (earlier)
+04:28:42    8. [பொது] நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா (தினமணி) (earlier)
+04:28:42    9. [பொது] தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று சந்தித்த அம (ஒன்இந்தியா) (earlier)
+04:28:42   10. [பொது] 5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது அம்பை, பெருந்துற (தினகரன்) (earlier)
+04:28:42   11. [பொது] கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள் நிகழ்ச்ச (தினமணி) (earlier)
+04:28:42 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_04
