@@ -83,6 +83,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-27 | `2866c4a` | Power cuts: never post a cut that is over; post cancellations and reschedules |
+| 2026-11-27 | `b921867` | stories shared / Instagram pause |
+| 2026-11-27 | `b5ac390` | stories shared / Instagram pause |
+| 2026-11-27 | `9ba4f7b` | stories shared / Instagram pause |
+| 2026-11-27 | `4e69f9e` | stories shared / Instagram pause |
+| 2026-11-27 | `56c32a3` | stories shared / Instagram pause |
 | 2026-11-27 | `db79a34` | Page names as the owner writes them: Tiruppur 360 |
 | 2026-11-27 | `223bbd7` | stories shared / Instagram pause |
 | 2026-11-27 | `7a715a5` | stories shared / Instagram pause |
@@ -107,10 +113,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-27 | `3e6d60d` | stories shared / Instagram pause |
 | 2026-11-27 | `ef44d5b` | pick: picked news saved |
 | 2026-11-27 | `0d5c560` | stories shared / Instagram pause |
-| 2026-11-27 | `ef5ae79` | pick: picked news saved |
-| 2026-11-27 | `bbe5a5b` | pick: list sent |
-| 2026-11-27 | `7de31cd` | stories shared / Instagram pause |
-| 2026-11-27 | `a828fa7` | stories shared / Instagram pause |
-| 2026-11-27 | `793ba57` | pick: written and posted |
-| 2026-11-27 | `a854910` | facebook RN-321 |
 <!-- recent-changes:end -->
