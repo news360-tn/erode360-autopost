@@ -1,9 +1,9 @@
-00:10:28 hold lifted: RN-6 - not grounded: location 'பகுதி' is not in the article - the location IS in the article (checked again)
-00:10:37 hold lifted: RN-44 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-00:10:39 hold lifted: RN-134 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
-00:10:39 hold lifted: RN-142 - not grounded: location 'நகர்' is not in the article - the location IS in the article (checked again)
-00:10:42 hold lifted: RN-190 - not grounded: location 'நகர்' is not in the article - the location IS in the article (checked again)
-00:10:47 2 held news to fix: ['RN-287', 'RN-295']
+10:53:52 hold lifted: RN-6 - not grounded: location 'பகுதி' is not in the article - the location IS in the article (checked again)
+10:54:04 hold lifted: RN-44 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+10:54:07 hold lifted: RN-134 - not grounded: location 'நகரம்' is not in the article - the location IS in the article (checked again)
+10:54:07 hold lifted: RN-142 - not grounded: location 'நகர்' is not in the article - the location IS in the article (checked again)
+10:54:11 hold lifted: RN-190 - not grounded: location 'நகர்' is not in the article - the location IS in the article (checked again)
+10:54:17 6 held news to fix: ['RN-287', 'RN-295', 'RN-303', 'RN-313', 'RN-318', 'RN-319']
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
@@ -22,19 +22,19 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (2s)
+ok groq/qwen/qwen3.8-27b (3s)
 attempt 1 groq/qwen/qwen3.8-27b: 5 problems
   slides must have 3 or 4 items
-  reel_script has 49 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  reel_script has 45 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
   stray Tamil sign 'ா' after 'ு' in «ீபத்துாணில»
   stray Tamil sign 'ா' after 'ு' in «ீபத்துாணில»
   stray Tamil sign 'ா' after 'ு' in «ீபத்துாணில»
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
 switching away from groq/qwen/qwen3.8-27b for 10 min
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
 free models unavailable: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your p
-00:11:38 RN-287 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Faile
+10:55:09 RN-287 NOT fixed - the free AI writers are busy; tried again in a later run (this try is not counted): all free models failed: no free model answered: groq openai/gpt-oss-120b 400: {"error":{"message":"Faile
