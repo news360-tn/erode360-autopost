@@ -35,7 +35,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-28T08:28:11.356070+05:30"
+   "listed_at": "2026-11-28T08:28:11.356070+05:30",
+   "picked_at": "2026-11-28T18:35:31.707012+05:30"
   },
   "Ccebd43c": {
    "id": "Ccebd43c",
@@ -47,7 +48,8 @@
    "category": "பொது",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-28T08:28:11.356070+05:30"
+   "listed_at": "2026-11-28T08:28:11.356070+05:30",
+   "picked_at": "2026-11-28T18:35:31.707016+05:30"
   },
   "C7ca92b6": {
    "id": "C7ca92b6",
@@ -59,7 +61,8 @@
    "category": "நீதிமன்றம்",
    "score": 3.0,
    "power_cut": false,
-   "listed_at": "2026-11-28T08:28:11.356070+05:30"
+   "listed_at": "2026-11-28T08:28:11.356070+05:30",
+   "picked_at": "2026-11-28T18:35:31.707019+05:30"
   },
   "C0613cbd": {
    "id": "C0613cbd",
@@ -707,8 +710,20 @@
    ],
    "sent": false,
    "deadline": "2026-11-28T19:33:52.184829+05:30",
-   "decided": null,
-   "written": []
+   "decided": {
+    "how": "automatic: top 3 of 7 by insights",
+    "ids": [
+     "C6c6d033",
+     "Ccebd43c",
+     "C7ca92b6"
+    ],
+    "at": "2026-11-28T18:35:31.706996+05:30"
+   },
+   "written": [
+    "C6c6d033",
+    "C7ca92b6",
+    "Ccebd43c"
+   ]
   }
  },
  "retry": {
