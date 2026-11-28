@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-28T08:28+05:30",
- "posts_measured": 295,
+ "updated": "2026-11-28T10:30+05:30",
+ "posts_measured": 301,
  "topic_weight": {
   "crime": 1.5,
-  "weather": -0.5,
+  "weather": -0.43,
   "civic": -0.5,
-  "accident": 0.94,
+  "accident": 0.95,
   "education": -0.5,
-  "temple": -0.31,
-  "politics": -0.27,
-  "power_cut": 0.36,
+  "temple": -0.26,
+  "politics": -0.19,
+  "power_cut": 0.43,
   "poultry_agri": -0.5,
   "sports_culture": -0.5
  },
@@ -17,7 +17,7 @@
   "crime": 0.29,
   "weather": 0.0,
   "civic": 0.0,
-  "accident": 0.23,
+  "accident": 0.21,
   "education": 0.07,
   "temple": 0.08,
   "politics": 0.0,
@@ -31,14 +31,14 @@
  ],
  "topic_n": {
   "crime": 49,
-  "weather": 12,
-  "civic": 29,
-  "accident": 31,
+  "weather": 13,
+  "civic": 30,
+  "accident": 33,
   "education": 28,
   "temple": 36,
-  "politics": 22,
+  "politics": 23,
   "power_cut": 5,
-  "poultry_agri": 21,
+  "poultry_agri": 22,
   "jobs": 2,
   "sports_culture": 4
  },
@@ -50,18 +50,18 @@
  ],
  "top_openings": [
   "🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்",
+  "🚨 அறச்சலூர் அருகே டாஸ்மாக் கடையில் கொலை: 50 வயது நபர் கைது",
   "🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு",
-  "🚨 பவானிசாகரில் போதை பொருட்களுடன் ரவுடி உட்பட 3 பேர் கைது",
-  "🚨 அந்தியூரில் 877 கிலோ தடை புகையிலைப் பொருள்கள் பறிமுதல்: மூவர் கைது"
+  "🚨 பவானிசாகரில் போதை பொருட்களுடன் ரவுடி உட்பட 3 பேர் கைது"
  ],
- "avg_watch_s": 8.1,
+ "avg_watch_s": 8.0,
  "best_topics": [
   "crime",
   "accident",
   "power_cut"
  ],
  "weak_topics": [
-  "weather",
-  "civic"
+  "civic",
+  "education"
  ]
 }

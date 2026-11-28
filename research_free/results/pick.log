@@ -1,98 +1,39 @@
-08:28:11 round 2026-11-28_08: news published 28 Nov 07:08 -> 28 Nov 08:28 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
-08:28:11    + news published since 27 Nov 08:28 that no earlier round found (listed / indexed late) - never one already listed or posted
-08:28:11 insights 2026-11-28T08:28+05:30 (295 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.94, 'education': -0.5, 'temple': -0.31, 'politics': -0.27, 'power_cut': 0.36, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு']
-08:29:40 open search 'ஈரோடு' (from_google): 18 links from our outlets
-08:29:40 town searches (கோபி (+Google), சத்தியமங்கலம் (+Google), பவானி, பெருந்துறை, அந்தியூர், கொடுமுடி, மொடக்குறிச்சி, தாளவாடி): 11 links from our outlets
-08:29:40 search links: 33 Google links decoded, 0 not decoded, 64 known from an earlier round, 0 left for the next round, 6 of another district by their headline (not opened)
-08:29:40 104 links on the two papers' Erode pages
-08:30:46 skipped: published before this window=41, not Erode district=18, already posted=9, checked in an earlier round=7, state-wide / other district=6, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2
-08:30:46    drop [not Erode district] கள்ளக்குறிச்சி சம்பவம் பா.ஜ., ஆர்ப்பாட்டம் | dinamalar.com/news/tamil-nad...-news-erode/bjp-stages-protest/4388296
-08:30:46    drop [already posted] பயிற்றுனர் பணிக்கு விண்ணப்பிக்க அழைப்பு | dinamalar.com/news/tamil-nad...pply-for-the-job-of-instructor/4388300
-08:30:46    drop [already posted] பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம்  | dinamani.com/all-editions/ed...னை-வியாபாரிகளுக்கு-ரூ15-லட்சம்-அபராதம்
-08:30:46    drop [already posted] கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து  | dinamani.com/all-editions/ed...i-route-minister-flags-off-the-service
-08:30:46    drop [already posted] கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள | dinamani.com/all-editions/ed...-procession-routes-hindu-munnani-urges
-08:30:46    drop [not Erode district] விலவூர் பேரூராட்சியில் மழைநீர் சேகரிப்பு விழிப்புணர்வு கூட்ட | dinakaran.com/district/kanniyakumari_281126_2
-08:30:46    drop [not Erode district] மெஞ்ஞானபுரத்தில் போதை ஒழிப்பு விழிப்புணர்வு பேரணி - Dinakara | dinakaran.com/district/thoothukudi_281126_1
-08:30:46    drop [not Erode district] வலங்கைமான் அருகே கால்நடை சிறப்பு மருத்துவ முகாம் - Dinakaran | dinakaran.com/district/thiruvarur_281126_3
-08:30:46    drop [not Erode district] விவசாயிகள் சங்க ஆலோசனை கூட்டம் - Dinakaran | dinakaran.com/district/thiruvarur_281126_1
-08:30:46    drop [not Erode district] பூதலூர் அரசு ஆண்கள் பள்ளியில் போதை பொருள் விழிப்புணர்வு நிகழ | dinakaran.com/district/thanjavur_281126_2
-08:30:46    drop [not Erode district] முதுகு குத்திகள், மானமற்ற நன்றி கெட்ட கூட்டம்: காங்., - கம்ய | dinamalar.com/news/premium-n...its-out-at-congress-communists/4388209
-08:30:46    drop [not Erode district] பேருந்துகள் மோதல்; 20 போ் காயம் | dinamani.com/all-editions/ed...Nov/27/buses-collide-20-people-injured
-08:30:46    drop [not Erode district] பழநியில் பெரு முக்கோண நில அளவை புள்ளிகள் ஆய்வு | dinamalar.com/news/tamil-nad...iangle-survey-points-at-palani/4388158
-08:30:46    drop [not Erode district] திட்டப்பணிகளை கலெக்டர் தலைமையில் குழு ஆய்வு | dinakaran.com/district/dharmapuri-281126-2/amp
-08:30:46    drop [not Erode district] மன உளைச்சல், உடல்நலப் பாதிப்பு; விருப்ப ஓய்வு கேட்கும் போலீச | dinakaran.com/district/viruthunagar_281126_2
-08:30:46    drop [not Erode district] தேசியம் பேட்டி: நவ. 28 | dinamalar.com/news/india-tam...ionality-interview-november-28/4387877
-08:30:46    drop [not Erode district] பி.எஸ்.ஆர்., பொறியியல் கல்லூரியில் போதைப்பொருட்கள் விழிப்புண | dinamalar.com/news/tamil-nad...-at-bsr-college-of-engineering/4388121
-08:30:46    drop [not Erode district] துவக்க விழா | dinamalar.com/news/tamil-nad...-news-madurai/opening-ceremony/4388184
-08:30:46    drop [not Erode district] தீபத்தூணில் தீபம் ஏற்ற அறநிலையத்துறை ஏற்பாடு செய்யவில்லை | dinamalar.com/news/tamil-nad...o-light-the-diyas-at-deepathun/4388170
-08:30:46 list: 16 new + 2 earlier news not posted yet
-08:30:46    1. [விபத்து] மின் கம்பத்தில் மோதி கவிழ்ந்த டிப்பர் லாரி (தினமலர்)
-08:30:46    2. [விபத்து] ரயில் மோதி வாலிபர் பலி (தினமலர்)
-08:30:46    3. [மழை / வானிலை] அம்மாபேட்டையில் 19 மி.மீ., மழை பதிவு (தினமலர்)
-08:30:46    4. [மழை / வானிலை] பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு (தினமலர்)
-08:30:46    5. [பொது] இருப்பில் 23,674 டன் உரம் (தினமலர்)
-08:30:46    6. [பொது] மகள் மாயம்; தாய் புகார் (தினமலர்)
-08:30:46    7. [பொது] ரூ.14 லட்சம் மதிப்பிலான விதை விற்பனைக்கு தடை (தினமலர்)
-08:30:46    8. [பொது] பட்டா வழங்க 15 நாட்களில் சட்டம்; அமைச்சர் உறுதி (தினமலர்)
-08:30:46    9. [சாலை] மலைச்சாலையில் பாதுகாப்பு மலைவாழ் மக்கள் முறையீடு (தினமலர்)
-08:30:46   10. [பொது] கோபி-திருப்பதி இடையே அரசு பஸ் சேவை துவக்கம் (தினமலர்)
-08:30:46   11. [குற்றம்] தப்பு பண்றது அவங்க ஜாப்; தண்டனை தருவது அதிகாரிங்க ஜாப் வனத்தில் அத்தும (தினமலர்)
-08:30:46   12. [பொது] கல் குவாரியை எதிர்த்து கண்டன ஆர்ப்பாட்டம் (தினமலர்)
-08:30:46   13. [பொது] கனி மார்க்கெட் வியாபாரிகள் 2வது நாளாக கடையடைப்பு (தினமலர்)
-08:30:46   14. [பொது] ஓவர்லோடு வண்டிகளுக்கு அபராதம் விதிப்பு (தினமலர்)
-08:30:46   15. [நீதிமன்றம்] உச்ச நீதிமன்ற தீர்ப்புக்கு தீபம் ஏந்தி வரவேற்பு (தினமலர்)
-08:30:46   16. [பொது] 40 லட்சம் குடும்பங்களுக்கு வீட்டுமனை வழங்க வலியுறுத்தல் (தினமலர்)
-08:30:46   17. [பொது] தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று சந்தித்த அம (ஒன்இந்தியா) (earlier)
-08:30:46   18. [பொது] கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள் நிகழ்ச்ச (தினமணி) (earlier)
-08:30:46 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_08
-08:30:47 round 2026-11-28_08 (at least 3, up to 3 more of well-watched topics): 18 news to choose from (2 from earlier rounds), ranked by this page's insights
-08:30:47   PICK   1.  13.8 [accident +0.94 page] மின் கம்பத்தில் மோதி கவிழ்ந்த டிப்பர் லாரி
-08:30:47   PICK   2.  13.8 [accident +0.94 page] ரயில் மோதி வாலிபர் பலி
-08:30:47   PICK   3.  10.0 [other +0.00 pattern] பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு
-08:30:47          4.  10.0 [other +0.00 pattern] இருப்பில் 23,674 டன் உரம்
-08:30:47          5.  10.0 [other +0.00 pattern] மகள் மாயம்; தாய் புகார்
-08:30:47          6.   9.0 [weather -0.50 page] அம்மாபேட்டையில் 19 மி.மீ., மழை பதிவு
-08:30:47          7.   6.0 [other +0.00 pattern] ரூ.14 லட்சம் மதிப்பிலான விதை விற்பனைக்கு தடை
-08:30:47          8.   5.0 [other +0.00 pattern] கோபி-திருப்பதி இடையே அரசு பஸ் சேவை துவக்கம்
-08:30:47          9.   4.9 [politics -0.27 page] பட்டா வழங்க 15 நாட்களில் சட்டம்; அமைச்சர் உறுதி
-08:30:47         10.   4.0 [civic -0.50 page] மலைச்சாலையில் பாதுகாப்பு மலைவாழ் மக்கள் முறையீடு
-08:30:47         11.   3.0 [other +0.00 pattern] தப்பு பண்றது அவங்க ஜாப்; தண்டனை தருவது அதிகாரிங்க ஜாப் வனத்த
-08:30:47         12.   3.0 [other +0.00 pattern] கல் குவாரியை எதிர்த்து கண்டன ஆர்ப்பாட்டம்
-08:30:47         13.   3.0 [other +0.00 pattern] கனி மார்க்கெட் வியாபாரிகள் 2வது நாளாக கடையடைப்பு
-08:30:47         14.   3.0 [other +0.00 pattern] ஓவர்லோடு வண்டிகளுக்கு அபராதம் விதிப்பு
-08:30:47         15.   3.0 [other +0.00 pattern] உச்ச நீதிமன்ற தீர்ப்புக்கு தீபம் ஏந்தி வரவேற்பு
-08:30:47         16.   3.0 [other +0.00 pattern] 40 லட்சம் குடும்பங்களுக்கு வீட்டுமனை வழங்க வலியுறுத்தல்
-08:30:47         17.   1.0 [politics -0.27 page] (earlier) தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று ச
-08:30:47         18.   0.5 [poultry_agri -0.50 page] (earlier) கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள
-08:30:47 decided: automatic: top 3 of 18 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tipper-lorry-hits-electric-pole-overturns/4388295 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/youth-killed-in-train-collision/4388298 https://www.dinamalar.com/news/tamil-nadu-district-news-erode/water-level-rises-in-bhavanisagar-dam/4388291
-08:36:14 3 listed news now in the Sheet
-08:36:23 instagram duplicate check erode: 50 recent posts read
-08:36:23 verify 2026-11-28_08: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:36:23    NOT POSTED C23f53ea: queued RN-336 (Queued) - ரயில் மோதி வாலிபர் பலி
-08:36:23    NOT POSTED C4220c5b: queued RN-335 (Queued) - பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு
-08:36:23    NOT POSTED C88c027d: queued RN-337 (Queued) - மின் கம்பத்தில் மோதி கவிழ்ந்த டிப்பர் லாரி
-08:41:30 instagram duplicate check erode: 50 recent posts read
-08:41:30 verify 2026-11-28_08: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:41:30    NOT POSTED C23f53ea: queued RN-336 (Queued) - ரயில் மோதி வாலிபர் பலி
-08:41:30    NOT POSTED C4220c5b: queued RN-335 (Queued) - பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு
-08:41:30    NOT POSTED C88c027d: queued RN-337 (Queued) - மின் கம்பத்தில் மோதி கவிழ்ந்த டிப்பர் லாரி
-08:46:36 instagram duplicate check erode: 50 recent posts read
-08:46:36 verify 2026-11-28_08: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:46:36    NOT POSTED C23f53ea: queued RN-336 (Queued) - ரயில் மோதி வாலிபர் பலி
-08:46:36    NOT POSTED C4220c5b: queued RN-335 (Queued) - பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு
-08:51:47 instagram duplicate check erode: 50 recent posts read
-08:51:47 verify 2026-11-28_08: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:51:47    NOT POSTED C23f53ea: queued RN-336 (Queued) - ரயில் மோதி வாலிபர் பலி
-08:51:47    NOT POSTED C4220c5b: queued RN-335 (Queued) - பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு
-08:56:54 instagram duplicate check erode: 50 recent posts read
-08:56:54 verify 2026-11-28_08: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-08:56:54    NOT POSTED C4220c5b: queued RN-335 (Queued) - பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு
-09:02:01 instagram duplicate check erode: 50 recent posts read
-09:02:01 verify 2026-11-28_08: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-09:02:01    NOT POSTED C4220c5b: queued RN-335 (Queued) - பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு
-09:07:09 instagram duplicate check erode: 50 recent posts read
-09:07:09 verify 2026-11-28_08: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-09:07:09    NOT POSTED C4220c5b: queued RN-335 (Queued) - பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு
-09:12:14 verify 2026-11-28_08: 3 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+10:30:50 round 2026-11-28_10: news published 28 Nov 08:28 -> 28 Nov 10:30 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
+10:30:50    + news published since 27 Nov 10:30 that no earlier round found (listed / indexed late) - never one already listed or posted
+10:30:50 insights 2026-11-28T10:30+05:30 (301 reels): topic weights {'crime': 1.5, 'weather': -0.43, 'civic': -0.5, 'accident': 0.95, 'education': -0.5, 'temple': -0.26, 'politics': -0.19, 'power_cut': 0.43, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்', '🚨 அறச்சலூர் அருகே டாஸ்மாக் கடையில் கொலை: 50 வயது நபர் கைது']
+10:32:17 open search 'ஈரோடு' (from_google): 16 links from our outlets
+10:32:17 town search from_google 'பெருந்துறை' failed: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?
+10:32:17 town searches (கோபி, சத்தியமங்கலம், பவானி (+Google), பெருந்துறை (+Google), அந்தியூர், கொடுமுடி, மொடக்குறிச்சி, தாளவாடி): 8 links from our outlets
+10:32:17 search links: 16 Google links decoded, 0 not decoded, 78 known from an earlier round, 0 left for the next round, 9 of another district by their headline (not opened)
+10:32:17 97 links on the two papers' Erode pages
+10:32:51 skipped: published before this window=41, not Erode district=12, already posted=10, state-wide / other district=6, checked in an earlier round=5, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, not Tamil=1
+10:32:51    drop [already posted] நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா | dinamani.com/all-editions/ed...using-plot-within-4-km-around-the-city
+10:32:51    drop [not Erode district] மெஞ்ஞானபுரத்தில் போதை ஒழிப்பு விழிப்புணர்வு பேரணி | dinakaran.com/district/thoothukudi_281126_1/amp
+10:32:51    drop [not Erode district] இரவு வேளை மழையால் குற்றால அருவிகளில் நீர்வரத்து அதிகரிப்பு | dinakaran.com/district/nellai_281126_1/amp
+10:32:51    drop [not Erode district] வணிகர் சங்கங்கள் பேரமைப்பு மாநாடு ஆலோசனை கூட்டம் | dinakaran.com/district/trichy_281126_3/amp
+10:32:51    drop [not Erode district] பொன்பரப்பி அரசு பள்ளியில் குழந்தை திருமணத்திற்கு எதிரான உறுத | dinakaran.com/district/ariyalur_281126_2/amp
+10:32:51    drop [not Erode district] மேட்டுமகாதானபுரம் அங்கன்வாடி மைய கட்டிடத்திற்கு மின் இணைப்பு | dinakaran.com/district/karur_281126_2/amp
+10:32:51    drop [not Erode district] இந்திய அரசியலமைப்பு தினத்தையொட்டி பல்வேறு போட்டிகளில் வென்ற  | dinakaran.com/district/tiruvallur-281126-3/amp
+10:32:51    drop [not Erode district] கனகம்மாசத்திரம் அரசு பள்ளியில் மாணவர்களுக்கு போதை பொருள் தடு | dinakaran.com/district/tiruvallur-281126-2/amp
+10:32:51    drop [not Erode district] பழைய இரும்புக் கடையில் மின்சாரம் பாய்ந்து தொழிலாளி உயிரிழப்ப | dinamani.com/all-editions/ed...at-scrap-metal-shop-two-others-injured
+10:32:51    drop [not Tamil] Los Angeles schools block Googles AI features amid search ac | dinamalar.com/news/kalvimala...-features-amid-search-access-row/62516
+10:32:52 list: 2 new + 15 earlier news not posted yet
+10:32:52    1. [பொது] தான்தோன்றியம்மன் கோவிலில் டிச.,9ல் குண்டம் விழா பூச்சாட்டு (தினமலர்) (published 28 Nov 07:35, found only now)
+10:32:52    2. [பொது] பவானிசாகர் தவெக எம்எல்ஏ தம்ழிச்செல்வி மருத்துமனையில் அனுமதி (சமயம் தமிழ்)
+10:32:52    3. [மழை / வானிலை] அம்மாபேட்டையில் 19 மி.மீ., மழை பதிவு (தினமலர்) (earlier)
+10:32:52    4. [பொது] இருப்பில் 23,674 டன் உரம் (தினமலர்) (earlier)
+10:32:52    5. [பொது] மகள் மாயம்; தாய் புகார் (தினமலர்) (earlier)
+10:32:52    6. [பொது] ரூ.14 லட்சம் மதிப்பிலான விதை விற்பனைக்கு தடை (தினமலர்) (earlier)
+10:32:52    7. [பொது] பட்டா வழங்க 15 நாட்களில் சட்டம்; அமைச்சர் உறுதி (தினமலர்) (earlier)
+10:32:52    8. [சாலை] மலைச்சாலையில் பாதுகாப்பு மலைவாழ் மக்கள் முறையீடு (தினமலர்) (earlier)
+10:32:52    9. [பொது] கோபி-திருப்பதி இடையே அரசு பஸ் சேவை துவக்கம் (தினமலர்) (earlier)
+10:32:52   10. [குற்றம்] தப்பு பண்றது அவங்க ஜாப்; தண்டனை தருவது அதிகாரிங்க ஜாப் வனத்தில் அத்தும (தினமலர்) (earlier)
+10:32:52   11. [பொது] கல் குவாரியை எதிர்த்து கண்டன ஆர்ப்பாட்டம் (தினமலர்) (earlier)
+10:32:52   12. [பொது] கனி மார்க்கெட் வியாபாரிகள் 2வது நாளாக கடையடைப்பு (தினமலர்) (earlier)
+10:32:52   13. [பொது] ஓவர்லோடு வண்டிகளுக்கு அபராதம் விதிப்பு (தினமலர்) (earlier)
+10:32:52   14. [நீதிமன்றம்] உச்ச நீதிமன்ற தீர்ப்புக்கு தீபம் ஏந்தி வரவேற்பு (தினமலர்) (earlier)
+10:32:52   15. [பொது] 40 லட்சம் குடும்பங்களுக்கு வீட்டுமனை வழங்க வலியுறுத்தல் (தினமலர்) (earlier)
+10:32:52   16. [பொது] தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று சந்தித்த அம (ஒன்இந்தியா) (earlier)
+10:32:52   17. [பொது] கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள் நிகழ்ச்ச (தினமணி) (earlier)
+10:32:52 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_10
