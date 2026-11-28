@@ -1,8 +1,8 @@
-writing [N]: கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
+writing [N]: நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-writing [N]: பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் 
-writing [N]: கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+writing [N]: சில்லி பாயின்ட்… - Dinakaran - Dinakaran
+writing [N]: 5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது அம்பை,
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
@@ -37,153 +37,133 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, plea
-dead for this round: gemini/gemini-3-flash-preview
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (3s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-switching away from groq/openai/gpt-oss-120b for 10 min
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The reel_script says the bus was run by the state transport corporation as a new service, but the article says it was an existing express bus from Coimbatore that was rerouted via Gobi; the description 'முன்பு இந்த பேருந்து கோவையில் இருந்து சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக செல்வது' is ungrammatical and mixes two facts.
-  The reel_script states the route changed 'Gobi via' but the sentence 'கோபி வழியாக இயக்க முடிவு எடுக்கப்பட்டது' is fine; however the slides_spec line 'கோவை-சத்தியமங்கலம் வழியாக இயக்கம்' omits Anthiyur and Mettur from the original route, and it implies Coimbatore-Sathyamangalam is the new route rather than the old one.
-  The caption's route line '🚌 சேவை: கோவை - கோபி - திருப்பதி' and the sentence 'சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக செல்வது' contradict each other about which route is old versus new and create an unclear, incorrect description of the route.
-  The reel_script says 'அமைச்சர் கொடியசைத்து பேருந்து சேவையை தொடங்கிவைத்தார்' after the attendance sentence, but the caption text 'தொடக்கம்: அமைச்சர்' and the reel's 'த வெ க' party name is written with spaces, which is an unnatural rendering of தவெக and is not a factual error but the party official Pradeepkumar is mentioned without his role in the caption.
-attempt 1 groq/qwen/qwen3.8-27b: 4 problems
-  fact-check: The reel_script says the bus was run by the state transport corporation as a new service, but the article says it was an existing express bus from Coimbatore that was rerouted via Gobi; the description 'முன்பு இந்த பேருந்து கோவையில் இருந்து சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக செல்வது' is ungrammatical and mixes two facts.
-  fact-check: The reel_script states the route changed 'Gobi via' but the sentence 'கோபி வழியாக இயக்க முடிவு எடுக்கப்பட்டது' is fine; however the slides_spec line 'கோவை-சத்தியமங்கலம் வழியாக இயக்கம்' omits Anthiyur and Mettur from the original route, and it implies Coimbatore-Sathyamangalam is the new route rather than the old one.
-  fact-check: The caption's route line '🚌 சேவை: கோவை - கோபி - திருப்பதி' and the sentence 'சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக செல்வது' contradict each other about which route is old versus new and create an unclear, incorrect description of the route.
-  fact-check: The reel_script says 'அமைச்சர் கொடியசைத்து பேருந்து சேவையை தொடங்கிவைத்தார்' after the attendance sentence, but the caption text 'தொடக்கம்: அமைச்சர்' and the reel's 'த வெ க' party name is written with spaces, which is an unnatural rendering of தவெக and is not a factual error but the party official Pradeepkumar is mentioned without his role in the caption.
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok gemini/gemini-3-flash-preview (11s)
+attempt 1 gemini/gemini-3-flash-preview: 2 problems
+  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption needs 5 hashtags (Instagram max), has 6
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free models unavailable: no free model answered: None
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  hl1 is 44 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'ஈரோடு', e.g. 'ஈரோடு: ...' or 'ஈரோடு-இல் ...' - viewers share news of their own area
+ok groq/qwen/qwen3.8-27b (4s)
+attempt 1 groq/qwen/qwen3.8-27b: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 60 ('இந்திய அணியின் டெஸ்ட் வரலாற்றில் இதற்கு முன் ஒரே ஒரு முறைதான'); 20 ('இந்திய அணியின் டெஸ்ட் வரலாற்றில் இதற்கு முன் ஒரே ஒரு முறைதான'); 62 ('இந்திய அணியின் டெஸ்ட் வரலாற்றில் இதற்கு முன் ஒரே ஒரு முறைதான')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+switching away from groq/openai/gpt-oss-120b for 10 min
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  hl1 is 53 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): பெருந்துறை ('பிளாஸ்டிக் பயன்படுத்துவதால் ஏற்படும் தீமைகள் குறித்து விழிப்'); 5 ('பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் ')
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 6 problems
-  The reel_script says the service 'started today' (இன்று தொடங்கியது), but the article only says it was launched on Friday; 'today' is not stated in the article.
-  The reel_script calls it a 'நேரடி' (direct) bus service, which the article does not state; the article says a fast bus was extended to pass through Gobi.
-  The reel_script and caption omit that the existing bus route was extended to Gobi; the reel_script says 'இப்போது' 'அந்தப் பேருந்து' is now operated via Gobi but the caption says the same bus 'also' runs via Gobi, which is consistent, but the slides call it a new 'எந்த வழித்தடம்' service run by the transport corporation, which matches the article.
-  The caption's 'இந்தப் பேருந்து கோபி வழியாகவும்' and the reel's claim that the Coimbatore route was replaced are inconsistent: the reel says the bus 'இப்போது கோபி வழியாக இயக்கப்படுகிறது' (now runs via Gobi, implying a change), while the article indicates the route was extended to Gobi.
-  The caption and tamil_headline describe the service as 'புதிய' (new) and the slides say it is a new start, but the article describes it as an extension of an existing route, so 'new service' is an unsupported characterisation.
-  The caption gives the date as 27 November 2026 (வெள்ளிக்கிழமை) in the body, which is an invented date not in the article; the article only says Friday.
-claude rewrite 1 anthropic/claude-haiku-5-5: 6 problems
-  fact-check: The reel_script says the service 'started today' (இன்று தொடங்கியது), but the article only says it was launched on Friday; 'today' is not stated in the article.
-  fact-check: The reel_script calls it a 'நேரடி' (direct) bus service, which the article does not state; the article says a fast bus was extended to pass through Gobi.
-  fact-check: The reel_script and caption omit that the existing bus route was extended to Gobi; the reel_script says 'இப்போது' 'அந்தப் பேருந்து' is now operated via Gobi but the caption says the same bus 'also' runs via Gobi, which is consistent, but the slides call it a new 'எந்த வழித்தடம்' service run by the transport corporation, which matches the article.
-  fact-check: The caption's 'இந்தப் பேருந்து கோபி வழியாகவும்' and the reel's claim that the Coimbatore route was replaced are inconsistent: the reel says the bus 'இப்போது கோபி வழியாக இயக்கப்படுகிறது' (now runs via Gobi, implying a change), while the article indicates the route was extended to Gobi.
-  fact-check: The caption and tamil_headline describe the service as 'புதிய' (new) and the slides say it is a new start, but the article describes it as an extension of an existing route, so 'new service' is an unsupported characterisation.
-  fact-check: The caption gives the date as 27 November 2026 (வெள்ளிக்கிழமை) in the body, which is an invented date not in the article; the article only says Friday.
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  hl1 is 41 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): பவானி ('நகா்ப்புறங்களைச் சுற்றி 16 கிலோ மீட்டா் தூரத்துக்குள் இலவச வ')
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 17 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'இந்தியா' and the news itself, e.g. 'இந்தியா-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் ')
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 2 problems
-  The caption contains an English tagline line 'Gobichettipalayam Tirupati bus service flagged off | Erode news', which is not in the article and is an invented/unsupported element of the Tamil caption body
-  The reel_script says 'Gobi' route change but the article says Gobi is the route for the bus; no problem there, however the reel_script states 'ஈரோடு த்ரீ சிக்ஸ்டி' follow line which is allowed; no other issues found
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  fact-check: The caption contains an English tagline line 'Gobichettipalayam Tirupati bus service flagged off | Erode news', which is not in the article and is an invented/unsupported element of the Tamil caption body
-  fact-check: The reel_script says 'Gobi' route change but the article says Gobi is the route for the bus; no problem there, however the reel_script states 'ஈரோடு த்ரீ சிக்ஸ்டி' follow line which is allowed; no other issues found
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 61 ('கேப்டனாக சூரியகுமார் யாதவ் நீடிக்கிறார்.* கிறைஸ்ட்சர்ச் நகரி')
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
   hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-hl1 shortened at a natural break: 'பெருந்துறையில் கூட்டத்துக்கு தடை கோரிக்கை' -> 'பெருந்துறையில் தடை கோரிக்கை'
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
+  hl1 (the first headline on screen) must name the place 'ஈரோடு', e.g. 'ஈரோடு: ...' or 'ஈரோடு-இல் ...' - viewers share news of their own area
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): பெருந்துறை ('பிளாஸ்டிக் பயன்படுத்துவதால் ஏற்படும் தீமைகள் குறித்து விழிப்'); 5 ('பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் ')
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+proofread skipped: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7a2q1qqe35a67dhqnh6gc8f` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1611. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing","type":"tokens","code":"rate_limit_exceeded"}}
+
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  hl1 is 48 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-hl1 shortened at a natural break: 'கோபி வழியாக திருப்பதிக்கு பேருந்து சேவை தொடக்கம்' -> 'கோபி வழியாக திருப்பதிக்கு சேவை தொடக்கம்'
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+ok groq/qwen/qwen3.8-27b (1s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Hindu Munnani urges no permission for po'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0630","first":"RN-329"}
-posting job started at once
-real photo skipped (photo uploaded 2026-07-30 (older than the news)): https://media.dinamani.com/dinamani/2026-07-30/1ff820xr/TNIEimport201979originaltrafficpol
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Gobichettipalayam: 4 wholesalers fined R'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0631","first":"RN-330"}
 real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
 real photo: vision check out of free quota
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'இந்தியா', e.g. 'இந்தியா: ...' or 'இந்தியா-இல் ...' - viewers share news of their own area
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+ok anthropic/claude-haiku-5-5
+image match: False The image features khaki-uniformed officers in an AI-generated scene with garbled documents, rather than the Revenue Min
+ok anthropic/claude-haiku-5-5
+claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
+  hl1 is 45 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது அம்பை,')
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'New Tirupati bus service via Gobichettip'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0632","first":"RN-331"}
+images made: 2 for 'Free house site pattas allowed within 4 '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0711","first":"RN-332"}
+posting job started at once
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
+  hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+  sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+hl1 shortened at a natural break: 'பெருந்துறையில் இடைத்தேர்தல் நடத்த முடியாது' -> 'பெருந்துறையில் நடத்த முடியாது'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Syed Modi Badminton: Treesa-Gayatri qual'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0711","first":"RN-333"}
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+real photo: vision check resting (free quota busy)
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+image match: False The photo shows AI-generated generic stacks of voter lists and a police officer, not AIADMK MP Inbadurai or the specific
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Bypolls cannot be held in Ambasamudram a'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0712","first":"RN-334"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/bus-service-to-tirupati-via-gobi-route-minister-flags-off-the-service
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/பிளாஸ்டிக்-பொருள்கள்-விற்பனை-வியாபாரிகளுக்கு-ரூ15-லட்சம்-அபராதம்
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/permission-should-not-be-granted-for-political-organization-meetings-along-temple-procession-routes-hindu-munnani-urges
+manual link added: https://www.dinakaran.com/news/chili_point-37
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/free-housing-plot-within-4-km-around-the-city
+manual link added: https://www.dinakaran.com/news/problems-persist-conducting-elections-5constituencies-aiadmkmp-inbadurai
 candidate filter: collected=3
 to write: 3 Erode district candidates (max 3 stories)
 round: top 3 of 3 candidates
 candidates waiting: 3 Erode; time left 79 min
+try (N) manual=True: https://www.dinakaran.com/news/problems-persist-conducting-e
 try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
+try (N) manual=True: https://www.dinakaran.com/news/chili_point-37
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})
 posting job started at once
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
-auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})
+auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min
 filed: 3 Erode district stories (target 3), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":3,"updated":0} 
