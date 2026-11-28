@@ -1,5 +1,5 @@
 {
- "last_end": "2026-11-28T16:14:37.930035+05:30",
+ "last_end": "2026-11-28T18:33:52.184829+05:30",
  "pool": {
   "C91e604a": {
    "id": "C91e604a",
@@ -24,20 +24,6 @@
    "score": 2.5,
    "power_cut": false,
    "listed_at": "2026-11-28T02:26:18.936679+05:30"
-  },
-  "C803d300": {
-   "id": "C803d300",
-   "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-against-stone-quarry/4388287",
-   "title": "கல் குவாரியை எதிர்த்து கண்டன ஆர்ப்பாட்டம்",
-   "summary": "புன்செய்புளியம்பட்டி:புன்செய்புளியம்பட்டியை அடுத்த மாராயிபாளையத்தில், 200க்கும் மேற்பட்ட வீடுகளில் மக்கள் வசித்து வருகின்றனர். கிராமத்தில் புதிய கல்குவாரி அமைக்க கனிமவளத்துறை அனுமதி வழங்கியுள்ளது.",
-   "source": "தினமலர்",
-   "published": "2026-11-28T07:33:00+05:30",
-   "category": "பொது",
-   "score": 3.0,
-   "power_cut": false,
-   "listed_at": "2026-11-28T08:28:11.356070+05:30",
-   "picked_at": "2026-11-28T16:15:50.706743+05:30",
-   "posted": true
   },
   "C6c6d033": {
    "id": "C6c6d033",
@@ -98,54 +84,9 @@
    "score": 2.81,
    "power_cut": false,
    "listed_at": "2026-11-28T10:30:50.613420+05:30"
-  },
-  "C31fa8da": {
-   "id": "C31fa8da",
-   "url": "https://www.thanthitv.com/news/tamilnadu/we-havent-slept-all-night-were-terrified-villagers-make-a-decision-amidst-tears",
-   "title": "Erode | \"விடிய விடிய தூக்கம் இல்ல.. பயமா இருக்கு..\" - கண்ணீரோடு.. ஊர்மக்கள் எடுத்த முடிவு",
-   "summary": "Erode | \"விடிய விடிய தூக்கம் இல்ல.. பயமா இருக்கு..\" - கண்ணீரோடு.. ஊர்மக்கள் எடுத்த முடிவு #erode #protest #thanthitv ஈரோடு மாவட்டம் புஞ்சைபுளியம்பட்டி அருகே மாராயிபாளையம் குடியிருப்புப் பகுதியில் புதிய கல்குவாரி அமைக்...",
-   "source": "தந்தி டிவி",
-   "published": "",
-   "category": "பொது",
-   "score": 2.0,
-   "power_cut": false,
-   "listed_at": "2026-11-28T12:28:30.385668+05:30",
-   "picked_at": "2026-11-28T16:15:50.706741+05:30",
-   "posted": true
-  },
-  "Ccfef7d8": {
-   "id": "Ccfef7d8",
-   "url": "https://www.dailythanthi.com/news/tamilnadu/3-day-life-guidance-training-in-erode-on-behalf-of-the-tamil-development-department",
-   "title": "தமிழ் வளர்ச்சித்துறை சார்பில் ஈரோட்டில் 3 நாள் வாழ்க்கை வழிகாட்டிப் பயிற்சி",
-   "summary": "ஈரோடு,தமிழால் முடியும் வாழ்க்கை வழிகாட்டிப் பயிற்சி (2026-2027) - ஈரோடு கொங்கு கலை மற்றும் அறிவியல் கல்லூரியில் நடைபெறவுள்ளது.இது தொடர்பாக வெளியாகியுள்ள அறிக்கையில் தெரிவித்திருப்பதாவது:-வாழ்க்கை வழிகாட்டிப் பயிற்சிதம...",
-   "source": "தினத்தந்தி",
-   "published": "2026-11-28T09:04:16Z",
-   "category": "பொது",
-   "score": 6.0,
-   "power_cut": false,
-   "listed_at": "2026-11-28T16:14:37.930035+05:30",
-   "picked_at": "2026-11-28T16:15:50.706738+05:30",
-   "posted": true
   }
  },
  "rounds": {
-  "2026-11-26_22": {
-   "window": [
-    "2026-11-26T22:28:38.090343+05:30",
-    "2026-11-26T22:38:53.512804+05:30"
-   ],
-   "ids": [
-    "C83aeddb"
-   ],
-   "sent": false,
-   "deadline": "2026-11-26T23:38:53.512804+05:30",
-   "decided": {
-    "how": "automatic: top 3 of 0 by insights",
-    "ids": [],
-    "at": "2026-11-26T22:39:37.762424+05:30"
-   },
-   "written": []
-  },
   "2026-11-27_01": {
    "window": [
     "2026-11-26T22:38:53.512804+05:30",
@@ -749,22 +690,28 @@
     "C803d300",
     "Ccfef7d8"
    ]
+  },
+  "2026-11-28_18": {
+   "window": [
+    "2026-11-28T16:14:37.930035+05:30",
+    "2026-11-28T18:33:52.184829+05:30"
+   ],
+   "ids": [
+    "C6c6d033",
+    "Ccebd43c",
+    "C7ca92b6",
+    "C0613cbd",
+    "C128b2de",
+    "C91e604a",
+    "C9b05ab9"
+   ],
+   "sent": false,
+   "deadline": "2026-11-28T19:33:52.184829+05:30",
+   "decided": null,
+   "written": []
   }
  },
  "retry": {
-  "https://tamil.news18.com/tamil-nadu/election-can-be-held-in-ambasamudram-perundurai-constituencies-high-court-vjr-ws-l-2263121.html": {
-   "it": {
-    "key": "https://tamil.news18.com/tamil-nadu/election-can-be-held-in-ambasamudram-perundurai-constituencies-high-court-vjr-ws-l-2263121.html",
-    "url": "https://tamil.news18.com/tamil-nadu/election-can-be-held-in-ambasamudram-perundurai-constituencies-high-court-vjr-ws-l-2263121.html",
-    "title": "அம்பாசமுத்திரம், பெருந்துறை தொகுதிகளில் தேர்தல் நடத்த அனுமதி ...",
-    "source": "News18 தமிழ்நாடு",
-    "published": "2026-11-27T03:23:00+05:30",
-    "via": "bing",
-    "query": "பெருந்துறை",
-    "snippet": "அம்பாசமுத்திரம், பெருந்துறை தொகுதிகளில் தேர்தல் நடத்தலாம் என்று சென்னை உயர்நீதிமன்றம் உத்தரவிட்டுள்ளது. திருச்சி கிழக்கு, கரூர், விராலிமலை தொகுதிகளில் தேர்தல் நடத்த தடை நீடிக்கிறது."
-   },
-   "first": "2026-11-27T16:44:56.162739+05:30"
-  },
   "https://tamil.news18.com/videos/tamil-nadu/ambasamudram-by-election-2263115.html": {
    "it": {
     "key": "CBMihwFBVV95cUxNVlZVRnVUbEcwVi02OC00NWh3djV1V2pRMV9PWUlCR1RuQldNTUEwZ1Fsa3ZqS1oybGgyT0o1Sk9ubS1RQ2FCUTQyVmVwcVpfSGM5QzhxWHgxaG1KWExCMzlNVXZoazZkbVBmd2x0NmJYd3hMYXdIMnYwRHFwbGpSeDhsdnZZbW8",
@@ -1408,6 +1355,51 @@
   "C11e3254": "2026-11-28T16:14 already posted",
   "Cdfd4009": "2026-11-28T16:14 already posted",
   "C3f148fe": "2026-11-28T16:14 not Erode district",
-  "C83106e4": "2026-11-28T16:14 not Erode district"
+  "C83106e4": "2026-11-28T16:14 not Erode district",
+  "G73039d3a62": "2026-11-28T18:33 D",
+  "Gf9b43aef63": "2026-11-28T18:33 D",
+  "G7ada96fe27": "2026-11-28T18:33 D",
+  "Gf520cad0ee": "2026-11-28T18:33 D",
+  "Gb101168028": "2026-11-28T18:33 D",
+  "Gb99d5932b7": "2026-11-28T18:33 D",
+  "Gd210391a9d": "2026-11-28T18:33 D",
+  "G0e2c9974f3": "2026-11-28T18:33 D",
+  "G8759ef4870": "2026-11-28T18:33 D",
+  "G62da47a89d": "2026-11-28T18:33 D",
+  "Gc854d56ac6": "2026-11-28T18:33 D",
+  "Gc5542d2f6f": "2026-11-28T18:33 D",
+  "G5ed0187897": "2026-11-28T18:33 D",
+  "Ga2471ee2a9": "2026-11-28T18:33 D",
+  "G60606ba54f": "2026-11-28T18:33 D",
+  "G2473484f82": "2026-11-28T18:33 D",
+  "G22ede47892": "2026-11-28T18:33 D",
+  "G5fe71a99de": "2026-11-28T18:33 D",
+  "G4cbed000dc": "2026-11-28T18:33 D",
+  "Gd518152136": "2026-11-28T18:33 D",
+  "Ge6313e31ed": "2026-11-28T18:33 D",
+  "G3e74aa62da": "2026-11-28T18:33 D",
+  "G92fe39b40c": "2026-11-28T18:33 D",
+  "G88798e5154": "2026-11-28T18:33 D",
+  "Gf8aa5d5fb5": "2026-11-28T18:33 D",
+  "G1af5d5c73e": "2026-11-28T18:33 D",
+  "G0a2f1548be": "2026-11-28T18:33 D",
+  "G1b28e7ac9b": "2026-11-28T18:33 D",
+  "G52e2164e0a": "2026-11-28T18:33 D",
+  "C608577b": "2026-11-28T18:33 already posted",
+  "C982d494": "2026-11-28T18:33 already posted",
+  "C1bffb17": "2026-11-28T18:33 already posted",
+  "C22edf04": "2026-11-28T18:33 same event already posted",
+  "C8402e58": "2026-11-28T18:33 same event already posted",
+  "C8c10138": "2026-11-28T18:33 not Erode district",
+  "Cc65abba": "2026-11-28T18:33 not Erode district",
+  "Cd6cc431": "2026-11-28T18:33 not Erode district",
+  "Cb8194e1": "2026-11-28T18:33 not Erode district",
+  "C8cf0ee4": "2026-11-28T18:33 not Erode district",
+  "Cf7dfa25": "2026-11-28T18:33 not Erode district",
+  "C23d7f93": "2026-11-28T18:33 not Erode district",
+  "Cba88b28": "2026-11-28T18:33 not Erode district",
+  "Cf0544ec": "2026-11-28T18:33 not Erode district",
+  "Cb88e2fc": "2026-11-28T18:33 not Erode district",
+  "Ccb4c266": "2026-11-28T18:33 not Erode district"
  }
 }
