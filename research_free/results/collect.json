@@ -3,265 +3,266 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinakaran.com/news/chili_point-37",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/free-housing-plot-within-4-km-around-the-city",
-  "manual link added: https://www.dinakaran.com/news/problems-persist-conducting-elections-5constituencies-aiadmkmp-inbadurai",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tipper-lorry-hits-electric-pole-overturns/4388295",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/youth-killed-in-train-collision/4388298",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/water-level-rises-in-bhavanisagar-dam/4388291",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
-  "candidates waiting: 3 Erode; time left 79 min",
-  "try (N) manual=True: https://www.dinakaran.com/news/problems-persist-conducting-e",
-  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinakaran.com/news/chili_point-37",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "candidates waiting: 3 Erode; time left 77 min",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "auto images: 1 of 1 stories ({'pollinations': 3})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 8})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
+  "auto images: 1 of 1 stories ({'pollinations': 5})",
+  "auto images: 1 of 1 stories ({'pollinations': 7})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 74 min",
   "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok gemini/gemini-3-flash-preview (11s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "switching away from groq/openai/gpt-oss-120b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok groq/qwen/qwen3.8-27b (1s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா",
-   "english_headline": "Free house site pattas allowed within 4 km of towns, reduced from 16 km, minister says",
-   "category": "Government & Services",
-   "location": "Erode district headquarters, Erode district",
+   "tamil_headline": "பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு",
+   "english_headline": "Inflow into Bhavanisagar dam increases as rain falls in Nilgiri hills",
+   "category": "Weather & Agriculture",
+   "location": "Bhavanisagar dam, Puzhiyampatti area, Erode district",
    "importance": "Medium",
    "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "அரசு அறிவிப்பு",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோடு: இலவச வீட்டுமனைப் பட்டா",
-    "hl2": "4 கி.மீ. தூரம் வரை அனுமதி",
+    "cat": "நீர்வரத்து",
+    "loc": "பவானிசாகர்",
+    "hl1": "பவானிசாகர் அணைக்கு நீர்வரத்து உயர்வு",
+    "hl2": "நீர்மட்டம் 79.58 அடி",
     "slides": [
      {
-      "title": "என்ன மாற்றம்?",
+      "title": "நீர்வரத்து உயர்வு",
       "lines": [
-       "நகரங்களைச் சுற்றி <b>16 கி.மீ.</b> தடை <b>4 கி.மீ.</b> ஆக குறைப்பு",
-       "இலவச வீட்டுமனைப் பட்டா வழங்க அரசாணை வெளியாகவுள்ளது",
-       "வருவாய்த் துறை அமைச்சர் கே.ஏ.செங்கோட்டையன் தகவல்"
+       "நீலகிரி மலைப்பகுதிகளில் பரவலாக மழை",
+       "நேற்று காலை <b>1,693</b> கன அடி",
+       "மாலையில் <b>3,133</b> கன அடியாக உயர்வு"
       ]
      },
      {
-      "title": "விழா விவரம்",
+      "title": "அணை நிலவரம்",
       "lines": [
-       "ஈரோடு மாவட்ட ஆட்சியர் அலுவலகத்தில் வெள்ளிக்கிழமை விழா",
-       "<b>250 பயனாளிகளுக்கு</b> ரூ.<b>52.30 லட்சம்</b> நலத்திட்ட உதவிகள்",
-       "சிறுபான்மையினருக்கான நலத்திட்ட உதவிகள் வழங்கப்பட்டன"
+       "மாலை நிலவரப்படி நீர்மட்டம் <b>79.58 அடி</b>",
+       "நீர் இருப்பு <b>15.4 டி.எம்.சி.</b>",
+       "கடந்தாண்டு இதே நாள் நீர்மட்டம் <b>102 அடி</b>"
       ]
      },
      {
-      "title": "மக்கள் மனுக்கள்",
+      "title": "தண்ணீர்",
       "lines": [
-       "மனுக்கள் மீது <b>15 நாள்களுக்குள்</b> தீர்வு காணப்படும்",
-       "மல்லிகை அரங்கில் குறைதீர்க்கும் சிறப்பு முகாம் நடைபெற்றது",
-       "<b>804 மனுக்கள்</b> பெறப்பட்டு உரிய துறைகளுக்கு அனுப்பப்பட்டன"
+       "காலிங்கராயன் பாசனத்துக்கு <b>300 கன அடி</b>",
+       "குடிநீர் தேவைக்கு <b>50 கன அடி</b>",
+       "கீழ்பவானி வாய்க்காலில் <b>5 கன அடி</b>"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோடு நகரைச் சுற்றி இலவச வீட்டுமனைப் பட்டா தடை 4 கிலோமீட்டர் தூரமாகக் குறைக்கப்படுகிறது. நகர்ப்புறங்களைச் சுற்றி 16 கிலோமீட்டர் தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா வழங்கத் தடை விதிக்கப்பட்டிருந்தது. இந்தத் தடையை 4 கிலோமீட்டர் தூரமாகக் குறைத்து அரசாணை வெளியிட நடவடிக்கை எடுக்கப்பட்டு வருகிறது என வருவாய்த் துறை அமைச்சர் கே ஏ செங்கோட்டையன் தெரிவித்தார். ஈரோடு மாவட்ட ஆட்சியர் அலுவலகத்தில் வெள்ளிக்கிழமை சிறுபான்மையினருக்கான நலத்திட்ட உதவிகள் வழங்கும் விழா நடைபெற்றது. அமைச்சர்கள் கே ஏ செங்கோட்டையன், எம் விஜய் பாலாஜி ஆகியோர் 250 பயனாளிகளுக்கு ரூ.52.30 லட்சம் மதிப்பிலான நலத்திட்ட உதவிகளை வழங்கினர். பின்னர் அனைத்துத் துறை அலுவலர்களுடன் ஆய்வுக்கூட்டத்தில் அரசுத் திட்டங்கள் குறித்து ஆய்வு செய்தனர். பொதுமக்களின் மனுக்கள் மீது 15 நாள்களுக்குள் தீர்வு காணப்படும் என அமைச்சர் தெரிவித்தார். மல்லிகை அரங்கில் நடைபெற்ற குறைதீர்க்கும் சிறப்பு முகாமில் 804 மனுக்கள் பெறப்பட்டு, உரிய துறை அலுவலர்களிடம் வழங்கப்பட்டன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏠 ஈரோடு நகரைச் சுற்றி இலவச வீட்டுமனைப் பட்டா தடை 4 கி.மீ. ஆகக் குறைப்பு\n\n📰 முழு விவரம்:\nநகர்ப்புறங்களைச் சுற்றி 16 கிலோமீட்டர் தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா வழங்கத் தடை இருந்தது. அந்தத் தடையை 4 கிலோமீட்டர் தூரமாகக் குறைத்து அரசாணை வெளியிட நடவடிக்கை எடுக்கப்பட்டு வருவதாக வருவாய்த் துறை அமைச்சர் கே.ஏ.செங்கோட்டையன் தெரிவித்தார். ஈரோடு மாவட்ட ஆட்சியர் அலுவலகத்தில் வெள்ளிக்கிழமை சிறுபான்மையினருக்கான நலத்திட்ட உதவிகள் வழங்கும் விழா நடைபெற்றது. 250 பயனாளிகளுக்கு ரூ.52.30 லட்சம் மதிப்பிலான நலத்திட்ட உதவிகள் வழங்கப்பட்டன.\n📍 இடம்: ஈரோடு மாவட்ட ஆட்சியர் அலுவலகம்\n🗓️ நாள்: 27 நவம்பர் 2026 (வெள்ளிக்கிழமை)\n🏛️ நடவடிக்கை: 804 மனுக்கள் பெறப்பட்டு உரிய துறை அலுவலர்களுக்கு வழங்கப்பட்டன; 15 நாள்களுக்குள் தீர்வு காணப்படும்.\n\nFree house site patta limit cut to 4 km near Erode towns | Erode news\n📍 ஈரோடு, ஈரோடு மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #வீட்டுமனைப்பட்டா",
-   "prompts": "Two government ministers in formal shirts and trousers stand behind a long table in a large government hall, distributing welfare aid packages to a queue of citizens. The setting is the Erode District Collector's Office, featuring plain white walls and a formal government atmosphere. A group of 250 beneficiaries, mostly men in shirts and women in sarees, stand in an orderly line facing the officials, seen from behind or at a distance to avoid recognizable faces. On the table, stacks of welfare aid documents and cash envelopes are neatly arranged, representing the 52.30 lakh rupee value of the distribution. The scene is lit by bright indoor fluorescent lights, typical of a government office during the day. The camera is positioned at eye level, 35 mm lens, capturing the width of the hall to show the scale of the event and the presence of multiple officials including the District Collector and MLAs standing nearby. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up view of a stack of government welfare documents and cash envelopes placed on a wooden table in a government office. The documents are plain white paper with no readable text or logos, representing the free house site patta announcements and welfare aid. In the blurred background, the khaki-uniformed staff and officials are visible but out of focus, emphasizing the paperwork. The lighting is bright and even, highlighting the texture of the paper and the neat arrangement of the items. This detail shot signifies the administrative action of reducing the patta restriction distance from 16 km to 4 km, as discussed by the minister. The camera is slightly high, looking down at the table, using a 35 mm lens to keep the focus sharp on the documents while the background remains soft and indistinct. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/free-housing-plot-within-4-km-around-the-city",
-   "published": "2026-11-27T19:28:34.082Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): பவானி ('நகா்ப்புறங்களைச் சுற்றி 16 கிலோ மீட்டா் தூரத்துக்குள் இலவச வ')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரித்துள்ளது. நீலகிரி மலைப்பகுதிகளில் பரவலாக மழை பெய்து வருவதால் இந்த உயர்வு ஏற்பட்டுள்ளது. நேற்று காலை 1,693 கன அடியாக இருந்த நீர்வரத்து, மாலையில் 3,133 கன அடியாக அதிகரித்தது. மாலை நிலவரப்படி அணையின் நீர்மட்டம் 79.58 அடியாகவும், நீர் இருப்பு 15.4 டி எம் சி யாகவும் இருந்தது. அணையிலிருந்து காலிங்கராயன் பாசனத்துக்கு 300 கன அடியும், குடிநீர் தேவைக்கு 50 கன அடியும், கீழ்பவானி வாய்க்காலுக்கு 5 கன அடியும் என மொத்தம் 355 கன அடி தண்ணீர் வெளியேற்றப்படுகிறது. கடந்தாண்டு இதே நாளில் அணையின் நீர்மட்டம் 102 அடியாகவும், நீர் இருப்பு 30.3 டி எம் சி யாகவும் இருந்தது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🌊 பவானிசாகர் அணைக்கு நீர்வரத்து அதிகரிப்பு; நீர்மட்டம் 79.58 அடி\n\n📰 முழு விவரம்:\nபுன்செய்புளியம்பட்டி பகுதியில் உள்ள பவானிசாகர் அணையின் நீர்பிடிப்பு பகுதிகளான நீலகிரி மலைப்பகுதிகளில் பரவலாக மழை பெய்து வருகிறது.\nஇதனால் அணைக்கு நீர்வரத்து அதிகரித்துள்ளது. நேற்று காலை 1,693 கன அடியாக இருந்த நீர்வரத்து, மாலையில் 3,133 கன அடியாக உயர்ந்தது.\nமாலை நிலவரப்படி அணையின் நீர்மட்டம் 79.58 அடி; நீர் இருப்பு 15.4 டி.எம்.சி.\nஅணையிலிருந்து காலிங்கராயன் பாசனத்துக்கு 300 கன அடி, குடிநீர் தேவைக்கு 50 கன அடி, கீழ்பவானி வாய்க்காலுக்கு 5 கன அடி என மொத்தம் 355 கன அடி தண்ணீர் வெளியேற்றப்படுகிறது.\nகடந்தாண்டு இதே நாளில் நீர்மட்டம் 102 அடியாகவும், நீர் இருப்பு 30.3 டி.எம்.சி.யாகவும் இருந்தது.\n\nBhavanisagar dam inflow rises | Erode news\n📍 புன்செய்புளியம்பட்டி, பவானிசாகர் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Bhavanisagar #ErodeNews #ஈரோடு",
+   "prompts": "Water rushes out through the open sluice gates of Bhavanisagar dam into the Bhavani river below, as the reservoir swells with rain from the Nilgiri hills. The dam is a long concrete structure with a row of steel gates on its spillway, and the wide reservoir stretches behind it toward distant forested hills of the Nilgiris under heavy grey clouds. Farmers and a few dam staff in shirts and veshti stand far off on the embankment, seen from behind and small in the frame. Irrigation canals branch off from the reservoir edge, and paddy fields lie green along the riverbank. The scene is taken in the early evening with soft, diffused light after rain, from eye level on the dam road, 35 mm, wide enough to show the full dam, gates, water and hills. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the dam's steel sluice gates raised high, with a thick flow of brown water pouring through the openings and foaming white on the concrete spillway below. Wet concrete steps and a metal railing are visible in the foreground, with spray rising in the damp air. Beyond the gates, the reservoir water looks higher against the dam wall, a sign of the rising level. The surrounding vegetation is dark and glistening after rain, with a faint grey sky above. Taken in the early evening, low diffused light, slightly high angle from the dam walkway, 35 mm, focusing on the gates and water flow with no people in sharp focus. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/water-level-rises-in-bhavanisagar-dam/4388291",
+   "published": "2026-11-28T07:35:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/a3a074d8862e3bb1.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/31c0f9ae2b3e8fb6.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/7814a5200219050b.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/fcb063e094f1ddfd.jpg"
    ]
   },
   {
-   "tamil_headline": "சையத் மோடி பேட்மின்டன்: த்ரீசா-காயத்ரி அரையிறுதிக்குத் தகுதி",
-   "english_headline": "Syed Modi Badminton: Treesa-Gayatri qualify for women's doubles semifinal",
-   "category": "Sports",
-   "location": "India",
-   "importance": "Low",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "விளையாட்டு",
-    "loc": "இந்தியா",
-    "hl1": "இந்தியாவில் பேட்மின்டன் அரையிறுதி",
-    "hl2": "த்ரீசா-காயத்ரி தகுதி",
-    "slides": [
-     {
-      "title": "பேட்மின்டன்",
-      "lines": [
-       "சையத் மோடி சர்வதேச சூப்பர் 300 தொடர்",
-       "த்ரீசா ஜாலி - காயத்ரி கோபிசந்த் அரையிறுதிக்குத் தகுதி",
-       "நடப்பு சாம்பியன் இந்த இணை"
-      ]
-     },
-     {
-      "title": "மகளிர் ஒற்றையர்",
-      "lines": [
-       "தன்வி ஷர்மா - உன்னட்டி ஹூடா அரையிறுதியில் மோதுகின்றனர்",
-       "இரு இந்திய வீராங்கனைகள் நேருக்கு நேர்",
-       "சையத் மோடி இந்தியா தொடர்"
-      ]
-     },
-     {
-      "title": "செஸ் & கிரிக்கெட்",
-      "lines": [
-       "குகேஷ் - ஜவோகிர் சிண்ட்ரோவ் உலக செஸ் போட்டி 3 சுற்றுகள் டிரா",
-       "இருவரும் தலா 1.5 புள்ளிகளுடன் சமநிலை",
-       "நியூசிலாந்தில் ரிஷப் பன்ட் 21 பந்தில் 54 ரன்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "இந்தியாவில் பேட்மின்டன் அரையிறுதி: த்ரீசா-காயத்ரி தகுதி. சையத் மோடி இந்தியா சர்வதேச சூப்பர் 300 தொடரின் மகளிர் இரட்டையர் பிரிவில், நடப்பு சாம்பியன் த்ரீசா ஜாலி - காயத்ரி கோபிசந்த் இணை அரையிறுதிக்குத் தகுதி பெற்றுள்ளது. மகளிர் ஒற்றையர் பிரிவு அரையிறுதியில் இந்திய வீராங்கனைகள் தன்வி ஷர்மா - உன்னட்டி ஹூடா மோதவுள்ளனர். உலக செஸ் சாம்பியன்ஷிப்பில் நடப்பு சாம்பியன் குகேஷ் - ஜவோகிர் சிண்ட்ரோவ் இடையேயான முதல் 3 சுற்று ஆட்டங்கள் டிராவில் முடிந்தன. இருவரும் தலா 1.5 புள்ளிகளுடன் சமநிலையில் உள்ளனர். நியூசிலாந்தின் கிறைஸ்ட்சர்ச்சில் ரிஷப் பன்ட் சாலையோரம் கிரிக்கெட் விளையாடிய இளைஞர்களுடன் இணைந்து 21 பந்தில் 54 ரன் விளாசினார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🏸 இந்தியாவில் பேட்மின்டன்: த்ரீசா-காயத்ரி அரையிறுதிக்குத் தகுதி\n\n📰 முழு விவரம்:\nசையத் மோடி இந்தியா சர்வதேச சூப்பர் 300 பேட்மின்டன் தொடரின் மகளிர் இரட்டையர் பிரிவில், நடப்பு சாம்பியன் த்ரீசா ஜாலி - காயத்ரி கோபிசந்த் இணை அரையிறுதிக்குத் தகுதி பெற்றுள்ளது.\nமகளிர் ஒற்றையர் பிரிவு அரையிறுதியில் தன்வி ஷர்மா - உன்னட்டி ஹூடா மோதவுள்ளனர்.\n♟️ உலக செஸ் சாம்பியன்ஷிப்பில் குகேஷ் - ஜவோகிர் சிண்ட்ரோவ் இடையேயான முதல் 3 சுற்று ஆட்டங்கள் டிராவில் முடிந்தன. இருவரும் தலா 1.5 புள்ளிகளுடன் சமநிலையில் உள்ளனர்.\n🏏 நியூசிலாந்து கிறைஸ்ட்சர்ச்சில் ரிஷப் பன்ட் சாலையோர இளைஞர்களுடன் பேட் செய்து 21 பந்தில் 54 ரன் விளாசினார்.\n\nSyed Modi Badminton: Treesa-Gayatri semifinal | India sports\n📍 இந்தியா | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #இந்தியா #விளையாட்டு #ErodeNews",
-   "prompts": "A pair of women badminton players in white and dark sports kit rally a shuttlecock across the net inside a bright indoor badminton arena in India, one leaping to smash while her doubles partner moves forward on the same side of the court. The arena has polished wooden flooring with white court lines, tiered seats and a row of spectators seen from behind in the stands. Their rackets and the shuttle are the focus, the players are seen from behind and far away, no readable banners or logos. Time is evening under bright artificial stadium lights. Camera at eye level, 35 mm, wide enough to show the full court and stands. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a yellow feathered shuttlecock resting on the polished wooden floor of an indoor badminton court beside the white boundary line, with a badminton racket's strings and frame partly visible at the edge of the frame. Blurred players' legs in sports shoes move in the background, and the bright stadium lights reflect softly off the glossy wooden floor. Daylight-balanced indoor light, shallow depth of field, camera slightly high, 35 mm. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/chili_point-37",
-   "published": "2026-11-28T04:57:22+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): 61 ('கேப்டனாக சூரியகுமார் யாதவ் நீடிக்கிறார்.* கிறைஸ்ட்சர்ச் நகரி')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/023b0d702e96d79b.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/ea084f11ee8010b4.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அம்பை, பெருந்துறை தொகுதிகளில் இடைத்தேர்தல் நடத்த முடியாது",
-   "english_headline": "Bypolls cannot be held in Ambasamudram and Perundurai constituencies, says AIADMK MP Inbadurai; problem persists in 5 constituencies",
-   "category": "Government & Services",
-   "location": "Perundurai, Erode district (Ambasamudram in Tirunelveli district)",
+   "tamil_headline": "பாசூரில் ரயில் மோதி வாலிபர் பலி",
+   "english_headline": "Youth killed after being hit by train near Pasur railway station, Erode",
+   "category": "Crime & Safety",
+   "location": "Pasur railway station area, Erode district",
    "importance": "Medium",
-   "scope": "district",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "தேர்தல் செய்தி",
-    "loc": "பெருந்துறை",
-    "hl1": "பெருந்துறையில் நடத்த முடியாது",
-    "hl2": "5 தொகுதிகளில் சிக்கல்",
+    "cat": "விபத்து",
+    "loc": "பாசூர், ஈரோடு",
+    "hl1": "பாசூர் அருகே ரயில் மோதி பலி",
+    "hl2": "தண்டவாள பகுதியில் சடலம்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "அதிமுக எம்.பி. இன்பதுரை இதைத் தெரிவித்தார்",
-       "அம்பாசமுத்திரம், பெருந்துறை தொகுதிகள் குறித்து பேட்டி",
-       "இரு தொகுதிகளிலும் தேர்தல் வழக்குகள் நிலுவையில் உள்ளன"
+       "பாசூர் ரயில்வே ஸ்டேஷன் அருகே தண்டவாளத்தில் வாலிபர் ரயில்",
+       "ஈரோடு ரயில்வே போலீசார் உடலை கைப்பற்றினர்",
+       "உடல் ஈரோடு அரசு மருத்துவமனைக்கு அனுப்பப்பட்டது"
       ]
      },
      {
-      "title": "ஏன் சிக்கல்?",
+      "title": "இறந்தவர் யார்?",
       "lines": [
-       "தோல்வியடைந்தவர்கள் போட்ட வழக்கு முடியும் வரை தேர்தல் நடத்த",
-       "பெருந்துறையில் தேர்தல் வழக்குகள் முடிவுக்கு வந்துள்ளன",
-       "அம்பாசமுத்திரத்தில் மேல்முறையீடு உள்ளது"
+       "பாசூரைச் சேர்ந்த <b>30 வயது</b> வீரசங்கர்",
+       "திருமணமாகாத விவசாய கூலித் தொழிலாளி",
+       "தண்டவாளத்தை கவனக்குறைவாகக் கடந்தபோது விபத்து"
       ]
      },
      {
-      "title": "சட்ட நிலைப்பாடு",
+      "title": "போலீஸ் தகவல்",
       "lines": [
-       "இரு தொகுதிகளும் 'நாட் கிளியர் வேக்கன்சி' நிலையில் உள்ளன",
-       "அதனால் அங்கு தேர்தல் நடத்த முடியாது என்பதே சட்ட நிலைப்பாடு",
-       "5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது"
+       "கவனக்குறைவாகத் தண்டவாளத்தைக் கடந்தபோது ரயில் மோதியதாக",
+       "ரயில் தண்டவாளங்களை கடக்கும்போது கவனமாக இருங்கள்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பெருந்துறையில் இடைத்தேர்தல் நடத்த முடியாது என அ தி மு க நாடாளுமன்ற உறுப்பினர் இன்பதுரை கூறினார். அம்பாசமுத்திரம், பெருந்துறை தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது. தோல்வியடைந்தவர்கள் போட்ட வழக்கு முடியும் வரை தேர்தல் நடத்த முடியாது என்று பல தீர்ப்புகள் உள்ளன. பெருந்துறையில் தேர்தல் வழக்குகள் முடிவுக்கு வந்துவிட்டதால் நடத்தத் தடையில்லை என்று கூறப்பட்டுள்ளது. ஆனால் அம்பாசமுத்திரம் தொகுதிக்கு மேல்முறையீடு உள்ளது; அதன் முடிவுக்குப் பிறகே அங்கு தேர்தல் நடக்கும். விஜய்யின் வெற்றி செல்லாது என தினேஷ் என்ற வாக்காளர் போட்ட வழக்கில், விஜய்யின் நிராகரிப்பு மனு தள்ளுபடியானது. இதனால் முறையான விசாரணைக்குப் பிறகே முடிவெடுக்க முடியும். விஜய்யின் வெற்றியை எதிர்த்து தி மு க வைச் சேர்ந்தவரும், ஒரு வேட்பாளரும், ஒரு வாக்காளரும் வழக்குத் தொடர்ந்துள்ளனர்; அவை நிலுவையில் உள்ளன. அம்பாசமுத்திரம், பெருந்துறை இரண்டும் 'நாட் கிளியர் வேக்கன்சி' நிலையில் உள்ளதால் அங்கு தேர்தல் நடத்த முடியாது என்பதே சட்ட நிலைப்பாடு. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🗳️ பெருந்துறையில் இடைத்தேர்தல் நடத்த முடியாது: இன்பதுரை பேட்டி\n\n📰 முழு விவரம்:\n5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது. அம்பாசமுத்திரம், பெருந்துறை தொகுதிகளில் இடைத்தேர்தலை நடத்த முடியாது என அதிமுக எம்.பி.யும் வழக்கறிஞருமான இன்பதுரை சென்னையில் நிருபர்களிடம் தெரிவித்தார்.\nதோல்வியடைந்தவர்கள் போட்ட வழக்கு முடியும் வரை தேர்தல் நடத்த முடியாது என்பதற்குப் பல தீர்ப்புகள் உள்ளன.\n🏛️ பெருந்துறையில் தேர்தல் வழக்குகள் முடிவுக்கு வந்துவிட்டதால் நடத்தத் தடையில்லை எனக் கூறப்பட்டுள்ளது; ஆனாலும் அது பரிசீலனைக்குரியது.\n⚖️ அம்பாசமுத்திரம் தொகுதிக்கு மேல்முறையீடு உள்ளது; அதன் முடிவுக்குப் பிறகே அங்கு தேர்தல் நடக்கும்.\n🗳️ விஜய்யின் தேர்தல் செல்லாது எனக் கோரி தினேஷ் என்ற வாக்காளர் போட்ட வழக்கில், விஜய்யின் நிராகரிப்பு மனு தள்ளுபடியானது; முறையான விசாரணைக்குப் பிறகே முடிவெடுக்க முடியும்.\n📌 விஜய்யின் வெற்றியை எதிர்த்து திமுகவைச் சேர்ந்தவர், ஒரு வேட்பாளர், ஒரு வாக்காளர் ஆகியோர் போட்ட மனுக்கள் நிலுவையில் உள்ளன.\n📜 அம்பாசமுத்திரம், பெருந்துறை தொகுதிகள் 'நாட் கிளியர் வேக்கன்சி' நிலையில் உள்ளதால் அங்கு தேர்தல் நடத்த முடியாது என்பதே சட்ட நிலைப்பாடு.\n\nBypolls not possible in Perundurai, Ambasamudram | Erode news\n📍 பெருந்துறை, ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #தேர்தல் #ErodeNews",
-   "prompts": "An Election Commission official in a plain shirt stands at the counter of a government office in Perundurai town, sorting a stack of files and voter lists marked with a 'pending' pile on a wooden table. The office is a modest single-storey government building with a tiled roof and a rolled Tamil Nadu flag hanging near the doorway, in Erode city's administrative area. Two voters, a man in a white shirt and veshti and a woman in a cotton saree, wait on a bench in the background, seen from behind and slightly blurred. Next to the files lies a thick bundle of court papers tied with red tape, and a wall calendar shows the schedule. Daylight through open windows, mid-morning, mild and clear weather. Camera at eye level, 35 mm, wide enough to show the office room and the stacked files. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a thick bundle of legal case papers tied with red string, resting on a government office table beside a stack of voter list registers and a pile of sealed envelopes. A small brass desk lamp and a wooden pen stand sit at the edge of the frame, and a sheet of paper with a pending stamp is partly visible in the foreground, its text blurred and unreadable. Behind the table, out of focus, a khaki-clad police constable stands near a doorway and a few people sit on a bench seen from behind. Soft daylight from a window, neutral indoor tones. Camera slightly high, 35 mm, close enough to show the papers and the stack clearly. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinakaran.com/news/problems-persist-conducting-elections-5constituencies-aiadmkmp-inbadurai",
-   "published": "2026-11-28T01:37:11+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 13 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences",
+   "reel_script": "பாசூர் ரயில்வே ஸ்டேஷன் அருகே தண்டவாளத்தில் ரயில் மோதி 30 வயது வாலிபர் உயிரிழந்தார். ஈரோடு ரயில்வே போலீசார் உடலைக் கைப்பற்றி, ஈரோடு அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். விசாரணையில், பாசூரைச் சேர்ந்த பழனிசாமியின் மகன் வீரசங்கர் என்பது தெரியவந்தது. அவர் திருமணமாகாத விவசாய கூலித் தொழிலாளி. தண்டவாளத்தை கவனக்குறைவாகக் கடந்தபோது ரயில் மோதியதாக போலீசார் தெரிவித்தனர். ரயில் தண்டவாளங்களைக் கடக்கும்போது அனைவரும் கவனமாக இருக்க வேண்டும். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚆 பாசூர் அருகே ரயில் மோதி வாலிபர் பலி\n\n📰 முழு விவரம்:\nஈரோடு பாசூர் ரயில்வே ஸ்டேஷன் அருகே தண்டவாள பகுதியில் வாலிபர் ஒருவர் ரயில் மோதி இறந்து கிடந்தார். ஈரோடு ரயில்வே போலீசார் உடலைக் கைப்பற்றி, ஈரோடு அரசு மருத்துவமனைக்கு அனுப்பி வைத்தனர். விசாரணையில் பாசூரைச் சேர்ந்த பழனிசாமியின் மகன் வீரசங்கர், 30 வயது, திருமணமாகாத விவசாய கூலித் தொழிலாளி என தெரியவந்தது. தண்டவாளத்தை கவனக்குறைவாகக் கடந்தபோது ரயில் மோதி இறந்ததாக போலீசார் தெரிவித்தனர்.\n📍 இடம்: பாசூர் ரயில்வே ஸ்டேஷன் அருகே தண்டவாள பகுதி\n👮 நடவடிக்கை: ஈரோடு ரயில்வே போலீசார் உடலைக் கைப்பற்றினர்\nℹ️ மக்கள் கவனத்திற்கு: ரயில் தண்டவாளங்களைக் கடக்கும்போது கவனமாக இருங்கள்.\n\nYouth killed by train near Pasur railway station | Erode news\n📍 பாசூர், ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Pasur #ErodeNews #ஈரோடு",
+   "prompts": "Two Erode railway police officers in khaki uniform stand beside a railway track near Pasur railway station, Erode district, looking down at the rails and sleepers while a white railway police jeep is parked at a distance on the gravel bed. The track runs straight through flat green paddy and farm fields on the outskirts of the city, with a few palm trees and a distant line of low hills in the background. No body is visible, only the empty stretch of steel rails glinting in the late-morning daylight. Clothes are khaki uniforms and caps, and the officers are seen from behind and far away, slightly blurred. Camera at eye level, 35 mm lens, wide enough to show the track running into the distance and the fields on both sides. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the railway track itself: two steel rails lying on wooden sleepers and crushed grey stone ballast, with a single worn rail joint and a small pool of dried earth and footprints in the gravel beside the sleepers. The rails stretch into the distance toward Pasur railway station, where a faint outline of the platform is visible through the heat haze. Daylight falls evenly from a clear sky, making the steel shine on the top of the rail. No people are visible, and there is no blood or injury, only the empty track that tells the story of a fatal train collision. Camera low to the ground, 50 mm lens, shallow depth of field keeping the rails sharp and the background softly blurred. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/youth-killed-in-train-collision/4388298",
+   "published": "2026-11-28T07:38:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 55 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/a4018a65ef089bf6.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/8f75adc616b06e6e.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/e19e70468d5474a8.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/509d016723661bd4.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "புன்செய்புளியம்பட்டி அருகே மின் கம்பத்தில் மோதி டிப்பர் லாரி கவிழ்ந்தது",
+   "english_headline": "Tipper lorry overturns after hitting electric pole near Punjai Puliampatti; driver injured, power cut",
+   "category": "Roads & Transport",
+   "location": "Kovilputhur, Punjai Puliampatti, Erode district",
+   "importance": "Medium",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "சாலை விபத்து",
+    "loc": "புன்செய்புளியம்பட்டி",
+    "hl1": "புன்செய்புளியம்பட்டி லாரி கவிழ்ந்தது",
+    "hl2": "டிரைவருக்கு லேசான காயம்",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "ஜல்லி ஏற்றிய லாரி மின் கம்பத்தில் மோதியது",
+       "லாரி சாலையோரம் கவிழ்ந்தது",
+       "லாரியில் இருந்த ஜல்லிக்கற்கள் சிதறின"
+      ]
+     },
+     {
+      "title": "யார்? எப்படி?",
+      "lines": [
+       "திங்களூரைச் சேர்ந்த <b>32 வயது</b> பிரபு லாரியை ஓட்டினார்",
+       "கட்டுப்பாட்டை இழந்ததால் லாரி மோதியது",
+       "கோவில்புதூர் தண்ணீர் பந்தல் இணைப்பு சாலையில் நடந்தது"
+      ]
+     },
+     {
+      "title": "பாதிப்பு",
+      "lines": [
+       "டிரைவர் பிரபுவுக்கு லேசான காயம்",
+       "மின் கம்பம் சேதமடைந்தது",
+       "மின்சாரம் துண்டிக்கப்பட்டது"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "புன்செய்புளியம்பட்டி அருகே ஜல்லி ஏற்றிய லாரி மின் கம்பத்தில் மோதி கவிழ்ந்தது. நேற்று மாலை கோவையில் உள்ள கிரஷர் நிறுவனத்திலிருந்து ஜல்லி ஏற்றிய லாரி பெருந்துறைக்குப் புறப்பட்டது. திங்களூரைச் சேர்ந்த 32 வயது பிரபு லாரியை ஓட்டினார். புன்செய்புளியம்பட்டி அடுத்த கோவில்புதூர் தண்ணீர் பந்தல் இணைப்பு சாலையில் சென்றபோது, கட்டுப்பாட்டை இழந்த லாரி சாலையோர மின் கம்பத்தில் மோதி கவிழ்ந்தது. லாரியில் இருந்த ஜல்லிக்கற்கள் சாலையில் சிதறின. டிரைவர் பிரபு லேசான காயமடைந்தார். லாரி மோதியதில் மின் கம்பம் சேதமடைந்து மின்சாரம் துண்டிக்கப்பட்டது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 புன்செய்புளியம்பட்டி அருகே மின் கம்பத்தில் மோதி டிப்பர் லாரி கவிழ்ந்தது\n\n📰 முழு விவரம்:\nகோவையில் உள்ள கிரஷர் நிறுவனத்திலிருந்து ஜல்லி ஏற்றிய லாரி பெருந்துறைக்குப் புறப்பட்டது. திங்களூரைச் சேர்ந்த 32 வயது பிரபு லாரியை ஓட்டினார். கோவில்புதூர் தண்ணீர் பந்தல் இணைப்பு சாலையில் கட்டுப்பாட்டை இழந்த லாரி சாலையோர மின் கம்பத்தில் மோதி கவிழ்ந்தது. லாரியில் இருந்த ஜல்லிக்கற்கள் சிதறின. டிரைவர் பிரபு லேசான காயமடைந்தார். மின் கம்பம் சேதமடைந்ததால் மின்சாரம் துண்டிக்கப்பட்டது.\n\n📍 இடம்: கோவில்புதூர் தண்ணீர் பந்தல் இணைப்பு சாலை, புன்செய்புளியம்பட்டி அருகே\n🗓️ நாள்: நேற்று மாலை\n\nTipper lorry overturns after hitting electric pole near Punjai Puliampatti | Erode news\n📍 புன்செய்புளியம்பட்டி, ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Punjai #ErodeNews #ஈரோடு",
+   "prompts": "A tipper lorry lies on its side on a narrow village road in Kovilputhur near Punjai Puliampatti, its load of crushed jelly stone spilled across the tarmac, after it hit a roadside concrete electric pole. The pole is bent and leaning at the roadside, its wires sagging, and the power cut has left the road dim. The setting is a rural connecting road in Erode district, with paddy fields and a few coconut palms on either side and dry red soil shoulders. Two or three local men in shirts and veshti stand at a safe distance from the wreck, seen from behind, while a two-wheeler is parked on the verge. Evening light is fading to dusk with a soft orange sky over the fields. Camera at eye level, 35 mm, wide enough to show the overturned lorry, the pole and the empty road. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the crushed jelly stones scattered across a tarmac road in rural Kovilputhur, spilled from the tipped-over tipper lorry, with the broken base of a concrete electric pole and dangling cables at the roadside edge. Grey and white gravel fragments cover the road surface and the dusty shoulder, with a few tyre marks and loose soil around them. Dusk light gives a warm, low-angle glow across the stones. No people are in focus; a blurred shape of a man in a shirt stands far in the background near the parked two-wheeler. Camera slightly high, 35 mm, focusing on the scattered stones and the damaged pole base. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tipper-lorry-hits-electric-pole-overturns/4388295",
+   "published": "2026-11-28T07:36:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/3a41b95fa666a076.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/ee38ae6f3ab5528e.jpg"
    ]
   }
  ]
