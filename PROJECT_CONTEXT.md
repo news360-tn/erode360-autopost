@@ -85,6 +85,10 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `3290c5e` | reel: one line in the job log for every reel - what the design additions and the news reader did ("news reader added: ...", "reel additions: ...", or why not), so a posting run shows it was really drawn |
+| 2026-11-28 | `11c282c` | pick: picked news saved |
+| 2026-11-28 | `465df69` | pick: list sent |
+| 2026-11-28 | `463c1ce` | stories shared / Instagram pause |
 | 2026-11-28 | `00d5d38` | reel: the NEWS360-TN news reader in a round window on every news reel (owner 28 Nov) - the owner's own 9 drawings, the mouth chosen from the reel's voice (closed in every pause, open while the news is read); the place card sits beside it. Top 5 reel: headline clear of the buttons, the time chip above the caption area, the 5-4-3-2-1 row down the left side - one video for Instagram, Facebook and YouTube Shorts |
 | 2026-11-28 | `40f8f75` | stories shared / Instagram pause |
 | 2026-11-28 | `9b5c4eb` | stories shared / Instagram pause |
@@ -111,8 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `e1ea6d1` | pick: written and posted |
 | 2026-11-28 | `64a85a1` | facebook RN-342 |
 | 2026-11-28 | `1e7ad26` | posted RN-342 |
-| 2026-11-28 | `9b39e02` | stories shared / Instagram pause |
-| 2026-11-28 | `70ae1da` | stories shared / Instagram pause |
-| 2026-11-28 | `dde2045` | facebook RN-343 |
-| 2026-11-28 | `4c089fc` | posted RN-343 |
 <!-- recent-changes:end -->
