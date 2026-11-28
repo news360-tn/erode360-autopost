@@ -1,11 +1,27 @@
-writing [N]: பா்கூா் வனப் பகுதியில்  ட்ரோன் கேமராவில் விடியோ எடுத்தவருக்க
+writing [N]: கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+writing [N]: பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் 
+writing [N]: கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.6-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
 fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
   "error": {
     "code": 429,
@@ -16,16 +32,20 @@ fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-writing [N]: சிறப்பு நனைப்புக்கு தண்ணீரா? அமைச்சரை அணுக யோசனை
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-writing [N]: குட்கா விற்ற 4 கடை மூடல் ரூ.2 லட்சம் அபராதம் விதிப்பு
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
-fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_gener
-ok groq/qwen/qwen3.8-27b (4s)
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {"error":{"message":"Failed to validate JSON. Please adjust your prompt. See 'failed_gener
+ok groq/qwen/qwen3.8-27b (3s)
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
@@ -40,206 +60,130 @@ switching away from groq/qwen/qwen3.8-27b for 10 min
 free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
 ok anthropic/claude-haiku-5-5
 factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The article says the forest area is Burgur (பா்கூா் வனப் பகுதி), but the draft says Andiyur (அந்தியூர் வனப் பகுதி) in the headline, reel script, slides and caption. Andiyur is only the man's home town.
-  The draft's slides and caption say 'அந்தியூர், ஈரோடு' as the location, which misidentifies the forest location as Andiyur.
-  The reel_script says the youth was 'அந்தியூரைச் சேர்ந்த 30 வயது இளைஞர்' and then 'நண்பர்கள் 4 பேருடன் இணைந்து சென்றார்' — the article says he went with four friends, which is fine, but the sentence 'அங்கு ... விடியோ எடுத்தார்' is acceptable; however the final sentence 'குறிப்பிடத்தக்கது, இந்த இளைஞர் ஏற்கனவே குரங்குகளுக்கு உணவளித்த வழக்கில் அபராதம் செலுத்தியவர் என்பது.' is an unfinished, ungrammatical sentence with no clear predicate.
-  The draft omits the article's main fact that the man's name is Jayachandran; this is not strictly required, but the reel_script also drops the fact that the drone was used to film the video and the drone was seized by forest department officials as the cause of action is present; no inaccuracy there.
+  The reel_script says the bus was run by the state transport corporation as a new service, but the article says it was an existing express bus from Coimbatore that was rerouted via Gobi; the description 'முன்பு இந்த பேருந்து கோவையில் இருந்து சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக செல்வது' is ungrammatical and mixes two facts.
+  The reel_script states the route changed 'Gobi via' but the sentence 'கோபி வழியாக இயக்க முடிவு எடுக்கப்பட்டது' is fine; however the slides_spec line 'கோவை-சத்தியமங்கலம் வழியாக இயக்கம்' omits Anthiyur and Mettur from the original route, and it implies Coimbatore-Sathyamangalam is the new route rather than the old one.
+  The caption's route line '🚌 சேவை: கோவை - கோபி - திருப்பதி' and the sentence 'சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக செல்வது' contradict each other about which route is old versus new and create an unclear, incorrect description of the route.
+  The reel_script says 'அமைச்சர் கொடியசைத்து பேருந்து சேவையை தொடங்கிவைத்தார்' after the attendance sentence, but the caption text 'தொடக்கம்: அமைச்சர்' and the reel's 'த வெ க' party name is written with spaces, which is an unnatural rendering of தவெக and is not a factual error but the party official Pradeepkumar is mentioned without his role in the caption.
 attempt 1 groq/qwen/qwen3.8-27b: 4 problems
-  fact-check: The article says the forest area is Burgur (பா்கூா் வனப் பகுதி), but the draft says Andiyur (அந்தியூர் வனப் பகுதி) in the headline, reel script, slides and caption. Andiyur is only the man's home town.
-  fact-check: The draft's slides and caption say 'அந்தியூர், ஈரோடு' as the location, which misidentifies the forest location as Andiyur.
-  fact-check: The reel_script says the youth was 'அந்தியூரைச் சேர்ந்த 30 வயது இளைஞர்' and then 'நண்பர்கள் 4 பேருடன் இணைந்து சென்றார்' — the article says he went with four friends, which is fine, but the sentence 'அங்கு ... விடியோ எடுத்தார்' is acceptable; however the final sentence 'குறிப்பிடத்தக்கது, இந்த இளைஞர் ஏற்கனவே குரங்குகளுக்கு உணவளித்த வழக்கில் அபராதம் செலுத்தியவர் என்பது.' is an unfinished, ungrammatical sentence with no clear predicate.
-  fact-check: The draft omits the article's main fact that the man's name is Jayachandran; this is not strictly required, but the reel_script also drops the fact that the drone was used to film the video and the drone was seized by forest department officials as the cause of action is present; no inaccuracy there.
+  fact-check: The reel_script says the bus was run by the state transport corporation as a new service, but the article says it was an existing express bus from Coimbatore that was rerouted via Gobi; the description 'முன்பு இந்த பேருந்து கோவையில் இருந்து சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக செல்வது' is ungrammatical and mixes two facts.
+  fact-check: The reel_script states the route changed 'Gobi via' but the sentence 'கோபி வழியாக இயக்க முடிவு எடுக்கப்பட்டது' is fine; however the slides_spec line 'கோவை-சத்தியமங்கலம் வழியாக இயக்கம்' omits Anthiyur and Mettur from the original route, and it implies Coimbatore-Sathyamangalam is the new route rather than the old one.
+  fact-check: The caption's route line '🚌 சேவை: கோவை - கோபி - திருப்பதி' and the sentence 'சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக செல்வது' contradict each other about which route is old versus new and create an unclear, incorrect description of the route.
+  fact-check: The reel_script says 'அமைச்சர் கொடியசைத்து பேருந்து சேவையை தொடங்கிவைத்தார்' after the attendance sentence, but the caption text 'தொடக்கம்: அமைச்சர்' and the reel's 'த வெ க' party name is written with spaces, which is an unnatural rendering of தவெக and is not a factual error but the party official Pradeepkumar is mentioned without his role in the caption.
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free models unavailable: no free model answered: None
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 22 problems
-  hl1 is 45 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  stray Tamil sign '்' after 'ா' in «பா்கூா»
-  stray Tamil sign 'ா' after 'ூ' in «பா்கூா் வ»
-  stray Tamil sign '்' after 'ா' in «பா்கூா் வன»
-  stray Tamil sign '்' after 'ா' in «பா்கூா»
-  stray Tamil sign 'ா' after 'ூ' in «பா்கூா் வ»
-  stray Tamil sign '்' after 'ா' in «பா்கூா் வன»
-  stray Tamil sign '்' after 'ா' in «ழமை பா்கூா»
-  stray Tamil sign 'ா' after 'ூ' in « பா்கூா் வ»
-  stray Tamil sign '்' after 'ா' in «பா்கூா் வன»
-  stray Tamil sign '்' after 'ா' in «🚨 பா்கூா»
-  stray Tamil sign 'ா' after 'ூ' in « பா்கூா் வ»
-  stray Tamil sign '்' after 'ா' in «பா்கூா் வன»
-  stray Tamil sign '்' after 'ா' in «ழமை பா்கூா»
-  stray Tamil sign 'ா' after 'ூ' in « பா்கூா் வ»
-  stray Tamil sign '்' after 'ா' in «பா்கூா் வன»
-  stray Tamil sign '்' after 'ா' in «ம்: பா்கூா»
-  stray Tamil sign 'ா' after 'ூ' in « பா்கூா் வ»
-  stray Tamil sign '்' after 'ா' in «பா்கூா் வன»
-  stray Tamil sign '்' after 'ா' in «s
-📍 பா்கூா»
-  stray Tamil sign 'ா' after 'ூ' in « பா்கூா் வ»
-  stray Tamil sign '்' after 'ா' in «பா்கூா் வன»
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
-  hl1 is 43 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): பவானிசாகர் ('ஈரோடு:பவானிசாகர் அணையில் இருந்து கீழ்பவானி வாய்க்காலில் புன்')
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 53 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  reel_script says 'மூன்று கடைகளில்' (three shops) had tobacco products seized in Veerappanchathiram and 'ஒரு கடையிலும்' in Rasampalayam is described separately, but the article says all four shops (including Rasampalayam) had products seized; the reel_script wording 'ராசாம்பாளையத்தில்... பறிமுதல் நடந்தது' is acceptable, but the total count is consistent only by implication, so no direct error there.
-  reel_script calls the 4 shops as being in ஈரோடு மாநகராட்சிப் பகுதி (Erode Corporation area) for all four, but the article only states the Veerappanchathiram area is under the Corporation; Rasampalayam's location relative to the Corporation is not stated, so this is an unsupported claim.
-  The article's full list of officials (district food safety officer Varalakshmi, food safety officers Muthukrishnan, Kesavaraj, Selvan, and police Annusamy, Mohammed Suhail) is missing from the reel_script; this is an important detail about who conducted the inspection, though it is arguably minor.
-  reel_script and caption say the shops were 'மூடப்பட்டன' after notices were given, and the caption says 'உரிமம் ரத்து' — both consistent; however the caption's English line 'Erode gutka shops sealed, Rs 2 lakh fine' is fine. No further issues.
-claude rewrite 1 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: reel_script says 'மூன்று கடைகளில்' (three shops) had tobacco products seized in Veerappanchathiram and 'ஒரு கடையிலும்' in Rasampalayam is described separately, but the article says all four shops (including Rasampalayam) had products seized; the reel_script wording 'ராசாம்பாளையத்தில்... பறிமுதல் நடந்தது' is acceptable, but the total count is consistent only by implication, so no direct error there.
-  fact-check: reel_script calls the 4 shops as being in ஈரோடு மாநகராட்சிப் பகுதி (Erode Corporation area) for all four, but the article only states the Veerappanchathiram area is under the Corporation; Rasampalayam's location relative to the Corporation is not stated, so this is an unsupported claim.
-  fact-check: The article's full list of officials (district food safety officer Varalakshmi, food safety officers Muthukrishnan, Kesavaraj, Selvan, and police Annusamy, Mohammed Suhail) is missing from the reel_script; this is an important detail about who conducted the inspection, though it is arguably minor.
-  fact-check: reel_script and caption say the shops were 'மூடப்பட்டன' after notices were given, and the caption says 'உரிமம் ரத்து' — both consistent; however the caption's English line 'Erode gutka shops sealed, Rs 2 lakh fine' is fine. No further issues.
+claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): பெருந்துறை ('பிளாஸ்டிக் பயன்படுத்துவதால் ஏற்படும் தீமைகள் குறித்து விழிப்'); 5 ('பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் ')
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
+factcheck by anthropic/claude-haiku-5-5: 6 problems
+  The reel_script says the service 'started today' (இன்று தொடங்கியது), but the article only says it was launched on Friday; 'today' is not stated in the article.
+  The reel_script calls it a 'நேரடி' (direct) bus service, which the article does not state; the article says a fast bus was extended to pass through Gobi.
+  The reel_script and caption omit that the existing bus route was extended to Gobi; the reel_script says 'இப்போது' 'அந்தப் பேருந்து' is now operated via Gobi but the caption says the same bus 'also' runs via Gobi, which is consistent, but the slides call it a new 'எந்த வழித்தடம்' service run by the transport corporation, which matches the article.
+  The caption's 'இந்தப் பேருந்து கோபி வழியாகவும்' and the reel's claim that the Coimbatore route was replaced are inconsistent: the reel says the bus 'இப்போது கோபி வழியாக இயக்கப்படுகிறது' (now runs via Gobi, implying a change), while the article indicates the route was extended to Gobi.
+  The caption and tamil_headline describe the service as 'புதிய' (new) and the slides say it is a new start, but the article describes it as an extension of an existing route, so 'new service' is an unsupported characterisation.
+  The caption gives the date as 27 November 2026 (வெள்ளிக்கிழமை) in the body, which is an invented date not in the article; the article only says Friday.
+claude rewrite 1 anthropic/claude-haiku-5-5: 6 problems
+  fact-check: The reel_script says the service 'started today' (இன்று தொடங்கியது), but the article only says it was launched on Friday; 'today' is not stated in the article.
+  fact-check: The reel_script calls it a 'நேரடி' (direct) bus service, which the article does not state; the article says a fast bus was extended to pass through Gobi.
+  fact-check: The reel_script and caption omit that the existing bus route was extended to Gobi; the reel_script says 'இப்போது' 'அந்தப் பேருந்து' is now operated via Gobi but the caption says the same bus 'also' runs via Gobi, which is consistent, but the slides call it a new 'எந்த வழித்தடம்' service run by the transport corporation, which matches the article.
+  fact-check: The caption's 'இந்தப் பேருந்து கோபி வழியாகவும்' and the reel's claim that the Coimbatore route was replaced are inconsistent: the reel says the bus 'இப்போது கோபி வழியாக இயக்கப்படுகிறது' (now runs via Gobi, implying a change), while the article indicates the route was extended to Gobi.
+  fact-check: The caption and tamil_headline describe the service as 'புதிய' (new) and the slides say it is a new start, but the article describes it as an extension of an existing route, so 'new service' is an unsupported characterisation.
+  fact-check: The caption gives the date as 27 November 2026 (வெள்ளிக்கிழமை) in the body, which is an invented date not in the article; the article only says Friday.
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The reel_script says the young man entered the forest and the friends went along, but the article says the man was Jayachandran with four friends — the draft says 'அவர்கள் அத்துமீறிச் சென்றனர்' (they went), which is consistent; however the slides_spec 'யார் எடுத்தார்?' line 'நண்பர்கள் நான்கு பேருடன் சென்றார்' is fine.
-  The reel_script states 'வனக் குற்றவியல் சட்டத்தின் கீழ்' correctly, but the reel_script omits that the drone camera was confiscated only by the forest department's action in the same sentence group — no, it is included.
-  The caption says 'நண்பர்கள் நான்கு பேருடன் வெள்ளிக்கிழமை பர்கூர் வனப் பகுதியில் அத்துமீறி நுழைந்தார்' which merges the friends' count with the entry; the article says the four friends were with him in the Sri Giri Chithaeswarar temple area, not explicitly the wider Bargur forest — the caption places the entry as the whole Bargur forest area, which is a broader location than the article's specific temple area.
-  The slides_spec line 'அந்தியூர் இளைஞர் வனப் பகுதியில் அத்துமீறி நுழைந்தார்' says the youth entered the forest area, while the article specifies the restricted Sri Giri Chithaeswarar temple area; the place is stated less precisely but does not contradict the article.
-claude rewrite 2 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The reel_script says the young man entered the forest and the friends went along, but the article says the man was Jayachandran with four friends — the draft says 'அவர்கள் அத்துமீறிச் சென்றனர்' (they went), which is consistent; however the slides_spec 'யார் எடுத்தார்?' line 'நண்பர்கள் நான்கு பேருடன் சென்றார்' is fine.
-  fact-check: The reel_script states 'வனக் குற்றவியல் சட்டத்தின் கீழ்' correctly, but the reel_script omits that the drone camera was confiscated only by the forest department's action in the same sentence group — no, it is included.
-  fact-check: The caption says 'நண்பர்கள் நான்கு பேருடன் வெள்ளிக்கிழமை பர்கூர் வனப் பகுதியில் அத்துமீறி நுழைந்தார்' which merges the friends' count with the entry; the article says the four friends were with him in the Sri Giri Chithaeswarar temple area, not explicitly the wider Bargur forest — the caption places the entry as the whole Bargur forest area, which is a broader location than the article's specific temple area.
-  fact-check: The slides_spec line 'அந்தியூர் இளைஞர் வனப் பகுதியில் அத்துமீறி நுழைந்தார்' says the youth entered the forest area, while the article specifies the restricted Sri Giri Chithaeswarar temple area; the place is stated less precisely but does not contradict the article.
+claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 41 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 free fact-check unavailable, using Claude: no free model answered: None
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  hl1 (the first headline on screen) must name the place 'வீரப்பன்சத்திரம்', e.g. 'வீரப்பன்சத்திரம்: ...' or 'வீரப்பன்சத்திரம்-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 5 ('பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் ')
 ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 5 problems
-  The reel_script says the 'Erode 360' (ஈரோடு த்ரீ சிக்ஸ்டி) page should be followed, but the closing line is the fixed one and excluded; no problem there.
-  The reel_script states the collector said the Bhavanisagar dam water 'will be recommended' (பரிந்துரைக்கப்படும்) but the article says the water release is to be recommended for Dec 15–Apr 15 rotation; this matches, so no issue there.
-  The caption and reel_script say the farmers were 'asked to approach' the minister, which matches the article, but the reel_script says the collector gave a firm promise (கலெக்டர் உறுதி) of a 'good decision' by Dec 1 in slides; the article says 'நல்ல முடிவை கூறுகிறோம்' which supports it, so no problem.
-  The caption includes the date '27 நவம்பர் 2026' in the 🗓️ நாள் line, which is a posting-date line and excluded.
-  The caption says farmers' demand was for the rotation of water 'ஏப்ரல் 15 வரை சுழற்சி முறையில் நீர் விடக் கோரி விவசாயிகள் போராட்டம் நடத்தினர்' — the article says farmers protested seeking the special wetting water, not the rotation schedule; the rotation was the collector's recommendation. This misattributes the protest demand.
-claude rewrite 2 anthropic/claude-haiku-5-5: 5 problems
-  fact-check: The reel_script says the 'Erode 360' (ஈரோடு த்ரீ சிக்ஸ்டி) page should be followed, but the closing line is the fixed one and excluded; no problem there.
-  fact-check: The reel_script states the collector said the Bhavanisagar dam water 'will be recommended' (பரிந்துரைக்கப்படும்) but the article says the water release is to be recommended for Dec 15–Apr 15 rotation; this matches, so no issue there.
-  fact-check: The caption and reel_script say the farmers were 'asked to approach' the minister, which matches the article, but the reel_script says the collector gave a firm promise (கலெக்டர் உறுதி) of a 'good decision' by Dec 1 in slides; the article says 'நல்ல முடிவை கூறுகிறோம்' which supports it, so no problem.
-  fact-check: The caption includes the date '27 நவம்பர் 2026' in the 🗓️ நாள் line, which is a posting-date line and excluded.
-  fact-check: The caption says farmers' demand was for the rotation of water 'ஏப்ரல் 15 வரை சுழற்சி முறையில் நீர் விடக் கோரி விவசாயிகள் போராட்டம் நடத்தினர்' — the article says farmers protested seeking the special wetting water, not the rotation schedule; the rotation was the collector's recommendation. This misattributes the protest demand.
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 9 problems
-  reel_script and slides_spec state the person was 'இளைஞர்' (youth) in the first sentence context, but the article says the youth 'இளைஞருக்கு' only for the fine; the draft adds the age '30 வயது' which is in the article as '(30)' — this is fine, so no issue there
-  reel_script says the person went with 'நண்பர்கள் நான்கு பேருடன்' — article says 'தனது நண்பா்கள் நான்கு பேருடன்', matching; however the reel_script and caption say the trip was 'வெள்ளிக்கிழமை' — article matches this
-  The reel_script says the trek was to 'ஸ்ரீ கிரி சித்தேஸ்வரர் கோயில் பகுதி' — article matches
-  The slides_spec line 'அந்தியூர் இளைஞருக்கு ரூ.10 ஆயிரம் அபராதம்' and reel say the fine was imposed by forest department — article says வனத் துறையினர், matching
-  The caption contains the English line 'Drone video in Bargur forest fined Rs 10,000 | Erode news' which is an English line not a Tamil sentence; this is a headline-style addition, not a claim error, so it is not a problem under the rules
-  The reel_script says 'வன விலங்குகளை அச்சுறுத்தும் வகையில்' — article matches
-  The slides_spec 'hl1' and 'hl2' do not introduce new facts
-  The reel_script does not include the 'வன விலங்குகளை அச்சுறுத்தும் வகையில்' — it does include it, so no omission
-  The slides_spec loc 'பர்கூர் வனப் பகுதி' and cat 'வனத் துறை நடவடிக்கை' are consistent with the article
-claude rewrite 3 anthropic/claude-haiku-5-5: 9 problems
-  fact-check: reel_script and slides_spec state the person was 'இளைஞர்' (youth) in the first sentence context, but the article says the youth 'இளைஞருக்கு' only for the fine; the draft adds the age '30 வயது' which is in the article as '(30)' — this is fine, so no issue there
-  fact-check: reel_script says the person went with 'நண்பர்கள் நான்கு பேருடன்' — article says 'தனது நண்பா்கள் நான்கு பேருடன்', matching; however the reel_script and caption say the trip was 'வெள்ளிக்கிழமை' — article matches this
-  fact-check: The reel_script says the trek was to 'ஸ்ரீ கிரி சித்தேஸ்வரர் கோயில் பகுதி' — article matches
-  fact-check: The slides_spec line 'அந்தியூர் இளைஞருக்கு ரூ.10 ஆயிரம் அபராதம்' and reel say the fine was imposed by forest department — article says வனத் துறையினர், matching
-  fact-check: The caption contains the English line 'Drone video in Bargur forest fined Rs 10,000 | Erode news' which is an English line not a Tamil sentence; this is a headline-style addition, not a claim error, so it is not a problem under the rules
-  fact-check: The reel_script says 'வன விலங்குகளை அச்சுறுத்தும் வகையில்' — article matches
-  fact-check: The slides_spec 'hl1' and 'hl2' do not introduce new facts
-  fact-check: The reel_script does not include the 'வன விலங்குகளை அச்சுறுத்தும் வகையில்' — it does include it, so no omission
-  fact-check: The slides_spec loc 'பர்கூர் வனப் பகுதி' and cat 'வனத் துறை நடவடிக்கை' are consistent with the article
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+factcheck by anthropic/claude-haiku-5-5: 2 problems
+  The caption contains an English tagline line 'Gobichettipalayam Tirupati bus service flagged off | Erode news', which is not in the article and is an invented/unsupported element of the Tamil caption body
+  The reel_script says 'Gobi' route change but the article says Gobi is the route for the bus; no problem there, however the reel_script states 'ஈரோடு த்ரீ சிக்ஸ்டி' follow line which is allowed; no other issues found
+claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
+  fact-check: The caption contains an English tagline line 'Gobichettipalayam Tirupati bus service flagged off | Erode news', which is not in the article and is an invented/unsupported element of the Tamil caption body
+  fact-check: The reel_script says 'Gobi' route change but the article says Gobi is the route for the bus; no problem there, however the reel_script states 'ஈரோடு த்ரீ சிக்ஸ்டி' follow line which is allowed; no other issues found
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 2 problems
   hl1 is 42 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 2 ('குட்கா விற்ற 4 கடை மூடல் ரூ.2 லட்சம் அபராதம் விதிப்பு')
+  sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+hl1 shortened at a natural break: 'பெருந்துறையில் கூட்டத்துக்கு தடை கோரிக்கை' -> 'பெருந்துறையில் தடை கோரிக்கை'
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): பெருந்துறை ('பிளாஸ்டிக் பயன்படுத்துவதால் ஏற்படும் தீமைகள் குறித்து விழிப்'); 5 ('பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் ')
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+proofread skipped: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+ok anthropic/claude-haiku-5-5
+claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
+  hl1 is 48 characters (max 40) - write a SHORTER COMPLETE phrase with fewer words that still ends with its key word (what happened: e.g. 'X அருகே வீட்டில் கொள்ளை'); never stop a phrase in the middle
+hl1 shortened at a natural break: 'கோபி வழியாக திருப்பதிக்கு பேருந்து சேவை தொடக்கம்' -> 'கோபி வழியாக திருப்பதிக்கு சேவை தொடக்கம்'
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
-real photo skipped (photo uploaded 2026-07-30 (older than the news)): https://media.dinamani.com/dinamani/2026-07-30/1ff820xr/TNIEimport201979originaltrafficpol
 ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for erode360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-ok anthropic/claude-haiku-5-5
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 4 problems
-  The article says the farmers protested to get water released from Bhavanisagar dam for the first crop irrigation area's 20-day special wetting; the draft's reel_script says they demanded opening the Bhavanisagar dam water channel in general, which is a slightly different claim but not clearly wrong.
-  The reel_script says the collector explained the rotation-based water release 'will be recommended' and that the agriculture department data would be used; the article says the collector stated that the Kilbhavani dry irrigation water release would be recommended from Dec 15 to Apr 15, which matches, but the draft omits that the request for special wetting could not be recommended was said after the rotation statement in the article, so ordering is loosely reversed only in the draft's 'ஆனால்' framing, which is acceptable.
-  The reel_script states the collector 'அணுகி பேசுமாறும்' pointed farmers to district minister Sengottaiyan, but the draft's reel_script says 'மாவட்ட அமைச்சர் செங்கோட்டையனை அணுகி பேசுமாறும் விவசாயிகளுக்கு அறிவுறுத்தினார்' which is consistent; however the slides_spec 'கலெக்டர் கூறியது' third line is cut off mid-sentence ('விவசாயிகளுக்கு') with no clear meaning, making it an incomplete Tamil sentence.
-  The reel_script states the collector said the Kodiveri and Kalingarayan irrigation water being released out of turn 'அதிகாரிகளிடம் விசாரிக்கப்படும்' — this is supported, but the article says it is about whether such release should be stopped, which the draft omits; the important point that the minister should also be approached on this is missing from the reel_script.
-claude rewrite 3 anthropic/claude-haiku-5-5: 4 problems
-  fact-check: The article says the farmers protested to get water released from Bhavanisagar dam for the first crop irrigation area's 20-day special wetting; the draft's reel_script says they demanded opening the Bhavanisagar dam water channel in general, which is a slightly different claim but not clearly wrong.
-  fact-check: The reel_script says the collector explained the rotation-based water release 'will be recommended' and that the agriculture department data would be used; the article says the collector stated that the Kilbhavani dry irrigation water release would be recommended from Dec 15 to Apr 15, which matches, but the draft omits that the request for special wetting could not be recommended was said after the rotation statement in the article, so ordering is loosely reversed only in the draft's 'ஆனால்' framing, which is acceptable.
-  fact-check: The reel_script states the collector 'அணுகி பேசுமாறும்' pointed farmers to district minister Sengottaiyan, but the draft's reel_script says 'மாவட்ட அமைச்சர் செங்கோட்டையனை அணுகி பேசுமாறும் விவசாயிகளுக்கு அறிவுறுத்தினார்' which is consistent; however the slides_spec 'கலெக்டர் கூறியது' third line is cut off mid-sentence ('விவசாயிகளுக்கு') with no clear meaning, making it an incomplete Tamil sentence.
-  fact-check: The reel_script states the collector said the Kodiveri and Kalingarayan irrigation water being released out of turn 'அதிகாரிகளிடம் விசாரிக்கப்படும்' — this is supported, but the article says it is about whether such release should be stopped, which the draft omits; the important point that the minister should also be approached on this is missing from the reel_script.
-hl1 shortened at a natural break: 'கீழ்பவானி சிறப்பு நனைப்புக்கு தண்ணீர் இல்லை' -> 'கீழ்பவானி சிறப்பு தண்ணீர் இல்லை'
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-Cloudflare R2 refused (R2 daily safety limit reached for erode360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-images made: 2 for 'Youth fined Rs.10,000 for drone video in'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0430","first":"RN-326"}
-ok anthropic/claude-haiku-5-5
+images made: 2 for 'Hindu Munnani urges no permission for po'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0630","first":"RN-329"}
 posting job started at once
-real photo: no picture on the source page -> AI pictures
+real photo skipped (photo uploaded 2026-07-30 (older than the news)): https://media.dinamani.com/dinamani/2026-07-30/1ff820xr/TNIEimport201979originaltrafficpol
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for erode360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for erode360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-images made: 2 for 'Kalingarayan... Lower Bhavani: Collector'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0430","first":"RN-327"}
-real photo: no picture on the source page -> AI pictures
+images made: 2 for 'Gobichettipalayam: 4 wholesalers fined R'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0631","first":"RN-330"}
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for erode360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-Cloudflare R2 refused (R2 daily safety limit reached for erode360 (299 MB, 56 files today) - R2 is skipped until tomorrow (free tier protected)) - trying Cloudinary
-images made: 2 for 'Four shops sealed in Erode for selling b'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0430","first":"RN-328"}
+images made: 2 for 'New Tirupati bus service via Gobichettip'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-0632","first":"RN-331"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/4-shops-closed-for-selling-gutkha-fined-rs-2-lakh/4387450
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/is-there-water-for-a-special-dip/4387455
-manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/rs-10000-fine-imposed-on-person-for-recording-video-with-a-drone-camera-in-the-bargur-forest-area
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/bus-service-to-tirupati-via-gobi-route-minister-flags-off-the-service
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/பிளாஸ்டிக்-பொருள்கள்-விற்பனை-வியாபாரிகளுக்கு-ரூ15-லட்சம்-அபராதம்
+manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/permission-should-not-be-granted-for-political-organization-meetings-along-temple-procession-routes-hindu-munnani-urges
 candidate filter: collected=3
 to write: 3 Erode district candidates (max 3 stories)
 round: top 3 of 3 candidates
 candidates waiting: 3 Erode; time left 79 min
 try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
-try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
+try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min
 filed: 3 Erode district stories (target 3), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":3,"updated":0} 

@@ -3,42 +3,50 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/4-shops-closed-for-selling-gutkha-fined-rs-2-lakh/4387450",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/is-there-water-for-a-special-dip/4387455",
-  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/rs-10000-fine-imposed-on-person-for-recording-video-with-a-drone-camera-in-the-bargur-forest-area",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/bus-service-to-tirupati-via-gobi-route-minister-flags-off-the-service",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/பிளாஸ்டிக்-பொருள்கள்-விற்பனை-வியாபாரிகளுக்கு-ரூ15-லட்சம்-அபராதம்",
+  "manual link added: https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/permission-should-not-be-granted-for-political-organization-meetings-along-temple-procession-routes-hindu-munnani-urges",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
+  "try (N) manual=True: https://www.dinamani.com/all-editions/edition-coimbatore/ero",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 78 min",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
   "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
  ],
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener",
-  "ok groq/qwen/qwen3.8-27b (4s)",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_gener",
+  "ok groq/qwen/qwen3.8-27b (3s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
@@ -52,228 +60,210 @@
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5"
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "பர்கூர் வனப் பகுதியில் ட்ரோன் கேமரா விடியோ: ரூ.10 ஆயிரம் அபராதம்",
-   "english_headline": "Youth fined Rs.10,000 for drone video in Bargur forest area",
-   "category": "Crime & Safety",
-   "location": "Bargur forest area, Anthiyur, Erode district",
+   "tamil_headline": "கோயில் வழித்தடங்களில் அரசியல் கூட்டங்களுக்கு அனுமதி வேண்டாம்: இந்து முன்னணி",
+   "english_headline": "Hindu Munnani urges no permission for political meetings on routes to temples in Perundurai",
+   "category": "Government & Services",
+   "location": "Perundurai, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "வனக் குற்றம்",
-    "loc": "பர்கூர் வனப் பகுதி",
-    "hl1": "பர்கூர் வனப் பகுதியில் ட்ரோன் விடியோ",
-    "hl2": "ரூ.10 ஆயிரம் அபராதம்",
+    "cat": "அரசியல் கூட்டம்",
+    "loc": "பெருந்துறை",
+    "hl1": "பெருந்துறையில் தடை கோரிக்கை",
+    "hl2": "கோயில் வழித்தடங்களில்",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன கோரிக்கை?",
       "lines": [
-       "அந்தியூர் இளைஞர் வனப் பகுதியில் அத்துமீறி நுழைந்தார்",
-       "பழங்குடியினர் மட்டுமே செல்ல அனுமதியுள்ள பகுதி",
-       "ஸ்ரீ கிரி சித்தேஸ்வரர் கோயில் பகுதிக்குச் சென்றார்"
+       "கோயில் வழித்தடங்களில் அரசியல் பொதுக் கூட்டங்களுக்கு அனுமதி",
+       "கடவுள் மறுப்பு இயக்கக் கூட்டங்களுக்கும் அனுமதி கூடாது",
+       "இந்து முன்னணி வலியுறுத்தல்"
       ]
      },
      {
-      "title": "யார் எடுத்தார்?",
+      "title": "எந்தப் பகுதி?",
       "lines": [
-       "ஜெயசந்திரன் (30 வயது) நண்பர்கள் நான்கு பேருடன் சென்றார்",
-       "வெள்ளிக்கிழமை அத்துமீறிச் சென்றார்",
-       "ட்ரோன் கேமராவில் விடியோ எடுத்தார்"
+       "பெருந்துறையில் உள்ள நான்கு கோயில்களுக்குச் செல்லும் வழி",
+       "மாரியம்மன், பெருமாள், ஆஞ்சனேயர், முனியப்பன் கோயில்கள்",
+       "பெருந்துறை காவல் துணைக் கண்காணிப்பாளர் அலுவலகத்தில் மனு"
       ]
      },
      {
-      "title": "நடவடிக்கை",
+      "title": "ஏன்?",
       "lines": [
-       "வனக் குற்றவியல் சட்டத்தின் கீழ் வழக்குப் பதிவு",
-       "<b>ரூ.10 ஆயிரம்</b> அபராதம் விதிக்கப்பட்டது",
-       "ட்ரோன் கேமரா பறிமுதல் செய்யப்பட்டது"
+       "பக்தர்களின் மனம் புண்படும் நிலை உருவாகிறது என மனுவில்",
+       "இந்து முன்னணி ஒன்றியப் பொதுச் செயலாளர் பெருமாள் தலைமையில்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "பர்கூர் வனப் பகுதியில் அத்துமீறி நுழைந்து ட்ரோன் கேமராவில் விடியோ எடுத்த இளைஞருக்கு ரூ.10 ஆயிரம் அபராதம் விதிக்கப்பட்டது. அந்தியூரைச் சேர்ந்த ஜெயசந்திரன், 30 வயது, தனது நண்பர்கள் நான்கு பேருடன் வெள்ளிக்கிழமை அங்குச் சென்றார். பழங்குடியினர் மட்டுமே செல்ல அனுமதியுள்ள ஸ்ரீ கிரி சித்தேஸ்வரர் கோயில் பகுதிக்கு அவர்கள் அத்துமீறிச் சென்றனர். வன விலங்குகளை அச்சுறுத்தும் வகையில் ட்ரோன் கேமராவை இயக்கி விடியோ எடுத்து சமூக வலைதளங்களில் வெளியிட்டார். இதையடுத்து வனக் குற்றவியல் சட்டத்தின் கீழ் வழக்குப் பதிவு செய்த வனத் துறையினர், ஜெயசந்திரனுக்கு ரூ.10 ஆயிரம் அபராதம் விதித்தனர். ட்ரோன் கேமராவையும் பறிமுதல் செய்தனர். இவர் ஏற்கெனவே குரங்குகளுக்கு உணவளித்த வழக்கில் அபராதம் செலுத்தியவர் என்பதும் குறிப்பிடத்தக்கது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 பர்கூர் வனப் பகுதியில் ட்ரோன் விடியோ எடுத்தவருக்கு ரூ.10 ஆயிரம் அபராதம்\n\n📰 முழு விவரம்:\nஅந்தியூரைச் சேர்ந்த ஜெயசந்திரன் (30 வயது), நண்பர்கள் நான்கு பேருடன் வெள்ளிக்கிழமை பர்கூர் வனப் பகுதியில் அத்துமீறி நுழைந்தார். பழங்குடியினர் மட்டுமே செல்ல அனுமதியுள்ள ஸ்ரீ கிரி சித்தேஸ்வரர் கோயில் பகுதிக்குச் சென்றார். வன விலங்குகளை அச்சுறுத்தும் வகையில் ட்ரோன் கேமராவை இயக்கி விடியோ எடுத்து சமூக வலைதளங்களில் வெளியிட்டார். வனக் குற்றவியல் சட்டத்தின் கீழ் வழக்குப் பதிவு செய்த வனத் துறையினர், ரூ.10 ஆயிரம் அபராதம் விதித்ததோடு ட்ரோன் கேமராவையும் பறிமுதல் செய்தனர். இவர் ஏற்கெனவே குரங்குகளுக்கு உணவளித்த வழக்கில் அபராதம் செலுத்தியவர்.\n\n📍 இடம்: பர்கூர் வனப் பகுதி, அந்தியூர், ஈரோடு மாவட்டம்\n👮 நடவடிக்கை: வழக்குப் பதிவு, ரூ.10 ஆயிரம் அபராதம், ட்ரோன் கேமரா பறிமுதல்\n\nBargur forest drone video fined Rs.10,000 | Erode news\n📍 பர்கூர், ஈரோடு | 28 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Anthiyur #ErodeNews #ஈரோடு",
-   "prompts": "A forest department officer in green uniform holds a seized black drone camera at a forest check post at the edge of the Bargur forest hills near Anthiyur, Erode district, Tamil Nadu. Beside him, a group of young men in shirts and trousers stands with their backs to the camera, heads lowered, while another official in khaki-green uniform writes in a register on a wooden table. Behind them rise dense green Sathyamangalam-type forest hills with tall trees and a small temple gopuram on a distant slope. The scene is bright daylight, with soft sunlight filtering through the trees and no rain. The camera sits at eye level, about 35 mm, wide enough to show the forest check post, the officials, the hills and the seized drone together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a black drone camera with its propellers folded, placed on a rough wooden table at a forest department office in Bargur, Erode district. Beside it lie a bundle of papers and a forest department penalty receipt book, with a khaki-green uniformed officer's hand resting on the edge, fingers only visible. Behind the table, out of focus, a dense green forest hillside and a small hill temple are faintly visible through an open doorway. Bright daylight comes through the window, casting soft shadows. The camera is slightly high, at about 35 mm, focusing tightly on the drone and the papers so that the seizure is clearly the story. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/rs-10000-fine-imposed-on-person-for-recording-video-with-a-drone-camera-in-the-bargur-forest-area",
-   "published": "2026-11-27T19:36:30.449Z",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: fact-check: The reel_script says the young man entered the forest and the friends went along, but the article says the man was Jayachandran with four friends — the draft says 'அவர்கள் அத்துமீறிச் சென்றனர்' (they went), which is consistent; however the slides_spec 'யார் எடுத்தார்?' line 'நண்பர்கள் நான்கு பேருடன் சென்றார்' is fine.; fact-check: The reel_script states 'வனக் குற்றவியல் சட்டத்தின் கீழ்' correctly, but the reel_script omits that the drone camera was confiscated only by the forest department's action in the same sentence group — no, it is included.; fact-check: The caption says 'நண்பர்கள் நான்கு பேருடன் வெள்ளிக்கிழமை பர்கூர் வனப் பகுதியில் அத்துமீறி நுழைந்தார்' which merges the friends' count with the entry; the article says the four friends were with him in the Sri Giri Chithaeswarar temple area, not explicitly the wider Bargur forest — the caption places the entry as the whole Bargur forest area, which is a broader location than the article's specific temple area.; fact-check: The slides_spec line 'அந்தியூர் இளைஞர் வனப் பகுதியில் அத்துமீறி நுழைந்தார்' says the youth entered the forest area, while the article specifies the restricted Sri Giri Chithaeswarar temple area; the place is stated less precisely but does not contradict the article.",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 4 validator problem(s)",
+   "reel_script": "பெருந்துறையில் கோயில் வழித்தடங்களில் அரசியல் கூட்டங்களுக்கு அனுமதி கூடாது என இந்து முன்னணி வலியுறுத்தியுள்ளது. இந்து முன்னணி ஒன்றிய பொதுச் செயலாளர் பெருமாள் தலைமையில், பெருந்துறை காவல் துணைக் கண்காணிப்பாளர் அலுவலகத்தில் மனு அளிக்கப்பட்டது. பெருந்துறையில் உள்ள மாரியம்மன் கோயில், பெருமாள் கோயில், ஆஞ்சனேயர் கோயில் மற்றும் முனியப்பன் கோயில் ஆகிய நான்கு வழிபாட்டுத் தலங்களுக்குச் செல்லும் வழியில் இந்தக் கூட்டங்கள் நடத்தக் கூடாது என்று மனுவில் கேட்கப்பட்டுள்ளது. கடவுள் மறுப்பு இயக்கங்கள் மற்றும் அரசியல் அமைப்புகளின் பொதுக் கூட்டங்கள் நடப்பதால், கோயிலுக்கு வரும் பக்தர்களின் மனம் புண்படும் நிலை உருவாகிறது என மனுவில் குறிப்பிடப்பட்டுள்ளது. இனி வரும் காலங்களில் இந்தப் பகுதிகளில் இதுபோன்ற கூட்டங்களுக்குக் காவல்துறை அனுமதி அளிக்கக் கூடாது என இந்து முன்னணி கோரியுள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🙏 பெருந்துறை கோயில் வழித்தடங்களில் அரசியல் கூட்டங்களுக்கு அனுமதி வேண்டாம்\n\n📰 முழு விவரம்:\nபெருந்துறையில் உள்ள மாரியம்மன், பெருமாள், ஆஞ்சனேயர், முனியப்பன் கோயில்களுக்குச் செல்லும் வழியில் அரசியல் பொதுக் கூட்டங்களும் கடவுள் மறுப்பு இயக்கக் கூட்டங்களும் நடத்த அனுமதிக்கக் கூடாது என இந்து முன்னணி வலியுறுத்தியுள்ளது.\nஇது தொடர்பாக பெருந்துறை காவல் துணைக் கண்காணிப்பாளர் அலுவலகத்தில் இந்து முன்னணி ஒன்றியப் பொதுச் செயலாளர் பெருமாள் தலைமையில் மனு அளிக்கப்பட்டது.\nகோயில்களுக்கு வரும் பக்தர்களின் மனம் புண்படும் நிலை உருவாகிறது என மனுவில் குறிப்பிடப்பட்டுள்ளது.\n\n📍 இடம்: பெருந்துறை, ஈரோடு மாவட்டம்\n👮 நடவடிக்கை: காவல்துறை அனுமதி அளிக்கக் கூடாது என்று கோரிக்கை\n\nPerundurai temple route political meetings ban demand | Erode news\n📍 பெருந்துறை, ஈரோடு | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Perundurai #ErodeNews #ஈரோடு",
+   "prompts": "A group of Hindu Munnani members, men in shirts and veshti, stand in a line in front of the Deputy Superintendent of Police office in Perundurai, Erode district, as their union general secretary hands a petition file across a wooden counter to a khaki-uniformed Tamil Nadu police officer. The office is a plain government building with a tiled verandah, whitewashed walls, a wooden desk and a ceiling fan, and a small temple gopuram is faintly visible in the distance down the street, hinting at the temples named in the petition. A few other men stand behind the group, seen from behind or in profile and slightly blurred, some holding folded papers. The scene is daytime under soft natural daylight, with a clear sky. Shot at eye level, 35 mm, wide enough to show the office entrance, the police officer, the petitioners and the temple tower. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up detail of a stack of typed petition papers and a folder lying on a wooden police office desk, with a khaki-sleeved hand of a police officer resting on the edge and the cuff of a white shirt of a petitioner placed beside it. Behind the papers, a blurred view of a steel almirah and a ceiling fan shows an official government office in Perundurai, Erode district. Soft daylight falls through a window, creating gentle shadows on the desk surface. No readable text is visible on the papers. Shot at eye level, 35 mm, shallow depth of field focusing on the paper stack. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/permission-should-not-be-granted-for-political-organization-meetings-along-temple-procession-routes-hindu-munnani-urges",
+   "published": "2026-11-27T19:35:10.213Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795820403/erode360/hjc4bhcojnpvinmchi5f.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795820406/erode360/djsdx7ogv4r43vr2pzfx.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/8a8d6df03653c541.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/167219dd7f795de4.jpg"
    ]
   },
   {
-   "tamil_headline": "கீழ்பவானி சிறப்பு நனைப்புக்கு தண்ணீர் இல்லை; அமைச்சரை அணுக கலெக்டர் யோசனை",
-   "english_headline": "Kalingarayan... Lower Bhavani: Collector says no special wetting water release; farmers asked to approach minister Sengottaiyan",
-   "category": "Government & Services",
-   "location": "Lower Bhavani canal irrigation area, Erode district",
-   "importance": "High",
-   "scope": "district",
+   "tamil_headline": "கோபியில் தடை பிளாஸ்டிக் பொருள்கள்: 4 வியாபாரிகளுக்கு ரூ.1.52 லட்சம் அபராதம்",
+   "english_headline": "Gobichettipalayam: 4 wholesalers fined Rs 1.52 lakh for stocking banned plastic goods",
+   "category": "Civic Issues",
+   "location": "Gobichettipalayam town, Erode district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "நீர் பாசனம்",
-    "loc": "கீழ்பவானி, ஈரோடு மாவட்டம்",
-    "hl1": "கீழ்பவானி சிறப்பு தண்ணீர் இல்லை",
-    "hl2": "அமைச்சரை அணுக கலெக்டர் யோசனை",
+    "cat": "பிளாஸ்டிக் தடை",
+    "loc": "கோபி",
+    "hl1": "கோபியில் தடை பிளாஸ்டிக் பறிமுதல்",
+    "hl2": "ரூ.1.52 லட்சம் அபராதம்",
     "slides": [
      {
-      "title": "என்ன போராட்டம்?",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "கீழ்பவானி பாசன விவசாயிகள் போராட்டம் நடத்தினர்",
-       "முதல் போக பகுதிக்கு <b>20 நாள்</b> சிறப்பு நனைப்பு கோரிக்கை",
-       "பவானிசாகர் அணையிலிருந்து தண்ணீர் கேட்டனர்"
+       "கோபி நகராட்சி 15ஆவது வார்டு கடைவீதியில் ஆய்வு",
+       "தடை செய்யப்பட்ட பிளாஸ்டிக் பொருள்கள் பதுக்கல் தகவலின்பேரில்",
+       "<b>4</b> மொத்த வியாபாரிகளிடம் பொருள்கள் சிக்கின"
       ]
      },
      {
-      "title": "கலெக்டர்",
+      "title": "பறிமுதல், அபராதம்",
       "lines": [
-       "கலெக்டர் கந்தசாமி தலைமையில் பேச்சுவார்த்தை நடந்தது",
-       "புன்செய் பாசனத்துக்கு <b>டிச. 15</b> முதல் <b>ஏப். 15</b> வரை",
-       "முறைவைத்து நீர் திறக்க பரிந்துரைக்கப்படும்"
+       "மொத்தம் <b>1,500 கிலோ</b> பிளாஸ்டிக் பறிமுதல்",
+       "மொத்த அபராதம் <b>ரூ.1.52 லட்சம்</b>",
+       "வியாபாரிகளுக்கு நகராட்சி அதிகாரிகள் அபராதம் விதித்தனர்"
       ]
      },
      {
       "title": "அடுத்த நடவடிக்கை",
       "lines": [
-       "சிறப்பு நனைப்புக்கு பரிந்துரை செய்ய இயலாது",
-       "மாவட்ட அமைச்சர் செங்கோட்டையனை அணுகலாம்",
-       "முதல் போக பகுதி தேவை விவரம்: <b>டிச. 1</b>க்குள் முடிவு"
+       "பிளாஸ்டிக் தவிர்த்து மாற்றுப் பொருள்கள் ஆலோசனைக் கூட்டம்",
+       "பொதுமக்கள் கூடும் இடங்களில் தெருநாடகம் மூலம் விழிப்புணர்வு",
+       "ஆய்வில் மாசு கட்டுப்பாட்டு வாரிய அதிகாரிகளும் பங்கேற்பு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கீழ்பவானி பாசனப் பகுதியில் சிறப்பு நனைப்புக்கு தண்ணீர் திறக்க இயலாது என கலெக்டர் கந்தசாமி தெரிவித்தார். கீழ்பவானி பாசன விவசாயிகள் பவானிசாகர் அணையிலிருந்து முதல் போக பாசனப் பகுதிக்கு 20 நாள் சிறப்பு நனைப்புக்கு தண்ணீர் கேட்டு போராட்டம் நடத்தினர். இதுதொடர்பாக கலெக்டர் தலைமையில் பேச்சுவார்த்தை நடைபெற்றது. விவசாய அமைப்பு பிரதிநிதிகள் சுதந்திரராசு, ரவி, துளசிமணி உட்பட பலர் பங்கேற்றனர். புன்செய் பாசனத்துக்கு டிசம்பர் 15 முதல் ஏப்ரல் 15 வரை முறைவைத்து நீர் திறக்க பரிந்துரைக்கப்படும் என்று கலெக்டர் தெரிவித்தார். சிறப்பு நனைப்புக்கு பரிந்துரை செய்ய இயலாது என்றும் அவர் கூறினார். இது குறித்து மாவட்ட அமைச்சர் செங்கோட்டையனை அணுகி பேசுமாறு விவசாயிகளுக்கு கலெக்டர் யோசனை கூறினார். அமைச்சர் பரிந்துரைத்தால் அரசுக்கு பரிந்துரைக்கலாம் என்றார். முதல் போக பகுதியில் எந்தெந்தப் பகுதிக்கு தண்ணீர் தேவை என்பதை வேளாண் துறை மூலம் விவரங்கள் சேகரித்து டிசம்பர் 1க்குள் முடிவு தெரிவிப்பதாகவும் கூறினார். கொடிவேரி, காளிங்கராயன் பாசனப் பகுதிகளில் முறை தவறி தண்ணீர் திறப்பது குறித்து அதிகாரிகளிடம் விசாரிக்கப்படும் என்றும் அவர் தெரிவித்தார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 கீழ்பவானி சிறப்பு நனைப்புக்கு தண்ணீர் இல்லை; அமைச்சரை அணுக கலெக்டர் யோசனை\n\n📰 முழு விவரம்:\nகீழ்பவானி புன்செய் பாசனத்துக்கு டிசம்பர் 15 முதல் ஏப்ரல் 15 வரை முறைவைத்து நீர் திறக்க பரிந்துரைக்கப்படும் என கலெக்டர் கந்தசாமி தெரிவித்தார். முதல் போக பாசனப் பகுதிக்கு 20 நாள் சிறப்பு நனைப்புக்கு தண்ணீர் விட பரிந்துரை செய்ய இயலாது என்றார். விவசாயிகள் போராட்டம் நடத்திய நிலையில், கலெக்டர் தலைமையில் பேச்சுவார்த்தை நடந்தது. இதில் சுதந்திரராசு, ரவி, துளசிமணி உட்பட பலர் பங்கேற்றனர்.\n📍 இடம்: கீழ்பவானி பாசனப் பகுதி, ஈரோடு மாவட்டம்\n🗓️ நாள்: டிசம்பர் 15 - ஏப்ரல் 15 (புன்செய் பாசனம்)\n👮 நடவடிக்கை: முதல் போக பகுதியில் தண்ணீர் தேவை குறித்து வேளாண் துறை மூலம் விவரம் சேகரிப்பு; கொடிவேரி, காளிங்கராயன் பாசனத்தில் முறை தவறி நீர் திறப்பது குறித்து அதிகாரிகளிடம் விசாரணை\nℹ️ மக்கள் கவனத்திற்கு: சிறப்பு நனைப்பு குறித்து மாவட்ட அமைச்சர் செங்கோட்டையனை அணுகி பேசலாம்; டிசம்பர் 1க்குள் முடிவு தெரிவிக்கப்படும்\n\nLower Bhavani special wetting water denied, Erode farmers | Erode news\n📍 கீழ்பவானி, ஈரோடு மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #விவசாயிகள்",
-   "prompts": "A group of farmers in veshti and shirts sits on plastic chairs inside a government hall in Erode, facing a long table where District Collector Kandasamy and officials in formal shirts sit with files, papers and a water-release map spread out. The farmers, seen from behind and from a distance, listen attentively after their protest, with some holding notebooks. The hall has tube lights, a fan overhead, tall windows and a wooden podium at the front. Men in veshti and shirts, a few women in sarees, and officials in formal wear fill the room. The meeting is held in daylight. Camera at eye level, 35 mm lens, wide enough to show the whole hall and the table. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a worn government file and a printed irrigation map on a wooden table, with a steel tumbler of water and a pen resting beside it. Beyond the papers, out of focus, a farmer's rough hand rests on the edge of the table and a canal channel with flowing water is faintly visible through an open window. The desk shows the paper trail of the Lower Bhavani water release decision. Daylight falls through the window onto the table. Camera slightly high, 35 mm, shallow depth of field. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/is-there-water-for-a-special-dip/4387455",
-   "published": "2026-11-27T06:49:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: sentence 1 (one-line story) has 12 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences; caption misses facts of the article (put every one in 📰 முழு விவரம்): பவானிசாகர் ('ஈரோடு:பவானிசாகர் அணையில் இருந்து கீழ்பவானி வாய்க்காலில் புன்')",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 2 validator problem(s)",
+   "reel_script": "கோபியில் 4 மொத்த வியாபாரிகளுக்கு ரூ.1.52 லட்சம் அபராதம் விதிக்கப்பட்டுள்ளது. கோபி நகராட்சி 15ஆவது வார்டில் உள்ள கடைவீதியில் தடை செய்யப்பட்ட பிளாஸ்டிக் பொருள்கள் பதுக்கி வைக்கப்பட்டுள்ளதாக தகவல் கிடைத்தது. நகராட்சி அதிகாரிகள் ஆய்வு மேற்கொண்டனர். அப்போது 4 மொத்த வியாபாரிகளிடம் 1,500 கிலோ தடை செய்யப்பட்ட பிளாஸ்டிக் பொருள்கள் இருப்பது தெரியவந்தது. அந்தப் பொருள்களை அதிகாரிகள் பறிமுதல் செய்தனர். பின்னர் ரூ.1.52 லட்சம் அபராதம் விதித்தனர். பிளாஸ்டிக் தவிர்த்து மாற்றுப் பொருள்கள் பயன்படுத்துவது குறித்து வணிகர்களுக்கு ஆலோசனைக் கூட்டம் நடத்தவும் முடிவு செய்யப்பட்டுள்ளது. பிளாஸ்டிக் பயன்பாட்டால் ஏற்படும் தீமைகள் குறித்து பொதுமக்கள் அதிகம் கூடும் பகுதிகளில் தெருநாடகங்கள் நடத்தப்பட்டு வருகின்றன. ஆய்வின்போது நகராட்சி ஆணையர் கிருஷ்ணாராம், மாசு கட்டுப்பாட்டு வாரிய உதவிப் பொறியாளர் அதியன் ஆகியோர் உடனிருந்தனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚯 கோபியில் தடை பிளாஸ்டிக் பதுக்கல்: 4 வியாபாரிகளுக்கு ரூ.1.52 லட்சம் அபராதம்\n\n📰 முழு விவரம்:\nகோபி நகராட்சி 15ஆவது வார்டு கடைவீதியில் தடை செய்யப்பட்ட பிளாஸ்டிக் பொருள்கள் பதுக்கப்பட்டிருப்பதாக கிடைத்த தகவலின்பேரில் நகராட்சி அதிகாரிகள் ஆய்வு நடத்தினர்.\nஆய்வில் 4 மொத்த வியாபாரிகளிடம் 1,500 கிலோ தடை செய்யப்பட்ட பிளாஸ்டிக் பொருள்கள் இருப்பது தெரியவந்தது.\nஅவற்றைப் பறிமுதல் செய்து, மொத்தம் ரூ.1.52 லட்சம் அபராதம் விதிக்கப்பட்டது.\nபிளாஸ்டிக் தவிர்த்து மாற்றுப் பொருள்கள் பயன்படுத்துவது குறித்து வணிகர்களுக்கு ஆலோசனைக் கூட்டம் நடத்தவும் முடிவு செய்யப்பட்டுள்ளது.\nபிளாஸ்டிக் பயன்பாட்டின் தீமைகள் குறித்து விழிப்புணர்வு ஏற்படுத்த, பொதுமக்கள் அதிகம் கூடும் பகுதிகளில் நகராட்சி மூலம் தெருநாடகங்கள் நடத்தப்பட்டு வருகின்றன.\nஆய்வின்போது நகராட்சி ஆணையர் கிருஷ்ணாராம், மாசு கட்டுப்பாட்டு வாரிய உதவிப் பொறியாளர் அதியன், நகராட்சி சுகாதார அலுவலர் ரவிச்சந்திரன், ஆய்வாளர் நிரூபன் சக்கரவர்த்தி மற்றும் தூய்மை இந்தியா திட்ட பரப்புரையாளர்கள் உடனிருந்தனர்.\n\n📍 இடம்: கோபி நகராட்சி 15ஆவது வார்டு கடைவீதி, கோபி, ஈரோடு மாவட்டம்\n🗓️ நாள்: 27 நவம்பர் 2026\n👮 நடவடிக்கை: 1,500 கிலோ பிளாஸ்டிக் பறிமுதல், ரூ.1.52 லட்சம் அபராதம்\n\nGobichettipalayam banned plastic seized, Rs 1.52 lakh fine | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A municipal inspection team in Tamil Nadu municipal uniforms and officials in shirts and trousers stands beside a shop front on a busy commercial street in Gobichettipalayam town, as workers load seized banned plastic bags, sacks and plastic goods from a shop into a corporation tipper vehicle. Behind them the shop fronts are crowded with signboards removed and shutters half open, while two-wheelers, an autorickshaw and pedestrians pass on the road. The street is a typical Erode district town market lane with concrete shop buildings, hanging cloth awnings and a few tall electric poles. Men in shirts with veshti or trousers and women in sarees walk along the pavement at a distance, some carrying cloth bags. It is bright daylight with a clear sky and midday sun. Camera at eye level, 35 mm, wide enough to show the full street and the shop with the piled plastic in the foreground. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a large heap of seized banned plastic goods, rolled and stacked carry bags and plastic packets piled on the floor of a wholesale shop in Gobichettipalayam, with a few loose sacks spilling onto the ground. A corporation worker in a shirt and trousers, seen from behind and slightly out of focus, stands nearby beside a weighing scale and a stack of paper receipts on a wooden table. The shop interior shows bare concrete walls, a fluorescent tube light and a bundle of cloth bags on a shelf. Daylight enters from the shop front behind. Camera slightly high, 35 mm, medium-close framing so the pile of plastic dominates and the surrounding shop and officials remain visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/பிளாஸ்டிக்-பொருள்கள்-விற்பனை-வியாபாரிகளுக்கு-ரூ15-லட்சம்-அபராதம்",
+   "published": "2026-11-27T19:39:29.297Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): பெருந்துறை ('பிளாஸ்டிக் பயன்படுத்துவதால் ஏற்படும் தீமைகள் குறித்து விழிப்'); 5 ('பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் ')",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795820414/erode360/omlsq7suh7dhb5ezg0mg.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795820418/erode360/zlfuxdbe0zgetojvldom.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/f346d8a9f1784560.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/94bb8fa9535489ee.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோட்டில் 4 கடைகளுக்கு சீல்: குட்கா விற்பனையால் ரூ.2 லட்சம் அபராதம்",
-   "english_headline": "Four shops sealed in Erode for selling banned gutka; Rs 2 lakh fine imposed",
-   "category": "Crime & Safety",
-   "location": "Veerappanchatram and Rasampalayam, Erode district",
-   "importance": "High",
-   "scope": "",
+   "tamil_headline": "கோபி வழியாக திருப்பதிக்கு புதிய பேருந்து சேவை தொடக்கம்",
+   "english_headline": "New Tirupati bus service via Gobichettipalayam flagged off by minister K.A. Sengottaiyan",
+   "category": "Roads & Transport",
+   "location": "Gobichettipalayam, Erode district",
+   "importance": "Medium",
+   "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "குட்கா விற்பனை",
-    "loc": "வீரப்பன்சத்திரம், ராசாம்பாளையம்",
-    "hl1": "குட்கா விற்ற 4 கடைகள் மூடல்",
-    "hl2": "தலா ரூ.50,000 அபராதம்",
+    "cat": "பேருந்து சேவை",
+    "loc": "கோபி",
+    "hl1": "கோபி வழியாக திருப்பதிக்கு சேவை தொடக்கம்",
+    "hl2": "அமைச்சர் கொடியசைத்து",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "என்ன சேவை?",
       "lines": [
-       "தடை செய்யப்பட்ட குட்கா விற்பனை குறித்து கூட்டு ஆய்வு",
-       "உணவு பாதுகாப்புத் துறை, போலீசார் ஈடுபட்டனர்",
-       "4 கடைகளில் புகையிலை பொருட்கள் பறிமுதல்"
+       "கோபி வழியாக திருப்பதிக்கு பேருந்து சேவை",
+       "வெள்ளிக்கிழமை தொடங்கி வைக்கப்பட்டது",
+       "கோபியில் நடந்த நிகழ்ச்சியில் அமைச்சர் கொடியசைத்தார்"
       ]
      },
      {
-      "title": "எந்தெந்த கடைகள்?",
+      "title": "ஏன் இந்தச் சேவை?",
       "lines": [
-       "வீரப்பன்சத்திரம்: முத்து ஸ்டோர், ராஜேந்திரன், நடராஜன் கடைகள்",
-       "ராசாம்பாளையம்: ஆல்வின் மளிகைக் கடை",
-       "கடைகளுக்கு நோட்டீஸ் வழங்கி மூடப்பட்டன"
+       "கோவையில் இருந்து சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக",
+       "கோபி தொகுதி மக்களின் கோரிக்கையை ஏற்று கோபி வழியாக இயக்க"
       ]
      },
      {
-      "title": "அபராதம்",
+      "title": "யார் பங்கேற்பு?",
       "lines": [
-       "கடை உரிமம் ரத்து செய்யப்பட்டது",
-       "ஒவ்வொரு கடைக்கும் <b>ரூ.50,000</b> அபராதம்",
-       "மொத்தம் <b>ரூ.2 லட்சம்</b> அபராதம்"
-      ]
-     },
-     {
-      "title": "தகவல் தெரிவிக்க",
-      "lines": [
-       "புகையிலை விற்பனை குறித்து தெரிவிக்கலாம்",
-       "<b>0424 22235545</b>",
-       "<b>94440 42322</b>"
+       "வருவாய் மற்றும் பேரிடர் மேலாண்மைத் துறை அமைச்சர்",
+       "ஈரோடு மண்டல துணை மேலாளர் ராஜேந்திரன் தலைமை வகித்தார்",
+       "தவெக மேற்கு மாவட்டச் செயலாளர் பிரதீப்குமார் உள்பட பலர்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோட்டில் தடை செய்யப்பட்ட குட்கா விற்ற 4 கடைகள் மூடப்பட்டுள்ளன. அவை ரூ.2 லட்சம் அபராதத்துக்கு உள்ளாகின. உணவு பாதுகாப்புத் துறையினரும் போலீசாரும் இணைந்து கூட்டு ஆய்வு மேற்கொண்டனர். வீரப்பன்சத்திரம் பகுதியில் லதாவுக்குச் சொந்தமான முத்து ஸ்டோர், ராஜேந்திரனின் மளிகைக் கடை, நடராஜனின் மளிகைக் கடை ஆகியவற்றில் புகையிலைப் பொருட்கள் பறிமுதல் செய்யப்பட்டன. ராசாம்பாளையத்தில் ஆல்வின் என்பவரின் மளிகைக் கடையிலும் புகையிலைப் பொருட்கள் பறிமுதல் செய்யப்பட்டன. கடைக்காரர்களுக்கு நோட்டீஸ் வழங்கி கடைகள் மூடப்பட்டன. கடை உரிமங்கள் ரத்து செய்யப்பட்டு, ஒவ்வொரு கடைக்கும் ரூ.50,000 வீதம் அபராதம் விதிக்கப்பட்டது. ஆய்வில் மாவட்ட உணவு பாதுகாப்பு நியமன அலுவலர் வரலட்சுமி, உணவு பாதுகாப்பு அலுவலர்கள் முத்துகிருஷ்ணன், கேசவராஜ், செல்வன், போலீசார் அன்னுசாமி, முகம்மது சுஹைல் ஆகியோர் ஈடுபட்டனர். புகையிலைப் பொருட்கள் விற்பனை குறித்து 0424 22235545, 94440 42322 ஆகிய எண்களில் தெரிவிக்கலாம். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 ஈரோட்டில் குட்கா விற்ற 4 கடைகள் மூடல்: ரூ.2 லட்சம் அபராதம்\n\n📰 முழு விவரம்:\nஅரசால் தடை செய்யப்பட்ட குட்கா புகையிலைப் பொருட்கள் விற்கப்படுகிறதா என்பது குறித்து உணவு பாதுகாப்புத் துறையினரும் போலீசாரும் கூட்டு ஆய்வு மேற்கொண்டனர். வீரப்பன்சத்திரம் பகுதியில் லதாவுக்குச் சொந்தமான முத்து ஸ்டோர், ராஜேந்திரனின் மளிகைக் கடை, நடராஜனின் மளிகைக் கடை ஆகியவற்றிலும், ராசாம்பாளையத்தில் ஆல்வின் என்பவரின் மளிகைக் கடையிலும் புகையிலைப் பொருட்கள் பறிமுதல் செய்யப்பட்டன. கடைக்காரர்களுக்கு நோட்டீஸ் வழங்கி கடைகள் மூடப்பட்டன. கடை உரிமங்கள் ரத்து செய்யப்பட்டு, ஒவ்வொரு கடைக்கும் ரூ.50,000 வீதம் அபராதம் விதிக்கப்பட்டது.\n📍 இடம்: வீரப்பன்சத்திரம், ராசாம்பாளையம் (ஈரோடு மாவட்டம்)\n🗓️ நாள்: நவம்பர் 27, 2026\n👮 நடவடிக்கை: 4 கடைகள் மூடல், உரிமம் ரத்து, தலா ரூ.50,000 அபராதம்\n📞 தொடர்புக்கு: 0424 22235545, 94440 42322\nபுகையிலைப் பொருட்கள் விற்பனை குறித்து தெரிந்தால் தகவல் தெரிவியுங்கள்.\n\nErode 4 gutka shops sealed, Rs 2 lakh fine | Erode news\n📍 வீரப்பன்சத்திரம், ஈரோடு மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Veerappanchatram #ErodeNews #ஈரோடு",
-   "prompts": "A team of Tamil Nadu police in khaki uniform and food safety officers in plain shirts stand outside a small provision store in Veerappanchatram, Erode city, as the shutter is pulled down and a paper notice is pasted across it. Inside the store's dim doorway, a few packets of gutka and tobacco products are visible on a wooden rack, while a grocery shop with rows of plastic packets sits beside it on a busy town street. Two-wheelers and an autorickshaw are parked along the roadside, and a few shopkeepers in shirts and veshti stand at a distance, seen from behind. The scene is in full daylight with a clear sky, and the camera is at eye level with a 35 mm lens, wide enough to show the shop front, the police team and the street around them. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a wooden table in a small Erode grocery shop where seized gutka and banned tobacco packets are piled in a heap, with a khaki-sleeved police hand resting beside them and a stack of official notice papers beside the pile. Behind the table, a bare shelf with plastic jars and a glimpse of a sealed shutter door outside. The light is soft daylight from the shop entrance, and the camera is slightly high, 35 mm, focused on the seized packets with the shop interior softly blurred behind them. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/4-shops-closed-for-selling-gutkha-fined-rs-2-lakh/4387450",
-   "published": "2026-11-27T06:43:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: hl1 (the first headline on screen) must name the place 'வீரப்பன்சத்திரம்', e.g. 'வீரப்பன்சத்திரம்: ...' or 'வீரப்பன்சத்திரம்-இல் ...' - viewers share news of their own area",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "கோபியில் இருந்து திருப்பதிக்கு நேரடி பேருந்து சேவை இன்று தொடங்கியது. வெள்ளிக்கிழமை நடைபெற்ற நிகழ்ச்சியில் வருவாய் மற்றும் பேரிடர் மேலாண்மைத் துறை அமைச்சர் கே ஏ செங்கோட்டையன் பேருந்து சேவையைக் கொடியசைத்துத் தொடங்கி வைத்தார். இந்த நிகழ்ச்சிக்கு ஈரோடு மண்டல துணை மேலாளர் ராஜேந்திரன் தலைமை வகித்தார். கோபி கிளை மேலாளர் கனகராஜ், போக்குவரத்து தொழிலாளர்கள் ஒருங்கிணைப்பாளர் சுரேஷ் ஆகியோர் முன்னிலை வகித்தனர். இதற்கு முன் கோவையில் இருந்து சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக திருப்பதிக்கு விரைவு பேருந்து இயக்கப்பட்டு வந்தது. கோபி தொகுதி மக்களின் கோரிக்கையை ஏற்று, இப்போது இந்தப் பேருந்தை கோபி வழியாக இயக்க அரசுப் போக்குவரத்துக் கழகம் நடவடிக்கை எடுத்தது. த வெ க மேற்கு மாவட்டச் செயலாளர் பிரதீப்குமார், மகளிர் அணியினர் உள்பட பலர் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 கோபி வழியாக திருப்பதிக்கு புதிய பேருந்து சேவை தொடக்கம்\n\n📰 முழு விவரம்:\nகோபி வழித்தடத்தில் திருப்பதிக்குச் செல்லும் பேருந்து சேவை வெள்ளிக்கிழமை தொடங்கி வைக்கப்பட்டது. வருவாய் மற்றும் பேரிடர் மேலாண்மைத் துறை அமைச்சர் கே.ஏ.செங்கோட்டையன் கொடியசைத்துத் தொடங்கி வைத்தார். கோவையில் இருந்து சத்தியமங்கலம், அந்தியூர், மேட்டூர் வழியாக இயக்கப்பட்டு வந்த விரைவுப் பேருந்து, கோபி தொகுதி மக்களின் கோரிக்கையை ஏற்று கோபி வழியாக இயக்கப்படுகிறது.\n📍 இடம்: கோபி, ஈரோடு மாவட்டம்\n🚌 சேவை: கோபியில் இருந்து திருப்பதிக்கு பேருந்து\n🗓️ நாள்: 27 நவம்பர் 2026 (வெள்ளிக்கிழமை)\n🎗️ நிகழ்ச்சி: ஈரோடு மண்டல துணை மேலாளர் ராஜேந்திரன் தலைமையில், கோபி கிளை மேலாளர் கனகராஜ், போக்குவரத்து தொழிலாளர்கள் ஒருங்கிணைப்பாளர் சுரேஷ் முன்னிலையில் நடந்தது.\n\n🚌 கோபி வழியாக திருப்பதி பேருந்து சேவை பற்றி உங்கள் ஊர் மக்களுக்கு Share செய்யுங்கள்.\n\nGobichettipalayam Tirupati bus service | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 27 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "A TNSTC express bus bound for Tirupati stands at a Gobichettipalayam bus stand, with a senior official in a shirt and a group of transport officials and workers gathered beside its front door as the service is flagged off by a green flag. The bus stand in Gobichettipalayam town is a busy open platform with a covered shelter, parked town buses and private buses nearby, two-wheelers parked along the edge, and small roadside shops behind. Men in shirts and veshti stand in a loose group, some women in sarees stand a little apart with a few party members, all seen from behind or far away, mid-ceremony in daylight. The destination board is kept out of frame. Camera at eye level, 35 mm, wide enough to show the bus, the group and the stand. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the front of the TNSTC express bus with its open passenger door and the driver's cabin visible, a hand holding a green flag gently raised beside the bus, and a few shoes and the edge of a red ribbon near the step. Behind it, the blurred figures of officials and workers stand at the bus stand platform in daylight, with a few parked two-wheelers and a concrete pillar of the shelter in the background. Text, numbers and logos are kept out of frame. Camera slightly high, 35 mm, shallow depth of field to keep the focus on the bus and flag. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/bus-service-to-tirupati-via-gobi-route-minister-flags-off-the-service",
+   "published": "2026-11-27T19:38:52.915Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795820425/erode360/p05iwxpqciqnt6lfvltc.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795820428/erode360/crikdbbyxdc57igmwih6.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/d51bc2959e0093e0.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/66ea541c91c783c7.jpg"
    ]
   }
  ]
