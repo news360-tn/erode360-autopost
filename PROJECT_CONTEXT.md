@@ -85,6 +85,12 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `a3bc134` | Hashtag fixes (owner 28 Nov): a source link's #part is no longer a hidden YouTube tag (district-section); a Facebook hashtag is never repeated and the top 5 reel gets topic + district + page tag |
+| 2026-11-28 | `eea4850` | stories shared / Instagram pause |
+| 2026-11-28 | `3140000` | autofix: corrected held news |
+| 2026-11-28 | `96093d7` | stories shared / Instagram pause |
+| 2026-11-28 | `e0ec4fd` | powercut: notices written |
+| 2026-11-28 | `deb4892` | stories shared / Instagram pause |
 | 2026-11-28 | `52b9e09` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Bhavani pin was in the wrong place |
 | 2026-11-28 | `05f0af8` | stories shared / Instagram pause |
 | 2026-11-28 | `290deca` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
@@ -109,10 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `1116e81` | stories shared / Instagram pause |
 | 2026-11-28 | `f91eaef` | stories shared / Instagram pause |
 | 2026-11-28 | `7976510` | stories shared / Instagram pause |
-| 2026-11-28 | `a74593c` | stories shared / Instagram pause |
-| 2026-11-28 | `f953718` | Top 5: headline at most 3 lines (never over the 5-4-3-2-1 row), the row a little lower, 'nettru' for yesterday's news |
-| 2026-11-28 | `142c320` | stories shared / Instagram pause |
-| 2026-11-28 | `f4baaae` | stories shared / Instagram pause |
-| 2026-11-28 | `7c9a78d` | stories shared / Instagram pause |
-| 2026-11-28 | `fd2450b` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
