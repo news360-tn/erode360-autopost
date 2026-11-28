@@ -3,9 +3,9 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/ban-on-sale-of-seed-worth-rs-14-lakh/4388304",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/law-to-issue-pattas-in-15-days-minister-assures/4388285",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/government-bus-service-launched-between-gopi-tirupati/4388303",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tribal-people-appeal-for-protection-on-hilltop/4388289",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kundam-festival-poochathu-on-9th-december-at-thanthondiamman-temple/4388292",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/it-is-his-job-to-make-mistakes-it-is-the-officer-who-punishes-the-trespassers-in-the-job-forest-with-a-fine/4388286",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
@@ -17,7 +17,7 @@
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
   "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
@@ -26,253 +26,241 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
-  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.6-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
-  "dead for this round: gemini/gemini-3.5-flash",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
-  "dead for this round: gemini/gemini-3-flash-preview",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
-  "dead for this round: groq/openai/gpt-oss-120b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok gemini/gemini-3.6-flash (21s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (6s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (9s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (39s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (7s)",
+  "ok gemini/gemini-3.6-flash (59s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok gemini/gemini-3-flash-preview (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (11s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (7s)",
+  "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
+  "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
   "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (3s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok groq/qwen/qwen3.8-27b (4s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (0s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
+  "ok groq/qwen/qwen3.8-27b (1s)"
  ],
  "stories": [
   {
-   "tamil_headline": "கோபி–திருப்பதி இடையே அரசு பஸ் சேவை தொடக்கம்",
-   "english_headline": "Government bus service launched between Gobi and Tirupati",
+   "tamil_headline": "திம்பம் மலைச்சாலையில் விபத்து ஆபத்து: பாதுகாப்பு கோரி ஈரோடு கலெக்டரிடம் மனு",
+   "english_headline": "Hill Tribes Association submits petition to Erode Collector demanding safety measures on Sathyamangalam-Dimbam ghat road with 26 hairpin bends",
    "category": "Roads & Transport",
-   "location": "Gobi, Erode district",
+   "location": "Sathyamangalam to Dimbam NH road, Erode district",
    "importance": "High",
-   "scope": "local",
+   "scope": "district",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பஸ் சேவை",
-    "loc": "கோபி",
-    "hl1": "கோபியில் இருந்து திருப்பதிக்கு அரசு பஸ்",
-    "hl2": "இரவு 7 மணிக்கு புறப்பாடு",
+    "cat": "சாலை பாதுகாப்பு",
+    "loc": "சத்தியமங்கலம் - திம்பம்",
+    "hl1": "திம்பம் மலைச்சாலையில் விபத்து ஆபத்து",
+    "hl2": "கலெக்டரிடம் மனு அளிப்பு",
     "slides": [
      {
-      "title": "எப்போது தொடக்கம்?",
+      "title": "என்ன பிரச்சனை?",
       "lines": [
-       "நேற்றிரவு பஸ் சேவை தொடக்க விழா நடைபெற்றது",
-       "தமிழ்நாடு அரசு போக்குவரத்து கழகம் சார்பில்",
-       "வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் துவக்கி வைத்தார்"
+       "பண்ணாரி - திம்பம் தேசிய நெடுஞ்சாலை மலைப்பாதை",
+       "<b>26</b>க்கும் மேற்பட்ட கொண்டை ஊசி வளைவுகள்",
+       "மிகக் குறுகிய வளைவுகளால் அடிக்கடி போக்குவரத்து ஸ்தம்பனம்"
       ]
      },
      {
-      "title": "கோபி–திருப்பதி",
+      "title": "பாதிப்புகள்",
       "lines": [
-       "கோபி பஸ் ஸ்டாண்டில் இருந்து <b>இரவு 7 மணிக்கு</b> புறப்படும்",
-       "அந்தியூர், மேட்டூர், வேலூர், சித்தூர் வழியாக செல்லும்",
-       "மறுநாள் அதிகாலை <b>5:30 மணிக்கு</b> திருப்பதி சென்றடையும்"
+       "நீண்ட வடிவ வாகனங்கள் திரும்ப முடியாமல் சிரமம்",
+       "பல இடங்களில் பக்கச்சுவர் சேதமடைந்துள்ளது",
+       "போதிய உயரம் இல்லை, பேரிகார்டு இல்லாத பகுதிகள்"
       ]
      },
      {
-      "title": "திருப்பதி–கோபி",
+      "title": "என்ன கோரிக்கை?",
       "lines": [
-       "திருப்பதியில் இருந்து <b>இரவு 7:30 மணிக்கு</b> புறப்படும்",
-       "மறுநாள் அதிகாலை <b>5:30 மணிக்கு</b> கோபியை அடையும்",
-       "பஸ் கட்டணம் <b>520 ரூபாய்</b>"
+       "சிறப்பு திட்டம் மூலம் தடுப்பு சுவர் அமைக்க வேண்டும்",
+       "பேரிகார்டு, விபத்து எச்சரிக்கை வசதிகள் கோரிக்கை",
+       "ஈரோடு கலெக்டரிடம் மலைவாழ் மக்கள் சங்கம் மனு"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கோபியில் இருந்து திருப்பதிக்கு அரசு பஸ் சேவை தொடங்கியுள்ளது. தமிழ்நாடு அரசு போக்குவரத்து கழகம் சார்பில் நேற்றிரவு துவக்க விழா நடைபெற்றது. வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் இந்தப் பஸ் சேவையைத் துவக்கி வைத்தார். கோபி பஸ் ஸ்டாண்டில் இருந்து தினமும் இரவு 7 மணிக்குப் பஸ் புறப்படும். அந்தியூர், மேட்டூர், வேலூர், சித்தூர் வழியாகச் செல்லும் இந்தப் பஸ் மறுநாள் அதிகாலை 5:30 மணிக்குத் திருப்பதியைச் சென்றடையும். திருப்பதியில் இருந்து தினமும் இரவு 7:30 மணிக்குப் பஸ் புறப்படும். மறுநாள் அதிகாலை 5:30 மணிக்குக் கோபியை வந்தடையும். பஸ் கட்டணம் 520 ரூபாய். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚌 கோபியில் இருந்து திருப்பதிக்கு அரசு பஸ் சேவை தொடக்கம்\n\n📰 முழு விவரம்:\nதமிழ்நாடு அரசு போக்குவரத்து கழகம் சார்பில் கோபியில் இருந்து திருப்பதிக்கு அரசு பஸ் சேவையைத் துவக்கும் விழா நேற்றிரவு நடைபெற்றது. வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் பஸ் சேவையைத் துவக்கி வைத்தார்.\nகோபி பஸ் ஸ்டாண்டில் இருந்து தினமும் இரவு 7 மணிக்குப் புறப்படும் பஸ், அந்தியூர், மேட்டூர், வேலூர், சித்தூர் வழியாக மறுநாள் அதிகாலை 5:30 மணிக்குத் திருப்பதியை அடையும்.\nதிருப்பதியில் இருந்து தினமும் இரவு 7:30 மணிக்குப் புறப்படும் பஸ், மறுநாள் அதிகாலை 5:30 மணிக்குக் கோபியை அடையும்.\n🎫 பஸ் கட்டணம்: 520 ரூபாய்\n\nGobi to Tirupati government bus service launched | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobi #ErodeNews #ஈரோடு",
-   "prompts": "A Tamil Nadu State Transport Corporation bus stands at the Gobi bus stand at dusk, ready for its first night trip to Tirupati as a flag-off ceremony takes place beside it. Seen from a slight distance at eye level, the bus is a large government TNSTC bus with a long passenger body and its front window and destination board area facing the camera, though no readable text is shown. In the foreground a small group of men in shirts and veshti and women in sarees stand at a low ceremonial stage, a garland-decorated area and a few officials in formal shirts gathered near the open front door of the bus, all seen from behind or in soft focus. Around them the bus stand platform has parked two-wheelers, a few private buses and autorickshaws, and the rear of a line of waiting passengers with bags. Evening light is fading to dusk with sodium street lamps glowing along the platform and the sky a deep blue. Shot on a 35 mm lens at eye level, wide enough to show the bus, the platform and the crowd together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the front of the government TNSTC bus at Gobi bus stand at night, with the entrance step and the open door lit by warm platform lights. A garland of flowers hangs over the bus door or a small flag-off setup sits on the front bumper area, and a sheet of marigold petals lies on the step. In the soft background, blurred figures of officials and passengers stand near the bus door, seen from behind. Dusk sky and sodium lamp glow give a warm amber tone. Shot on a 50 mm lens at slightly high eye level, focusing on the bus door and the flower garland as the detail that marks the launch. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/government-bus-service-launched-between-gopi-tirupati/4388303",
-   "published": "2026-11-28T07:41:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "reel_script": "சத்தியமங்கலம் - திம்பம் மலைச்சாலையில் விபத்துகளைத் தடுக்கக்கோரி ஈரோடு கலெக்டரிடம் மனு அளிக்கப்பட்டது. தமிழ்நாடு மலைவாழ் மக்கள் சங்க மாநில தலைவர் குணசேகரன் தலைமையிலான நிர்வாகிகள் ஈரோடு கலெக்டர் கந்தசாமியிடம் இந்த மனுவை வழங்கினர். சத்தியமங்கலம் பண்ணாரி அம்மன் கோவில் முதல் திம்பம் வரை உள்ள தேசிய நெடுஞ்சாலை மலைப்பாதையில் 26க்கும் மேற்பட்ட கொண்டை ஊசி வளைவுகள் உள்ளன. இந்த வளைவுகள் மிகக் குறுகலாக உள்ளதால், நீண்ட வடிவ வாகனங்கள் திரும்ப முடியாமல் அடிக்கடி போக்குவரத்து தடைபடுகிறது. மேலும் பல இடங்களில் பக்கச்சுவர் சேதமடைந்தும் புதுப்பிக்கப்படாமலும் உள்ளது. சில இடங்களில் போதிய உயரம் இல்லாமலும் பேரிகார்டு இல்லாமலும் இருப்பதால் விபத்து ஏற்படும் அபாயம் உள்ளது. இதையடுத்து சிறப்பு திட்டம் மூலம் மலைப்பாதையில் தேவையான இடங்களில் தடுப்பு சுவர் அமைக்க வேண்டும் என்று கோரிக்கை விடுக்கப்பட்டது. பேரிகார்டு மற்றும் விபத்து எச்சரிக்கை வசதிகளை ஏற்படுத்தித் தர வேண்டும் என்றும் வலியுறுத்தினர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⚠️ சத்தியமங்கலம் - திம்பம் மலைச்சாலையில் விபத்து ஆபத்து: கலெக்டரிடம் மனு\n\n📰 முழு விவரம்:\nசத்தியமங்கலம் பண்ணாரி அம்மன் கோவில் முதல் திம்பம் வரை உள்ள தேசிய நெடுஞ்சாலை மலைப்பாதையில் 26க்கும் மேற்பட்ட கொண்டை ஊசி வளைவுகள் உள்ளன. இந்த வளைவுகள் மிகக் குறுகலாக உள்ளதால், நீண்ட வடிவ வாகனங்கள் திரும்ப முடியாமல் அடிக்கடி போக்குவரத்து தடைபடுகிறது.\n\nமேலும் பல இடங்களில் பக்கச்சுவர் சேதமடைந்தும், போதிய உயரம் இல்லாமலும், சில இடங்களில் பேரிகார்டு இல்லாமலும் உள்ளதால் விபத்து ஏற்படும் அபாயம் நிலவுகிறது. எனவே சிறப்பு திட்டம் மூலம் தடுப்பு சுவர், பேரிகார்டு மற்றும் விபத்து எச்சரிக்கை பலகைகளை அமைக்க வலியுறுத்தி, தமிழ்நாடு மலைவாழ் மக்கள் சங்க மாநில தலைவர் குணசேகரன் தலைமையில் ஈரோடு கலெக்டர் கந்தசாமியிடம் மனு அளிக்கப்பட்டுள்ளது.\n\n📍 இடம்: பண்ணாரி - திம்பம் மலைப்பாதை, சத்தியமங்கலம்\n📋 கோரிக்கை: தடுப்பு சுவர், பேரிகார்டு, எச்சரிக்கை பலகைகள் அமைத்தல்\n\nமலைப்பாதையில் பயணிக்கும் வாகன ஓட்டிகளின் பாதுகாப்பிற்கு இந்த தகவலை Share செய்யுங்கள்.\n\nSathyamangalam Dimbam ghat road safety petition to Erode Collector | Erode news\n📍 பண்ணாரி - திம்பம், ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #ErodeNews #ஈரோடு",
+   "prompts": "A green TNSTC bus carefully navigates a sharp, narrow hairpin bend on the Sathyamangalam-Dimbam ghat road. The asphalt road is flanked by the steep Sathyamangalam forest hills in the background. The concrete side wall at the edge of the curve is visibly low and weathered, showing signs of damage. A few men in shirts and veshtis are seen from behind, standing near the inner edge of the curve. The scene is captured in bright daylight with a high-angle 35mm shot to emphasize the steepness of the mountain pass and the 26 dangerous bends mentioned in the petition. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on a section of a broken concrete safety wall along the Sathyamangalam-Dimbam mountain road. The wall is crumbling with missing chunks of stone and cement, leaving a dangerous gap at the edge of a steep cliff overlooking the forest. The narrow asphalt road surface is visible next to the damaged structure, showing the lack of metal barricades. The background shows the hazy green slopes of the Western Ghats. The lighting is clear daylight, and the camera is at eye level, highlighting the specific infrastructure failure that prompted the Hill Tribes Association to petition the Collector. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tribal-people-appeal-for-protection-on-hilltop/4388289",
+   "published": "2026-11-28T07:34:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/6a94b8680117eee2.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/f1ff0d276cf1ef76.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856743/erode360/tlf9mzlidvslpovigdnj.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856746/erode360/hwvedxtfdevitkkudaxb.jpg"
    ]
   },
   {
-   "tamil_headline": "ரூ.14 லட்சம் மதிப்பிலான விதை விற்பனைக்கு தடை",
-   "english_headline": "Seeds worth Rs 14 lakh banned from sale after inspection in Tharapuram",
-   "category": "Government & Services",
-   "location": "Tharapuram, Tiruppur district (Erode district seed inspection control)",
+   "tamil_headline": "கோபி மொடச்சூர் தான்தோன்றியம்மன் கோவில் குண்டம் விழா: டிசம்பர் 9-ல் பூச்சாட்டுதல்",
+   "english_headline": "Kundam and Car festival at Modachur Thanthondriamman Temple near Gobichettipalayam to begin with Poochattuthal on Dec 9",
+   "category": "Temples & Events",
+   "location": "Modachur near Gobichettipalayam, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "விதை ஆய்வு",
-    "loc": "தாராபுரம்",
-    "hl1": "தாராபுரத்தில் விதை விற்பனைக்குத் தடை",
-    "hl2": "ரூ.14.18 லட்சம் விதைகள்",
+    "cat": "கோவில் விழா",
+    "loc": "மொடச்சூர், கோபி",
+    "hl1": "கோபி மொடச்சூரில் குண்டம் திருவிழா",
+    "hl2": "டிசம்பர் 9-ல் பூச்சாட்டு",
     "slides": [
      {
-      "title": "என்ன நடந்தது?",
+      "title": "பூச்சாட்டு நாள்",
       "lines": [
-       "விதை ஆய்வு துணை இயக்குனர் சுமதி தலைமையில் சோதனை",
-       "தாராபுரம் பகுதி விதை விற்பனை நிலையங்களில் ஆய்வு",
-       "முறையான ஆவணங்களை பராமரிக்கவில்லை"
+       "கோபி அருகே மொடச்சூர் தான்தோன்றியம்மன் கோவில்",
+       "குண்டம் மற்றும் தேர்த்திருவிழா",
+       "<b>டிசம்பர் 9</b> இரவு 9 மணிக்கு பூச்சாட்டுதல்"
       ]
      },
      {
-      "title": "எவ்வளவு விதை?",
+      "title": "முக்கிய நாட்கள்",
       "lines": [
-       "<b>13</b> காய்கறி, நெல் விதை குவியல்கள்",
-       "மொத்தம் <b>524 கிலோ</b> எடை",
-       "மதிப்பு <b>ரூ.14.18 லட்சம்</b>"
+       "<b>டிசம்பர் 21</b>: சந்தனக்காப்பு அலங்காரம்",
+       "<b>டிசம்பர் 23</b>: மாவிளக்கு பூஜை",
+       "<b>டிசம்பர் 24</b> காலை 7:40 மணிக்கு குண்டம் விழா"
       ]
      },
      {
-      "title": "என்ன நடவடிக்கை?",
+      "title": "தேரோட்டம் & பிற",
       "lines": [
-       "இந்த விதைகளுக்கு விற்பனை தடை விதிக்கப்பட்டது",
-       "விதை விற்பனை நடைமுறைகளை கடைபிடிக்காத விற்பனையாளர்கள் மீது",
-       "எச்சரிக்கை விடுக்கப்பட்டது"
+       "<b>டிசம்பர் 25</b>: திருத்தேர் வலம் வருதல்",
+       "<b>டிசம்பர் 26</b>: முத்துப்பல்லக்கு | <b>27</b>: மஞ்சள் நீர்",
+       "<b>டிசம்பர் 28</b>: மறுபூஜை | <b>ஜனவரி 1</b>: திருக்கல்யாணம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "தாராபுரத்தில் ரூ.14 லட்சம் மதிப்பிலான விதைகளின் விற்பனைக்குத் தடை விதிக்கப்பட்டுள்ளது. ஈரோடு மாவட்ட விதை ஆய்வு துணை இயக்குனர் கட்டுப்பாட்டில் உள்ள திருப்பூர் மாவட்டம் தாராபுரம் பகுதியில் சோதனை நடைபெற்றது. விதை ஆய்வு துணை இயக்குனர் சுமதி தலைமையில் ஆய்வாளர்கள் இந்தச் சோதனையை நடத்தினர். முறையான ஆவணங்களை பராமரிக்காத விதை விற்பனை நிலையங்களில் இந்த ஆய்வு நடத்தப்பட்டது. 13 காய்கறி மற்றும் நெல் விதை குவியல்களுக்கு விற்பனை தடை விதிக்கப்பட்டது. அவற்றின் மொத்த எடை 524 கிலோ, மதிப்பு 14.18 லட்சம் ரூபாய். விதை விற்பனைக்கான நடைமுறைகளைக் கடைபிடிக்காமல் விற்பனை செய்பவர்கள் மீது கடும் நடவடிக்கை எடுக்கப்படும் என அதிகாரிகள் எச்சரித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 தாராபுரத்தில் ரூ.14 லட்சம் விதைகளுக்கு விற்பனை தடை\n\n📰 முழு விவரம்:\nஈரோடு மாவட்ட விதை ஆய்வு துணை இயக்குனர் கட்டுப்பாட்டில் உள்ள திருப்பூர் மாவட்டம் தாராபுரம் பகுதியில், விதை ஆய்வு துணை இயக்குனர் சுமதி தலைமையில் ஆய்வாளர்கள் சோதனை நடத்தினர்.\nமுறையான ஆவணங்களை பராமரிக்காத விதை விற்பனை நிலையங்களில் 13 காய்கறி, நெல் விதை குவியல்களுக்கு விற்பனை தடை விதிக்கப்பட்டது.\n📦 எடை: 524 கிலோ\n💰 மதிப்பு: ரூ.14.18 லட்சம்\n⚠️ விதை விற்பனைக்கான நடைமுறைகளை கடைபிடிக்காமல் விற்பனை செய்தால் விற்பனையாளர்கள் மீதும் கடும் நடவடிக்கை எடுக்கப்படும் என எச்சரிக்கப்பட்டது.\n\nSeeds worth Rs 14 lakh banned from sale in Tharapuram | Erode news\n📍 தாராபுரம், திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Tharapuram #ErodeNews #ஈரோடு",
-   "prompts": "A seed inspection team led by a Deputy Director and several inspectors in khaki-free office wear stands inside a seed shop in Tharapuram town, checking stock as the shop owner watches nearby. The shop is a narrow, shuttered-front store in a Tamil Nadu town market with sacks of paddy and vegetable seed stacked on wooden shelves and the floor. A few men in shirts and veshti stand in the background, seen from behind or far away, while one inspector holds a file of documents. Daylight comes through the shop entrance, with a busy street of two-wheelers and an autorickshaw visible outside. Camera at eye level, 35 mm, wide enough to show the shop interior and the officers at work. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of seized vegetable and paddy seed heaps piled on a table or floor inside a Tharapuram seed shop, each heap separated and marked as banned from sale. Gunny sacks and loose seed piles fill the frame, with a stack of paper registers and inspection files placed beside them. In the soft background, an inspector in a shirt and trousers stands with his back to the camera, and a shop owner in a shirt and veshti is seen from behind. Daylight from the shop doorway, a plain indoor setting with no readable text. Camera slightly high, 35 mm, focused on the seed heaps and documents. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/ban-on-sale-of-seed-worth-rs-14-lakh/4388304",
-   "published": "2026-11-28T07:41:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
+   "reel_script": "கோபி அருகே மொடச்சூர் தான்தோன்றியம்மன் கோவிலில் டிசம்பர் 24ஆம் தேதி குண்டம் விழா நடைபெறுகிறது. நடப்பாண்டு குண்டம் மற்றும் தேர்த்திருவிழா பூச்சாட்டுதல் டிசம்பர் 9ஆம் தேதி இரவு 9 மணிக்கு நடக்கிறது. டிசம்பர் 21ஆம் தேதி சுவாமிக்கு சந்தனக்காப்பு அலங்காரம் செய்யப்படுகிறது. டிசம்பர் 23ஆம் தேதி மாவிளக்கு பூஜை நடைபெறுகிறது. விழாவின் முக்கிய நிகழ்வான குண்டம் விழா டிசம்பர் 24ஆம் தேதி காலை 7:40 மணிக்கு நடைபெறுகிறது. டிசம்பர் 25ஆம் தேதி திருத்தேர் வலம் வருதல் நிகழ்ச்சி நடைபெறுகிறது. டிசம்பர் 26ஆம் தேதி முத்துப்பல்லக்கு விழாவும், டிசம்பர் 27ஆம் தேதி மஞ்சள் நீர் உற்சவமும் நடைபெறுகின்றன. டிசம்பர் 28ஆம் தேதி மறுபூஜை நடைபெறுகிறது. ஜனவரி 1ஆம் தேதி இரவு திருக்கல்யாண உற்சவம் நடைபெறுகிறது. இந்த விழா ஏற்பாடுகளை ஊர்மக்கள் மற்றும் அறநிலையத்துறை அதிகாரிகள் இணைந்து செய்து வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🛕 கோபி மொடச்சூர் தான்தோன்றியம்மன் கோவில் குண்டம் விழா: டிச.9-ல் பூச்சாட்டுதல்!\n\n📰 முழு விவரம்:\nகோபி அருகே உள்ள மொடச்சூர் கிராமத்தில் அமைந்துள்ள பிரசித்தி பெற்ற தான்தோன்றியம்மன் கோவிலில் நடப்பாண்டு குண்டம் மற்றும் தேர்த்திருவிழா நடைபெறவுள்ளது.\n🗓️ விழா அட்டவணை:\n🌸 டிசம்பர் 9 (இரவு 9 மணி): பூச்சாட்டுதல்\n🪔 டிசம்பர் 21: சந்தனக்காப்பு அலங்காரம்\n🕯️ டிசம்பர் 23: மாவிளக்கு பூஜை\n🔥 டிசம்பர் 24 (காலை 7:40 மணி): குண்டம் விழா\n🛕 டிசம்பர் 25: திருத்தேர் வலம் வருதல்\n✨ டிசம்பர் 26: முத்துப்பல்லக்கு\n💦 டிசம்பர் 27: மஞ்சள் நீர் உற்சவம்\n🙏 டிசம்பர் 28: மறுபூஜை\n💍 ஜனவரி 1 (இரவு): திருக்கல்யாண உற்சவம்\n\nவிழா ஏற்பாடுகளை ஊர்மக்கள் மற்றும் இந்து சமய அறநிலையத்துறையினர் மேற்கொண்டு வருகின்றனர்.\n\nபக்தர்கள் மற்றும் உறவினர்களுக்கு Share செய்யுங்கள்!\n\nModachur Thanthondriamman temple Kundam festival date schedule | Gobichettipalayam Erode news\n📍 மொடச்சூர், கோபி, ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
+   "prompts": "The Thanthondriamman Temple in Modachur near Gobichettipalayam is decorated with strings of yellow marigolds and bright electric lights for the Poochattuthal ceremony. The colorful temple gopuram stands tall against the dark night sky, illuminated by warm spotlights. In the foreground, a few devotees, including men in white veshtis and women in colorful sarees, are seen from behind as they walk toward the temple entrance. The stone-paved courtyard is clean and reflects the festive lights. Nighttime with clear skies and bright artificial illumination. Eye-level wide shot, 35mm lens, capturing the temple facade and the gathering crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed close-up of the large wooden temple car or chariot parked on the street adjacent to the Modachur temple. The chariot features heavy wooden wheels and intricate traditional carvings of deities on its base. Thick jute ropes used for pulling the car are coiled on the ground nearby. In the background, the white-washed compound wall of the temple and the tops of coconut trees are visible under the bright morning sun. Two villagers in shirts and trousers are seen from a distance, inspecting the chariot's structure. Daylight, bright and clear weather. Slightly low-angle shot to emphasize the height of the wooden chariot, 35mm lens. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kundam-festival-poochathu-on-9th-december-at-thanthondiamman-temple/4388292",
+   "published": "2026-11-28T07:35:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/c2e75935c85ae6e8.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/b992f59f7d8e3d13.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856768/erode360/oizhiackxfdlq7e4sgim.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856795/erode360/n3cvqgw8ebfudvwq58mz.jpg"
    ]
   },
   {
-   "tamil_headline": "ஈரோட்டில் பட்டா வழங்க 15 நாட்களில் சட்டம்: அமைச்சர் உறுதி",
-   "english_headline": "Erode: law to grant patta within 15 days, minister assures; 25 lakh people to get patta by next December",
-   "category": "Government & Services",
-   "location": "Erode city, Erode district",
+   "tamil_headline": "அந்தியூர் வனத்தில் அத்துமீறிய நபருக்கு ரூ.10,000 அபராதம்",
+   "english_headline": "Influencer fined Rs.10,000 for trespassing in Anthiyur forest, drone camera seized",
+   "category": "Crime & Safety",
+   "location": "Anthiyur, Erode district",
    "importance": "High",
    "scope": "",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "பட்டா அறிவிப்பு",
-    "loc": "ஈரோடு",
-    "hl1": "ஈரோடு: பட்டா வழங்க 15 நாளில் சட்டம்",
-    "hl2": "97 பேருக்கு 15 நாளில் பட்டா",
+    "cat": "வனத் துறை எச்சரிக்கை",
+    "loc": "அந்தியூர்",
+    "hl1": "அந்தியூர் வனத்தில் அத்துமீறல்",
+    "hl2": "ரூ.10,000 அபராதம்",
     "slides": [
      {
-      "title": "முகாம் விவரம்",
+      "title": "என்ன நடந்தது?",
       "lines": [
-       "ஈரோட்டில் மக்கள் குறைதீர் முகாம் நேற்று நடந்தது",
-       "அமைச்சர்கள் செங்கோட்டையன், விஜய் பாலாஜி மனுக்களைப் பெற்றனர்",
-       "<b>800</b>க்கும் மேற்பட்டோர் மனு அளித்தனர்"
+       "கார்த்திகை தீபத்தன்று வனத்தில் அத்துமீறி நுழைவு",
+       "பர்கூர் வனச்சரகம், ஸ்ரீகிரி சித்தேஸ்வரர்",
+       "வீடியோ எடுத்து சமூக வலைதளத்தில் வெளியிட்டனர்"
       ]
      },
      {
-      "title": "ராஜாஜிபுரம் பட்டா",
+      "title": "யார்? எப்படி?",
       "lines": [
-       "ராஜாஜிபுரம் பகுதியில் வசிக்கும் <b>97 பேருக்கு</b> பட்டா",
-       "15 நாட்களுக்குள் பட்டா வழங்கப்படும்",
-       "இடிந்து விழும் நிலையில் உள்ள கட்டடங்களால் மாற்று இடம்"
+       "அந்தியூர் இன்ஸ்டாகிராம் பிரபலம் ஜெயசந்திரன், 30 வயது",
+       "அவருடன் நான்கு பேர் சென்றனர்",
+       "தடையை மீறி டிரோன் கேமராவில் வீடியோ பதிவு"
       ]
      },
      {
-      "title": "சட்டம், அடுத்த",
+      "title": "நடவடிக்கை",
       "lines": [
-       "நத்தம் இடத்தில் வசிப்போருக்குப் பட்டா சட்டம் 15 நாளில்",
-       "அடுத்த ஆண்டு டிசம்பருக்குள் <b>25 லட்சம்</b> பேருக்குப் பட்டா",
-       "முதல்வர் உத்தரவிட்டுள்ளார்"
+       "வனக் குற்றவியல் சட்டத்தில் வழக்குப்பதிவு",
+       "<b>ரூ.10,000</b> அபராதம் விதிக்கப்பட்டது",
+       "உரிமம் இல்லாத டிரோன் கேமரா பறிமுதல்"
+      ]
+     },
+     {
+      "title": "எச்சரிக்கை",
+      "lines": [
+       "செல்பி, வீடியோ, உணவளித்தல் கூடாது",
+       "வன விலங்குகளைத் துன்புறுத்தக் கூடாது",
+       "ஓராண்டுக்கு முன்பும் குரங்குகளுக்கு உணவளித்ததற்கு அபராதம்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "ஈரோட்டில் 97 குடும்பங்களுக்கு 15 நாட்களில் பட்டா வழங்கப்படும். நேற்று ஈரோட்டில் மக்கள் குறைதீர் முகாம் நடைபெற்றது. அமைச்சர்கள் செங்கோட்டையன், விஜய் பாலாஜி ஆகியோர் மனுக்களைப் பெற்றனர். இலவச வீட்டுமனை பட்டா, தனிப்பட்டா மாறுதல், உதவித்தொகை எனப் பல கோரிக்கைகளுடன் 800க்கும் மேற்பட்டோர் மனு அளித்தனர். ராஜாஜிபுரம் பகுதியில் வசிக்கும் 97 பேருக்கு 15 நாட்களுக்குள் பட்டா வழங்கப்படும் என அமைச்சர் செங்கோட்டையன் தெரிவித்தார். இடிந்து விழும் நிலையில் உள்ள கட்டடங்கள் என்பதால் அங்கு குடியிருப்போருக்குச் சோலார் பேருந்து நிலையம் அருகே மாற்று இடம் தேர்வு செய்யப்பட்டுள்ளது. நத்தம் இடத்தில் குடியிருக்கும் அனைவருக்கும் பட்டா வழங்கும் சட்டம் 15 நாட்களுக்குள் இயற்றப்பட உள்ளது. அடுத்த ஆண்டு டிசம்பருக்குள் விவசாயிகள் உட்பட 25 லட்சம் பேருக்குப் பட்டா வழங்க முதல்வர் உத்தரவிட்டுள்ளார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "📜 ஈரோட்டில் பட்டா வழங்க 15 நாட்களில் சட்டம்\n\n📰 முழு விவரம்:\nஈரோட்டில் நேற்று நடைபெற்ற மக்கள் குறைதீர் முகாமில் அமைச்சர்கள் செங்கோட்டையன், விஜய் பாலாஜி ஆகியோர் மனுக்களைப் பெற்றனர். இலவச வீட்டுமனை பட்டா, தனிப்பட்டா மாறுதல், உதவித்தொகை உள்ளிட்ட கோரிக்கைகளுடன் 800க்கும் மேற்பட்டோர் மனு அளித்தனர்.\nமுகாமில் பேசிய அமைச்சர் விஜய் பாலாஜி, 40, 50 ஆண்டுகளாகப் பட்டா இல்லாமல் வசிக்கும் மக்கள் எந்த நேரத்திலும் காலி செய்யச் சொல்லப்படுவோமோ என்ற அச்சத்தில் உள்ளனர் என்றும், அவர்களுக்குப் பட்டா வழங்க வேண்டும் என்றும் கோரிக்கை வைத்தார்.\nஅமைச்சர் செங்கோட்டையன், ராஜாஜிபுரம் பகுதியில் வசிக்கும் 97 பேருக்கு 15 நாட்களுக்குள் பட்டா வழங்கப்படும் என்றார். இடிந்து விழும் நிலையில் உள்ள கட்டடங்களால் பணிகள் நடைபெறுவதால், அங்கு குடியிருப்போருக்குச் சோலார் பேருந்து நிலையம் அருகே மாற்று இடம் தேர்வு செய்யப்பட்டுள்ளது.\nநத்தம் இடத்தில் குடியிருக்கும் அனைவருக்கும் பட்டா வழங்கும் சட்டம் 15 நாட்களுக்குள் இயற்றப்பட உள்ளது. அடுத்த ஆண்டு டிசம்பருக்குள் நத்தம் பகுதியில் வாழும் விவசாயிகள் உட்பட 25 லட்சம் பேருக்குப் பட்டா வழங்க முதல்வர் உத்தரவிட்டுள்ளார்.\nமுகாம் காலை 9:30 முதல் மதியம் 1 மணி வரை நடைபெறும் என அறிவிக்கப்பட்டிருந்தது. போதிய மக்கள் வராததால் அமைச்சர் செங்கோட்டையன் அதிகாரிகளிடம் அதிருப்தி தெரிவித்து, குத்துவிளக்கு ஏற்றிவிட்டு 11:30 மணிக்கு வருவதாகக் கூறிச் சென்றார்.\nஅதன் பின் நடந்த முகாமில் பெண்கள் அதிகம் வந்ததால் மனு கொடுக்க முண்டியடிக்கும் நிலை ஏற்பட்டது. சித்தோடு அடுத்த பேரோடு ஜே.ஜே.நகரைச் சேர்ந்த கிருஷ்ணவேணி கூட்டத்தில் சிக்கி மயங்கி விழுந்தார். மருத்துவர்கள் முதலுதவி அளித்ததில் அவர் சகஜ நிலைக்குத் திரும்பினார். மாற்றுத்திறனாளி பெண் ஒருவர் தரையில் தவழ்ந்தபடி மனு அளிக்க வந்தார்.\n\nErode grievance camp: patta in 15 days for 97 families | Erode news\n📍 ஈரோடு | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #பட்டா",
-   "prompts": "Inside a government hall in Erode city, a crowd of women in cotton sarees and salwar stand shoulder to shoulder, pressing forward toward a long wooden table where officials sit behind stacks of petition papers and a brass kuthuvilakku lamp burns at the front. Several women hold up folded petition sheets in their hands as they push toward the table. The men in the back are wearing shirts and veshti, and the scene is the morning grievance camp in daylight coming through tall windows. The photo is taken from the back of the crowd at eye level, 35 mm lens, wide enough to show the packed hall, the table, the lamp and the officials' seats, with no readable text or faces visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of petition papers and a brass kuthuvilakku lamp on a wooden table, with the hands of a woman in a cotton saree placing a folded application sheet on top of the pile. Behind, slightly out of focus, a crowd of women in sarees and salwar presses close together at the table edge, and an attendant in a shirt leans over the papers. Daylight from a window falls across the table, the scene is inside an official government hall in Erode city, taken from a slightly high angle at 35 mm, showing the papers, the lamp and the crowd pressing in with no readable text on the sheets. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/law-to-issue-pattas-in-15-days-minister-assures/4388285",
-   "published": "2026-11-28T07:31:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "reel_script": "அந்தியூர் வனப்பகுதியில் அத்துமீறி நுழைந்த நபருக்கு ரூ.10,000 அபராதம் விதிக்கப்பட்டுள்ளது. அந்தியூரைச் சேர்ந்த இன்ஸ்டாகிராம் பிரபலம் ஜெயசந்திரன், 30 வயது, கார்த்திகை தீபத்தன்று பர்கூர் வனச்சரகத்தில் உள்ள ஸ்ரீகிரி சித்தேஸ்வரர் கோவிலுக்கு தனது குழுவினர் நான்கு பேருடன் சென்றார். அங்கு வசிக்கும் பழங்குடியின மக்களைத் தவிர மற்றவர்கள் கோவிலுக்குச் செல்ல அனுமதி இல்லை. ஆனால் ஜெயச்சந்திரன் உள்ளிட்டோர் வழியில் ஓய்வெடுத்தும், வன விலங்குகளை அச்சுறுத்தும் வகையில் நடந்துகொண்டும் வீடியோ எடுத்து சமூக வலைதளத்தில் வெளியிட்டனர். தடையை மீறி டிரோன் கேமரா மூலமும் வீடியோ பதிவு செய்தார். வனத்துறையினர் வனக் குற்றவியல் சட்டத்தில் வழக்குப்பதிவு செய்து ரூ.10,000 அபராதம் விதித்தனர். உரிமம் பெறாததால் டிரோன் கேமராவையும் பறிமுதல் செய்தனர். ஓராண்டுக்கு முன் பர்கூர் மலைப்பாதையில் குரங்குகளுக்கு உணவளித்த குற்றத்துக்கும் அபராதம் விதிக்கப்பட்டது. அந்தியூர், பர்கூர், சென்னம்பட்டி வனப்பகுதிகளில் செல்பி எடுத்தல், வீடியோ பதிவேற்றல், வன விலங்குகளுக்கு உணவளித்தல், துன்புறுத்துதல் ஆகியவற்றுக்கு வனத்துறை எச்சரிக்கை விடுத்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 அந்தியூர் வனத்தில் அத்துமீறல்: ரூ.10,000 அபராதம், டிரோன் பறிமுதல்\n\n📰 முழு விவரம்:\nஅந்தியூர் இன்ஸ்டாகிராம் பிரபலம் ஜெயசந்திரன் (30 வயது), கார்த்திகை தீபத்தன்று தனது குழுவினர் நான்கு பேருடன் பர்கூர் வனச்சரகத்தில் உள்ள ஸ்ரீகிரி சித்தேஸ்வரர் கோவிலுக்குச் சென்றார். பழங்குடியின மக்களைத் தவிர பிறருக்கு அங்கு செல்ல, வழிபாடு நடத்த அனுமதி இல்லை.\nவன விலங்குகளை அச்சுறுத்தும் வகையில் நடந்துகொண்டு வீடியோ எடுத்து சமூக வலைதளத்தில் வெளியிட்டார். தடையை மீறி டிரோன் கேமராவிலும் வீடியோ பதிவு செய்தார்.\n👮 நடவடிக்கை: வனக் குற்றவியல் சட்டத்தில் வழக்குப்பதிவு; ரூ.10,000 அபராதம்; உரிமம் இல்லாத டிரோன் கேமரா பறிமுதல்.\n🔁 ஓராண்டுக்கு முன் பர்கூர் மலைப்பாதையில் குரங்குகளுக்கு உணவளித்ததற்கும் அபராதம் விதிக்கப்பட்டது.\nℹ️ மக்கள் கவனத்திற்கு: அந்தியூர், பர்கூர், சென்னம்பட்டி வனப்பகுதிகளில் அத்துமீறி நுழைதல், செல்பி, வீடியோ பதிவேற்றம், வன விலங்குகளுக்கு உணவளித்தல், துன்புறுத்துதல் கூடாது என வனத்துறை எச்சரிக்கை.\n\nAnthiyur forest trespassing fined Rs.10,000 | Erode news\n📍 அந்தியூர், ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Anthiyur #ErodeNews #ஈரோடு",
+   "prompts": "A forest department officer in khaki uniform stands on a narrow, muddy forest path in the dense Barkoor forest range of Anthiyur, holding a small black drone camera in his hand. Behind him, a group of four young men in casual shirts and trousers stand with their heads lowered, looking at the ground, seen from behind. The path is surrounded by thick green trees and undergrowth, typical of the Erode district forest hills. The officer is inspecting the drone, which was used to film the area without permission. The lighting is natural daylight filtering through the tree canopy, creating dappled shadows on the forest floor. The camera is at eye level, 35 mm lens, capturing the confrontation between the authority and the trespassers in the secluded forest environment. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a small black drone camera lying on a rough wooden table or a flat stone surface in the forest. Next to the drone, a stack of Indian currency notes (representing the fine) is visible, though no text is readable. The background is blurred, showing the green foliage of the Anthiyur forest. The focus is sharp on the drone's propellers and body, highlighting it as the seized object. The lighting is soft daylight. This detail shot emphasizes the specific item confiscated by the forest department for the illegal filming activity. The camera is slightly high, looking down at the objects, 35 mm lens, ensuring the drone is the central subject without any readable text or logos. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/it-is-his-job-to-make-mistakes-it-is-the-officer-who-punishes-the-trespassers-in-the-job-forest-with-a-fine/4388286",
+   "published": "2026-11-28T07:32:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/3053bfcf24b466b0.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/c901b1bb693e6a20.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856863/erode360/npmputgdtl6gsjogwqiu.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856867/erode360/pxiacnvnloacbkulfzj6.jpg"
    ]
   }
  ]
