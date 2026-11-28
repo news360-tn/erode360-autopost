@@ -85,6 +85,8 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `52b9e09` | reel: design A + improvements on every page (owner 28 Nov, the sample the owner chose) - with 2+ pictures they take turns every second cut, a BREAKING tag only on serious news, a place card with the district map and the town pin after the headline; no clock-hand line across the picture (soft dissolve). One layer over the finished page (reel/live360.py), inside the area that is free on Instagram, Facebook and YouTube Shorts; it never fails the reel. Map: the Bhavani pin was in the wrong place |
+| 2026-11-28 | `05f0af8` | stories shared / Instagram pause |
 | 2026-11-28 | `290deca` | YouTube: 40 hashtags on every Short (owner 28 Nov) - 25 for the video, 5 page, 5 district, 5 area (poster/yt_hashtags.py); title, first line, hidden tags, Instagram and Facebook unchanged |
 | 2026-11-28 | `31ce9b2` | stories shared / Instagram pause |
 | 2026-11-28 | `a132b48` | stories shared / Instagram pause |
@@ -113,6 +115,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `f4baaae` | stories shared / Instagram pause |
 | 2026-11-28 | `7c9a78d` | stories shared / Instagram pause |
 | 2026-11-28 | `fd2450b` | stories shared / Instagram pause |
-| 2026-11-28 | `0cfd0be` | Rasipalan and top 5: the page's real Instagram username as the fallback (never a made-up Tamil name on the follow card) |
-| 2026-11-28 | `5e02ce5` | stories shared / Instagram pause |
 <!-- recent-changes:end -->
