@@ -3,21 +3,22 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tribal-people-appeal-for-protection-on-hilltop/4388289",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kundam-festival-poochathu-on-9th-december-at-thanthondiamman-temple/4388292",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/it-is-his-job-to-make-mistakes-it-is-the-officer-who-punishes-the-trespassers-in-the-job-forest-with-a-fine/4388286",
+  "manual link added: https://www.dailythanthi.com/news/tamilnadu/3-day-life-guidance-training-in-erode-on-behalf-of-the-tamil-development-department",
+  "manual link added: https://www.thanthitv.com/news/tamilnadu/we-havent-slept-all-night-were-terrified-villagers-make-a-decision-amidst-tears",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-against-stone-quarry/4388287",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
   "candidates waiting: 3 Erode; time left 79 min",
   "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "try (N) manual=True: https://www.dinamalar.com/news/tamil-nadu-district-news-erod",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})",
+  "try (N) manual=True: https://www.thanthitv.com/news/tamilnadu/we-havent-slept-all",
+  "try (N) manual=True: https://www.dailythanthi.com/news/tamilnadu/3-day-life-guida",
+  "real photo from the source (Dinamalar) for 'Protest against new stone quarry near Pu'",
+  "auto images: 1 of 1 stories ({})",
   "posting job started at once",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
-  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 76 min",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 3})",
+  "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 5})",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
   "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
@@ -25,242 +26,264 @@
  "llm": [
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3.6-flash (21s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (6s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok gemini/gemini-3-flash-preview (9s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3.5-flash (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (39s)",
+  "ok gemini/gemini-3.5-flash (18s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok gemini/gemini-3-flash-preview (7s)",
-  "ok gemini/gemini-3.6-flash (59s)",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (12s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok gemini/gemini-3-flash-preview (4s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "ok gemini/gemini-3-flash-preview (5s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (12s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (11s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "ok gemini/gemini-3-flash-preview (14s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3-flash-preview (7s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "switching away from gemini/gemini-3-flash-preview for 10 min",
+  "ok groq/openai/gpt-oss-120b (2s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "fail gemini/gemini-3-flash-preview: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)",
   "poor answer - skipped for 30 min: gemini/gemini-3-flash-preview",
+  "ok gemini/gemini-3-flash-preview (15s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "ok groq/openai/gpt-oss-120b (7s)",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
+  "ok groq/qwen/qwen3.8-27b (5s)",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/qwen/qwen3.8-27b (0s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok groq/qwen/qwen3.8-27b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (0s)",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/qwen/qwen3.8-27b (1s)"
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
+  "ok anthropic/claude-haiku-5-5"
  ],
  "stories": [
   {
-   "tamil_headline": "திம்பம் மலைச்சாலையில் விபத்து ஆபத்து: பாதுகாப்பு கோரி ஈரோடு கலெக்டரிடம் மனு",
-   "english_headline": "Hill Tribes Association submits petition to Erode Collector demanding safety measures on Sathyamangalam-Dimbam ghat road with 26 hairpin bends",
-   "category": "Roads & Transport",
-   "location": "Sathyamangalam to Dimbam NH road, Erode district",
-   "importance": "High",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "சாலை பாதுகாப்பு",
-    "loc": "சத்தியமங்கலம் - திம்பம்",
-    "hl1": "திம்பம் மலைச்சாலையில் விபத்து ஆபத்து",
-    "hl2": "கலெக்டரிடம் மனு அளிப்பு",
-    "slides": [
-     {
-      "title": "என்ன பிரச்சனை?",
-      "lines": [
-       "பண்ணாரி - திம்பம் தேசிய நெடுஞ்சாலை மலைப்பாதை",
-       "<b>26</b>க்கும் மேற்பட்ட கொண்டை ஊசி வளைவுகள்",
-       "மிகக் குறுகிய வளைவுகளால் அடிக்கடி போக்குவரத்து ஸ்தம்பனம்"
-      ]
-     },
-     {
-      "title": "பாதிப்புகள்",
-      "lines": [
-       "நீண்ட வடிவ வாகனங்கள் திரும்ப முடியாமல் சிரமம்",
-       "பல இடங்களில் பக்கச்சுவர் சேதமடைந்துள்ளது",
-       "போதிய உயரம் இல்லை, பேரிகார்டு இல்லாத பகுதிகள்"
-      ]
-     },
-     {
-      "title": "என்ன கோரிக்கை?",
-      "lines": [
-       "சிறப்பு திட்டம் மூலம் தடுப்பு சுவர் அமைக்க வேண்டும்",
-       "பேரிகார்டு, விபத்து எச்சரிக்கை வசதிகள் கோரிக்கை",
-       "ஈரோடு கலெக்டரிடம் மலைவாழ் மக்கள் சங்கம் மனு"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "சத்தியமங்கலம் - திம்பம் மலைச்சாலையில் விபத்துகளைத் தடுக்கக்கோரி ஈரோடு கலெக்டரிடம் மனு அளிக்கப்பட்டது. தமிழ்நாடு மலைவாழ் மக்கள் சங்க மாநில தலைவர் குணசேகரன் தலைமையிலான நிர்வாகிகள் ஈரோடு கலெக்டர் கந்தசாமியிடம் இந்த மனுவை வழங்கினர். சத்தியமங்கலம் பண்ணாரி அம்மன் கோவில் முதல் திம்பம் வரை உள்ள தேசிய நெடுஞ்சாலை மலைப்பாதையில் 26க்கும் மேற்பட்ட கொண்டை ஊசி வளைவுகள் உள்ளன. இந்த வளைவுகள் மிகக் குறுகலாக உள்ளதால், நீண்ட வடிவ வாகனங்கள் திரும்ப முடியாமல் அடிக்கடி போக்குவரத்து தடைபடுகிறது. மேலும் பல இடங்களில் பக்கச்சுவர் சேதமடைந்தும் புதுப்பிக்கப்படாமலும் உள்ளது. சில இடங்களில் போதிய உயரம் இல்லாமலும் பேரிகார்டு இல்லாமலும் இருப்பதால் விபத்து ஏற்படும் அபாயம் உள்ளது. இதையடுத்து சிறப்பு திட்டம் மூலம் மலைப்பாதையில் தேவையான இடங்களில் தடுப்பு சுவர் அமைக்க வேண்டும் என்று கோரிக்கை விடுக்கப்பட்டது. பேரிகார்டு மற்றும் விபத்து எச்சரிக்கை வசதிகளை ஏற்படுத்தித் தர வேண்டும் என்றும் வலியுறுத்தினர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "⚠️ சத்தியமங்கலம் - திம்பம் மலைச்சாலையில் விபத்து ஆபத்து: கலெக்டரிடம் மனு\n\n📰 முழு விவரம்:\nசத்தியமங்கலம் பண்ணாரி அம்மன் கோவில் முதல் திம்பம் வரை உள்ள தேசிய நெடுஞ்சாலை மலைப்பாதையில் 26க்கும் மேற்பட்ட கொண்டை ஊசி வளைவுகள் உள்ளன. இந்த வளைவுகள் மிகக் குறுகலாக உள்ளதால், நீண்ட வடிவ வாகனங்கள் திரும்ப முடியாமல் அடிக்கடி போக்குவரத்து தடைபடுகிறது.\n\nமேலும் பல இடங்களில் பக்கச்சுவர் சேதமடைந்தும், போதிய உயரம் இல்லாமலும், சில இடங்களில் பேரிகார்டு இல்லாமலும் உள்ளதால் விபத்து ஏற்படும் அபாயம் நிலவுகிறது. எனவே சிறப்பு திட்டம் மூலம் தடுப்பு சுவர், பேரிகார்டு மற்றும் விபத்து எச்சரிக்கை பலகைகளை அமைக்க வலியுறுத்தி, தமிழ்நாடு மலைவாழ் மக்கள் சங்க மாநில தலைவர் குணசேகரன் தலைமையில் ஈரோடு கலெக்டர் கந்தசாமியிடம் மனு அளிக்கப்பட்டுள்ளது.\n\n📍 இடம்: பண்ணாரி - திம்பம் மலைப்பாதை, சத்தியமங்கலம்\n📋 கோரிக்கை: தடுப்பு சுவர், பேரிகார்டு, எச்சரிக்கை பலகைகள் அமைத்தல்\n\nமலைப்பாதையில் பயணிக்கும் வாகன ஓட்டிகளின் பாதுகாப்பிற்கு இந்த தகவலை Share செய்யுங்கள்.\n\nSathyamangalam Dimbam ghat road safety petition to Erode Collector | Erode news\n📍 பண்ணாரி - திம்பம், ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Sathyamangalam #ErodeNews #ஈரோடு",
-   "prompts": "A green TNSTC bus carefully navigates a sharp, narrow hairpin bend on the Sathyamangalam-Dimbam ghat road. The asphalt road is flanked by the steep Sathyamangalam forest hills in the background. The concrete side wall at the edge of the curve is visibly low and weathered, showing signs of damage. A few men in shirts and veshtis are seen from behind, standing near the inner edge of the curve. The scene is captured in bright daylight with a high-angle 35mm shot to emphasize the steepness of the mountain pass and the 26 dangerous bends mentioned in the petition. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot focuses on a section of a broken concrete safety wall along the Sathyamangalam-Dimbam mountain road. The wall is crumbling with missing chunks of stone and cement, leaving a dangerous gap at the edge of a steep cliff overlooking the forest. The narrow asphalt road surface is visible next to the damaged structure, showing the lack of metal barricades. The background shows the hazy green slopes of the Western Ghats. The lighting is clear daylight, and the camera is at eye level, highlighting the specific infrastructure failure that prompted the Hill Tribes Association to petition the Collector. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/tribal-people-appeal-for-protection-on-hilltop/4388289",
-   "published": "2026-11-28T07:34:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856743/erode360/tlf9mzlidvslpovigdnj.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856746/erode360/hwvedxtfdevitkkudaxb.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கோபி மொடச்சூர் தான்தோன்றியம்மன் கோவில் குண்டம் விழா: டிசம்பர் 9-ல் பூச்சாட்டுதல்",
-   "english_headline": "Kundam and Car festival at Modachur Thanthondriamman Temple near Gobichettipalayam to begin with Poochattuthal on Dec 9",
-   "category": "Temples & Events",
-   "location": "Modachur near Gobichettipalayam, Erode district",
+   "tamil_headline": "புன்செய்புளியம்பட்டி அருகே கல்குவாரிக்கு எதிர்ப்பு: விவசாயிகள் கண்டன ஆர்ப்பாட்டம்",
+   "english_headline": "Protest against new stone quarry near Punjai Puliampatti: 200+ villagers and farmers demand closure",
+   "category": "Civic Issues",
+   "location": "Marayipalayam near Punjai Puliampatti, Erode district",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "கோவில் விழா",
-    "loc": "மொடச்சூர், கோபி",
-    "hl1": "கோபி மொடச்சூரில் குண்டம் திருவிழா",
-    "hl2": "டிசம்பர் 9-ல் பூச்சாட்டு",
-    "slides": [
-     {
-      "title": "பூச்சாட்டு நாள்",
-      "lines": [
-       "கோபி அருகே மொடச்சூர் தான்தோன்றியம்மன் கோவில்",
-       "குண்டம் மற்றும் தேர்த்திருவிழா",
-       "<b>டிசம்பர் 9</b> இரவு 9 மணிக்கு பூச்சாட்டுதல்"
-      ]
-     },
-     {
-      "title": "முக்கிய நாட்கள்",
-      "lines": [
-       "<b>டிசம்பர் 21</b>: சந்தனக்காப்பு அலங்காரம்",
-       "<b>டிசம்பர் 23</b>: மாவிளக்கு பூஜை",
-       "<b>டிசம்பர் 24</b> காலை 7:40 மணிக்கு குண்டம் விழா"
-      ]
-     },
-     {
-      "title": "தேரோட்டம் & பிற",
-      "lines": [
-       "<b>டிசம்பர் 25</b>: திருத்தேர் வலம் வருதல்",
-       "<b>டிசம்பர் 26</b>: முத்துப்பல்லக்கு | <b>27</b>: மஞ்சள் நீர்",
-       "<b>டிசம்பர் 28</b>: மறுபூஜை | <b>ஜனவரி 1</b>: திருக்கல்யாணம்"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "கோபி அருகே மொடச்சூர் தான்தோன்றியம்மன் கோவிலில் டிசம்பர் 24ஆம் தேதி குண்டம் விழா நடைபெறுகிறது. நடப்பாண்டு குண்டம் மற்றும் தேர்த்திருவிழா பூச்சாட்டுதல் டிசம்பர் 9ஆம் தேதி இரவு 9 மணிக்கு நடக்கிறது. டிசம்பர் 21ஆம் தேதி சுவாமிக்கு சந்தனக்காப்பு அலங்காரம் செய்யப்படுகிறது. டிசம்பர் 23ஆம் தேதி மாவிளக்கு பூஜை நடைபெறுகிறது. விழாவின் முக்கிய நிகழ்வான குண்டம் விழா டிசம்பர் 24ஆம் தேதி காலை 7:40 மணிக்கு நடைபெறுகிறது. டிசம்பர் 25ஆம் தேதி திருத்தேர் வலம் வருதல் நிகழ்ச்சி நடைபெறுகிறது. டிசம்பர் 26ஆம் தேதி முத்துப்பல்லக்கு விழாவும், டிசம்பர் 27ஆம் தேதி மஞ்சள் நீர் உற்சவமும் நடைபெறுகின்றன. டிசம்பர் 28ஆம் தேதி மறுபூஜை நடைபெறுகிறது. ஜனவரி 1ஆம் தேதி இரவு திருக்கல்யாண உற்சவம் நடைபெறுகிறது. இந்த விழா ஏற்பாடுகளை ஊர்மக்கள் மற்றும் அறநிலையத்துறை அதிகாரிகள் இணைந்து செய்து வருகின்றனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🛕 கோபி மொடச்சூர் தான்தோன்றியம்மன் கோவில் குண்டம் விழா: டிச.9-ல் பூச்சாட்டுதல்!\n\n📰 முழு விவரம்:\nகோபி அருகே உள்ள மொடச்சூர் கிராமத்தில் அமைந்துள்ள பிரசித்தி பெற்ற தான்தோன்றியம்மன் கோவிலில் நடப்பாண்டு குண்டம் மற்றும் தேர்த்திருவிழா நடைபெறவுள்ளது.\n🗓️ விழா அட்டவணை:\n🌸 டிசம்பர் 9 (இரவு 9 மணி): பூச்சாட்டுதல்\n🪔 டிசம்பர் 21: சந்தனக்காப்பு அலங்காரம்\n🕯️ டிசம்பர் 23: மாவிளக்கு பூஜை\n🔥 டிசம்பர் 24 (காலை 7:40 மணி): குண்டம் விழா\n🛕 டிசம்பர் 25: திருத்தேர் வலம் வருதல்\n✨ டிசம்பர் 26: முத்துப்பல்லக்கு\n💦 டிசம்பர் 27: மஞ்சள் நீர் உற்சவம்\n🙏 டிசம்பர் 28: மறுபூஜை\n💍 ஜனவரி 1 (இரவு): திருக்கல்யாண உற்சவம்\n\nவிழா ஏற்பாடுகளை ஊர்மக்கள் மற்றும் இந்து சமய அறநிலையத்துறையினர் மேற்கொண்டு வருகின்றனர்.\n\nபக்தர்கள் மற்றும் உறவினர்களுக்கு Share செய்யுங்கள்!\n\nModachur Thanthondriamman temple Kundam festival date schedule | Gobichettipalayam Erode news\n📍 மொடச்சூர், கோபி, ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
-   "prompts": "The Thanthondriamman Temple in Modachur near Gobichettipalayam is decorated with strings of yellow marigolds and bright electric lights for the Poochattuthal ceremony. The colorful temple gopuram stands tall against the dark night sky, illuminated by warm spotlights. In the foreground, a few devotees, including men in white veshtis and women in colorful sarees, are seen from behind as they walk toward the temple entrance. The stone-paved courtyard is clean and reflects the festive lights. Nighttime with clear skies and bright artificial illumination. Eye-level wide shot, 35mm lens, capturing the temple facade and the gathering crowd. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA detailed close-up of the large wooden temple car or chariot parked on the street adjacent to the Modachur temple. The chariot features heavy wooden wheels and intricate traditional carvings of deities on its base. Thick jute ropes used for pulling the car are coiled on the ground nearby. In the background, the white-washed compound wall of the temple and the tops of coconut trees are visible under the bright morning sun. Two villagers in shirts and trousers are seen from a distance, inspecting the chariot's structure. Daylight, bright and clear weather. Slightly low-angle shot to emphasize the height of the wooden chariot, 35mm lens. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/kundam-festival-poochathu-on-9th-december-at-thanthondiamman-temple/4388292",
-   "published": "2026-11-28T07:35:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - fact-check: no problems found",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 0 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856768/erode360/oizhiackxfdlq7e4sgim.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856795/erode360/n3cvqgw8ebfudvwq58mz.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "அந்தியூர் வனத்தில் அத்துமீறிய நபருக்கு ரூ.10,000 அபராதம்",
-   "english_headline": "Influencer fined Rs.10,000 for trespassing in Anthiyur forest, drone camera seized",
-   "category": "Crime & Safety",
-   "location": "Anthiyur, Erode district",
-   "importance": "High",
-   "scope": "",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வனத் துறை எச்சரிக்கை",
-    "loc": "அந்தியூர்",
-    "hl1": "அந்தியூர் வனத்தில் அத்துமீறல்",
-    "hl2": "ரூ.10,000 அபராதம்",
+    "cat": "கண்டன ஆர்ப்பாட்டம்",
+    "loc": "புன்செய்புளியம்பட்டி",
+    "hl1": "புன்செய்புளியம்பட்டியில் ஆர்ப்பாட்டம்",
+    "hl2": "கல்குவாரிக்கு எதிர்ப்பு",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கார்த்திகை தீபத்தன்று வனத்தில் அத்துமீறி நுழைவு",
-       "பர்கூர் வனச்சரகம், ஸ்ரீகிரி சித்தேஸ்வரர்",
-       "வீடியோ எடுத்து சமூக வலைதளத்தில் வெளியிட்டனர்"
+       "புன்செய்புளியம்பட்டி <b>மாராயிபாளையம்</b> பகுதியில் போராட்டம்",
+       "புதிய கல்குவாரி அமைப்பதை எதிர்த்து மக்கள் திரண்டனர்",
+       "<b>200-க்கும் மேற்பட்டோர்</b> ஆர்ப்பாட்டத்தில் பங்கேற்பு"
       ]
      },
      {
-      "title": "யார்? எப்படி?",
+      "title": "ஏன் எதிர்ப்பு?",
       "lines": [
-       "அந்தியூர் இன்ஸ்டாகிராம் பிரபலம் ஜெயசந்திரன், 30 வயது",
-       "அவருடன் நான்கு பேர் சென்றனர்",
-       "தடையை மீறி டிரோன் கேமராவில் வீடியோ பதிவு"
+       "<b>10 ஏக்கர்</b> பரப்பளவில் அமையவுள்ள புதிய குவாரி",
+       "நிலத்தடி நீர்மட்டம் பாதிக்கும் என விவசாயிகள் அச்சம்",
+       "காற்று மாசு மற்றும் ஒலி மாசு ஏற்படும் என புகார்"
       ]
      },
      {
-      "title": "நடவடிக்கை",
+      "title": "எங்கே நடந்தது?",
       "lines": [
-       "வனக் குற்றவியல் சட்டத்தில் வழக்குப்பதிவு",
-       "<b>ரூ.10,000</b> அபராதம் விதிக்கப்பட்டது",
-       "உரிமம் இல்லாத டிரோன் கேமரா பறிமுதல்"
-      ]
-     },
-     {
-      "title": "எச்சரிக்கை",
-      "lines": [
-       "செல்பி, வீடியோ, உணவளித்தல் கூடாது",
-       "வன விலங்குகளைத் துன்புறுத்தக் கூடாது",
-       "ஓராண்டுக்கு முன்பும் குரங்குகளுக்கு உணவளித்ததற்கு அபராதம்"
+       "மாதம்பாளையம் வி.ஏ.ஓ. அலுவலகம் முன் போராட்டம்",
+       "<b>10-க்கும் மேற்பட்ட</b> கிராம மக்கள் பங்கேற்பு",
+       "குவாரி அனுமதியை ரத்து செய்ய வலியுறுத்தல்"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "அந்தியூர் வனப்பகுதியில் அத்துமீறி நுழைந்த நபருக்கு ரூ.10,000 அபராதம் விதிக்கப்பட்டுள்ளது. அந்தியூரைச் சேர்ந்த இன்ஸ்டாகிராம் பிரபலம் ஜெயசந்திரன், 30 வயது, கார்த்திகை தீபத்தன்று பர்கூர் வனச்சரகத்தில் உள்ள ஸ்ரீகிரி சித்தேஸ்வரர் கோவிலுக்கு தனது குழுவினர் நான்கு பேருடன் சென்றார். அங்கு வசிக்கும் பழங்குடியின மக்களைத் தவிர மற்றவர்கள் கோவிலுக்குச் செல்ல அனுமதி இல்லை. ஆனால் ஜெயச்சந்திரன் உள்ளிட்டோர் வழியில் ஓய்வெடுத்தும், வன விலங்குகளை அச்சுறுத்தும் வகையில் நடந்துகொண்டும் வீடியோ எடுத்து சமூக வலைதளத்தில் வெளியிட்டனர். தடையை மீறி டிரோன் கேமரா மூலமும் வீடியோ பதிவு செய்தார். வனத்துறையினர் வனக் குற்றவியல் சட்டத்தில் வழக்குப்பதிவு செய்து ரூ.10,000 அபராதம் விதித்தனர். உரிமம் பெறாததால் டிரோன் கேமராவையும் பறிமுதல் செய்தனர். ஓராண்டுக்கு முன் பர்கூர் மலைப்பாதையில் குரங்குகளுக்கு உணவளித்த குற்றத்துக்கும் அபராதம் விதிக்கப்பட்டது. அந்தியூர், பர்கூர், சென்னம்பட்டி வனப்பகுதிகளில் செல்பி எடுத்தல், வீடியோ பதிவேற்றல், வன விலங்குகளுக்கு உணவளித்தல், துன்புறுத்துதல் ஆகியவற்றுக்கு வனத்துறை எச்சரிக்கை விடுத்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 அந்தியூர் வனத்தில் அத்துமீறல்: ரூ.10,000 அபராதம், டிரோன் பறிமுதல்\n\n📰 முழு விவரம்:\nஅந்தியூர் இன்ஸ்டாகிராம் பிரபலம் ஜெயசந்திரன் (30 வயது), கார்த்திகை தீபத்தன்று தனது குழுவினர் நான்கு பேருடன் பர்கூர் வனச்சரகத்தில் உள்ள ஸ்ரீகிரி சித்தேஸ்வரர் கோவிலுக்குச் சென்றார். பழங்குடியின மக்களைத் தவிர பிறருக்கு அங்கு செல்ல, வழிபாடு நடத்த அனுமதி இல்லை.\nவன விலங்குகளை அச்சுறுத்தும் வகையில் நடந்துகொண்டு வீடியோ எடுத்து சமூக வலைதளத்தில் வெளியிட்டார். தடையை மீறி டிரோன் கேமராவிலும் வீடியோ பதிவு செய்தார்.\n👮 நடவடிக்கை: வனக் குற்றவியல் சட்டத்தில் வழக்குப்பதிவு; ரூ.10,000 அபராதம்; உரிமம் இல்லாத டிரோன் கேமரா பறிமுதல்.\n🔁 ஓராண்டுக்கு முன் பர்கூர் மலைப்பாதையில் குரங்குகளுக்கு உணவளித்ததற்கும் அபராதம் விதிக்கப்பட்டது.\nℹ️ மக்கள் கவனத்திற்கு: அந்தியூர், பர்கூர், சென்னம்பட்டி வனப்பகுதிகளில் அத்துமீறி நுழைதல், செல்பி, வீடியோ பதிவேற்றம், வன விலங்குகளுக்கு உணவளித்தல், துன்புறுத்துதல் கூடாது என வனத்துறை எச்சரிக்கை.\n\nAnthiyur forest trespassing fined Rs.10,000 | Erode news\n📍 அந்தியூர், ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Anthiyur #ErodeNews #ஈரோடு",
-   "prompts": "A forest department officer in khaki uniform stands on a narrow, muddy forest path in the dense Barkoor forest range of Anthiyur, holding a small black drone camera in his hand. Behind him, a group of four young men in casual shirts and trousers stand with their heads lowered, looking at the ground, seen from behind. The path is surrounded by thick green trees and undergrowth, typical of the Erode district forest hills. The officer is inspecting the drone, which was used to film the area without permission. The lighting is natural daylight filtering through the tree canopy, creating dappled shadows on the forest floor. The camera is at eye level, 35 mm lens, capturing the confrontation between the authority and the trespassers in the secluded forest environment. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up shot of a small black drone camera lying on a rough wooden table or a flat stone surface in the forest. Next to the drone, a stack of Indian currency notes (representing the fine) is visible, though no text is readable. The background is blurred, showing the green foliage of the Anthiyur forest. The focus is sharp on the drone's propellers and body, highlighting it as the seized object. The lighting is soft daylight. This detail shot emphasizes the specific item confiscated by the forest department for the illegal filming activity. The camera is slightly high, looking down at the objects, 35 mm lens, ensuring the drone is the central subject without any readable text or logos. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/it-is-his-job-to-make-mistakes-it-is-the-officer-who-punishes-the-trespassers-in-the-job-forest-with-a-fine/4388286",
-   "published": "2026-11-28T07:32:00+05:30",
+   "reel_script": "புன்செய்புளியம்பட்டி அருகே கல்குவாரிக்கு எதிராக 200-க்கும் மேற்பட்டோர் ஆர்ப்பாட்டம். புன்செய்புளியம்பட்டியை அடுத்த மாராயிபாளையத்தில் புதிய கல்குவாரி அமைக்க கனிமவளத்துறை அனுமதி வழங்கியுள்ளது. சுமார் 10 ஏக்கர் பரப்பளவில் இந்த கல்குவாரி அமைக்கும் பணிகள் தற்போது தொடங்கி நடைபெற்று வருகின்றன. இதனால் நிலத்தடி நீர்மட்டம் கடுமையாகப் பாதிக்கும் என்று அந்தப் பகுதி விவசாயிகள் குற்றம் சாட்டுகின்றனர். மேலும் வெடி வைத்தல் மற்றும் கல் உடைப்பதால் காற்று மாசு மற்றும் ஒலி மாசு ஏற்படும் என்றும் மக்கள் கூறுகின்றனர். கனரக வாகனப் போக்குவரத்தால் உடல்நலப் பாதிப்புகள் ஏற்படும் என்றும் அவர்கள் அச்சம் தெரிவிக்கின்றனர். இது தொடர்பாக மாவட்ட ஆட்சியர் மற்றும் அதிகாரிகளிடம் மனு அளித்தும் பணிகள் நிறுத்தப்படவில்லை. இதைக் கண்டித்து நேற்று காலை மாதம்பாளையம் கிராம நிர்வாக அலுவலர் அலுவலகம் முன்பு கண்டன ஆர்ப்பாட்டம் நடைபெற்றது. தமிழ்நாடு விவசாயிகள் பாதுகாப்பு சங்க மாவட்ட அமைப்புச் செயலாளர் ஜோதி அருணாசலம் தலைமையில் இந்தப் போராட்டம் நடந்தது. இதில் 10-க்கும் மேற்பட்ட கிராமங்களைச் சேர்ந்த 200-க்கும் மேற்பட்ட பொதுமக்கள் மற்றும் விவசாயிகள் கலந்துகொண்டனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚜 புன்செய்புளியம்பட்டி அருகே கல்குவாரிக்கு எதிர்ப்பு: 200-க்கும் மேற்பட்டோர் ஆர்ப்பாட்டம்\n\n📰 முழு விவரம்:\nபுன்செய்புளியம்பட்டியை அடுத்த மாராயிபாளையத்தில் புதிய கல்குவாரி அமைக்க கனிமவளத்துறை அனுமதி வழங்கியுள்ளது. சுமார் 10 ஏக்கர் பரப்பளவில் குவாரி அமைக்கும் பணிகள் தொடங்கியுள்ளன.\n🚫 இதனால் நிலத்தடி நீர்மட்டம் பாதிக்கும் என்றும், வெடி வைத்தல் மற்றும் கல் உடைப்பதால் காற்று மாசு, ஒலி மாசு ஏற்படும் என்றும் விவசாயிகள் குற்றம் சாட்டுகின்றனர்.\n👮 நடவடிக்கை: மாவட்ட ஆட்சியரிடம் மனு அளித்தும் பணிகள் தொடர்வதால், நேற்று காலை மாதம்பாளையம் கிராம நிர்வாக அலுவலர் அலுவலகம் முன்பு கண்டன ஆர்ப்பாட்டம் நடைபெற்றது.\n👥 இதில் 10-க்கும் மேற்பட்ட கிராமங்களைச் சேர்ந்த 200-க்கும் மேற்பட்ட பொதுமக்கள் மற்றும் விவசாயிகள் கலந்துகொண்டு குவாரிக்கு எதிராக முழக்கமிட்டனர்.\n\nPunjai Puliampatti stone quarry protest | Erode news\n📍 மாராயிபாளையம், ஈரோடு | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #PunjaiPuliampatti #Protest #ஈரோடு",
+   "prompts": "A large crowd of villagers and farmers gathers in front of the V.A.O office, raising their hands and holding placards to protest the newly approved stone quarry. The scene is set on the main lane of Marayipalayam village, a typical Tamil Nadu rural stretch with modest houses on either side and a modest government office building with a simple tiled roof. From behind, the protesters—men in shirts and veshti, women in sarees—form a dense line, their backs to the camera, while a few officials in khaki stand near the doorway observing. In the foreground a dusty stone‑crushing machine sits on a cleared patch of land, its metal body and conveyor belt visible, with clouds of dust rising. The protest takes place in the morning, under bright daylight, with clear skies. Shot at eye level with a 35 mm lens, the frame is wide enough to capture the office façade, the crowd’s backs, and the quarry equipment together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close‑up view focuses on the stone‑crushing machine that sparked the protest, its heavy steel rollers and conveyor belt dominating the frame. The machine sits on a leveled earth patch beside the village road, surrounded by piles of broken stone and a thin layer of dust covering the ground. A blurred hand‑held placard rests against the machine’s side, its text unreadable but its colors hinting at protest slogans. In the background, a khaki police jeep is parked at the edge of the road, its lights off, indicating authority presence. The morning sun casts sharp shadows, highlighting the gritty texture of the stone and the metal. Captured from a slightly elevated angle with a 35 mm lens, the image isolates the quarry equipment as the key object that tells the story. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/protest-against-stone-quarry/4388287",
+   "published": "2026-11-28T07:33:00+05:30",
+   "verification": "DRAFT (gemini/gemini-3-flash-preview) - fact-check: no problems found",
+   "note": "free-model draft gemini/gemini-3-flash-preview, 2 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795862826/erode360/cvr8czut1peh97ezwrwb.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795862827/erode360/ogrbdm9ftnpb41s6u4gn.jpg"
+   ],
+   "real_photo": "Dinamalar"
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் 3 நாள் வாழ்க்கை வழிகாட்டிப் பயிற்சி",
+   "english_headline": "3-day life guidance training 'Tamilaal Mudiyum' at Kongu college, Erode, from 30 November",
+   "category": "Education",
+   "location": "Thindal, Nanjanapuram - Erode district",
+   "importance": "Medium",
+   "scope": "district",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கல்வி",
+    "loc": "திண்டல், ஈரோடு",
+    "hl1": "ஈரோட்டில் 3 நாள் வாழ்க்கை பயிற்சி",
+    "hl2": "நவ. 30 முதல் டிச. 2 வரை",
+    "slides": [
+     {
+      "title": "எப்போது, எங்கே?",
+      "lines": [
+       "<b>30.11.2026</b> முதல் <b>02.12.2026</b> வரை",
+       "திண்டல், நஞ்சனாபுரம் கொங்கு கலை மற்றும் அறிவியல் கல்லூரி",
+       "தமிழ் வளர்ச்சித் துறையின் 'தமிழால் முடியும்' பயிற்சி"
+      ]
+     },
+     {
+      "title": "யார்",
+      "lines": [
+       "38 மாவட்டங்களின் கல்லூரிகளில் தமிழ் வழியில் பயிலும்",
+       "24 வகுப்புகள், 24 பயிற்றுநர்கள்",
+       "ஈரோடு மாவட்ட நிர்வாகம் சார்பில் கலைநிகழ்ச்சிகள்"
+      ]
+     },
+     {
+      "title": "பயிற்சித்",
+      "lines": [
+       "மனநலம், கால மேலாண்மை, நிதி மேலாண்மை",
+       "பக்தி இலக்கியம், அறிவியல் தமிழ், திரைப்படங்களும் சமூகமும்",
+       "பெண்ணியம், சமத்துவம், தோல்வியைக் கையாளுதல்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் 3 நாள் வாழ்க்கை வழிகாட்டிப் பயிற்சி நடைபெறவுள்ளது. தமிழ் வளர்ச்சித் துறையின் 'தமிழால் முடியும்' பயிற்சி 30.11.2026 முதல் 02.12.2026 வரை நடைபெறும். இடம் ஈரோடு மாவட்டம் திண்டல், நஞ்சனாபுரத்தில் உள்ள கொங்கு கலை மற்றும் அறிவியல் கல்லூரி. தமிழ்நாட்டின் 38 மாவட்டங்களில் உள்ள கல்லூரிகளில் தமிழ் வழியில் பயிலும் 200 மாணவர்கள் பங்கேற்பார்கள். 24 வகுப்புகளில் 24 பயிற்றுநர்கள் பயிற்சி அளிப்பார்கள். மனநலம், உணர்ச்சிசார் நுண்ணறிவு, கால மேலாண்மை, நிதி மேலாண்மை, பக்தி இலக்கியம், அறிவியல் தமிழ், பெண்ணியம் மற்றும் சமத்துவம் உள்ளிட்ட தலைப்புகளில் பயிற்சி அளிக்கப்படும். ஈரோடு மாவட்ட நிர்வாகம் சார்பில் கலைநிகழ்ச்சிகளும் நடைபெறவுள்ளன. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🎓 ஈரோட்டில் நவ. 30 முதல் 3 நாள் வாழ்க்கை வழிகாட்டிப் பயிற்சி\n\n📰 முழு விவரம்:\nதமிழ் வளர்ச்சித் துறையின் 'தமிழால் முடியும்' வாழ்க்கை வழிகாட்டிப் பயிற்சி 30.11.2026 முதல் 02.12.2026 வரை ஈரோடு மாவட்டம், திண்டல், நஞ்சனாபுரத்தில் உள்ள கொங்கு கலை மற்றும் அறிவியல் கல்லூரியில் நடைபெறவுள்ளது.\nதமிழ்நாட்டின் 38 மாவட்டங்களில் உள்ள கல்லூரிகளில் தமிழ் வழியில் பயிலும் 200 மாணவ, மாணவியர் பங்கேற்பார்கள். 24 வகுப்புகளில் 24 பயிற்றுநர்கள் பயிற்சி அளிப்பார்கள்.\n🗓️ முதல் நாள் (30.11.2026): சுற்றுச்சூழலும் பருவநிலை மாற்றமும் - கோவை சதாசிவம்; கால மேலாண்மை - முனைவர் வி. அன்புமணி; புவிசார் அரசியல் மற்றும் உலக அமைதி - இரா. முருகவேள்; அறிவியல் கண்டுபிடிப்புகளின் அரசியல் மற்றும் வரலாறு - ப. சகஸ்ரநாமம்; குழுப்பணி மற்றும் இணக்கமான உறவுகள் - ஈரோடு கதிர்; கவி புனையும் கலை - கவிஞர் க. மோகனரங்கன்; மனநலம் மற்றும் உணர்ச்சிசார் நுண்ணறிவு - மரு. ஜெ. ஜெயப்பிரகாஷ்; சமூகப்பொறுப்பும் மாணவர் ஆளுமையும் - அன்புராஜ்.\n🗓️ இரண்டாம் நாள் (01.12.2026): பக்தி இலக்கியம் - சுமதி ஸ்ரீ; அறிவியல் தமிழ் மற்றும் கலைச் சொல்லாக்கம் - முனைவர் இரா. விஸ்வநாதன்; பேச்சாற்றலை வளர்த்தல் - ஸ்டாலின் குணசேகரன்; திரைப்படங்களும் தமிழ்ச்சமூகமும் - அ. கரீம்; தமிழ்ப் படைப்புலகமும் கதை சொல்லலும் - ஈரோடு சர்மிளா; அறிவியல் சிந்தனையும் போலி அறிவியலும் - செ. கார்த்திகேயன்; இலக்கியம் காட்டும் ஆளுமைத்திறன் - கவிஞர் சுடர்விழி; வனமேலாண்மை - பேரா. கந்தசாமி.\n🗓️ மூன்றாம் நாள் (02.12.2026): நிதி மேலாண்மை - பேரா. நா. மணி; தமிழ்த் தட்டச்சு மற்றும் ஒலியியல் கருவிகள் - தானதயாளன்; அடிப்படை குடிமைப் பொறுப்புகளும் சமூக மாற்றமும் - கண. குறிஞ்சி; தமிழ் இலக்கியங்களில் பெண்ணியம் மற்றும் சமத்துவம் - கவிஞர் த. ஜீவலட்சுமி; வாசிப்பின் வழியே ஆளுமை வளர்ச்சி - முனைவர் ந.கு.தனபாக்கியம்; ஓவியப்பாதை - ஓவியர் சுந்தரன்; தோல்வியைக் கையாளுதல் - கா. செந்தில்குமார்; நாட்டுப்புறவியலும் தமிழர் வாழ்வியலும் - முனைவர் இ. கலைக்கோவன்.\n🎭 ஈரோடு மாவட்ட நிர்வாகம் சார்பில் கலைநிகழ்ச்சிகளும் நடைபெறவுள்ளன.\n\nErode 3-day life guidance training from 30 Nov | Erode news\n📍 திண்டல், ஈரோடு | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Erode #ஈரோடு #ErodeNews",
+   "prompts": "A group of college students sits in rows of chairs inside a lecture hall at Kongu Arts and Science College in Thindal, Nanjanapuram, Erode, attending the 'Tamilaal Mudiyum' life-guidance training. Around two hundred students from colleges across Tamil Nadu take part, and a trainer stands at the front of the room beside a whiteboard and a projector screen. The students, mostly young men and women in shirts, kurtas, salwar and sarees, are seen from behind or from the side, some taking notes in notebooks on their laps. Tall windows let in bright daytime light, and a plain wall at the back has no readable text. Shot at eye level with a 35 mm lens, wide enough to show the full hall and the rows of students. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of an open notebook and a pen resting on a wooden desk in a college lecture hall at Kongu Arts and Science College, Thindal, Erode, during the three-day 'Tamilaal Mudiyum' life-guidance training. Beside the notebook sits a stack of printed session handouts and a cup of water, while the blurred shapes of students' arms and chairs appear in the background. The light is soft daytime light from a nearby window, and the desk surface shows the marks of regular use. No readable text is visible on the handouts or notebook pages. Shot slightly from above with a 35 mm lens to highlight the study materials. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dailythanthi.com/news/tamilnadu/3-day-life-guidance-training-in-erode-on-behalf-of-the-tamil-development-department",
+   "published": "2026-11-28T09:04:16Z",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 77 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795862904/erode360/pqnkq4ygxmxf6ny9ngg2.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795862918/erode360/f1gnvrmynmojgcufd1lc.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "புஞ்சைபுளியம்பட்டியில் புதிய கல்குவாரிக்கு எதிர்ப்பு: கிராம மக்கள் போராட்டம்",
+   "english_headline": "Villagers protest new quarry permit at Maraayipalayam near Punchaipuliampatti, Erode district",
+   "category": "Civic Issues",
+   "location": "Maraayipalayam, Punchaipuliampatti, Erode district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "கிராம எதிர்ப்பு",
+    "loc": "மாராயிபாளையம், புஞ்சைபுளியம்பட்டி",
+    "hl1": "புஞ்சைபுளியம்பட்டியில் எதிர்ப்பு",
+    "hl2": "10 ஆயிரம் மக்கள் பாதிப்பு",
+    "slides": [
+     {
+      "title": "என்ன நடந்தது?",
+      "lines": [
+       "கனிமவளத்துறை கல்குவாரிக்கு அனுமதி வழங்கியது",
+       "மாராயிபாளையம் குடியிருப்புப் பகுதியில் அமைக்க திட்டம்",
+       "கிராம மக்கள் போராட்டத்தில் ஈடுபட்டனர்"
+      ]
+     },
+     {
+      "title": "எங்கே போராட்டம்?",
+      "lines": [
+       "மாதம்பாளையம் கிராம நிர்வாக அலுவலகம் முன்பு",
+       "ஈரோடு மாவட்டம், புஞ்சைபுளியம்பட்டி அருகே",
+       "பெண்கள், ஆண்கள் பெருமளவில் கலந்துகொண்டனர்"
+      ]
+     },
+     {
+      "title": "பாதிப்பு என்ன?",
+      "lines": [
+       "10-க்கும் மேற்பட்ட கிராமங்களில் <b>10 ஆயிரத்திற்கும்",
+       "நிலத்தடி நீர் குறைந்து விவசாயம் பாதிக்கும்",
+       "அனுமதி ரத்து செய்யாவிட்டால் தொடர் போராட்டம்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "புஞ்சைபுளியம்பட்டி அருகே புதிய கல்குவாரி அமைக்க அனுமதி வழங்கப்பட்டதால் கிராம மக்கள் போராட்டத்தில் ஈடுபட்டுள்ளனர். ஈரோடு மாவட்டம் மாராயிபாளையம் குடியிருப்புப் பகுதியில் கல்குவாரி அமைக்க கனிமவளத்துறை அனுமதி வழங்கியுள்ளது. இதைக் கண்டித்து, மாதம்பாளையம் கிராம நிர்வாக அலுவலகம் முன்பு கிராம மக்கள் போராட்டம் நடத்தினர். கல்குவாரி அமைந்தால் மாராயிபாளையம், வெங்கநாயக்கன்பாளையம், புஜங்கனூர் உள்ளிட்ட 10-க்கும் மேற்பட்ட கிராமங்களைச் சேர்ந்த 10 ஆயிரத்திற்கும் மேற்பட்ட மக்கள் பாதிக்கப்படுவார்கள் என அப்பகுதியினர் தெரிவித்துள்ளனர். நிலத்தடி நீர் குறைந்து, விவசாயம் பாதிக்கப்படும் என்றும், ஊரை விட்டே காலி செய்யும் நிலை ஏற்படும் என்றும் பெண்கள் வேதனை தெரிவித்தனர். கல்குவாரி அனுமதியை ரத்து செய்யாவிட்டால் தொடர் போராட்டம் நடத்தப்படும் என கிராம மக்கள் எச்சரித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "⛏️ புஞ்சைபுளியம்பட்டியில் புதிய கல்குவாரிக்கு கிராம மக்கள் எதிர்ப்பு\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டம் புஞ்சைபுளியம்பட்டி அருகே மாராயிபாளையம் குடியிருப்புப் பகுதியில் புதிய கல்குவாரி அமைக்க கனிமவளத்துறை அனுமதி வழங்கியது.\nஇதைக் கண்டித்து கிராம மக்கள் மாதம்பாளையம் கிராம நிர்வாக அலுவலகம் முன்பு போராட்டத்தில் ஈடுபட்டனர்.\nகல்குவாரி அமைந்தால் 10-க்கும் மேற்பட்ட கிராமங்களைச் சேர்ந்த 10 ஆயிரத்திற்கும் மேற்பட்டோர் பாதிக்கப்படுவார்கள் என அப்பகுதியினர் தெரிவித்துள்ளனர்.\n💧 நிலத்தடி நீர் குறைந்து விவசாயம் பாதிக்கப்படும் என பெண்கள் வேதனை தெரிவித்தனர்.\n⚠️ கல்குவாரி அனுமதியை ரத்து செய்யாவிட்டால் தொடர் போராட்டம் நடத்தப்படும் என எச்சரிக்கை.\n\nPunchaipuliampatti quarry protest villagers Erode | Erode news\n📍 மாராயிபாளையம், புஞ்சைபுளியம்பட்டி, ஈரோடு மாவட்டம்\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Punchaipuliampatti #ErodeNews #ஈரோடு",
+   "prompts": "A crowd of village men and women gathers in front of a Tamil Nadu village administrative office in the Punchaipuliampatti area of Erode district, staging a protest against a new stone quarry permit. Several women in cotton sarees and men in shirts and veshti stand close together on a dusty road, some holding up plain placards and a few raised hands, seen from behind and from a distance. The single-storey government office has a plain concrete front and a tiled roof, with a few two-wheelers parked along the roadside and a village tea shop nearby. Behind them rise dry scrubland and small hills where the quarry would be. It is bright daylight with a clear sky. Camera at eye level, 35 mm, wide enough to show the office building, the crowd and the hills behind. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a group of women's feet and a hand-painted cardboard placard resting on the dusty ground in front of a village administrative office in Erode district, Tamil Nadu. The placard is blank with no readable text, its edges worn, next to a row of plastic chappals and a steel water pot. Behind them, the rough concrete step of the government office and the edge of a parked two-wheeler are visible in soft focus. The light is bright daylight with a slight haze from the dry earth. Camera low and close, 35 mm, shallow depth of field, showing the protest's ordinary villagers rather than any face. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.thanthitv.com/news/tamilnadu/we-havent-slept-all-night-were-terrified-villagers-make-a-decision-amidst-tears",
+   "published": "",
    "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
    "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856863/erode360/npmputgdtl6gsjogwqiu.jpg",
-    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795856867/erode360/pxiacnvnloacbkulfzj6.jpg"
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795862924/erode360/xp0rbwjnqqskzooky7fw.jpg",
+    "https://res.cloudinary.com/yj4ze0kq/image/upload/v1795862928/erode360/mfqtldmbxvk1b4pnyo0g.jpg"
    ]
   }
  ]
