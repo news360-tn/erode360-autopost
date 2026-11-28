@@ -84,6 +84,9 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 <!-- recent-changes:start (updated automatically by .github/workflows/context.yml - do not edit by hand) -->
 | Date | Commit | Change |
 |---|---|---|
+| 2026-11-28 | `0cfd0be` | Rasipalan and top 5: the page's real Instagram username as the fallback (never a made-up Tamil name on the follow card) |
+| 2026-11-28 | `5e02ce5` | stories shared / Instagram pause |
+| 2026-11-28 | `44e2829` | stories shared / Instagram pause |
 | 2026-11-28 | `b2e503a` | pick: written and posted |
 | 2026-11-28 | `3721a90` | New reels: parrot rasipalan (kili josiyam) with panchangam, rasi times and first comment; evening top 5 |
 | 2026-11-28 | `0a4c384` | facebook RN-340 |
@@ -111,7 +114,4 @@ python3 tools/repost.py RN-158               # (Actions: repost) post a reel aga
 | 2026-11-28 | `4d12a75` | posted RN-301 |
 | 2026-11-28 | `a248eb4` | stories shared / Instagram pause |
 | 2026-11-28 | `c2e88fa` | stories shared / Instagram pause |
-| 2026-11-28 | `bb61651` | pick: written and posted |
-| 2026-11-28 | `d3591b1` | facebook RN-335 |
-| 2026-11-28 | `493722c` | posted RN-335 |
 <!-- recent-changes:end -->
