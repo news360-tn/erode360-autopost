@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-28T14:33+05:30",
- "posts_measured": 308,
+ "updated": "2026-11-28T16:14+05:30",
+ "posts_measured": 311,
  "topic_weight": {
   "crime": 1.5,
-  "weather": -0.5,
+  "weather": -0.46,
   "civic": -0.5,
-  "accident": 0.97,
+  "accident": 0.92,
   "education": -0.5,
-  "temple": -0.22,
-  "politics": -0.21,
-  "power_cut": 0.39,
+  "temple": -0.24,
+  "politics": -0.22,
+  "power_cut": 0.38,
   "poultry_agri": -0.5,
   "sports_culture": -0.5
  },
@@ -33,9 +33,9 @@
   "crime": 49,
   "weather": 15,
   "civic": 30,
-  "accident": 33,
+  "accident": 34,
   "education": 29,
-  "temple": 36,
+  "temple": 37,
   "politics": 25,
   "power_cut": 5,
   "poultry_agri": 23,
@@ -49,19 +49,19 @@
   13
  ],
  "top_openings": [
-  "🚨 அறச்சலூர் அருகே டாஸ்மாக் கடையில் கொலை: 50 வயது நபர் கைது",
   "🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்",
+  "🚨 அறச்சலூர் அருகே டாஸ்மாக் கடையில் கொலை: 50 வயது நபர் கைது",
   "🚨 கடம்பூர் மலையில் ஆன்லைன் டிரேடிங் மோசடி: பெண்ணிடம் ரூ.3.38 லட்சம் பறிப்பு",
   "🚨 பவானிசாகரில் போதை பொருட்களுடன் ரவுடி உட்பட 3 பேர் கைது"
  ],
- "avg_watch_s": 8.1,
+ "avg_watch_s": 8.0,
  "best_topics": [
   "crime",
   "accident",
   "power_cut"
  ],
  "weak_topics": [
-  "weather",
-  "civic"
+  "civic",
+  "education"
  ]
 }
