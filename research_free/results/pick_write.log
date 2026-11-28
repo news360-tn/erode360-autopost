@@ -1,12 +1,22 @@
-writing [N]: அம்மாபேட்டையில் 19 மி.மீ., மழை பதிவு
-writing [N]: மகள் மாயம்; தாய் புகார்
-writing [N]: இருப்பில் 23,674 டன் உரம்
+writing [N]: பட்டா வழங்க 15 நாட்களில் சட்டம்; அமைச்சர் உறுதி
+writing [N]: கோபி-திருப்பதி இடையே அரசு பஸ் சேவை துவக்கம்
+writing [N]: ரூ.14 லட்சம் மதிப்பிலான விதை விற்பனைக்கு தடை
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
+fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.6-flash
 fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {
   "error": {
     "code": 429,
@@ -17,162 +27,161 @@ fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
     "code": 429,
     "message": "You exceeded your current quota, please che
 dead for this round: gemini/gemini-3.5-flash
-ok gemini/gemini-3-flash-preview (11s)
-attempt 1 gemini/gemini-3-flash-preview: 2 problems
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): 768 ('இதுபற்றி வேளாண் துறையினர் கூறியதாவது: ஈரோடு மாவட்டத்தில் இயல'); 26 ('இதுபற்றி வேளாண் துறையினர் கூறியதாவது: ஈரோடு மாவட்டத்தில் இயல')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (19s)
-attempt 1 gemini/gemini-3.6-flash: 1 problems
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): சத்தியமங்கலம் ('இதேபோல் பெருந்துறை-17, ஈரோடு-8.2, சத்தியமங்கலம்-5.2, பவானி-3')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
+fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please che
+dead for this round: gemini/gemini-3.5-flash
 fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
   "error": {
     "code": 429,
     "message": "You exceeded your current quota, plea
 dead for this round: gemini/gemini-3-flash-preview
-ok gemini/gemini-3-flash-preview (15s)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok gemini/gemini-3.6-flash (28s)
-attempt 1 gemini/gemini-3.6-flash: 1 problems
-  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/openai/gpt-oss-120b (8s)
-attempt 2 groq/openai/gpt-oss-120b: 3 problems
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, plea
+dead for this round: gemini/gemini-3-flash-preview
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
+dead for this round: groq/openai/gpt-oss-120b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 413: {"error":{"message":"Request too large for model `qwen/qwen3.8-27b` i
+ok groq/openai/gpt-oss-120b (7s)
+attempt 1 groq/openai/gpt-oss-120b: 3 problems
   missing key: reel_script
   missing key: caption
   missing key: scenes
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok groq/qwen/qwen3.8-27b (3s)
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+ok anthropic/claude-haiku-5-5
+claude rewrite 1 anthropic/claude-haiku-5-5: 3 problems
+  sentence 1 (one-line story) has 14 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  hl1 (the first headline on screen) must name the place 'ஈரோடு', e.g. 'ஈரோடு: ...' or 'ஈரோடு-இல் ...' - viewers share news of their own area
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 40, ('முன்னதாக நிகழ்ச்சியில் அமைச்சர் விஜய் பாலாஜி பேசுகையில், ''இ'); 50 ('முன்னதாக நிகழ்ச்சியில் அமைச்சர் விஜய் பாலாஜி பேசுகையில், ''இ')
 fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {"error":{"message":"Rate limit reached for model `openai/gpt-oss-120b` in organization `o
 dead for this round: groq/openai/gpt-oss-120b
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-ok groq/openai/gpt-oss-120b (4s)
-factcheck by groq/openai/gpt-oss-120b: 4 problems
-  Reel script adds month "நவம்பர்" to the rainfall figure (732 mm) which is not mentioned in the article
-  Caption adds month "நவம்பர்" to the rainfall figure (732 mm) which is not mentioned in the article
-  Slides headline hl1 misspells the place as "ஈரோட்டில்" instead of "ஈரோடு"
-  Slides headline hl2 states "364 டன்" seed stock, differing from the article’s "364.4 டன்"
-attempt 2 gemini/gemini-3-flash-preview: 4 problems
-  fact-check: Reel script adds month "நவம்பர்" to the rainfall figure (732 mm) which is not mentioned in the article
-  fact-check: Caption adds month "நவம்பர்" to the rainfall figure (732 mm) which is not mentioned in the article
-  fact-check: Slides headline hl1 misspells the place as "ஈரோட்டில்" instead of "ஈரோடு"
-  fact-check: Slides headline hl2 states "364 டன்" seed stock, differing from the article’s "364.4 டன்"
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok groq/qwen/qwen3.8-27b (3s)
-attempt 2 groq/qwen/qwen3.8-27b: 1 problems
-  reel_script has 49 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
-switching away from groq/qwen/qwen3.8-27b for 10 min
-free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 2 problems
-  reel_script claims Ammapettai's 19 mm is the highest rain in the district ("மாவட்டத்தில் அதிகபட்ச மழை இதுவே") — the article says it was the highest reading (அதிகபட்சமாக), so this is consistent, but the reel_script's first sentence drops the 8 AM timing context, making it read as an unqualified district-wide maximum rather than a reading at a specific time
-  slides_spec and caption say the 19 mm was recorded at 8 AM on 'the day before yesterday' (நேற்று முன்தினம் காலை 8 மணி நிலவரம்) in one slide, while the article says the rain fell the day before yesterday and the 8 AM reading was taken yesterday (நேற்று காலை, 8:00 மணி நிலவரப்படி); the date of the 8 AM measurement is misattributed in slides_spec
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  fact-check: reel_script claims Ammapettai's 19 mm is the highest rain in the district ("மாவட்டத்தில் அதிகபட்ச மழை இதுவே") — the article says it was the highest reading (அதிகபட்சமாக), so this is consistent, but the reel_script's first sentence drops the 8 AM timing context, making it read as an unqualified district-wide maximum rather than a reading at a specific time
-  fact-check: slides_spec and caption say the 19 mm was recorded at 8 AM on 'the day before yesterday' (நேற்று முன்தினம் காலை 8 மணி நிலவரம்) in one slide, while the article says the rain fell the day before yesterday and the 8 AM reading was taken yesterday (நேற்று காலை, 8:00 மணி நிலவரப்படி); the date of the 8 AM measurement is misattributed in slides_spec
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 52 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  reel_script must tell how the story ENDED, as the article's last lines say ('மகள் மாயம்; தாய் புகார்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
-ok anthropic/claude-haiku-5-5
-claude rewrite 1 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
-ok anthropic/claude-haiku-5-5
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-free fact-check unavailable, using Claude: no free model answered: None
-ok anthropic/claude-haiku-5-5
-claude rewrite 2 anthropic/claude-haiku-5-5: 2 problems
-  reel_script has 58 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  reel_script must tell how the story ENDED, as the article's last lines say ('மகள் மாயம்; தாய் புகார்') - say what finally happened (complaint, action promised, released, arrested, case filed, how long it lasted); never write that details are unknown
-ok anthropic/claude-haiku-5-5
-factcheck by anthropic/claude-haiku-5-5: 3 problems
-  The draft describes the rainfall as 'அம்மாபேட்டையில் 19 மில்லிமீட்டர் மழை பதிவாகி, ஈரோடு மாவட்டத்தில் அதிகபட்சமாக இருந்தது' — the article says Ammapettai recorded the highest, which is consistent, but the reel_script sentence 'ஈரோடு மாவட்டத்தில் நேற்று முன்தினம் பரவலாக மழை பெய்தது' is fine; however, the reel_script states the readings were 'கணக்கிடப்பட்டன' at 8 am, which is an added detail (the article only says 8:00 AM status) — minor wording extension.
-  The slides_spec line 'மழை பெய்தது நேற்று முன்தினம்' is placed under 'மதியத்துக்கு பின்' (afternoon) slide, mixing the rain-day fact with the afternoon weather fact into one slide, which conflates two separate facts.
-  The slides_spec 'hl2' and slide 'மற்ற இடங்கள்' omit Ammapettai's 'maximum' framing consistency is fine, but the slide 'பிற பதிவுகள்' mixes the Kodiveri rainfall with the 'நேற்று காலையில் கடும் வெயில்' weather fact, combining two different facts in one slide.
-claude rewrite 2 anthropic/claude-haiku-5-5: 3 problems
-  fact-check: The draft describes the rainfall as 'அம்மாபேட்டையில் 19 மில்லிமீட்டர் மழை பதிவாகி, ஈரோடு மாவட்டத்தில் அதிகபட்சமாக இருந்தது' — the article says Ammapettai recorded the highest, which is consistent, but the reel_script sentence 'ஈரோடு மாவட்டத்தில் நேற்று முன்தினம் பரவலாக மழை பெய்தது' is fine; however, the reel_script states the readings were 'கணக்கிடப்பட்டன' at 8 am, which is an added detail (the article only says 8:00 AM status) — minor wording extension.
-  fact-check: The slides_spec line 'மழை பெய்தது நேற்று முன்தினம்' is placed under 'மதியத்துக்கு பின்' (afternoon) slide, mixing the rain-day fact with the afternoon weather fact into one slide, which conflates two separate facts.
-  fact-check: The slides_spec 'hl2' and slide 'மற்ற இடங்கள்' omit Ammapettai's 'maximum' framing consistency is fine, but the slide 'பிற பதிவுகள்' mixes the Kodiveri rainfall with the 'நேற்று காலையில் கடும் வெயில்' weather fact, combining two different facts in one slide.
 ok anthropic/claude-haiku-5-5
 claude rewrite 2 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free fact-check unavailable, using Claude: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 3 problems
+  The caption says the bus service 'started' from Gobi, but the article only says the launch ceremony was held at the Gobi bus stand and does not state a stand for the service; the reel_script wording 'நேற்றிரவு கோபி பஸ் ஸ்டாண்டில் துவக்க விழா நடைபெற்றது' is consistent, so this is not an error — however, the caption's '🗓️ நாள்: நேற்று' (yesterday) is a date claim not in the article, which only says the ceremony was 'நேற்றிரவு' (last night).
+  The reel_script says the bus 'தினமும் இரவு 7 மணிக்கு புறப்படும்' and the caption repeats this; the article says it departs from Gobi bus stand at 7:00 pm, so this is fine, but the reel_script omits the detail that the Tirupati-to-Gobi bus leaves at 7:30 pm 'தினமும்' — it is included, so no omission.
+  The reel_script states the Tirupati-to-Gobi bus 'மறுநாள் அதிகாலை 5:30 மணிக்கு பஸ் கோபியை அடையும்' correctly, but the slides_spec 'லோக்' field 'கோபி, ஈரோடு' adds Erode, which is not stated in the article for the location of the service (only the English caption tag mentions Erode news).
+attempt 2 groq/qwen/qwen3.8-27b: 3 problems
+  fact-check: The caption says the bus service 'started' from Gobi, but the article only says the launch ceremony was held at the Gobi bus stand and does not state a stand for the service; the reel_script wording 'நேற்றிரவு கோபி பஸ் ஸ்டாண்டில் துவக்க விழா நடைபெற்றது' is consistent, so this is not an error — however, the caption's '🗓️ நாள்: நேற்று' (yesterday) is a date claim not in the article, which only says the ceremony was 'நேற்றிரவு' (last night).
+  fact-check: The reel_script says the bus 'தினமும் இரவு 7 மணிக்கு புறப்படும்' and the caption repeats this; the article says it departs from Gobi bus stand at 7:00 pm, so this is fine, but the reel_script omits the detail that the Tirupati-to-Gobi bus leaves at 7:30 pm 'தினமும்' — it is included, so no omission.
+  fact-check: The reel_script states the Tirupati-to-Gobi bus 'மறுநாள் அதிகாலை 5:30 மணிக்கு பஸ் கோபியை அடையும்' correctly, but the slides_spec 'லோக்' field 'கோபி, ஈரோடு' adds Erode, which is not stated in the article for the location of the service (only the English caption tag mentions Erode news).
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free models unavailable: no free model answered: None
+fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m
+switching away from groq/qwen/qwen3.8-27b for 10 min
+free models unavailable: no free model answered: groq qwen/qwen3.8-27b 429: {"error":{"message":"Rate limit reached for model `qwen/qwen3.8-27b` 
 ok anthropic/claude-haiku-5-5
 claude rewrite 3 anthropic/claude-haiku-5-5: 3 problems
-  reel_script has 58 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-  reel_script sentence 1 (heard in the first 3 seconds) must name the place 'அம்மாபேட்டை' and the news itself, e.g. 'அம்மாபேட்டை-இல் ... 3 பேர் கைது.' - viewers decide in 3 seconds whether the news is about their area
-  caption misses facts of the article (put every one in 📰 முழு விவரம்): சத்தியமங்கலம் ('இதேபோல் பெருந்துறை-17, ஈரோடு-8.2, சத்தியமங்கலம்-5.2, பவானி-3')
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  reel_script has 59 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
-proofread skipped: no free model answered: None
-gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
-claude rewrite 3 anthropic/claude-haiku-5-5: 1 problems
-  slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)
+  reel_script has 95 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)
+  sentence 1 (one-line story) has 15 words; make it 6-9 words (about 2-3 seconds), the details follow in the next sentences
+  caption misses facts of the article (put every one in 📰 முழு விவரம்): 40, ('முன்னதாக நிகழ்ச்சியில் அமைச்சர் விஜய் பாலாஜி பேசுகையில், ''இ'); 50 ('முன்னதாக நிகழ்ச்சியில் அமைச்சர் விஜய் பாலாஜி பேசுகையில், ''இ')
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 proofread skipped: no free model answered: None
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 1 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
 ok anthropic/claude-haiku-5-5
 real photo: no picture on the source page -> AI pictures
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 7 problems
+  The reel_script and caption state the inspection was conducted 'in Tharapuram' under the Erode district seed inspection deputy director's control, but the article says the area under that director's control is in Tharapuram (Tiruppur district) where the inspection was held; this is consistent, so no issue there.
+  The reel_script opens by saying a sales ban was imposed on seeds worth Rs 14 lakh, which matches the article.
+  The slides_spec line 'ஈரோடு விதை ஆய்வு துணை இயக்குனர் தலைமையில் சோதனை' implies the Erode deputy director led the inspection personally, while the article says the inspection was led by deputy director Sumathi; the slide and reel_script then mix two different heads of the inspection into one statement, combining two facts into one sentence.
+  The caption's 'துறை: ஈரோடு மாவட்ட விதை ஆய்வுத் துறை' and the reel_script's statement that the Erode deputy director controls the area are consistent with the article, so no issue there.
+  The slides_spec line 'விதை விற்பனை நடைமுறைகளைக் கடைபிடிக்காவிட்டால் கடும்' is cut mid-phrase and is not a grammatically complete or clearly meaningful Tamil sentence on its own.
+  The slides_spec and caption describe the 13 items as 'காய்கறி, நெல் விதை குவியல்கள்' while the article says the seeds were 'குவியல்கள்' of vegetable and paddy seeds; the caption's 'விதை குவியல்களுக்கு' wording is acceptable, so no issue there.
+  The caption's 'மக்கள் கவனத்திற்கு' advisory to buy only from shops with proper documents is an invented public advisory not present in the article.
+claude rewrite 1 anthropic/claude-haiku-5-5: 7 problems
+  fact-check: The reel_script and caption state the inspection was conducted 'in Tharapuram' under the Erode district seed inspection deputy director's control, but the article says the area under that director's control is in Tharapuram (Tiruppur district) where the inspection was held; this is consistent, so no issue there.
+  fact-check: The reel_script opens by saying a sales ban was imposed on seeds worth Rs 14 lakh, which matches the article.
+  fact-check: The slides_spec line 'ஈரோடு விதை ஆய்வு துணை இயக்குனர் தலைமையில் சோதனை' implies the Erode deputy director led the inspection personally, while the article says the inspection was led by deputy director Sumathi; the slide and reel_script then mix two different heads of the inspection into one statement, combining two facts into one sentence.
+  fact-check: The caption's 'துறை: ஈரோடு மாவட்ட விதை ஆய்வுத் துறை' and the reel_script's statement that the Erode deputy director controls the area are consistent with the article, so no issue there.
+  fact-check: The slides_spec line 'விதை விற்பனை நடைமுறைகளைக் கடைபிடிக்காவிட்டால் கடும்' is cut mid-phrase and is not a grammatically complete or clearly meaningful Tamil sentence on its own.
+  fact-check: The slides_spec and caption describe the 13 items as 'காய்கறி, நெல் விதை குவியல்கள்' while the article says the seeds were 'குவியல்கள்' of vegetable and paddy seeds; the caption's 'விதை குவியல்களுக்கு' wording is acceptable, so no issue there.
+  fact-check: The caption's 'மக்கள் கவனத்திற்கு' advisory to buy only from shops with proper documents is an invented public advisory not present in the article.
+ok anthropic/claude-haiku-5-5
+ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+free fact-check unavailable, using Claude: no free model answered: None
+ok anthropic/claude-haiku-5-5
+factcheck by anthropic/claude-haiku-5-5: 0 problems
+claude rewrite 2 anthropic/claude-haiku-5-5: 0 problems
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
+proofread skipped: no free model answered: None
+gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
+groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b
 ok anthropic/claude-haiku-5-5
 gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b
-ok anthropic/claude-haiku-5-5
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for '19 mm rainfall recorded in Ammapet as wi'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1034","first":"RN-338"}
+images made: 2 for 'Government bus service launched between '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1232","first":"RN-341"}
 posting job started at once
 real photo: no picture on the source page -> AI pictures
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'Erode district has 23,674 tonnes of fert'
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1034","first":"RN-339"}
-real photo: no picture on the source page -> AI pictures
-image match: True The photo shows a woman holding a document outside the 'GOBI POLICE STATION' facing a police officer, matching a mother 
+images made: 2 for 'Seeds worth Rs 14 lakh banned from sale '
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1234","first":"RN-342"}
+real photo: vision check unavailable: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:ge
+real photo: vision check out of free quota
 image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
-images made: 2 for 'College student missing from Gobi area; '
-bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1035","first":"RN-340"}
+image match check unavailable: gemini-3.5-flash: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/g
+images made: 2 for 'Erode: law to grant patta within 15 days'
+bridge: 200 {"ok":true,"added":1,"auto_queued":1,"emailed":0,"reoffered":0,"batch":"B20261128-1234","first":"RN-343"}
 earlier stories still waiting for images: []
 instagram check: 50 recent posts read from the page
 pick round: only the picked links are written (research_free/pick.py)
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/23674-tonnes-of-fertilizer-in-stock/4388294
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/daughter-missing-mother-complains/4388299
-manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/19--rainfall-recorded-in-ammapet/4388305
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/ban-on-sale-of-seed-worth-rs-14-lakh/4388304
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/law-to-issue-pattas-in-15-days-minister-assures/4388285
+manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/government-bus-service-launched-between-gopi-tirupati/4388303
 candidate filter: collected=3
 to write: 3 Erode district candidates (max 3 stories)
 round: top 3 of 3 candidates
@@ -184,7 +193,7 @@ auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 2})
 posting job started at once
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})
 auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})
-candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min
+candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min
 filed: 3 Erode district stories (target 3), reels only
 queue: 0 news waiting to be written
 All News sheet: {"ok":true,"added":3,"updated":0} 

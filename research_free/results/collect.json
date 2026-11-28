@@ -3,9 +3,9 @@
   "earlier stories still waiting for images: []",
   "instagram check: 50 recent posts read from the page",
   "pick round: only the picked links are written (research_free/pick.py)",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/23674-tonnes-of-fertilizer-in-stock/4388294",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/daughter-missing-mother-complains/4388299",
-  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/19--rainfall-recorded-in-ammapet/4388305",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/ban-on-sale-of-seed-worth-rs-14-lakh/4388304",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/law-to-issue-pattas-in-15-days-minister-assures/4388285",
+  "manual link added: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/government-bus-service-launched-between-gopi-tirupati/4388303",
   "candidate filter: collected=3",
   "to write: 3 Erode district candidates (max 3 stories)",
   "round: top 3 of 3 candidates",
@@ -17,7 +17,7 @@
   "posting job started at once",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 4})",
   "auto images: 1 of 1 stories ({'black-forest-labs/flux-1-schnell': 6})",
-  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 77 min",
+  "candidate loop ended: left 0, tried={'N': 3}, done={'N': 3}, time left 75 min",
   "filed: 3 Erode district stories (target 3), reels only",
   "queue: 0 news waiting to be written",
   "All News sheet: {\"ok\":true,\"added\":3,\"updated\":0}"
@@ -28,60 +28,54 @@
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
+  "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.6-flash: gemini gemini-3.6-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.6-flash",
   "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
   "dead for this round: gemini/gemini-3.5-flash",
-  "ok gemini/gemini-3-flash-preview (11s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (19s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
+  "fail gemini/gemini-3.5-flash: gemini gemini-3.5-flash 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please che",
+  "dead for this round: gemini/gemini-3.5-flash",
   "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
   "dead for this round: gemini/gemini-3-flash-preview",
-  "ok gemini/gemini-3-flash-preview (15s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok gemini/gemini-3.6-flash (28s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok groq/openai/gpt-oss-120b (8s)",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail gemini/gemini-3-flash-preview: gemini gemini-3-flash-preview 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, plea",
+  "dead for this round: gemini/gemini-3-flash-preview",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
   "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 413: {\"error\":{\"message\":\"Request too large for model `qwen/qwen3.8-27b` in organization `org_01m7",
+  "ok groq/openai/gpt-oss-120b (7s)",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "ok groq/openai/gpt-oss-120b (4s)",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok groq/qwen/qwen3.8-27b (3s)",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
+  "fail groq/openai/gpt-oss-120b: groq openai/gpt-oss-120b 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `o",
+  "dead for this round: groq/openai/gpt-oss-120b",
+  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
+  "ok anthropic/claude-haiku-5-5",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
   "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "fail groq/qwen/qwen3.8-27b: groq qwen/qwen3.8-27b 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3.8-27b` in organization `org_01m",
-  "switching away from groq/qwen/qwen3.8-27b for 10 min",
-  "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
-  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
   "ok anthropic/claude-haiku-5-5",
@@ -91,187 +85,194 @@
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
   "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
   "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
-  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "ok anthropic/claude-haiku-5-5",
   "ok anthropic/claude-haiku-5-5",
   "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
-  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, allam-2-7b, openai/gpt-oss-20b",
-  "ok anthropic/claude-haiku-5-5"
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash",
+  "groq models: openai/gpt-oss-120b, qwen/qwen3.8-27b, openai/gpt-oss-20b, allam-2-7b",
+  "ok anthropic/claude-haiku-5-5",
+  "gemini models: gemini-3.6-flash, gemini-3.5-flash, gemini-3-flash-preview, gemini-2.5-flash, gemini-omni-1.2-flash, gemini-omni-1.1-flash"
  ],
  "stories": [
   {
-   "tamil_headline": "அம்மாபேட்டையில் 19 மி.மீ. மழை பதிவு: ஈரோடு மாவட்டத்தில் பரவலான மழை நிலவரம்",
-   "english_headline": "19 mm rainfall recorded in Ammapet as widespread rain lashed Erode district; weather turns cool",
-   "category": "Weather & Agriculture",
-   "location": "Ammapet, Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "மழைப் பதிவு",
-    "loc": "அம்மாபேட்டை, ஈரோடு",
-    "hl1": "அம்மாபேட்டையில் 19 மி.மீ. மழை பதிவு",
-    "hl2": "மாவட்டத்தில் பரவலாக மழை",
-    "slides": [
-     {
-      "title": "மழை அளவுகள்",
-      "lines": [
-       "அம்மாபேட்டை: <b>19 மி.மீ.</b> மழை",
-       "பெருந்துறை: <b>17 மி.மீ.</b> மழை",
-       "ஈரோடு: <b>8.2 மி.மீ.</b> மழை"
-      ]
-     },
-     {
-      "title": "பிற பகுதிகள்",
-      "lines": [
-       "சத்தியமங்கலம்: <b>5.2 மி.மீ.</b> மழை",
-       "பவானி: <b>3 மி.மீ.</b> மழை",
-       "கொடிவேரி அணை: <b>2 மி.மீ.</b> மழை"
-      ]
-     },
-     {
-      "title": "வானிலை நிலவரம்",
-      "lines": [
-       "நேற்று முன்தினம் பரவலாக மழை பெய்தது",
-       "நேற்று காலையில் கடும் வெயில் நிலவியது",
-       "மதியத்துக்கு மேல் மேகமூட்டம், குளிர்ந்த வானிலை"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டம் அம்மாபேட்டையில் அதிகபட்சமாக 19 மில்லிமீட்டர் மழை பதிவாகியுள்ளது. ஈரோடு மாவட்டத்தில் நேற்று முன்தினம் பரவலாக மழை பெய்தது. நேற்று காலை 8 மணி நிலவரப்படி அம்மாபேட்டையில் 19 மில்லிமீட்டர் மழை பதிவானது. பெருந்துறையில் 17 மில்லிமீட்டர் மழை பதிவாகியுள்ளது. ஈரோட்டில் 8.2 மில்லிமீட்டர் மழை பதிவானது. சத்தியமங்கலத்தில் 5.2 மில்லிமீட்டர் மற்றும் பவானியில் 3 மில்லிமீட்டர் மழை பதிவாகியுள்ளது. கொடிவேரி அணை பகுதியில் 2 மில்லிமீட்டர் மழை பதிவானது. நேற்று காலையில் கடும் வெயில் நிலவியது. மதியத்துக்கு மேல் மேகமூட்டத்துடன் குளிர்ந்த வானிலை நிலவியது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌧️ அம்மாபேட்டையில் 19 மி.மீ. மழை பதிவு – ஈரோடு மாவட்டத்தில் பரவலான மழை\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் நேற்று முன்தினம் பரவலாக மழை பெய்தது. நேற்று காலை 8 மணி நிலவரப்படி மாவட்டத்தில் அதிகபட்சமாக அம்மாபேட்டையில் 19 மி.மீ. மழை பதிவானது. பெருந்துறையில் 17 மி.மீ., ஈரோட்டில் 8.2 மி.மீ., சத்தியமங்கலத்தில் 5.2 மி.மீ., பவானியில் 3 மி.மீ. மற்றும் கொடிவேரி அணை பகுதியில் 2 மி.மீ. மழை பதிவாகியுள்ளது. நேற்று காலையில் கடும் வெயில் அடித்த நிலையில், மதியத்துக்கு மேல் மேகமூட்டமும் குளிர்ந்த வானிலையும் நிலவியது.\n\n📍 இடம்: அம்மாபேட்டை, ஈரோடு மாவட்டம்\n🗓️ பதிவு நாள்: 27 நவம்பர் 2026 (காலை 8 மணி நிலவரம்)\n\nவிவசாய நண்பர்களுக்கும் உறவினர்களுக்கும் Share செய்யுங்கள்.\n\nAmmapet heavy rain updates Erode rainfall details | Erode news\n📍 அம்மாபேட்டை, ஈரோடு | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Ammapet #மழை #ErodeNews",
-   "prompts": "A wide view of a flat agricultural landscape near Ammapet in Erode district after a rain shower, with fresh rainwater standing in the furrows of a paddy field and wet earth glistening between rows of young green crop. Distant low grey clouds hang over the Sathyamangalam forest hills on the horizon, and a few sheds and concrete electric poles stand at the edge of the fields. Two farm workers in shirts with veshti walk far away along a raised mud bund, seen from behind and slightly blurred. The light is soft and overcast in the afternoon, the sky heavy with cloud after a sunny morning, giving a cool, damp mood. Shot at eye level with a 35 mm lens, wide enough to show the full field, the bund and the hills. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of wet soil and rainwater pooled in a shallow channel beside a green paddy field in Ammapet, with fine droplets clinging to young rice leaves and a few drops still falling. Muddy footprints and a small heap of harvested green fodder lie at the edge of the bund. In the blurred background a farmer in a shirt and veshti stands far away with his back to the camera, and a clay water pot rests on the dry raised earth. The overcast afternoon light is cool and diffused, with no harsh shadows. Shot slightly high at 35 mm with a shallow depth of field, focusing on the wet soil and leaves to show the effect of the rain on the crop. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/19--rainfall-recorded-in-ammapet/4388305",
-   "published": "2026-11-28T07:42:00+05:30",
-   "verification": "DRAFT (gemini/gemini-3.6-flash) - NOT CLEAN, held from posting - problems: caption misses facts of the article (put every one in 📰 முழு விவரம்): சத்தியமங்கலம் ('இதேபோல் பெருந்துறை-17, ஈரோடு-8.2, சத்தியமங்கலம்-5.2, பவானி-3')",
-   "note": "free-model draft gemini/gemini-3.6-flash, 1 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/9058fd2d2de1ddf9.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/ee2336d24ed0ce87.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "ஈரோடு மாவட்டத்தில் 23,674 டன் உரம் இருப்பு",
-   "english_headline": "Erode district has 23,674 tonnes of fertilizer in stock for the current season",
-   "category": "Weather & Agriculture",
-   "location": "Erode district",
-   "importance": "Medium",
-   "scope": "district",
-   "post_to": "Erode 360",
-   "slides_spec": {
-    "v": 3,
-    "cat": "வேளாண் இருப்பு",
-    "loc": "ஈரோடு மாவட்டம்",
-    "hl1": "ஈரோட்டில் 23,674 டன் உரம் இருப்பு",
-    "hl2": "விதைகள் 364.4 டன் தயார்",
-    "slides": [
-     {
-      "title": "உர இருப்பு",
-      "lines": [
-       "நடப்பு பருவ சாகுபடிக்காக <b>23,674 டன்</b> உரம் கையிருப்பில்",
-       "யூரியா <b>6,108 டன்</b>, டி.ஏ.பி. <b>2,903 டன்</b>",
-       "பொட்டாஷ் <b>3,968 டன்</b>, காம்ப்ளக்ஸ் <b>10,695 டன்</b>"
-      ]
-     },
-     {
-      "title": "விதை இருப்பு",
-      "lines": [
-       "நெல் விதை <b>235 டன்</b> இருப்பு",
-       "சிறுதானியங்கள் <b>86 டன்</b>, பயறு வகைகள் <b>8.2 டன்</b>",
-       "எண்ணெய் வித்துக்கள் <b>35.2 டன்</b>, மொத்தம் <b>364.4 டன்</b>"
-      ]
-     },
-     {
-      "title": "மழை நிலவரம்",
-      "lines": [
-       "இயல்பான ஆண்டு சராசரி மழை <b>768 மி.மீ.</b>",
-       "நடப்பாண்டில் <b>26 வரை 732 மி.மீ.</b> மழை பெய்துள்ளது",
-       "விதைகள் வேளாண் விரிவாக்க மையங்களில் தயாராக உள்ளன"
-      ]
-     }
-    ],
-    "carousel": false
-   },
-   "reel_script": "ஈரோடு மாவட்டத்தில் 23,674 டன் உரம் கையிருப்பில் உள்ளது. நடப்பு பருவ சாகுபடித் தேவைக்காக இந்த உரங்கள் வைக்கப்பட்டுள்ளன. வேளாண் துறையினர் இந்த விவரத்தைத் தெரிவித்துள்ளனர். யூரியா 6,108 டன், டி ஏ பி 2,903 டன், பொட்டாஷ் 3,968 டன், காம்ப்ளக்ஸ் 10,695 டன் இருப்பில் உள்ளன. சாகுபடிக்குத் தேவையான விதைகளும் வேளாண் விரிவாக்க மையங்களில் தயாராக உள்ளன. நெல் விதை 235 டன், சிறுதானியங்கள் 86 டன், பயறு வகைகள் 8.2 டன், எண்ணெய் வித்துக்கள் 35.2 டன் என மொத்தம் 364.4 டன் விதைகள் இருப்பு வைக்கப்பட்டுள்ளன. ஈரோடு மாவட்டத்தில் இயல்பான ஆண்டு சராசரி மழையளவு 768 மில்லிமீட்டர் ஆகும். நடப்பாண்டில் 26ஆம் தேதி வரை 732 மில்லிமீட்டர் மழை பெய்துள்ளது. மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🌾 ஈரோட்டில் 23,674 டன் உரம் கையிருப்பில்\n\n📰 முழு விவரம்:\nஈரோடு மாவட்டத்தில் நடப்பு பருவ சாகுபடித் தேவைக்காக 23,674 டன் உரங்கள் கையிருப்பில் உள்ளன. வேளாண் துறையினர் இதனைத் தெரிவித்துள்ளனர்.\n🧪 யூரியா 6,108 டன், டி.ஏ.பி. 2,903 டன், பொட்டாஷ் 3,968 டன், காம்ப்ளக்ஸ் 10,695 டன் இருப்பு உள்ளது.\n🌱 நெல் விதை 235 டன், சிறுதானியங்கள் 86 டன், பயறு வகைகள் 8.2 டன், எண்ணெய் வித்துக்கள் 35.2 டன் என மொத்தம் 364.4 டன் விதைகள் இருப்பு வைக்கப்பட்டுள்ளன.\n🌧️ ஈரோடு மாவட்டத்தின் இயல்பான ஆண்டு சராசரி மழையளவு 768 மி.மீ. நடப்பாண்டில் 26ஆம் தேதி வரை 732 மி.மீ. மழை பெய்துள்ளது.\n\nErode 23,674 tonnes fertilizer in stock | Erode farmers news\n📍 ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #விவசாயம்",
-   "prompts": "A row of stacked white and brown fertilizer sacks fills a storage warehouse at an agricultural extension centre in Erode district, with a Tamil Nadu agriculture department official in a shirt and trousers checking a stock register from behind on a wooden table. Bags of urea, DAP, potash and complex fertilizer are piled up to the ceiling on wooden pallets, and a few farmers in veshti and shirts stand at a distance near the entrance. The surrounding area is the flat, open countryside of Erode, with paddy fields visible beyond the compound wall and a tractor parked outside. The light is soft daylight coming through the open shutter doors, the weather looks clear and dry, reflecting a rainfall deficit. Shot at eye level, 35 mm, wide enough to show the stacked stock and the full warehouse interior, with no readable text or labels visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of neatly stacked fertilizer sacks on wooden pallets inside a storage godown at an agricultural extension centre in Erode, showing the heavy white and brown woven bags with their tops folded and tied. Beside the stack, a few loose seed bags of paddy and pulses sit on the concrete floor, and a sunlit doorway shows dry fields in the distance. A farmer in a veshti stands far back, seen from behind and slightly blurred. Daylight streams in through the open shutter, with dust particles visible in the air, and the weather looks dry and warm. Shot slightly high, 35 mm, focusing on the depth of the stacked bags and the orderly storage, with no readable text, labels or logos. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/23674-tonnes-of-fertilizer-in-stock/4388294",
-   "published": "2026-11-28T07:36:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: slides_spec.loc 'ஈரோடு மாவட்டம்' is only the district: write the town / village / area the article names (people share news of their own area)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
-   "post_time": "right after your reply, same day",
-   "_area": "N",
-   "_score": 999,
-   "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/0ae462bfdb6b44d6.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/d6c32ef09247744d.jpg"
-   ]
-  },
-  {
-   "tamil_headline": "கோபி அருகே கல்லூரி மாணவி மாயம்; தாய் புகார், போலீசார் தேடுதல்",
-   "english_headline": "College student missing from Gobi area; mother files complaint, police searching",
-   "category": "Crime & Safety",
+   "tamil_headline": "கோபி–திருப்பதி இடையே அரசு பஸ் சேவை தொடக்கம்",
+   "english_headline": "Government bus service launched between Gobi and Tirupati",
+   "category": "Roads & Transport",
    "location": "Gobi, Erode district",
+   "importance": "High",
+   "scope": "local",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பஸ் சேவை",
+    "loc": "கோபி",
+    "hl1": "கோபியில் இருந்து திருப்பதிக்கு அரசு பஸ்",
+    "hl2": "இரவு 7 மணிக்கு புறப்பாடு",
+    "slides": [
+     {
+      "title": "எப்போது தொடக்கம்?",
+      "lines": [
+       "நேற்றிரவு பஸ் சேவை தொடக்க விழா நடைபெற்றது",
+       "தமிழ்நாடு அரசு போக்குவரத்து கழகம் சார்பில்",
+       "வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் துவக்கி வைத்தார்"
+      ]
+     },
+     {
+      "title": "கோபி–திருப்பதி",
+      "lines": [
+       "கோபி பஸ் ஸ்டாண்டில் இருந்து <b>இரவு 7 மணிக்கு</b> புறப்படும்",
+       "அந்தியூர், மேட்டூர், வேலூர், சித்தூர் வழியாக செல்லும்",
+       "மறுநாள் அதிகாலை <b>5:30 மணிக்கு</b> திருப்பதி சென்றடையும்"
+      ]
+     },
+     {
+      "title": "திருப்பதி–கோபி",
+      "lines": [
+       "திருப்பதியில் இருந்து <b>இரவு 7:30 மணிக்கு</b> புறப்படும்",
+       "மறுநாள் அதிகாலை <b>5:30 மணிக்கு</b> கோபியை அடையும்",
+       "பஸ் கட்டணம் <b>520 ரூபாய்</b>"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "கோபியில் இருந்து திருப்பதிக்கு அரசு பஸ் சேவை தொடங்கியுள்ளது. தமிழ்நாடு அரசு போக்குவரத்து கழகம் சார்பில் நேற்றிரவு துவக்க விழா நடைபெற்றது. வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் இந்தப் பஸ் சேவையைத் துவக்கி வைத்தார். கோபி பஸ் ஸ்டாண்டில் இருந்து தினமும் இரவு 7 மணிக்குப் பஸ் புறப்படும். அந்தியூர், மேட்டூர், வேலூர், சித்தூர் வழியாகச் செல்லும் இந்தப் பஸ் மறுநாள் அதிகாலை 5:30 மணிக்குத் திருப்பதியைச் சென்றடையும். திருப்பதியில் இருந்து தினமும் இரவு 7:30 மணிக்குப் பஸ் புறப்படும். மறுநாள் அதிகாலை 5:30 மணிக்குக் கோபியை வந்தடையும். பஸ் கட்டணம் 520 ரூபாய். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚌 கோபியில் இருந்து திருப்பதிக்கு அரசு பஸ் சேவை தொடக்கம்\n\n📰 முழு விவரம்:\nதமிழ்நாடு அரசு போக்குவரத்து கழகம் சார்பில் கோபியில் இருந்து திருப்பதிக்கு அரசு பஸ் சேவையைத் துவக்கும் விழா நேற்றிரவு நடைபெற்றது. வருவாய்த்துறை அமைச்சர் செங்கோட்டையன் பஸ் சேவையைத் துவக்கி வைத்தார்.\nகோபி பஸ் ஸ்டாண்டில் இருந்து தினமும் இரவு 7 மணிக்குப் புறப்படும் பஸ், அந்தியூர், மேட்டூர், வேலூர், சித்தூர் வழியாக மறுநாள் அதிகாலை 5:30 மணிக்குத் திருப்பதியை அடையும்.\nதிருப்பதியில் இருந்து தினமும் இரவு 7:30 மணிக்குப் புறப்படும் பஸ், மறுநாள் அதிகாலை 5:30 மணிக்குக் கோபியை அடையும்.\n🎫 பஸ் கட்டணம்: 520 ரூபாய்\n\nGobi to Tirupati government bus service launched | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobi #ErodeNews #ஈரோடு",
+   "prompts": "A Tamil Nadu State Transport Corporation bus stands at the Gobi bus stand at dusk, ready for its first night trip to Tirupati as a flag-off ceremony takes place beside it. Seen from a slight distance at eye level, the bus is a large government TNSTC bus with a long passenger body and its front window and destination board area facing the camera, though no readable text is shown. In the foreground a small group of men in shirts and veshti and women in sarees stand at a low ceremonial stage, a garland-decorated area and a few officials in formal shirts gathered near the open front door of the bus, all seen from behind or in soft focus. Around them the bus stand platform has parked two-wheelers, a few private buses and autorickshaws, and the rear of a line of waiting passengers with bags. Evening light is fading to dusk with sodium street lamps glowing along the platform and the sky a deep blue. Shot on a 35 mm lens at eye level, wide enough to show the bus, the platform and the crowd together. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of the front of the government TNSTC bus at Gobi bus stand at night, with the entrance step and the open door lit by warm platform lights. A garland of flowers hangs over the bus door or a small flag-off setup sits on the front bumper area, and a sheet of marigold petals lies on the step. In the soft background, blurred figures of officials and passengers stand near the bus door, seen from behind. Dusk sky and sodium lamp glow give a warm amber tone. Shot on a 50 mm lens at slightly high eye level, focusing on the bus door and the flower garland as the detail that marks the launch. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/government-bus-service-launched-between-gopi-tirupati/4388303",
+   "published": "2026-11-28T07:41:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 11 attempt(s), 0 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/6a94b8680117eee2.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/f1ff0d276cf1ef76.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ரூ.14 லட்சம் மதிப்பிலான விதை விற்பனைக்கு தடை",
+   "english_headline": "Seeds worth Rs 14 lakh banned from sale after inspection in Tharapuram",
+   "category": "Government & Services",
+   "location": "Tharapuram, Tiruppur district (Erode district seed inspection control)",
    "importance": "Medium",
    "scope": "local",
    "post_to": "Erode 360",
    "slides_spec": {
     "v": 3,
-    "cat": "மாயம்",
-    "loc": "கோபி",
-    "hl1": "கோபி அருகே கல்லூரி மாணவி மாயம்",
-    "hl2": "தாய் புகார்; போலீசார் தேடல்",
+    "cat": "விதை ஆய்வு",
+    "loc": "தாராபுரம்",
+    "hl1": "தாராபுரத்தில் விதை விற்பனைக்குத் தடை",
+    "hl2": "ரூ.14.18 லட்சம் விதைகள்",
     "slides": [
      {
       "title": "என்ன நடந்தது?",
       "lines": [
-       "கோபி அருகே <b>20 வயது</b> கல்லூரி மாணவி மாயம்",
-       "மேட்டுப்பாளையத்தைச் சேர்ந்த தாட்சாயிணி",
-       "தனியார் கல்லூரியில் முதலாமாண்டு படித்தவர்"
+       "விதை ஆய்வு துணை இயக்குனர் சுமதி தலைமையில் சோதனை",
+       "தாராபுரம் பகுதி விதை விற்பனை நிலையங்களில் ஆய்வு",
+       "முறையான ஆவணங்களை பராமரிக்கவில்லை"
       ]
      },
      {
-      "title": "எப்போது?",
+      "title": "எவ்வளவு விதை?",
       "lines": [
-       "<b>23</b> அன்று கல்லூரிக்குச் சென்றார்",
-       "அதன் பின் வீடு திரும்பவில்லை",
-       "தோழிகள், உறவினர் வீடுகளில் தேடியும் கிடைக்கவில்லை"
+       "<b>13</b> காய்கறி, நெல் விதை குவியல்கள்",
+       "மொத்தம் <b>524 கிலோ</b> எடை",
+       "மதிப்பு <b>ரூ.14.18 லட்சம்</b>"
       ]
      },
      {
-      "title": "புகார், நடவடிக்கை",
+      "title": "என்ன நடவடிக்கை?",
       "lines": [
-       "தாய் இந்திராமதி புகார் அளித்தார்",
-       "கோபி போலீசார் வழக்குப்பதிந்து தேடுகின்றனர்",
-       "தகவல் தெரிந்தவர்கள் போலீசுக்குத் தெரிவிக்கலாம்"
+       "இந்த விதைகளுக்கு விற்பனை தடை விதிக்கப்பட்டது",
+       "விதை விற்பனை நடைமுறைகளை கடைபிடிக்காத விற்பனையாளர்கள் மீது",
+       "எச்சரிக்கை விடுக்கப்பட்டது"
       ]
      }
     ],
     "carousel": false
    },
-   "reel_script": "கோபி அருகே 20 வயது கல்லூரி மாணவி தாட்சாயிணி மாயமாகியுள்ளார். மேட்டுப்பாளையத்தைச் சேர்ந்த இவர் தனியார் கல்லூரியில் முதலாமாண்டு படித்து வருகிறார். கடந்த 23ஆம் தேதி கல்லூரிக்குச் சென்ற மாணவி வீடு திரும்பவில்லை. அவரது தோழிகள் மற்றும் உறவினர்களின் வீடுகளில் தேடியும் அவர் கிடைக்கவில்லை. இதையடுத்து, தாய் இந்திராமதி புகார் அளித்தார். அந்தப் புகாரின்பேரில் கோபி போலீசார் வழக்குப்பதிவு செய்து மாணவியைத் தேடி வருகின்றனர். மாணவியைப் பற்றித் தகவல் தெரிந்தவர்கள் போலீசுக்குத் தெரிவிக்கலாம். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
-   "caption": "🚨 கோபி அருகே கல்லூரி மாணவி மாயம்; தாய் புகார், போலீசார் தேடுதல்\n\n📰 முழு விவரம்:\nசத்தியமங்கலம் அருகே மேட்டுப்பாளையத்தைச் சேர்ந்த தாட்சாயிணி (20 வயது) தனியார் கல்லூரியில் முதலாமாண்டு படித்து வருகிறார். கடந்த 23ஆம் தேதி கல்லூரிக்குச் சென்ற அவர் வீடு திரும்பவில்லை. தோழிகள், உறவினர் வீடுகளில் தேடியும் கிடைக்கவில்லை.\n👩 தாய் இந்திராமதி அளித்த புகாரின்படி கோபி போலீசார் வழக்குப்பதிந்து மாணவியைத் தேடி வருகின்றனர்.\n📍 இடம்: மேட்டுப்பாளையம், கோபி பகுதி\n🗓️ நாள்: 23 நவம்பர் (கல்லூரி சென்ற நாள்)\n👮 நடவடிக்கை: கோபி போலீசார் வழக்குப்பதிவு, தேடுதல் பணி\nℹ️ மாணவி குறித்துத் தகவல் தெரிந்தவர்கள் கோபி போலீசுக்குத் தெரிவிக்கவும்.\n\nGobi college student missing, police search | Erode news\n📍 கோபி, ஈரோடு மாவட்டம் | 28 நவம்பர் 2026\n\nதேவைப்படுவோருக்கு Share செய்யுங்கள்\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Gobichettipalayam #ErodeNews #ஈரோடு",
-   "prompts": "A woman in a cotton saree stands at the gate of the Gobi police station in Erode district, her back partly turned to the camera, holding a folded complaint paper in one hand while a Tamil Nadu police constable in khaki uniform stands near the open doorway. The police station is a single-storey government building with a plain concrete facade and a tiled roof, on a town road with two-wheelers and an autorickshaw parked at the kerb. Late morning daylight, soft and even. Shot at eye level, 35 mm, wide enough to show the police station entrance and the road, no readable signboards or text. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nClose-up of a folded sheet of paper and a pen resting on a wooden table inside a police station room, with a khaki police cap placed beside it and the blurred outline of a uniformed officer's sleeve at the edge of the frame. The table shows a few loose papers and a steel tumbler of water. Soft indoor light from a window, late morning. Shot at eye level, 35 mm, shallow depth of field, no readable text on the paper. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
-   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/daughter-missing-mother-complains/4388299",
-   "published": "2026-11-28T07:39:00+05:30",
-   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 59 words; need 60-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
-   "note": "free-model draft anthropic/claude-haiku-5-5, 13 attempt(s), 1 validator problem(s)",
+   "reel_script": "தாராபுரத்தில் ரூ.14 லட்சம் மதிப்பிலான விதைகளின் விற்பனைக்குத் தடை விதிக்கப்பட்டுள்ளது. ஈரோடு மாவட்ட விதை ஆய்வு துணை இயக்குனர் கட்டுப்பாட்டில் உள்ள திருப்பூர் மாவட்டம் தாராபுரம் பகுதியில் சோதனை நடைபெற்றது. விதை ஆய்வு துணை இயக்குனர் சுமதி தலைமையில் ஆய்வாளர்கள் இந்தச் சோதனையை நடத்தினர். முறையான ஆவணங்களை பராமரிக்காத விதை விற்பனை நிலையங்களில் இந்த ஆய்வு நடத்தப்பட்டது. 13 காய்கறி மற்றும் நெல் விதை குவியல்களுக்கு விற்பனை தடை விதிக்கப்பட்டது. அவற்றின் மொத்த எடை 524 கிலோ, மதிப்பு 14.18 லட்சம் ரூபாய். விதை விற்பனைக்கான நடைமுறைகளைக் கடைபிடிக்காமல் விற்பனை செய்பவர்கள் மீது கடும் நடவடிக்கை எடுக்கப்படும் என அதிகாரிகள் எச்சரித்துள்ளனர். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "🚨 தாராபுரத்தில் ரூ.14 லட்சம் விதைகளுக்கு விற்பனை தடை\n\n📰 முழு விவரம்:\nஈரோடு மாவட்ட விதை ஆய்வு துணை இயக்குனர் கட்டுப்பாட்டில் உள்ள திருப்பூர் மாவட்டம் தாராபுரம் பகுதியில், விதை ஆய்வு துணை இயக்குனர் சுமதி தலைமையில் ஆய்வாளர்கள் சோதனை நடத்தினர்.\nமுறையான ஆவணங்களை பராமரிக்காத விதை விற்பனை நிலையங்களில் 13 காய்கறி, நெல் விதை குவியல்களுக்கு விற்பனை தடை விதிக்கப்பட்டது.\n📦 எடை: 524 கிலோ\n💰 மதிப்பு: ரூ.14.18 லட்சம்\n⚠️ விதை விற்பனைக்கான நடைமுறைகளை கடைபிடிக்காமல் விற்பனை செய்தால் விற்பனையாளர்கள் மீதும் கடும் நடவடிக்கை எடுக்கப்படும் என எச்சரிக்கப்பட்டது.\n\nSeeds worth Rs 14 lakh banned from sale in Tharapuram | Erode news\n📍 தாராபுரம், திருப்பூர் மாவட்டம் | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #Tharapuram #ErodeNews #ஈரோடு",
+   "prompts": "A seed inspection team led by a Deputy Director and several inspectors in khaki-free office wear stands inside a seed shop in Tharapuram town, checking stock as the shop owner watches nearby. The shop is a narrow, shuttered-front store in a Tamil Nadu town market with sacks of paddy and vegetable seed stacked on wooden shelves and the floor. A few men in shirts and veshti stand in the background, seen from behind or far away, while one inspector holds a file of documents. Daylight comes through the shop entrance, with a busy street of two-wheelers and an autorickshaw visible outside. Camera at eye level, 35 mm, wide enough to show the shop interior and the officers at work. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of seized vegetable and paddy seed heaps piled on a table or floor inside a Tharapuram seed shop, each heap separated and marked as banned from sale. Gunny sacks and loose seed piles fill the frame, with a stack of paper registers and inspection files placed beside them. In the soft background, an inspector in a shirt and trousers stands with his back to the camera, and a shop owner in a shirt and veshti is seen from behind. Daylight from the shop doorway, a plain indoor setting with no readable text. Camera slightly high, 35 mm, focused on the seed heaps and documents. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/ban-on-sale-of-seed-worth-rs-14-lakh/4388304",
+   "published": "2026-11-28T07:41:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - fact-check: no problems found",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 0 validator problem(s)",
    "post_time": "right after your reply, same day",
    "_area": "N",
    "_score": 999,
    "images": [
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/65f3c32ba049cf55.jpg",
-    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/11b583ec0da9b658.jpg"
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/c2e75935c85ae6e8.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/b992f59f7d8e3d13.jpg"
+   ]
+  },
+  {
+   "tamil_headline": "ஈரோட்டில் பட்டா வழங்க 15 நாட்களில் சட்டம்: அமைச்சர் உறுதி",
+   "english_headline": "Erode: law to grant patta within 15 days, minister assures; 25 lakh people to get patta by next December",
+   "category": "Government & Services",
+   "location": "Erode city, Erode district",
+   "importance": "High",
+   "scope": "",
+   "post_to": "Erode 360",
+   "slides_spec": {
+    "v": 3,
+    "cat": "பட்டா அறிவிப்பு",
+    "loc": "ஈரோடு",
+    "hl1": "ஈரோடு: பட்டா வழங்க 15 நாளில் சட்டம்",
+    "hl2": "97 பேருக்கு 15 நாளில் பட்டா",
+    "slides": [
+     {
+      "title": "முகாம் விவரம்",
+      "lines": [
+       "ஈரோட்டில் மக்கள் குறைதீர் முகாம் நேற்று நடந்தது",
+       "அமைச்சர்கள் செங்கோட்டையன், விஜய் பாலாஜி மனுக்களைப் பெற்றனர்",
+       "<b>800</b>க்கும் மேற்பட்டோர் மனு அளித்தனர்"
+      ]
+     },
+     {
+      "title": "ராஜாஜிபுரம் பட்டா",
+      "lines": [
+       "ராஜாஜிபுரம் பகுதியில் வசிக்கும் <b>97 பேருக்கு</b> பட்டா",
+       "15 நாட்களுக்குள் பட்டா வழங்கப்படும்",
+       "இடிந்து விழும் நிலையில் உள்ள கட்டடங்களால் மாற்று இடம்"
+      ]
+     },
+     {
+      "title": "சட்டம், அடுத்த",
+      "lines": [
+       "நத்தம் இடத்தில் வசிப்போருக்குப் பட்டா சட்டம் 15 நாளில்",
+       "அடுத்த ஆண்டு டிசம்பருக்குள் <b>25 லட்சம்</b> பேருக்குப் பட்டா",
+       "முதல்வர் உத்தரவிட்டுள்ளார்"
+      ]
+     }
+    ],
+    "carousel": false
+   },
+   "reel_script": "ஈரோட்டில் 97 குடும்பங்களுக்கு 15 நாட்களில் பட்டா வழங்கப்படும். நேற்று ஈரோட்டில் மக்கள் குறைதீர் முகாம் நடைபெற்றது. அமைச்சர்கள் செங்கோட்டையன், விஜய் பாலாஜி ஆகியோர் மனுக்களைப் பெற்றனர். இலவச வீட்டுமனை பட்டா, தனிப்பட்டா மாறுதல், உதவித்தொகை எனப் பல கோரிக்கைகளுடன் 800க்கும் மேற்பட்டோர் மனு அளித்தனர். ராஜாஜிபுரம் பகுதியில் வசிக்கும் 97 பேருக்கு 15 நாட்களுக்குள் பட்டா வழங்கப்படும் என அமைச்சர் செங்கோட்டையன் தெரிவித்தார். இடிந்து விழும் நிலையில் உள்ள கட்டடங்கள் என்பதால் அங்கு குடியிருப்போருக்குச் சோலார் பேருந்து நிலையம் அருகே மாற்று இடம் தேர்வு செய்யப்பட்டுள்ளது. நத்தம் இடத்தில் குடியிருக்கும் அனைவருக்கும் பட்டா வழங்கும் சட்டம் 15 நாட்களுக்குள் இயற்றப்பட உள்ளது. அடுத்த ஆண்டு டிசம்பருக்குள் விவசாயிகள் உட்பட 25 லட்சம் பேருக்குப் பட்டா வழங்க முதல்வர் உத்தரவிட்டுள்ளார். மேலும் செய்திகளுக்கு ஈரோடு த்ரீ சிக்ஸ்டி பக்கத்தை பின்தொடருங்கள்.",
+   "caption": "📜 ஈரோட்டில் பட்டா வழங்க 15 நாட்களில் சட்டம்\n\n📰 முழு விவரம்:\nஈரோட்டில் நேற்று நடைபெற்ற மக்கள் குறைதீர் முகாமில் அமைச்சர்கள் செங்கோட்டையன், விஜய் பாலாஜி ஆகியோர் மனுக்களைப் பெற்றனர். இலவச வீட்டுமனை பட்டா, தனிப்பட்டா மாறுதல், உதவித்தொகை உள்ளிட்ட கோரிக்கைகளுடன் 800க்கும் மேற்பட்டோர் மனு அளித்தனர்.\nமுகாமில் பேசிய அமைச்சர் விஜய் பாலாஜி, 40, 50 ஆண்டுகளாகப் பட்டா இல்லாமல் வசிக்கும் மக்கள் எந்த நேரத்திலும் காலி செய்யச் சொல்லப்படுவோமோ என்ற அச்சத்தில் உள்ளனர் என்றும், அவர்களுக்குப் பட்டா வழங்க வேண்டும் என்றும் கோரிக்கை வைத்தார்.\nஅமைச்சர் செங்கோட்டையன், ராஜாஜிபுரம் பகுதியில் வசிக்கும் 97 பேருக்கு 15 நாட்களுக்குள் பட்டா வழங்கப்படும் என்றார். இடிந்து விழும் நிலையில் உள்ள கட்டடங்களால் பணிகள் நடைபெறுவதால், அங்கு குடியிருப்போருக்குச் சோலார் பேருந்து நிலையம் அருகே மாற்று இடம் தேர்வு செய்யப்பட்டுள்ளது.\nநத்தம் இடத்தில் குடியிருக்கும் அனைவருக்கும் பட்டா வழங்கும் சட்டம் 15 நாட்களுக்குள் இயற்றப்பட உள்ளது. அடுத்த ஆண்டு டிசம்பருக்குள் நத்தம் பகுதியில் வாழும் விவசாயிகள் உட்பட 25 லட்சம் பேருக்குப் பட்டா வழங்க முதல்வர் உத்தரவிட்டுள்ளார்.\nமுகாம் காலை 9:30 முதல் மதியம் 1 மணி வரை நடைபெறும் என அறிவிக்கப்பட்டிருந்தது. போதிய மக்கள் வராததால் அமைச்சர் செங்கோட்டையன் அதிகாரிகளிடம் அதிருப்தி தெரிவித்து, குத்துவிளக்கு ஏற்றிவிட்டு 11:30 மணிக்கு வருவதாகக் கூறிச் சென்றார்.\nஅதன் பின் நடந்த முகாமில் பெண்கள் அதிகம் வந்ததால் மனு கொடுக்க முண்டியடிக்கும் நிலை ஏற்பட்டது. சித்தோடு அடுத்த பேரோடு ஜே.ஜே.நகரைச் சேர்ந்த கிருஷ்ணவேணி கூட்டத்தில் சிக்கி மயங்கி விழுந்தார். மருத்துவர்கள் முதலுதவி அளித்ததில் அவர் சகஜ நிலைக்குத் திரும்பினார். மாற்றுத்திறனாளி பெண் ஒருவர் தரையில் தவழ்ந்தபடி மனு அளிக்க வந்தார்.\n\nErode grievance camp: patta in 15 days for 97 families | Erode news\n📍 ஈரோடு | 28 நவம்பர் 2026\n\nஉள்ளூர் செய்திகளுக்கு Follow செய்யுங்கள் 🙏\n\n#Erode360 #Erode #ErodeNews #ஈரோடு #பட்டா",
+   "prompts": "Inside a government hall in Erode city, a crowd of women in cotton sarees and salwar stand shoulder to shoulder, pressing forward toward a long wooden table where officials sit behind stacks of petition papers and a brass kuthuvilakku lamp burns at the front. Several women hold up folded petition sheets in their hands as they push toward the table. The men in the back are wearing shirts and veshti, and the scene is the morning grievance camp in daylight coming through tall windows. The photo is taken from the back of the crowd at eye level, 35 mm lens, wide enough to show the packed hall, the table, the lamp and the officials' seats, with no readable text or faces visible. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).\n---\nA close-up of a stack of petition papers and a brass kuthuvilakku lamp on a wooden table, with the hands of a woman in a cotton saree placing a folded application sheet on top of the pile. Behind, slightly out of focus, a crowd of women in sarees and salwar presses close together at the table edge, and an attendant in a shirt leans over the papers. Daylight from a window falls across the table, the scene is inside an official government hall in Erode city, taken from a slightly high angle at 35 mm, showing the papers, the lamp and the crowd pressing in with no readable text on the sheets. Photorealistic press photograph from Erode city, Tamil Nadu, India. One single continuous frame (no collage, no panels), tall vertical 9:16 composition, the main subject in the centre, full-frame camera, sharp focus across the frame, natural light, true-to-life colours, documentary photojournalism. No text, no letters, no numbers, no signboards, no logos, no watermarks, no brand names, no company logos, no product labels, no recognisable faces. Keep the lower third visually simple (road, wall, ground, sky).",
+   "source": "https://www.dinamalar.com/news/tamil-nadu-district-news-erode/law-to-issue-pattas-in-15-days-minister-assures/4388285",
+   "published": "2026-11-28T07:31:00+05:30",
+   "verification": "DRAFT (anthropic/claude-haiku-5-5) - NOT CLEAN, held from posting - problems: reel_script has 92 words; need 100-160 (the key facts once each, in at most 90 seconds; every other detail goes in the caption's 📰 முழு விவரம் block)",
+   "note": "free-model draft anthropic/claude-haiku-5-5, 12 attempt(s), 1 validator problem(s)",
+   "post_time": "right after your reply, same day",
+   "_area": "N",
+   "_score": 999,
+   "images": [
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/3053bfcf24b466b0.jpg",
+    "https://pub-ec316fa6a94f404c993596355ad19128.r2.dev/erode360/20261128/c901b1bb693e6a20.jpg"
    ]
   }
  ]
