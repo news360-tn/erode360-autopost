@@ -1,71 +1,26 @@
-06:27:50 round 2026-11-28_06: news published 28 Nov 04:26 -> 28 Nov 06:27 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
-06:27:50    + news published since 27 Nov 06:27 that no earlier round found (listed / indexed late) - never one already listed or posted
-06:27:50 insights 2026-11-28T06:27+05:30 (287 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.92, 'education': -0.5, 'temple': -0.31, 'politics': -0.26, 'power_cut': 0.34, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🌾 கீழ்பவானி சிறப்பு நனைப்புக்கு தண்ணீர் இல்லை; அமைச்சரை அணுக கலெக்டர் யோசனை', '🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்']
-06:28:40 open search 'ஈரோடு' (from_google): 25 links from our outlets
-06:28:40 town searches (கோபி, சத்தியமங்கலம், பவானி, பெருந்துறை, அந்தியூர், கொடுமுடி, மொடக்குறிச்சி (+Google), தாளவாடி (+Google)): 10 links from our outlets
-06:28:40 search links: 13 Google links decoded, 0 not decoded, 83 known from an earlier round, 0 left for the next round, 9 of another district by their headline (not opened)
-06:28:40 98 links on the two papers' Erode pages
-06:29:29 skipped: published before this window=41, already posted=16, not Erode district=10, checked in an earlier round=9, state-wide / other district=6, only a headline=3, could not open (403 Client Error: Forbidden for url: https://tamil)=2, same event already posted=1
-06:29:29    drop [already posted] அறச்சலூா் அருகே கொலை வழக்கில் ஒருவா் கைது | dinamani.com/all-editions/ed...rested-in-a-murder-case-near-arachalur
-06:29:29    drop [not Erode district] சொல்லிட்டாங்க... - Dinakaran - Dinakaran | dinakaran.com/news/mkstalin_edappadipalaniswami-6
-06:29:29    drop [not Erode district] ஆஸ்திரேலியாவுடன் 3வது டி20 எளிதில் வென்றது இங்கிலாந்து: ஓவர் | dinakaran.com/news/australia_t20_england_overton_seat
-06:29:29    drop [not Erode district] 235 மாற்றுத்திறனாளி பயனாளிகளுக்கு ரூ.44.72 லட்சத்தில் உதவி உ | dinakaran.com/district/kanchipuram-281126-3/amp
-06:29:29    drop [not Erode district] கர்ப்பிணி பெண்களுக்கு சமுதாய வளைகாப்பு | dinakaran.com/district/kanchipuram-281126-2/amp
-06:29:29    drop [not Erode district] மாற்றுத்திறனாளிகள் தினத்தை முன்னிட்டு 250 சிறப்பு பள்ளி மாணவ | dinakaran.com/district/chennai-281126-3/amp
-06:29:29    drop [not Erode district] கார்த்திகை தீபத்திருவிழா தெப்பல் உற்சவம் நிறைவு அலங்கார ரூபத | dinakaran.com/district/tiruvannamalai-281126-2/amp
-06:29:29    drop [not Erode district] வரி கட்டாத திருமண மண்டபங்களுக்கு சீல் | dinakaran.com/district/dindigul-281126-1/amp
-06:29:29    drop [only a headline] விஜய் மெர்ச்சன்ட் கோப்பை: தமிழக அணி 317 ரன் பின்னடைவு | dinamalar.com/news/sports-cricket
-06:29:29 list: 1 new + 8 earlier news not posted yet
-06:29:29    1. [பொது] சில்லி பாயின்ட்… - Dinakaran - Dinakaran (தினகரன்)
-06:29:29    2. [குற்றம்] கேஷியர் தற்கொலை (தினமலர்) (earlier)
-06:29:29    3. [போக்குவரத்து] கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து அமைச்சா் த (தினமணி) (earlier)
-06:29:29    4. [ஆன்மிகம்] கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அளிக்கக் கூட (தினமணி) (earlier)
-06:29:29    5. [பொது] பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் அபராதம் (தினமணி) (earlier)
-06:29:29    6. [பொது] நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா (தினமணி) (earlier)
-06:29:29    7. [பொது] தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று சந்தித்த அம (ஒன்இந்தியா) (earlier)
-06:29:29    8. [பொது] 5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது அம்பை, பெருந்துற (தினகரன்) (earlier)
-06:29:29    9. [பொது] கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள் நிகழ்ச்ச (தினமணி) (earlier)
-06:29:29 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
-ROUND=2026-11-28_06
-06:29:31    not picked automatically (suicide / obituary - only when the owner ticks it): கேஷியர் தற்கொலை
-06:29:31 round 2026-11-28_06 (at least 3, up to 3 more of well-watched topics): 8 news to choose from (7 from earlier rounds), ranked by this page's insights
-06:29:31   PICK   1.   3.5 [civic -0.50 page] (earlier) கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-06:29:31   PICK   2.   3.5 [other +0.00 pattern] (earlier) பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் 
-06:29:31   PICK   3.   3.2 [temple -0.31 page] (earlier) கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
-06:29:31          4.   3.0 [other +0.00 pattern] சில்லி பாயின்ட்… - Dinakaran - Dinakaran
-06:29:31          5.   2.5 [other +0.00 pattern] (earlier) நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா
-06:29:31          6.   1.5 [politics -0.26 page] (earlier) தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று ச
-06:29:31          7.   1.5 [politics -0.26 page] (earlier) 5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது அம்பை,
-06:29:31          8.   0.5 [poultry_agri -0.50 page] (earlier) கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள
-06:29:31 decided: automatic: top 3 of 8 by insights -> 3 news to write and post
-PICK_URLS=https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/bus-service-to-tirupati-via-gobi-route-minister-flags-off-the-service https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/பிளாஸ்டிக்-பொருள்கள்-விற்பனை-வியாபாரிகளுக்கு-ரூ15-லட்சம்-அபராதம் https://www.dinamani.com/all-editions/edition-coimbatore/erode/2026/Nov/27/permission-should-not-be-granted-for-political-organization-meetings-along-temple-procession-routes-hindu-munnani-urges
-06:32:17 3 listed news now in the Sheet
-06:32:28 instagram duplicate check erode: 50 recent posts read
-06:32:28 verify 2026-11-28_06: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:32:28    NOT POSTED C952c8c8: queued RN-329 (Queued) - கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
-06:32:28    NOT POSTED Ca9a81e1: queued RN-330 (Queued) - பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் 
-06:32:28    NOT POSTED Cd288547: queued RN-331 (Queued) - கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-06:37:34 instagram duplicate check erode: 50 recent posts read
-06:37:34 verify 2026-11-28_06: 0 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:37:34    NOT POSTED C952c8c8: queued RN-329 (Queued) - கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
-06:37:34    NOT POSTED Ca9a81e1: queued RN-330 (Queued) - பிளாஸ்டிக் பொருள்கள் விற்பனை: வியாபாரிகளுக்கு ரூ.1.5 லட்சம் 
-06:37:34    NOT POSTED Cd288547: queued RN-331 (Queued) - கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-06:42:40 instagram duplicate check erode: 50 recent posts read
-06:42:40 verify 2026-11-28_06: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:42:40    NOT POSTED C952c8c8: queued RN-329 (Queued) - கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
-06:42:40    NOT POSTED Cd288547: queued RN-331 (Queued) - கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-06:47:46 instagram duplicate check erode: 50 recent posts read
-06:47:46 verify 2026-11-28_06: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:47:46    NOT POSTED C952c8c8: queued RN-329 (Queued) - கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
-06:47:46    NOT POSTED Cd288547: queued RN-331 (Queued) - கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-06:52:53 instagram duplicate check erode: 50 recent posts read
-06:52:53 verify 2026-11-28_06: 1 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:52:53    NOT POSTED C952c8c8: queued RN-329 (Queued) - கோயில் வழித்தடங்களில் அரசியல் இயக்க கூட்டங்களுக்கு அனுமதி அள
-06:52:53    NOT POSTED Cd288547: queued RN-331 (Queued) - கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-06:58:00 instagram duplicate check erode: 50 recent posts read
-06:58:00 verify 2026-11-28_06: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-06:58:00    NOT POSTED Cd288547: queued RN-331 (Queued) - கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-07:03:05 instagram duplicate check erode: 50 recent posts read
-07:03:05 verify 2026-11-28_06: 2 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
-07:03:05    NOT POSTED Cd288547: queued RN-331 (Queued) - கோபி வழித்தடத்தில் திருப்பதிக்கு பேருந்து சேவை: கொடியசைத்து 
-07:08:10 verify 2026-11-28_06: 3 of 3 picked news posted, 0 skipped on purpose, 0 waiting for their posting start
+07:08:50 round 2026-11-28_07: news published 28 Nov 06:27 -> 28 Nov 07:08 (ஒன்இந்தியா, தினமலர், தினமணி, தினகரன், தினத்தந்தி, மாலைமலர், இந்து தமிழ், பாலிமர், விகடன், ஏபிபி நாடு, நியூஸ்18 தமிழ், இந்தியன் எக்ஸ்பிரஸ் தமிழ், புதிய தலைமுறை, தந்தி டிவி, சமயம் தமிழ் - Erode)
+07:08:50    + news published since 27 Nov 07:08 that no earlier round found (listed / indexed late) - never one already listed or posted
+07:08:50 insights 2026-11-28T07:08+05:30 (291 reels): topic weights {'crime': 1.5, 'weather': -0.5, 'civic': -0.5, 'accident': 0.92, 'education': -0.5, 'temple': -0.31, 'politics': -0.2, 'power_cut': 0.34, 'poultry_agri': -0.5, 'sports_culture': -0.5}; best openings ['🚨 அறச்சலூர் அருகே டாஸ்மாக் கடையில் கொலை: 50 வயது நபர் கைது', '🚨 ஈரோடு அரசுப் பள்ளி ஆசிரியர் போக்சோவில் கைது; பணியிடை நீக்கம்']
+07:09:27 open search 'ஈரோடு' (from_google): 6 links from our outlets
+07:09:27 town searches (கோபி, சத்தியமங்கலம், பவானி, பெருந்துறை, அந்தியூர், கொடுமுடி, மொடக்குறிச்சி (+Google), தாளவாடி (+Google)): 9 links from our outlets
+07:09:27 search links: 9 Google links decoded, 0 not decoded, 72 known from an earlier round, 0 left for the next round, 5 of another district by their headline (not opened)
+07:09:27 96 links on the two papers' Erode pages
+07:10:12 skipped: published before this window=41, already posted=18, not Erode district=11, checked in an earlier round=8, state-wide / other district=6, only a headline=2, could not open (403 Client Error: Forbidden for url: https://tamil)=2, same event already posted=1
+07:10:12    drop [already posted] சிறப்பு நனைப்புக்கு தண்ணீரா? அமைச்சரை அணுக யோசனை | dinamalar.com/news/tamil-nad...-there-water-for-a-special-dip/4387455
+07:10:12    drop [already posted] பா்கூா் வனப் பகுதியில் ட்ரோன் கேமராவில் விடியோ எடுத்தவருக்கு | dinamani.com/all-editions/ed...drone-camera-in-the-bargur-forest-area
+07:10:12    drop [not Erode district] மனிதனின் திறமையை ஏ.ஐ.,யால் பறித்து விட முடியுமா?: அந்துமணி ப | dinamalar.com/news/premium-n...ngs-talent-be-taken-away-by-ai/4388237
+07:10:12    drop [not Erode district] 6 யுனிட் மண்ணுடன் டிப்பர் லாரி பறிமுதல் | dinamalar.com/news/tamil-nad...ck-with-6-units-of-soil-seized/4388244
+07:10:12    drop [not Erode district] நவம்பர் 28: பெட்ரோல் விலை ரூ.107.77, டீசல் விலை ரூ.99.55- க் | dinakaran.com/news/november-petrol-price-diesel-sales
+07:10:12    drop [not Erode district] உச்சநீதிமன்ற உத்தரவை நீங்களாக மாற்ற முயற்சிக்க வேண்டாம்: அறந | dinakaran.com/news/supremeco..._charity_department_judge_condemnation
+07:10:12    drop [not Erode district] என்னுடைய போன் ஒட்டுக் கேட்கப்படுகிறது: கேரள முதல்வர் வி.டி.ச | dinakaran.com/news/phone_kerala_chiefminister_excitement_accusation
+07:10:12    drop [not Erode district] எல்லா மாநிலங்களிலும் எம்.பி தொகுதிகளின் எண்ணிக்கையை 50% அதிக | dinakaran.com/news/states_co...crease_redelineation_women_reservation
+07:10:12    drop [not Erode district] சுங்கச்சாவடிகளில் நம்பர் பிளேட்டை மறைத்தால் 5 மடங்கு அபராதம் | dinakaran.com/news/toll_booth_number_plate_fine_uniongovernment
+07:10:12    drop [not Erode district] 6வது விக்கெட் ஜோடியால் மீண்டெழுந்தது நியூசிலாந்து: வெலிங்டன் | dinakaran.com/news/wicket_pair_newzealand_wellington_story_repeat
+07:10:13 list: 0 new + 5 earlier news not posted yet
+07:10:13    1. [பொது] நகரைச் சுற்றி 4 கி.மீ. தூரத்துக்குள் இலவச வீட்டுமனைப் பட்டா (தினமணி) (earlier)
+07:10:13    2. [பொது] சில்லி பாயின்ட்… - Dinakaran - Dinakaran (தினகரன்) (earlier)
+07:10:13    3. [பொது] தவெக பெண் எம்.எல்.ஏ மருத்துவமனையில் அனுமதி.. நேரில் சென்று சந்தித்த அம (ஒன்இந்தியா) (earlier)
+07:10:13    4. [பொது] 5 தொகுதிகளில் தேர்தல் நடத்துவதில் சிக்கல் நீடிக்கிறது அம்பை, பெருந்துற (தினகரன்) (earlier)
+07:10:13    5. [பொது] கீழ்பவானி பாசனத்துக்கு தண்ணீா் திறக்க வலியுறுத்தி அமைச்சா்கள் நிகழ்ச்ச (தினமணி) (earlier)
+07:10:13 automatic pick (owner 2 Nov): no e-mail - the top 4 are written at once
+ROUND=2026-11-28_07
